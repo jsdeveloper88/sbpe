@@ -1,0 +1,291 @@
+{
+  "data": {
+    "phrases_arr": [
+      {
+        "name": "Doug",
+        "quote": "Hello, I’m Doug Campbell and this is 6 minute English. Today we’re talking about going on a diet. And I’m here with Jackie Dalton.",
+        "translation": "Привет, я Doug Campbell и это передача «6 minute English». Сегодня мы говорим о переходе на диету. И со мной сегодня здесь Jackie Dalton. "
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "Hi Doug, have you ever gone on a diet to try to lose weight?",
+        "translation": "Привет, Doug, ты когда-нибудь садился на диету чтобы попробовать сбросить вес? "
+      },
+
+      {
+        "name": "Doug",
+        "quote": "No I haven’t Jackie, but I am sure if I did go on a diet, I wouldn’t be successful. It’s very, very difficult! To start the programme I have a question for you though, Jackie, about going on a diet. Well there are lots of different diets – loads of different diets, but I want to talk about one of them – the low-carb diet.",
+        "translation": "Нет, Jackie, но я уверен что если бы я сел на диету я бы не был успешен в этом. Это очень, очень трудно. Чтобы начать программу у меня есть для тебя вопрос, Jackie, о переходе на диету. Есть много разных диет – куча диет, но я хочу поговорить об одной из них – диете с низким содержанием углеводов."
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "Yes, I’ve heard of that.",
+        "translation": "Да, я слышала о ней"
+      },
+
+
+      {
+        "name": "Doug",
+        "quote": [
+          "Okay Jackie, if you were on a low-carb diet, you would eat…",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) less pasta",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) less fish",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) less salad"
+        ],
+        "translation": [
+          "Хорошо, Jackie, если бы ты была на диете с низким содержанием углеводов, ты бы ела …",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) меньше cпагетти",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) меньше рыбы",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) меньше салата"
+        ]
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "Okay, yes, I think I do know this one because low-carb is short for low-carbohydrate which is a food group that releases lots of energy and I know that fish is protein, salad is roughage, which is leafy stuff, and pasta is a carbohydrate so if you are eating low-carb you would cut out or cut down on pasta.",
+        "translation": "Хорошо, я думаю я знаю – в диете с низким содержанием углеводов мало углеводов, которые являются пищевой группой, которая освобождает много энергии, а я знаю, что рыба – это протеин, салат – клетчатка(грубая пища), которая является лиственным плодом, и спагетти – углеводы, так что если бы ты ел еду с низким содержанием углеводов, ты бы вырезал или сократил спагетти. "
+      },
+
+      {
+        "name": "Doug",
+        "quote": "Okay, you are sure about that.",
+        "translation": "Хорошо – я вижу ты уверена насчет этого."
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "I’m sure about that. Today, we’re going to hear from two people who have gone a diet. Were they successful? Did they lose weight?",
+        "translation": "Я уверена в этом. Сегодня мы послушаем людей, которые садились на диету. Добились ли они успеха? Сбросили ли они вес? "
+      },
+
+      {
+        "name": "Man",
+        "quote": "I went on the 28 day detox diet which really helped you lose weight and detox the body at the same time and it really worked. You just ate hardly anything at all.",
+        "translation": "Я садился на 28-дневную восстановительную диету, которая действительно помогла мне сбросить вес и восстановить тело, и она действительно сработала. Ты просто ешь всего по-немногу."
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "Hmm. I don’t think I would like that diet.",
+        "translation": "Не думаю что мне бы понравилась такая диета. "
+      },
+
+      {
+        "name": "Doug",
+        "quote": "Well he said that he did lose weight and also it was a detox diet. That’s when you eat and drink things that…it’s hard to explain…clean you inside. Fresh things. Water can be part of a detox diet",
+        "translation": "Он сказал что сбросил вес и что это была восстановительная диета. Это когда ты ешь и пьешь продукты, которые …трудно объяснить … чистят тебя изнутри. Свежие продукты. Вода может быть частью восстановительной диеты"
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "You won’t gain weight drinking water.",
+        "translation": "Ты не прибавишь веса, потребляя воду. "
+      },
+
+      {
+        "name": "Doug",
+        "quote": "Gain weight – that’s the opposite of lose weight. And with that detox diet, he did lose weight.",
+        "translation": "Прибавка в весе – это противоположность сбрасыванию веса. И с этой восстановительной диетой он сбросил вес. "
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "And if you eat less you certainly will lose weight. He said that he ate hardly anything at all!",
+        "translation": "И если ты ешь меньше, ты определенно сбросишь в весе. Он сказал что ел всего по-немногу. "
+      },
+
+      {
+        "name": "Doug",
+        "quote": "I don’t like the sound of that diet!",
+        "translation": "Мне не нравится как звучит эта диета. "
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "When you go on a diet you need to be strong. You mustn’t say, “Oh I’ll start my diet…tomorrow!” Yes, you need a lot of will-power.",
+        "translation": "Когда ты садишься на диету тебе нужно быть сильным. Ты не должен говорить: «Сяду на диету завтра!» Тебе понадобится много силы воли. "
+      },
+
+      {
+        "name": "Doug",
+        "quote": "Right, you can eat some things but maybe not the things you like. There is no such thing as a chocolate cake diet for instance …unfortunately! You’re listening to BBC Learning English.com.",
+        "translation": "Правильно – ты ешь продукты, но возможно не те, которые ты любишь. Нет такого понятия как диета с шоколадным тором к примеру… к сожалению! Вы слушаете BBC Learning English.com. "
+      },
+
+      {
+        "name": "Doug",
+        "quote": "  Here’s another diet. Listen to this woman. Was her diet successful? Did it work?",
+        "translation": "Есть еще одна диета. Давай послушаем  женщину. Была ли ее диета успешной? Сработала ли она? "
+      },
+
+      {
+        "name": "Woman",
+        "quote": "When I was in my twenties I went on a diet where you were only allowed to drink liquids and it worked. It worked for a week. I lost 6 pounds and then over the weekend I just ate normally again. And by Monday morning I put all the weight back on again and so it was completely pointless.",
+        "translation": "Когда мне было двадцать, я садилась на диету, где тебе можно пить только жидкость, и она сработала. Она сработала только на неделю. Я сбросила 6 фунтов и через неделю опять начала есть нормально. И к утру понедельника я опять набрала в весе – так что это было полностью бессмысленно. "
+      },
+
+      {
+        "name": "Doug",
+        "quote": "Oh dear, that diet didn’t work.",
+        "translation": "О, Боже, эта диета не сработала. "
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "Yes, she said it was a waste of time. It was completely pointless.",
+        "translation": "Да – она сказала что эта диета было потерей времени. Она полностью была бессмысленной. "
+      },
+
+      {
+        "name": "Doug",
+        "quote": "Well it worked….for a week! But that’s the problem with diets. You lose weight but then you often put the weight back on.",
+        "translation": "Да – она сработала только на неделю! В этом и заключается проблема с диетами. Ты сбрасываешь вес и затем снова его набираешь. "
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "And again, that diet sounded awful, if not unhealthy. She could only drink liquids.",
+        "translation": "И опять эта диета звучит ужасно, если не вредно для здоровья. Она могла потреблять только жидкость. "
+      },
+
+      {
+        "name": "Doug",
+        "quote": "According to experts you can’t just go on a diet for a couple of weeks and expect to keep that weight off. You need to change what you eat permanently. You have to change your lifestyle.",
+        "translation": "Согласно экспертам, вы не можете просто сесть на диету на пару недель и ждать пока сбросится вес. Вам надо постоянно менять что вы едите. Вы должны изменить образ жизни. "
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "And of course you should always get the advice of your doctor before you do this kind of thing. And they might suggest you eat different foods. Stay away from fattening foods like cakes and chips.",
+        "translation": "И конечно вам лучше всегда брать совет у вашего доктора до того как вы делаете подобного рода вещи. И они возможно предложат вам есть разную еду. Держитесь подальше от ведущей к ожирению еды – такой как торты и чипсы. "
+      },
+
+      {
+        "name": "Doug",
+        "quote": "All the foods we like.",
+        "translation": "От всей еды которую мы любим. "
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "All the foods we like!",
+        "translation": "От всей еды которую мы любим! "
+      },
+
+      {
+        "name": "Doug",
+        "quote": "You can get more advice on this from the BBC Website in an article called “How to Lose Weight”.",
+        "translation": "Вы можете получить советы на эту тему с сайта BBC в статье «Как сбросить вес» "
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "Let’s look again at some of the language about diets. You can gain weight or….",
+        "translation": "Давайте снова посмотрим на слова и выражения , относящиеся к диетам. Вы можете набрать вес или …"
+      },
+
+      {
+        "name": "Doug",
+        "quote": "You can lose weight. Many people go on a diet to try to lose weight. They go on a diet to try to lose weight, but it doesn’t always work. Вы можете сбросить вес.",
+        "translation": "Многие люди садятся на диету чтобы попробовать сбросить вес. Они садятся на диету чтобы попробовать сбросить вес, но она не всегда срабатывает. "
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "No the diet doesn’t work – they don’t lose any weight. Or they lose the weight and then they put it back on again.",
+        "translation": "Нет, диета не работает – они не сбрасывают никакого веса. Или они сбрасывают вес и затем снова набирают его обратно. "
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "Listen again to those two people talking about their diets.",
+        "translation": "Давай снова послушаем тех людей, рассказывающих о своих диетах. "
+      },
+
+      {
+        "name": "Diets",
+        "quote": "I went on the 28 day detox diet which really helped you lose weight and detox the body at the same time and it really worked. You just ate hardly anything at all.When I was in my twenties I went on a diet where you were only allowed to drink liquids and it worked. It worked for a week. I lost 6 pounds and then over the weekend I just ate normally again. And by Monday morning I put all the weight back on again and so it was completely pointless.",
+        "translation": "Я садился на 28-дневную восстановительную диету, которая действительно помогла мне сбросить вес и восстановить тело, и она действительно сработала. Ты просто ешь всего понемногу.Когда мне было двадцать, я садилась на диету, где тебе можно пить только жидкость, и она сработала. Она сработала только на неделю. Я сбросила 6 фунтов и через неделю опять начала есть нормально. И к утру понедельника я опять набрала в весе – так что это было полностью бессмысленно. "
+      },
+
+      {
+        "name": "Doug",
+        "quote": "Finally, my question Jackie.",
+        "translation": "Под конец, мой вопрос, Jackie. "
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "Yes, the one I was so sure I had the correct answer to.",
+        "translation": "Да, тот, на который я была уверена, что ответила правильно. "
+      },
+
+      {
+        "name": "Doug",
+        "quote": [
+          "If you were on a low-carb diet you would eat?",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) less pasta",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) less fish",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) less salad"
+        ],
+        "translation": [
+          "Если бы ты была на диете с низким содержанием углеводов, ты бы ела …",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) меньше cпагетти",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) меньше рыбы",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) меньше салата"
+        ]
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "And I said less pasta. Was I right?",
+        "translation": "И я ответила меньше спагетти. Я была права? "
+      },
+
+      {
+        "name": "Doug",
+        "quote": "You were absolutely correct. I love pasta though.",
+        "translation": "Ты была полностью права – хотя я люблю спагетти. "
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "No, I don’t think I could ever do a low-carb diet. It would never work.",
+        "translation": "Я не думаю что могла бы когда-нибудь сесть на диету с низким содержанием углеводов. Она бы не сработала. "
+      },
+
+      {
+        "name": "Doug",
+        "quote": "Well, it certainly wouldn’t for me. Okay the answer was a) less pasta. If you were on a low-carb diet you would eat less pasta. That’s all for now. Goodbye.",
+        "translation": "Она бы определенно не сработала на мне. Хорошо – ответ был – меньше пасты. Если бы ты была на диете с низким содержанием углеводов, ты бы ела меньше спагетти. Это все на сегодня – пока. "
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "Goodbye.",
+        "translation": "Пока."
+      }
+    ],
+
+    "title": "BBC 6 Minute English podcast - Dieting [На диете], 2008-06-11",
+    "img_addr": "6me/2008/2008-06/dieting.jpg",
+    "audio_src": "6me/2008/2008-06/2008-06-11 - 6 Minute English - Dieting.mp3",
+
+    "words_arr": [
+      {"en_word": "leafy", "ru_word": "лиственный"},
+      {"en_word": "to cut out", "ru_word": "вырезать"},
+      {"en_word": "to cut down", "ru_word": "сокращать, урезать"},
+      {"en_word": "to detox", "ru_word": "восстанавливать"},
+      {"en_word": "to gain", "ru_word": "получать"},
+      {"en_word": "the liquid", "ru_word": "жидкость"},
+      {"en_word": "pointless", "ru_word": "бессмысленный"},
+      {"en_word": "permanently", "ru_word": "на постоянной основе"},
+      {"en_word": "fattening", "ru_word": "ожиряющий"},
+      {"en_word": "low-carb", "ru_word": "с низким содержанием углеводов"},
+      {"en_word": "the carbohydrate", "ru_word": "углевод"},
+      {"en_word": "the roughage", "ru_word": "грубая пища"}
+    ]
+  }
+}

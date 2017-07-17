@@ -1,0 +1,311 @@
+{
+	"data": {
+    "title": "BBC 6 Minute English podcast - Mobile phones [Мобильные телефоны], 2008-06-04",
+    "img_addr": "6me/2008/2008-06/mobile-phones.jpg",
+    "audio_src": "6me/2008/2008-06/2008-06-04-6-Minute-English-Mobile-phones.mp3",
+
+    "words_arr": [
+      {"en_word": "the cellular phone", "ru_word": "сотовый телефон"},
+      {"en_word": "odd", "ru_word": "странный"},
+      {"en_word": "to encourage", "ru_word": "подстрекать"},
+      {"en_word": "to notice", "ru_word": "замечать"},
+      {"en_word": "the noun ", "ru_word": "существительное"},
+      {"en_word": "actually", "ru_word": "на самом деле"},
+      {"en_word": "the cell phone ", "ru_word": "мобильный телефон"},
+      {"en_word": "unnecessary", "ru_word": "ненужный, лишний"},
+      {"en_word": "accidentally", "ru_word": "случайно"}
+    ],
+
+    "phrases_arr": [
+      {
+        "name": "Doug",
+        "quote": [
+          "Hello, I’m Doug Campbell and this is 6 Minute English.",
+          "Today we’re talking about mobile phones.",
+          "And I’m here with Jackie Dalton – have you got your mobile Jackie?"
+        ],
+        "translation": [
+          "Привет, я Doug Campbell и это программа «6 Minute English».",
+          "И сегодня мы говорим о мобильных телефонах.",
+          "И здесь со мной Jackie Dalton – Jackie, у тебя с собой твой мобильный телефон?"
+        ]
+      },
+      {
+        "name": "Jackie",
+        "quote": "Yes, I have Doug – but I’ve turned it off… for six minutes.",
+        "translation": "Да – но я его выключила на ближайшие 6 минут."
+      },
+      {
+        "name": "Doug",
+        "quote": [
+          "Okay. Well we don’t want your phone ringing during the programme.",
+          "Mobile phones are so popular nowadays. And I have a question for you before we start…okay?"
+        ],
+        "translation": [
+          "Хорошо – потому что мы не хотим, чтобы твой телефон звонил во время программы.",
+          "В наше время мобильные телефоны так популярны. У меня есть вопрос для тебя до того, как мы начнем – хорошо?"
+        ]
+      },
+      {
+        "name": "Jackie",
+        "quote": "Okay.",
+        "translation": ""
+      },
+      {
+        "name": "Jackie",
+        "quote": [
+          "That’s quite tricky. I thought it was going be easier than that!",
+          "Definitely a cell phone is a name. Cellular phone sounds a bit odd, but I think you could say it.",
+          "C phone I’ve never heard before so I’ll go with c phone."
+        ],
+        "translation": [
+          "Вполне хитрый вопрос. Я думала будет намного легче чем этот.",
+          "Определенно  a cell phone является названиеи. Cellular phone звучит немного странно, но я думаю, что ты мог бы сказать и так.",
+          "И C phone – никогда не слышала раньше – так что я выберу c phone."
+        ]
+      },
+      {
+        "name": "Doug",
+        "quote": "Okay, well we will check your answer later in the programme. Now here’s another question - I asked people in the office about mobile phones and I asked: Could you live without your mobile phone?",
+        "translation": "Хорошо – мы проверим твой ответ позже в программе. А сейчас другой вопрос – я поспрашивал людей в офисе: «Смогли бы вы жить без своего мобильного телефона?»"
+      },
+      {
+        "name": "Staff",
+        "quote": [
+          "Nooooo! I couldn’t live without my mobile phone. It organises everything I do in work and in my private life.",
+          "I could live without my mobile phone because I think it encourages me to make unnecessary phone calls."
+        ],
+        "translation": [
+          "Неееет! Я бы не смогла жить без моего мобильника. Он организует все, что я делаю на работе и в моей личной жизни.",
+          "Я  бы смог жить без моего мобильника, потому что я думаю, что он подстрекает меня совершать лишние звонки."
+        ]
+      },
+      {
+        "name": "Doug",
+        "quote": "For some people a mobile phone is very important.",
+        "translation": "Для некоторых людей мобильник очень важен."
+      },
+      {
+        "name": "Jackie",
+        "quote": "Yes, that woman said, “I couldn’t live without my mobile phone.”",
+        "translation": "Да, та женщина сказала: «Я бы не смог жить без моего мобильного.»"
+      },
+      {
+        "name": "Doug",
+        "quote": "Yes, for her it’s not just a phone. It organises everything she does in work and in her private life.",
+        "translation": "Да, для нее это не просто телефон. Он организует все, что она делает на работе и в личной жизни."
+      },
+      {
+        "name": "Jackie",
+        "quote": "Her private life and that’s everything that she does outside of work. Her home life.",
+        "translation": "Ее личная жизнь и является всем тем, что она делает вне работы - ее жизнь в пределах дома."
+      },
+      {
+        "name": "Doug",
+        "quote": "Right, so she can’t live without her mobile but the man - he didn’t think it was important.",
+        "translation": "Правильно, она не может жить без своего мобильного, но мужчина – он не думает, что для него это важно."
+      },
+      {
+        "name": "Jackie",
+        "quote": "Yes, he thought that he would make more phone calls…because he was carrying a mobile. But maybe he didn’t really need to make a phone call.",
+        "translation": "Он думает, что делал намного больше звонков, нося свой мобильник везде с собой, на самом деле не нуждаясь в этом."
+      },
+      {
+        "name": "Doug",
+        "quote": "By the way you’ll notice that we say to make a phone call. Why do we say that? Why do we make a phone call? I don’t know – do you Jackie?",
+        "translation": "Кстати ты заметь мы говорим to make a phone call(сделать телефонный звонок). Почему мы говорим так? Почему мы делаем звонок? Я не знаю – а ты, Jackie?"
+      },
+      {
+        "name": "Jackie",
+        "quote": "No, I don’t know. It’s strange, isn’t it?",
+        "translation": "Нет, я не знаю. Это странно, не так ли?"
+      },
+      {
+        "name": "Doug",
+        "quote": "Yes, it’s weird.",
+        "translation": "Да, странно."
+      },
+      {
+        "name": "Jackie",
+        "quote": "Because to make is usually to do with to create or something like that, but we just say to make a phone call.",
+        "translation": "Потому что to make – это обычно сделать в смысле создать или что-то типа того, но мы просто говорим сделать звонок."
+      },
+      {
+        "name": "Doug",
+        "quote": "There’s something else about mobile phones. I’m thinking about text messages.",
+        "translation": "Есть кое-что еще о мобильниках. И сейчас я думаю о текстовых сообщениях. "
+      },
+      {
+        "name": "Jackie",
+        "quote": "Yeah and I actually use text messages much more than phoning people.",
+        "translation": "Да - я на самом деле использую текстовые сообщения намного больше, чем звоню."
+      },
+      {
+        "name": "Doug",
+        "quote": [
+          "But this word text – t.e.x.t. - a noun. I will send you a text. But nowadays, it’s a verb. I will text you. Text me.",
+          "Okay, let’s hear some answers to that question – Could you live without your mobile phone?"
+        ],
+        "translation": [
+          "Но слово «текст» является существительным - Я вышлю тебе текст. Но сегодня оно также является и глаголом - Я текстну тебе. Текстни мне.",
+          "Хорошо, давай выслушаем несколько ответов на вопрос: 'Смогли бы вы жить без своего мобильного'"
+        ]
+      },
+      {
+        "name": "Staff",
+        "quote": [
+          "Yes, yes, I could easily live without my mobile phone. Useful to have around- I don’t miss it when it’s turned off.",
+          "I couldn’t live without my mobile phone and in fact if I accidentally leave it at home I feel really lost without it and I would go back and get it."
+        ],
+        "translation": [
+          "Да, да, я мог быть жить без моего мобильника. Полезен чтобы таскать его с собой – но я не скучаю по нему, когда он выключен.",
+          "Я бы не смогла жить без моего мобильника и факт в том, что если я случайно оставляю его дома, я чувствую себя реально потерянной и могу вернуться обратно за ним."
+        ]
+      },
+      {
+        "name": "Doug",
+        "quote": "Okay Jackie, first that man - he doesn’t care about his mobile.",
+        "translation": "Хорошо, вначале тот мужчина – он не беспокоится о своем мобильном."
+      },
+      {
+        "name": "Jackie",
+        "quote": "Yes, it’s useful he says but he doesn’t think about it when it’s turned off – he doesn’t miss it.",
+        "translation": "Да, полезен, как говорит он, но он не думает о нем, когда он выключен – не скучает."
+      },
+      {
+        "name": "Doug",
+        "quote": "But when you leave it at home – that’s different. The woman said that she would go back if she left hers behind. And I have to say, I probably would as well. What about you Jackie?",
+        "translation": "Но когда ты оставляешь его дома – это другое. Женщина сказала, что она бы вернулась обратно, если бы оставила его дома. И я должен сказать, что сделал бы то же самое. Как насчет тебя, Jackie?"
+      },
+      {
+        "name": "Jackie",
+        "quote": "I think if I was leaving home to go to work, I would. But if I was going for a walk or something, I absolutely love leaving it behind because it means I won’t be bothered at all.",
+        "translation": "Я думаю, что если бы я уходили из дома на работу, то сделала бы также. Но если бы я уходила на прогулку, я бы с полной радостью оставила его дома, потому что бы это значило, что меня никто не побеспокоит."
+      },
+      {
+        "name": "Doug",
+        "quote": "Actually, I’ve left mine at home today and I don’t like that one bit",
+        "translation": "На самом деле, я оставил свой сегодня дома и мне это немного не нравится."
+      },
+      {
+        "name": "Doug",
+        "quote": "And that woman said she would feel lost without her mobile phone.<br>Most people like to be contactable – they want to know that people can phone them. And when I go out I like to say, “I’m ON my mobile. I’m on my mobile.”",
+        "translation": "И та женщина сказала, что она бы чувствовала себя потерянной без своего мобильника.<br>Большинство людей любят быть в контакте – они хотят осознавать, что люди могут им позвонить. И когда я ухожу, я люблю говорить: «Я на телефоне. Я на своем телефоне.»"
+      },
+      {
+        "name": "Jackie",
+        "quote": "Now we’ve been talking about texting with your mobile and there’s a whole new language with texting of course.",
+        "translation": "Сейчас мы говорили о текстинге(написании и отправке текстов) через мобильник и конечно здесь есть целый новый язык."
+      },
+      {
+        "name": "Doug",
+        "quote": "Yes, you want to write quickly and so you make shorter words.<br>For example, a text message that has the letter u in it. What does that mean, Jackie?",
+        "translation": "Да, вы хотите писать быстро, и поэтому вы пишите короткие слова.<br>К примеру, текстовое сообщение, которое содержит буквуо «u». Что оно значит, Jackie?"
+      },
+      {
+        "name": "Jackie",
+        "quote": "Well, the letter u means you as in y.o.u. – me and you.",
+        "translation": "Буква «u» означает «you»(ты) – как я и ты."
+      },
+      {
+        "name": "Doug",
+        "quote": "Okay, and if I write pls…pls… What does that mean?",
+        "translation": "Хорошо, а если я пишу «pls». Что это значит?"
+      },
+      {
+        "name": "Jackie",
+        "quote": "Well that means please – pls – please.",
+        "translation": "Это означает «please»(пожалуйста)."
+      },
+      {
+        "name": "Doug",
+        "quote": "Okay and the number 2 - that’s easy – it means to – t.o. or too – t.o.o. Me too.The letter r – what does that mean Jackie?",
+        "translation": "Хорошо, а число 2 – это легко – оно означает «to»(to do smth.) или «too»(тоже, слишком). Буква «r» - что она значит, Jackie?"
+      },
+      {
+        "name": "Jackie",
+        "quote": "That means are are - a.r.e. And so the message – Where are you? – becomes – where – then the letter r – then the letter u. Where r u?",
+        "translation": "Она означает «are»(you are ..). И сообщение «Where are you?»(где ты?) становится «Where r u?»"
+      },
+      {
+        "name": "Doug",
+        "quote": "Where r u? Text messages – that’s one use for a mobile phone. Let’s listen again to people talking about their mobiles.",
+        "translation": "Где ты? Текстовые сообщения – это одна из польз мобильного телефона. Давай опять послушаем людей, говорящих о своих мобильниках."
+      },
+      {
+        "name": "Jackie",
+        "quote": "They are answering the question – Could you live without your mobile?",
+        "translation": "Они отвечают на вопрос: «Могли бы вы жить без своего мобильника?»"
+      },
+      {
+        "name": "Staff",
+        "quote": [
+          "Nooooo! I couldn’t live without my mobile phone. It organises everything I do in work and in my private life.",
+          "I could live without my mobile phone because I think it encourages me to make unnecessary phone calls.",
+          "Yes, yes, I could easily live without my mobile phone. Useful to have around- I don’t miss it when it’s turned off.",
+          "I couldn’t live without my mobile phone and in fact if I accidentally leave it at home I feel really lost without it and I would go back and get it."
+        ],
+        "translation": [
+          "Неееет! Я бы не смогла жить без моего мобильника. Он организует все, что я делаю на работе и в моей личной жизни.",
+          "Я  бы смог жить без моего мобильника, потому что я думаю, что он подстрекает меня совершать лишние звонки.",
+          "Да, да, я мог бы жить без моего мобильника. Полезен чтобы таскать его с собой – но я не скучаю по нему, когда он выключен.",
+          "Я бы не смогла жить без моего мобильника и факт в том, что если я случайно оставляю его дома, я чувствую себя реально потерянной и могу вернуться обратно за ним."
+        ]
+      },
+      {
+        "name": "Doug",
+        "quote": [
+          "Before we go, do you have the answer to that question Jackie?",
+          "In Canada we have mobile phones and it’s the same name in the United States.Which of these names is not the name for a mobile phone?",
+          "Is it…",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) a cell phone",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) a cellular phone",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) a c phone"
+        ],
+        "translation": [
+          "До того как мы закончим, знаешь ли ты ответ на сегодняшний вопрос, Jackie?",
+          "В Канаде и Штатах он называется другим названием. Какое из этих названий не является названием для мобильного телефона в Канаде?",
+          "Это...",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) a cell phone(мобильный телефон)",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) a cellular phone(сотовый телефон)",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) a с phone"
+        ]
+      },
+      {
+        "name": "Jackie",
+        "quote": "And I said a c phone.",
+        "translation": "И я сказал – a с phone."
+      },
+      {
+        "name": "Doug",
+        "quote": "And you’re right.",
+        "translation": "И ты права."
+      },
+      {
+        "name": "Jackie",
+        "quote": "Am I?",
+        "translation": ""
+      },
+      {
+        "name": "Doug",
+        "quote": "But it’s a good name actually.",
+        "translation": "Но на самом деле это хорошее название."
+      },
+      {
+        "name": "Jackie",
+        "quote": "It’s nice and quick, isn’t it?",
+        "translation": "Хорошее и быстрое, не так ли?"
+      },
+      {
+        "name": "Doug",
+        "quote": "Thanks Jackie. That’s all for now – goodbye.",
+        "translation": "Спасибо, Jackie. На сегодня все – пока."
+      },
+      {
+        "name": "Jackie",
+        "quote": "Goodbye.",
+        "translation": ""
+      }
+    ]
+  }
+}
