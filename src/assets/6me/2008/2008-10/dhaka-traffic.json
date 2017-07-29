@@ -1,0 +1,16 @@
+{
+  "data": {
+    "phrases_arr": [],
+
+    "img_addr": "6me/2008/2008-10/Dhaka-traffic.jpg",
+    "audio_src": "6me/2008/2008-10/2008-10-01 - 6 Minute English - Dhaka traffic.mp3",
+    "title": "BBC 6 Minute English podcast - Dhaka traffic [Движение на дорогах в Дхаке], 2008-10-01",
+
+    "words_arr": [
+      {"en_word": "the clue", "ru_word": "подсказка"},
+      {"en_word": "the congestion charge", "ru_word": "платный въезд"},
+      {"en_word": "tedious", "ru_word": "нудный"},
+      {"en_word": "to get cross with", "ru_word": "браниться с"}
+    ]
+  }
+}
