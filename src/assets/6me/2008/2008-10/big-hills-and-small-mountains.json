@@ -1,0 +1,227 @@
+{
+  "data": {
+    "phrases_arr": [
+      {
+        "name": "Yvonne",
+        "quote": "Hello, I’m Yvonne Archer - this is '6 minute English' - and today, Callum's with me. Hi Callum…",
+        "translation": "Привет, я Yvonne Archer - это '6 minute English' - и сегодня Callum со мной. Привет, Callum …"
+      },
+
+      {
+        "name": "Callum",
+        "quote": "Hi Yvonne",
+        "translation": "Привет, Yvonne"
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "Now this week, we ask: is there any difference between a really big hill and a small mountain? Dictionaries basically say that a hill is not as high as a mountain - and a mountain is higher than a hill! Anything to add, Callum?",
+        "translation": "На этой неделе  мы задаемся вопросом: «Если ли различие между действительно большой горой и маленьким холмом?» Словари в основном говорят, что холм не так высок как гора – и гора выше холма! У тебя есть что добавить, Callum? "
+      },
+
+      {
+        "name": "Callum",
+        "quote": "Well, if big hills and small mountains were the same, we probably wouldn't need separate nouns for them in English for them, would we?",
+        "translation": "Если бы большие холмы и маленькие горы были бы одним и тем же, нам бы не понадобилось разделять существительные для них в английском, ведь так? "
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": [
+          "Good point. But before we find out more, here's a question for you: Which of these three places is proud to have the world's highest hill? Is it:",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) Beverley Hills",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) Dar Es Salaam or",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) Oklahoma"
+        ],
+        "translation": [
+          "Хорошее предположение. Но до того как мы выясним больше – вопрос для тебя: «Какое из этих трех мест гордится тем, что имеет самый высокий холм?»",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) Беверли Хилз",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) Дар Эс Салам или",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) Оклахома"
+        ]
+      },
+
+      {
+        "name": "Callum",
+        "quote": "Ummm - this is just going to be a guess because I really have no idea. I'm going to guess at Oklahoma.",
+        "translation": "Хм – это будет предположение, потому что я понятия не имею. Я предположу в Оклахоме. "
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "Okay, we'll find out the answer at the end of the programme! Recently, a report from the BBC's David Bamford had some people thinking that in Snowdonia, North Wales, people were making a mountain out of a molehill! But before we hear about that story, here's a look at some of the language we'll come across. Callum, what can you tell us about 'Ordnance Survey maps'?",
+        "translation": "Хорошо, мы выясним ответ в конце программы! Недавно репортаж от David Bamford затронул нескольких людей, думающих что в Snowdonia, North Wales, несколько людей делали гору из кротовой норы. Но до того как мы услышим рассказ об этом – здесь несколько слов, с которыми мы столкнемся. Callum, что ты можешь сказать нам о 'Ordnance Survey maps'? "
+      },
+
+      {
+        "name": "Callum",
+        "quote": "Well, 'Ordnance Survey' is the 'name' for Great Britain's official mapping agency. So their maps are known as the most accurate, the most up-to-date and most reliable maps available –even the government relies on them. And even – and I do too. When I go walking, I always take an Ordance Survey map with me and my compass.",
+        "translation": "Ну, 'Ordnance Survey' – название официального картографического агентства в Великобритании. Их карты известны как самые точные, самые современные и самые надежные и доступные – даже правительство полагается на них. И даже я тоже. Когда я отправляюсь далеко в прогулку, я всегда беру их карту и компас с собой."
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "Excellent! So we'll hear 'Ordnance Survey maps' in today's report - but listen out for the answer to this question as well: How high is a mountain?<br>For many years now, Wales has been very popular with both tourists and mountaineers – people who enjoy climbing mountains. So, how would you feel if what you proudly think of as your local mountain is officially classified as - a mere hill?",
+        "translation": "Отлично! Давай послушаем об этих картах в сегодняшнем репортаже, но также услышим ответ на вопрос: «Насколько высока гора?»<br>Сейчас на протяжении многих лет Wales был популярен и туристами, и альпинистами – людьми, которые наслаждаются восхождением на горы. Так что как бы вы себя чувствовали, если бы то, о чем вы так  гордо думаете как о местной горе, официально признали как просто холм."
+      },
+
+      {
+        "name": "DAVID BAMFORD",
+        "quote": "That's been the case 'til now for Mynydd Graig Goch, in North Wales. The locals KNEW it was a mountain - that's why they called it Mynydd - the Welsh word for 'mountain'. But British Ordnance Survey maps classified it as a hill because it was assumed to be under two thousand feet high - that's six hundred and nine metres - the recognized minimum height for a mountain.",
+        "translation": "До этого был случай в Mynydd Graig Goch, in North Wales. Местные жители знали что это была гора – вот почему она назвали ее Mynydd – уэльское слово для «гора». Но карты Британского Картографического Агентства классифицировали ее как холм, потому что предполагалось что ее высота меньше 2000 футов – что есть 609 метров – что есть признанный минимум высоты для горы."
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "So how high is a mountain? Callum?",
+        "translation": "Так насколько же высока гора? Callum?"
+      },
+
+      {
+        "name": "Callum",
+        "quote": "Well anything over two thousand feet high – now that's six hundred and nine metres high – that's a mountain.",
+        "translation": "Все что выше 2000 футов – 609 метров – гора."
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "And anything under - or less than - two thousand feet high is officially - a hill. So what happened - with our mountain in Wales – what happened there?",
+        "translation": "И все что меньше 2000 футов – 609 метров – официально холм. Так что произошло с нашей горой в Уэльсе – что там произошло? "
+      },
+
+
+      {
+        "name": "Callum",
+        "quote": "The report said that Ordnance Survey assumed it was less than two thousand feet high - but they didn't actually know for sure that that was true.",
+        "translation": "В репортаже говорится что Ordnance Survey допустил что она меньше 2000 футов в высоту – но они на самом деле точно не знали правда ли это. "
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "Ooh - a big mistake, eh?! But luckily, a group of mountaineers who live in the area used very reliable equipment to measure their mountain and they proved that it's definitely not a hill. It's six inches high – or fifteen point two centimetres higher than the minimum - so Ordnance Survey will change their map.",
+        "translation": "О – большая ошибка?! Но к счастью, группа альпинистов, которая живет неподалеку, использовала надежное оборудование чтобы измерить свою гору, и они доказали, что это определенно не холм. Она на 6 дюймов – или 15 сантиметров – выше чем минимум – так что Ordnance Survey изменят свою карту. "
+      },
+
+      {
+        "name": "Callum",
+        "quote": "Hurray for Wales, they've finally got their extra mountain!",
+        "translation": "Hurray for Wales, в итоге они получили еще одну дополнительную гору. "
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "Yeah… Callum – you're a film buff… do you know anything about a film with a similar story?",
+        "translation": "Да… Callum - ты любитель фильмов… знаешь ли ты что-нибудь о фильме со схожей историей?"
+      },
+
+      {
+        "name": "Callum",
+        "quote": "Well yes, there was a romantic comedy with the actor Hugh Grant in 1995. And that was called 'The Englishman Who Went Up a Hill, But Came Down a Mountain.'",
+        "translation": "Да, была романтическая комедия с актером Hugh Grant в 1995. И она называется 'Англичанин, поднявшийся на гору, но спустившийся с холма'"
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "I love that title! Now as we hear what the film is about, try to guess what 'a cartographer' is – what's 'a cartographer'?",
+        "translation": "Мне нравиться это название! Сейчас как только мы послушаем о чем фильм, попробуй угадать что такое картограф?"
+      },
+
+
+      {
+        "name": "DAVID BAMFORD",
+        "quote": "In the film, a Welsh community fought the attempts of two English cartographers to downgrade their local mountain to a hill. And they did so by carrying mounds of earth up to the summit when the cartographers weren't looking.",
+        "translation": "В этом фильме Уэльское сообщество боролось против попыток 2 английских картографов классифицировать  их местную гору как холм."
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "Oooh - that was very naughty! Callum, what did the community do to make sure that their mountain wouldn't become a hill – making it less important?",
+        "translation": "Ооо – это было очень гадко! Callum, что сообщество сделало чтобы убедиться что их гора не станет холмом  - делая ее менее значительной? "
+      },
+
+      {
+        "name": "Callum",
+        "quote": "Well, what they did was they took 'mounds of earth' – which is piles of soil - up to the summit – and that's the highest point on a mountain or hill, that's the summit. And so they did that to make sure that it was high enough to be a mountain when the officials measured it.",
+        "translation": "То что они сделали было то что они собрали «все холмы Земли» - которые являются буграми почвы – до вершины – которая является самой высшей точкой горы или холма. И они сделали это чтобы удостовериться что она достаточна высока чтобы быть горой когда официальные представители измеряли ее."
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "Crafty - and what's 'a cartographer', Callum?",
+        "translation": "Хитро – и что такое картограф, Callum? "
+      },
+
+      {
+        "name": "Callum",
+        "quote": "Well, a cartographer is an official whose job it is to draw maps.",
+        "translation": "Ну, картограф – это представитель чьей работой является чертить карты. "
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": [
+          "Great. Now onto today's big question: Which of these three places is proud to have the world's highest hill? Is it:",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) Beverley Hills",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) Dar Es Salaam or",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) Oklahoma",
+          "Callum, what was your answer?"
+        ],
+        "translation": [
+          "Замечательно. И сейчас о сегодняшнем большом вопросе. Какое из этих 3 мест гордиться тем что имеет  самую высокую гору? Это…",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) Беверли Хилз",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) Дар Эс Салам или",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) Оклахома",
+          "Callum, каким был твой ответ?"
+        ]
+      },
+
+      {
+        "name": "Callum",
+        "quote": "Well, my answer was just – purely just a guess. I guessed at Oklahoma because Beverley Hills, well that's a very rich suburb of Los Angeles and I don't think there are any really big hills there. Dar Es Salaam – I don't know anything about Dar Es Salaam – I've never been there. But I've never been to Oklahoma but I can remember from movies and so on, that it's – quite a few mountains and hills there. So it's purely a guess but I'm going to go for Oklahoma.",
+        "translation": "Хорошо, мой ответ был просто – чисто предположением. Я предположил в Оклахоме потому что Беверли Хилз – это очень богатый пригород Лосс-Анджелесса и я не думаю что там есть действительно большие оры. Dar Es Salaam –я ничего не знаю о нем – я никогда не был там. Но я никогда не был и в Оклахоме но я могу вспомнить из фильмов и так далее, что там вполне есть несколько гор и холмов. Так что это чистое предположение – так что я отвечу, что Оклахома. "
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "Excellent guess and well worked out actually, because you're absolutely right!",
+        "translation": "Отличное предположение и хорошо сработано на самом деле, потому что ты абсолютно прав! "
+      },
+
+      {
+        "name": "Callum",
+        "quote": "Whoo! Excellent – oh yes!",
+        "translation": "Ууу! Отлично – о, да! "
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "So well done to you Callum. And that's all for today's '6 minute English'.",
+        "translation": "Хорошо сработано тобой, Callum. И это все для '6 minute English' на сегодня. "
+      },
+
+      {
+        "name": "Yvonne + Callum",
+        "quote": "Goodbye!",
+        "translation": "Пока!"
+      }
+    ],
+
+    "img_addr": "6me/2008/2008-10/Big-hills-and-small-mountains.jpg",
+    "audio_src": "6me/2008/2008-10/2008-10-08 - 6 Minute English - Big hills and small mountains.mp3",
+    "title": "BBC 6 Minute English podcast - Big hills and small mountains [Большие холмы и маленькие горы], 2008-10-08",
+
+    "words_arr": [
+      {"en_word": "the mountain", "ru_word": "гора"},
+      {"en_word": "the hill", "ru_word": "горка, холмик"},
+      {"en_word": "reliable", "ru_word": "надежный"},
+      {"en_word": "up-to-date", "ru_word": "современный"},
+      {"en_word": "the feet", "ru_word": "фут"},
+      {"en_word": "the inche", "ru_word": "диюйм"},
+      {"en_word": "to downgrade", "ru_word": "занижать"},
+      {"en_word": "naughty", "ru_word": "озорной"},
+      {"en_word": "the mound", "ru_word": "насыпь"},
+      {"en_word": "crafty", "ru_word": "хитрый, ловкий"},
+      {"en_word": "to make out of smth.", "ru_word": "делать из чего-то"}
+    ]
+  }
+}
