@@ -6,7 +6,7 @@ import { HttpService } from './http.service';
   selector: 'left-menu',
   template: `
     <div class="left-menu">
-      <a routerLink="/about" class="year-6me"> О нас </a>
+      <a routerLink="/about" class="year-6me"> О сайте </a>
     </div>
     <div class="left-menu" *ngFor="let year of menu_6me">
       <a class="year-6me" (click)="toggle_year(year)"> {{year.year}} </a>
