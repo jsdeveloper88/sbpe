@@ -1,6 +1,177 @@
 {
   "data": {
-    "phrases_arr": [],
+    "phrases_arr": [
+      {
+        "name": "Jackie",
+        "quote": "Hello, this is 6 minute English with bbclearningenglish.com. I'm Jackie Dalton, speaking to you from the streets of Dhaka, the Bangladeshi capital. With me today is our producer in Bangladesh, Senjuti Masud. Hello Senjuti!",
+        "translation": "Привет, это программа 6 minute English с bbclearningenglish.com. Я Jackie Dalton и говорю с вами с улиц Дхакки, столице Бангладеша. Со мной сегодня наш продюсер в Бангладеше Senjuti Masud. Привет, Senjuti!"
+      },
+
+      {
+        "name": "Senjuti",
+        "quote": "Hello!",
+        "translation": "Привет!"
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "There's a reason why we're out in the streets today, if you listen to the sounds going on around us, you'll get a clue as to what today's programme is about. Senjuti, today's topic was your idea… can you tell us what it is?",
+        "translation": "Есть причина почему мы сегодня на улице, если ты прислушаешься к звукам, происходящим вокруг нас, ты получишь подсказку о чем сегодня будет наша программа."
+      },
+
+      {
+        "name": "Senjuti",
+        "quote": "Yes, traffic.",
+        "translation": "Да, движение на дорогах."
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "Right, and when I asked you… 'Let's make a programme about Dhaka - what shall we make it about?' Why was traffic the first thing that came to your mind?",
+        "translation": "Правильно, и когда я попросила тебя… Давай сделаем выпуск о Дхакке – о чем нам его сделать? Почему дорожное движение пришло к тебе первым на ум?"
+      },
+
+      {
+        "name": "Jackie",
+        "quote": [
+          "Because there is so much traffic out here and it's so noisy, why don't we go inside so we can hear each other speak! Ah, that's better. Before we continue, I have a question for you: many cities in the world have introduced a 'congestion charge', which is when you have to pay to drive your car into the city center. But which of these cities does NOT have a congestion charge?",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) Stockholm",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) Singapore",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) Geneva"],
+        "translation": [
+          "Потому здесь такое большое движение на дорогах снаружи и оно такое шумное, почему бы нам не зайти внутрь так чтоб мы могли слышать друг друга. О, так лучше. До того как мы продолжим, у меня есть вопрос для тебя: много городов по всему миру ввели платный въезд – это когда ты должен платить чтобы въехать в центр города. Но какой из городов не имеет платного въезда?",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) Стокгольм",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) Сингапур",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) Женева"]
+      },
+
+
+      {
+        "name": "Senjuti",
+        "quote": "I think it's Singapore",
+        "translation": "Я думаю Сингапур."
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "Well, we'll find out if you were correct at the end of the programme. But now, let's look at some traffic related vocabulary. I like to use bad traffic as an excuse when I come in late to the office in the mornings. So I might say something like 'Ah, I'm sorry, I was stuck in traffic!'",
+        "translation": "Хорошо, мы выясним прав ли ты в конце программы. А сейчас, давай обратимся к некой терминологии, относящейся к движению на дорогах. Я люблю использовать движение на дорогах как извинение, когда опаздываю в офис по утрам. Так что я возможно говорю что-то типа «Мне жаль – я попала в пробку!» "
+      },
+
+      {
+        "name": "Senjuti",
+        "quote": "Yes, and an expression we often hear related to traffic is a 'traffic jam'. So you could say, 'There was a really bad traffic jam!'",
+        "translation": "Да, и выражение, которое мы часто слышим, относительно движения на дорогах – это пробки. Так что ты бы могла сказать:'Это была действительно ужасная пробка!'"
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "Yes, a traffic jam. There are lots of traffic jams in Dhaka. You could also say there's 'really heavy traffic' in Dhaka – heavy traffic – lots of vehicles on the road. What other words come to mind when you think about traffic?",
+        "translation": "Да, пробки. В Дхакке много дорожных пробок. Ты мог бы также сказать что настоящая пробка на дороге – это когда очень много т/с на дороге. Какие слова приходят на ум, когда ты думаешь о дорожном движении?"
+      },
+
+      {
+        "name": "Senjuti",
+        "quote": "One word we might hear is chaos – when everything is crazy!",
+        "translation": "Одно из слов, которое мы возможно слышим – это хаос – когда все в беспорядке!"
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "Ah yes, chaos, everything is crazy and disorganized… it's chaos on the roads at the moment! I think it takes me about half an hour to get to work in the mornings.",
+        "translation": "О, да, хаус, все в беспорядке и дезорганизовано… хаос на дорогах в данный момент! Я думаю у меня отнимает полтора часа чтобы добираться до работы по утрам."
+      },
+
+      {
+        "name": "Senjuti",
+        "quote": "Yes, it can quite boring…and that made me wonder: in Dhaka we spend so much time sitting in traffic jams – what do people do so they don't get bored?",
+        "translation": "Да, это довольно-таки скучно… и это побуждает меня поинтересоваться: в Дхакке мы проводим много времени, сидя в пробках – что люди делают в это время чтобы не скучать?"
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "OK, let's have a listen. As you listen try to answer this question: what kinds of things do people do so they don't get bored in traffic?",
+        "translation": "Хорошо, давай послушаем. Как только ты выслушаешь, попробуй ответить на вопрос: 'Какого рода вещи люди делают чтобы не скучать во время езды?'"
+      },
+
+      {
+        "name": "Girl",
+        "quote": "I might play with my cell phone, maybe games or rechecking my inbox or may be calling someone and chatting with them… with friends",
+        "translation": "Я могу играть по телефону, возможно, поиграть в игры или перепроверить почту, или позвонить кому-нибудь или початиться… с друзьями"
+      },
+
+      {
+        "name": "Man 1",
+        "quote": "We just wait for the traffic to get clear… and… listen to some CDs that we  have in our car.",
+        "translation": "Мы просто ждем пока пробка не рассосется… или… слушаем CD, которые есть у нас в машине."
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "OK, so what did we have there?",
+        "translation": "Хорошо, что у нас там было?"
+      },
+
+      {
+        "name": "Senjuti",
+        "quote": "Well, the girl says she plays with her cell phone. For example, she might play games. And sometimes she chats to friends on the phone.",
+        "translation": "Хорошо, девушка говорит, что играет по телефону. К примеру, она возможно играет в игры. А иногда она чатится с друзьями по телефону."
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "And the man says he just waits for the traffic to clear and maybe listens to CDs or something.",
+        "translation": "Мужчина говорит, что ждет пока пробка не рассосется и возможно слушает CD или типа того."
+      },
+
+      {
+        "name": "Senjuti",
+        "quote": "But one girl we spoke to just gets cross. Who does she get cross with? Listen to find out.",
+        "translation": "Но одна девушка, с которой мы говорили, просто браниться. С кем она браниться? Давай выясним."
+      },
+
+      {
+        "name": "Girl 2",
+        "quote": "Well actually when I am stuck in the traffic, I don't really think of anything, just that I get mad…. I keep on thinking that… government … they are not actually taking much care to, you know, solve this problem. And that's why the traffic is increasing every single day.",
+        "translation": "На самом деле когда я застреваю в пробке, я ни о чем не думаю – просто сержусь. Я продолжаю думать, что правительство … они на самом деле не обращают на это много внимания, чтобы решить проблему. И вот почему движение на дорогах растет каждый день."
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "She gets cross with the government because she thinks the government isn't doing enough to sort out the traffic. Senjuti, she used the word 'mad' there, which is American English for angry – to get mad. What other emotion words might we associate with being stuck in traffic?",
+        "translation": "Она бранит правительство, потому что она думает, что правительство не проявляет достаточно усилий, чтобы привести в порядок движение на дорогах. Senjuti, она использует слово «mad», что с американского английского переводится как «сердитый» - становиться сердитым. Какие еще эмоциональные слова мы возможно связываем с пребыванием, когда застреваем в пробках?"
+      },
+
+      {
+        "name": "Senjuti",
+        "quote": "Frustration",
+        "translation": "Разочарование"
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "Frustration, to be frustrated. To be annoyed, usually because you can't achieve something you that you want to achieve. Or things aren't going to plan.",
+        "translation": "Разочарование, быть разочарованным. Быть раздраженным, обычно потому что ты не можешь добиться чего-то, что хочешь. Или дела не идут по плану."
+      },
+
+      {
+        "name": "Senjuti",
+        "quote": "I find being in traffic tedious.",
+        "translation": "Я нахожу пребывание в пробке нудным."
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "Tedious – another good word – very boring – tedious. So Senjuti what do you do in traffic jams to try to make them a bit less tedious?",
+        "translation": "Нудный – очередное хорошее слово – очень скучный – нудный. Senjuti, что ты делаешь в пробках, чтобы сделать их менее нудными?"
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "Well it's nearly time for the end of the programme, let's see if you got the correct answer to the question at the beginning… That's all for this week, but do join us again for more 6 minute English. Goodbye!",
+        "translation": "Время почти заканчивать программу, давай посмотрим ответил ли ты правильно на вопрос в начале программы… На этой неделе все, но присоединяйтесь к нам еще на 6 minute English. Пока!"
+      }
+    ],
 
     "img_addr": "6me/2008/2008-10/Dhaka-traffic.jpg",
     "audio_src": "6me/2008/2008-10/2008-10-01 - 6 Minute English - Dhaka traffic.mp3",
