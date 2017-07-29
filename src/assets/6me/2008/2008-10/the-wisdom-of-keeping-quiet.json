@@ -1,0 +1,189 @@
+{
+  "data": {
+    "phrases_arr": [
+      {"name": "Yvonne",
+        "quote": "Hi, I'm Yvonne Archer, this is '6 minute English' and with me today is Callum Robertson. Hello Callum!",
+        "translation": "Привет, я Yvonne Archer, это '6 minute English' and и со мной сегодня Callum Robertson. Привет, Callum! "},
+
+      {"name": "Callum",
+        "quote": "Hello Yvonne!",
+        "translation": "Привет, Yvonne! "},
+
+      {"name": "Yvonne",
+        "quote": "Today, words of wisdom. Callum – are you wise enough to explain the word 'wisdom' for us?",
+        "translation": "Сегодня слова мудрости. Callum – достаточно ли ты мудр чтобы объяснить нам слово «мудрость»?"},
+
+      {"name": "Callum",
+        "quote": "Well, I'll give it go! I'd say that 'wisdom' is something that usually comes to us as we gain more knowledge and experiences in life. And a wise person knows and understands how to make sensible decisions based on that knowledge and on those experiences even when the decisions are difficult.",
+        "translation": " Хорошо, объясню! Я бы сказал что «мудрость» - это что-то что обычно приходит к нам как только мы получаем больше знаний и опыта в жизни. И мудрая личность знает и понимает как принимать решения, основанные на знаниях и опыте, даже когда решения сложны. "},
+
+      {"name": "Yvonne",
+        "quote": "Nice explanation.",
+        "translation": "Хорошее объяснение. "},
+
+      {"name": "Callum",
+        "quote": "Oh, well thank you!",
+        "translation": "О, спасибо! "},
+
+      {"name": "Yvonne",
+        "quote": "So that's why older are usually the wisest because they've had more time to gather knowledge and experiences in life – like Callum!",
+        "translation": "Так что вот почему старые люди обычно самые мудрые, потому что у них было больше времени получить знания и опыт в жизни – как Callum! "},
+
+      {"name": "Callum",
+        "quote": "Are you saying I'm old?!",
+        "translation": " Ты говоришь что я стар?! "},
+
+      {"name": "Yvonne",
+        "quote": "Didn't say anything! So wise words there from a wise man – Callum. But before we hear more on today's topic, are you wise enough to get today's question right, Callum?",
+        "translation": "Я ничего не говорила об этом! Так что мудрые слова от мудрого человека – тот который Callum. Но до того как мы услышим больше о сегодняшней теме, достаточно ли ты мудр чтобы ответить правильно на сегодняшний вопрос, Callum? "},
+
+      {"name": "Callum",
+        "quote": "Oh, I hope so!",
+        "translation": "О, надеюсь! "},
+
+      {"name": "Yvonne",
+        "quote": [
+          "Good. Who said 'Life is like an onion: you peel it off one layer at a time and sometimes you weep.' Was it:",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) Carl Sandburg",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) Alan Bennet – or",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) Confucius?"],
+        "translation": [
+          "Хорошо. Кто сказал: «Жизнь – как лук: ты снимаешь один слой и иногда плачаешь». Это был:",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) Carl Sandburg",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) Alan Bennet – or",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) Confucius?"]
+      },
+
+      {"name": "Callum",
+        "quote": "I don't know who Carl Sandburg is, Alan Bennet is a British writer, Confucius is an old philosopher… I'm going to say Confucius - I don't know but I'll say Confucius.",
+        "translation": "Я не знаю кто такой Carl Sandburg, Alan Bennet – британский писатель, Confucius – старый философ … Я скажу что Confucius – я не знаю но скажу что Confucius. "},
+
+      {"name": "Yvonne",
+        "quote": "Nice choice - but we'll find out whether you're right or wrong later on. Now in today's report about words of wisdom – words and sayings which can help us understand how to be successful in life - we'll come across the word 'diplomacy', You've probably heard it before in news reports but let's get Callum to tell us about it anyway.",
+        "translation": "Хороший выбор – но мы выясним прав ты или нет попозже. Сейчас в сегодняшнем репортаже о словах мудрости – слова и поговорки которые могут помочь нам понять как быть успешным в жизни  - мы столкнемся со словом «дипломатия». Ты возможно слышал его до этого в новостных отчетах, но давай, Callum, расскажи нам о нем все равно. "},
+
+      {"name": "Callum",
+        "quote": "Well, 'diplomacy' is – I suppose it's a skill really. It's an ability to say and do things without offending or upsetting people. And in news reports, we sometimes hear about 'diplomats' – and it's their job to work in international relations, helping countries develop good relationships with each other.",
+        "translation": "Ну «дипломатия» - это я полагаю, навык на самом деле. Это способность говорить и делать вещи, не обижая и не расстраивая при этом людей. И в новостных отчетах мы иногда слышим о дипломатах – их работой является работа в международных отношениях, помогающая странам развивать хорошие отношения друг с другом. "},
+
+      {"name": "Yvonne",
+        "quote": "But if someone says you're 'diplomatic' – it isn't always a compliment, is it?",
+        "translation": "Но если кто-то говорит что ты дипломатичен – это не всегда комплимент, не так ли? "},
+
+      {"name": "Callum",
+        "quote": "Well no, not always. Some people might find it offensive if we don't tell them exactly what we mean or how we feel because we’re trying to be kind – we're trying to be diplomatic – we don't want to upset them. And that can leave some people wondering what we really mean.",
+        "translation": "Ну не, не всегда. Некоторые люди возможно находят это обидным, если мы не говорим им именно то что имеем ввиду или как мы себя чувствуем, потому что мы пытаемся быть добрыми – мы пытаемся быть дипломатичными – мы не хотим их расстраивать. И это может оставить некоторых людей удивленными насчет того что мы имеем на самом деле ввиду. "},
+
+      {"name": "Yvonne",
+        "quote": "Thanks Callum. So now, the BBC's Vanessa Feltz recently did a show about wisdom and the key to success – happiness in life. As she tells us what one listener said, try to find out which three areas of life they're talking about...",
+        "translation": "Спасибо, Callum. А сейчас Vanessa Feltz из BBC недавно сделала шоу о мудрости и ключе к успеху – счастью в жизни. Как только она скажет нам что сказал один слушатель, попробуй выяснить о каких трех областях жизни они говорят… "},
+
+      {"name": "VANESSA FELTZ",
+        "quote": "Communication is the key to success but use diplomacy at home, at work - wherever you are. There may well be people listening who think the very opposite is true: keep quiet – silence is the key to success in romance and at work.",
+        "translation": "Коммуникация – ключ к успеху, но используйте дипломатию дома, на работе – где бы вы не находились. Возможно найдутся люди, которые слушают нас и которые думают совсем иначе: молчи – молчание – ключ к успех в романтике и на работе. "},
+
+      {"name": "Yvonne",
+        "quote": "Callum, which three areas of life does Vanessa mention there?",
+        "translation": "Callum, какие три области жизни Vanessa упомянула? "},
+
+      {"name": "Callum",
+        "quote": "Well she was talking about finding the key to success in life at home, life at work and also in romance – in our love lives.",
+        "translation": "Ну она говорила о поиске ключа к успеху в жизни дома, жизни на работе а также в романтике – в наших любовных жизнях. "},
+
+      {"name": "Yvonne",
+        "quote": "Oooh! So all areas of life really. But, is it better to keep quiet if there's an argument or is it better to communicate in a diplomatic way – so, talk about things without upsetting the other person?",
+        "translation": "Ох, все области жизни на самом деле. Но лучше хранить молчание, если есть аргумент или лучше коммуницировать дипломатичным путем – так что говорите о вещах без расстраивания других людей? "},
+
+      {"name": "Callum",
+        "quote": "Umm – well that's a difficult question because of course, it depends on the situation, your relationship, the person you're talking to... For example, how old are they, how well do you know them and how do they get angry? Very quickly or not? All these things you have to think about.",
+        "translation": "Ну – это сложный вопрос потому что он зависит от ситуации, твоего взаимоотношения, человека с которым ты разговариваешь. К примеру насколько они стары, как хорошо ты их знаешь и как они  становятся сердитыми? Очень быстро или нет? О всех этих вещах вы должны подумать. "},
+
+      {"name": "Yvonne",
+        "quote": "Yes, it's a tricky question. Now in the next part of Vanessa's programme on words of wisdom, she uses some really lovely phrases. First, 'to keep schtum'. Callum?",
+        "translation": "Да это хитрый вопрос. Сейчас в следующей часте программы Ванессы о словах мудростях, она использует действительно некоторые прекрасные фразы. Сначала, 'to keep schtum'. Callum? "},
+
+      {"name": "Callum",
+        "quote": "'To keep schtum' – well it's actually a mixture of English and Yiddish, which is the Jewish language. But it's an expression that we use in everyday English as well. 'To keep schtum' - it means to keep quiet and not say anything.",
+        "translation": "'To keep schtum' – ну это смесь английского и идиша, который является еврейским языком. Но это выражение, которое мы используем в повседневном английском также хорошо. 'To keep schtum' – означает молчать и ничего не говорить. "},
+
+      {"name": "Yvonne",
+        "quote": "Lovely. We'll also hear the word 'fence' as in the term 'to sit on the fence' – and, to 'not state your case either way'. Don't those terms have similar meanings, Callum?",
+        "translation": "Прекрасно. Мы также услышим слово «забор» в выражении «сидеть на заборе» - и «не ставь свой чемодан как попало». Не имеют ли эти выражения схожие значения, Callum? "},
+
+      {"name": "Callum",
+        "quote": "Yes, they do. If you 'sit on the fence' and don't get off, or you 'don't state your case', you don't tell people what you think and whether you agree with them or not. And in an argument, it's not clear whose side you're on. Да.",
+        "translation": "Если ты сидишь на заборе и не встаешь или ты не ставишь свой чемодан(держишь его в руке), ты не говоришь людям что ты думаешь и согласен ли ты с ними или нет. И неясно на чьей ты стороне. "},
+
+      {"name": "Yvonne",
+        "quote": "Okay – here's Vanessa again. She speaks a little more quickly this time - but try to catch those phrases…",
+        "translation": "Okay – здесь Vanessa опять. Она говорит немного быстро на этот раз – но попробуй уловить ее фразы"},
+
+      {"name": "VANESSA FELTZ",
+        "quote": "If you just keep 'schtum' and ride out the bad situation, you don't say anything, you don't get off the fence. In fact, you don't register at all. You're just, quiet, quiet, laid back and retiring, it will all go away – or it will all improve on its own and you won't have had to state your case either way. We're taking calls on wisdom this morning –'wisdom' you know that word - 'sagacity' – another lovely word for wisdom!",
+        "translation": "Если ты просто хранишь «schtum» и пережидаешь плохую ситуацию, ты не говоришь ничего, ты не поднимаешься с забора. Фактически, ты вообще не регистрируешься. Ты просто молчишь, молчишь, спокойно и скромно, это все пройдет – или это все улучшится само по себе и ты не должен будешь ставить чемодан как попало. Мы принимаем звонки по мудрости этим утром – 'wisdom' вы знаете это слово - 'sagacity' – другое прекрасное слово для мудрости! "},
+
+      {"name": "Yvonne",
+        "quote": "Wow, Vanessa really loves the English language, doesn’t she?! But I don't think anyone has enough 'sagacity' – wisdom – to know all the answers in life.",
+        "translation": "Вау, Vanessa действительно любит английский язык, не так ли?! Но я не думаю, что у любого есть достаточно мудрости, чтобы знать все ответы в жизни. "},
+
+      {"name": "Callum",
+        "quote": "Well, 'a sage' might – and that's another word for a wise man, 'a sage'.",
+        "translation": "Ну, «a sage» - и это еще одно слово для мудрого человека. "},
+
+      {"name": "Yvonne",
+        "quote": "And luckily, Callum – you're my sage.",
+        "translation": "Но к счастью, Callum – ты наш мудрец. "},
+
+      {"name": "Callum",
+        "quote": "Ahh.",
+        "translation": "Ааа"},
+
+      {"name": "Yvonne",
+        "quote": "So please, don't get today's big question wrong! Who said 'Life is like an onion: you peel it (off) one layer at a time and sometimes you weep'?",
+        "translation": "Так что пожалуйста, не отвечай неправильно на сегодняшний вопрос! Кто сказал «Жизнь как лук: ты снимаешь один слой и иногда ты плачешь»? "},
+
+      {"name": "Callum",
+        "quote": "Well, I took a guess at Confucius.",
+        "translation": "Ну я предположил, что Confucius. "},
+
+      {"name": "Yvonne",
+        "quote": "And your guess was…wrong.",
+        "translation": "И твое предположение было неправильным. "},
+
+      {"name": "Callum",
+        "quote": "Oh no, not again!",
+        "translation": "О нет, опять!"},
+
+
+      {"name": "Yvonne",
+        "quote": "Sorry, Callum. Yes, it was Carl Sandburg – an American poet. Now that's all we've got time for today. But do join us again next time for more '6 Minute English' when we'll all be a little older - and hopefully a lot wiser!",
+        "translation": "К сожалению, Callum – это был Carl Sandburg – американский поэт. На сегодня это все. Присоединяетесь к нам еще в следующий раз на «6 Minute English» когда мы будем немного старше – и надеюсь мудрее!"},
+
+      {"name": "C/Y",
+        "quote": "Goodbye!",
+        "translation": "Пока!"}
+    ],
+
+    "img_addr": "6me/2008/2008-10/The-wisdom-of-keeping-quiet.jpg",
+    "audio_src": "6me/2008/2008-10/2008-10-01 - 6 Minute English - The wisdom of keeping quiet.mp3",
+    "title": "BBC 6 Minute English podcast - The wisdom of keeping quiet [Мудрость держать язык за зубами], 2008-10-29",
+
+    "words_arr": [
+      {"en_word": "to gain ", "ru_word": "получать"},
+      {"en_word": "sensible", "ru_word": "разумный, осмысленный"},
+      {"en_word": "to gather", "ru_word": "собирать"},
+      {"en_word": "the topic", "ru_word": "тема "},
+      {"en_word": "to peel off", "ru_word": "снимать кожуру"},
+      {"en_word": "to weep", "ru_word": "плакать "},
+      {"en_word": "to come across", "ru_word": "проходить мимо"},
+      {"en_word": "the diplomacy", "ru_word": "дипломатия"},
+      {"en_word": "relations", "ru_word": "отношения"},
+      {"en_word": "diplomatic", "ru_word": "дипломатический"},
+      {"en_word": "the communication", "ru_word": "коммуникация"},
+      {"en_word": "the romance", "ru_word": "романтика"},
+      {"en_word": "to mention", "ru_word": "упоминать "},
+      {"en_word": "the sagacity", "ru_word": "дальновидность"},
+      {"en_word": "the sage", "ru_word": "мудрец"}
+    ]
+  }
+}

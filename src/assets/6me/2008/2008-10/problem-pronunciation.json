@@ -1,0 +1,171 @@
+{
+  "data": {
+    "phrases_arr": [
+      {"name": "Yvonne",
+        "quote": "Hi, this is '6 minute English' and I'm Yvonne Archer…",
+        "translation": "Привет, это передача '6 minute English' и я Yvonne Archer…"},
+
+      {"name": "Callum",
+        "quote": "I'm Callum Robertson. Hello!",
+        "translation": "Я Callum Robertson. Привет! "},
+
+      {"name": "Yvonne",
+        "quote": "Hello Callum! In this week's programme, English words that are often mispronounced'. Callum – can you explain 'mispronounced' for us?",
+        "translation": "Привет, Callum! В программе на этой неделе английские слова, которые часто неправильно произносятся. Callum – можешь объяснить нам 'неправильно произносимое'?"},
+
+      {"name": "Callum",
+        "quote": "Certainly. If you MIS-PRO-NONCE… if you 'mispronounce' a word, you don't say it correctly. You get some of the sounds wrong in that word.",
+        "translation": "Определенно. Если ты НЕПРАВИЛЬНО ПРОИЗНОСИШЬ… если ты неправильно произносишь слово, ты говоришь его некорректно. У тебя несколько звуков неправильны в этом слове. "},
+
+      {"name": "Yvonne",
+        "quote": "Very good. And is there a word that you often mispronounce, Callum?",
+        "translation": "Очень хорошо. И есть ли слово, которое ты часто произносишь неправильно, Callum? "},
+
+      {"name": "Callum",
+        "quote": "Umm – not really.",
+        "translation": "Мм – на самом деле нет. "},
+
+      {"name": "Yvonne",
+        "quote": "I didn't think so - so I've got three difficult ones here for you! But, before you read them out, any thoughts?",
+        "translation": "Я так не думаю – у меня есть 3 сложных слова для тебя. У тебя есть мысли какие, до того как ты их прочитаешь? "},
+
+      {"name": "Callum",
+        "quote": "Well, looking at these words on paper, I think there's a good chance that some people would mispronounce them. Yeah.",
+        "translation": "Смотря на эти слова на бумаге, я думаю, вполне есть шанс, что некоторые люди произнесли бы их неправильно. Да. "},
+
+      {"name": "Yvonne",
+        "quote": "And that's why you're saying them instead of me! So, off you go…",
+        "translation": "И вот почему ты произносишь их вместо меня! "},
+
+      {"name": "Callum",
+        "quote": "Okay, the words are: regularly…ethnicity…and anaesthetist. Whew!",
+        "translation": "Хорошо, эти слова: regularly(регулярно)…ethnicity(этническая принадлежность)…and anaesthetist(анастезиолог). Ух!"},
+
+      {"name": "Yvonne",
+        "quote": [
+          "Yeah, but you said them slowly, Callum. Yeah, that was tough. But there are three thousand other Brits who also agree that those words are difficult to say. They were recently questioned by a company called Spinvox and the research showed that 'regularly', 'ethnicity' and 'anaesthetist' – ooh, I said it - are some of the most mispronounced words in the English language. Now before we hear more about that research, I've a question for you, Callum: How many sounds do experts say we need to be able to pronounce - so that we can speak English clearly? Is it:",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a)44",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b)104 - or",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c)400?"
+        ],
+
+        "translation": [
+          "Да, но ты сказал их медленно, Callum. Да, это было трудно. Но есть 3000 других британцев, которые говорят, что эти слова трудно произносить. Их недавно опросил компания под названием , и исследование показало, что слова 'regularly', 'ethnicity' и 'anaesthetist'- ох, я их выговорила – одни из самых неправильно произносимых слов в английском. До того как мы услышим больше об этом исследовании, у меня есть вопрос для тебя, Callum: «Сколько звуков, как говорят эксперты, нам надо быть способным произносить – так чтоб мы могли говорить на английском ясно?»",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a)44",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b)104 - или",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c)400?"
+        ]},
+
+      {"name": "Callum",
+        "quote": "Well, I'm fairly confident on this as I've just made a series on pronunciation. In British English, there's generally about forty-four sounds that are needed to pronounce English words. So, about forty-four – there's maybe a few more - but forty-four; that's my answer.",
+        "translation": "Ну, я довольно-таки уверен насчет этого как только сделал серии произношений. В британском английском в обшем есть около 44 звуков, которые нужны, чтобы произносить английские слова. Так что, около 44 – возможно немного больше – но 44, мой ответ. "},
+
+      {"name": "Yvonne",
+        "quote": "Well, I'm not telling you! You'll have to wait until the end of the programme. Now as we hear an extract from the BBC's Today programme on the most mispronounced words in English, try to foind – whew – I can't pronounce 'try…' - try to find out which word was the most mispronounced…",
+        "translation": "Хорошо, я не скажу тебе сейчас! Тебе надо будет подождать до конца программы. Сейчас, как только мы послушаем выдержку из сегодняшней программы BBC о больше всего неправильно произносимых словах в английском, попробуй … - ух – я не могу произнести «попробуй…» - попробуй выяснить какое слово было больше всего неправильно произносимым…"},
+
+      {"name": "THE TODAY PROGRAMME",
+        "quote": "If you find 'statistics' and 'ethnicity' difficult to pronounce, it appears you're not alone. The Daily Mail says they're among the top ten most troublesome words in the English language. Researchers who questioned three thousand people found that the most mispronounced word was 'phenomenon' followed by 'anaesthetist' (anaesthetist) and 'remuneration'.",
+        "translation": "Если вы находите «statistics»(статистика) и «ethnicity»(этническая принадлежность) сложными для произношения – выходит вы такой не один. Daily Mail говорит, что они в первой десятке самых проблемных слов в английском. Исследователи, которые опросили 3000 человек, выяснили, что самым неправильно произносимым словом было «phenomenon»(феномен), за которым следуют «anaesthetist»(анастезиолог) и «remuneration»(вознаграждение). "},
+
+      {"name": "Yvonne",
+        "quote": "Callum, which word was the most troublesome – the most difficult to pronounce?",
+        "translation": "Callum, какое слово было самым проблемным – самым сложным для произношения?"},
+
+      {"name": "Callum",
+        "quote": "Well, that was 'phenomenon'… phenomenon.",
+        "translation": "Этим словом было «phenomenon» … phenomenon"},
+
+      {"name": "Yvonne",
+        "quote": "Phenomenon… phenomenon… Yep, I have to say that I have to take that one really slowly - and just looking at it on paper makes me nervous. So why do you think so many of us get it wrong, Callum?",
+        "translation": "Phenomenon… phenomenon… Да, я должен сказать, что я произношу его действительно медленно – взгляд на него на бумаге заставляет меня нервничать. Так почему как ты думаешь многие из нас произносят его неправильно, Callum?"},
+
+      {"name": "Callum",
+        "quote": "Well of course, when we get nervous, we generally make more mistakes. But here, it's the mixture of the particular sounds that are in words – that's what causes the problems. So having the 'm' and 'n' sounds – the 'mmm' and 'nnnn' in 'phenomenon' – having so many of them so close together – that makes it a difficult word to pronounce.",
+        "translation": "Конечно, когда мы нервничаем, мы в общем делаем много ошибок. Но здесь сочетание конкретных звуков в словах – это вызывает проблемы. Так что имея 'm' и 'n' звуки - the 'mmm' и 'nnnn' в 'phenomenon' – имея так много их рядом вместе – это делает это слово трудным для произношения."},
+
+      {"name": "Yvonne",
+        "quote": "Hmmm - and what about 'anaesthetist'?",
+        "translation": "Хм – а что насчет 'anaesthetist'? "},
+
+      {"name": "Callum",
+        "quote": "Well 'anaesthetist' - it contains an odd mixture of 't' and 'th' sounds – there's also an 's' in there as well before that group of consonants and that also makes things difficult to pronounce.",
+        "translation": "Ну 'anaesthetist' – оно содержит нечетное сочетание 't' и 'th' звуков – также есть 's', который до этой группы согласных и который делает вещи сложными для произношения. "},
+
+      {"name": "Yvonne",
+        "quote": "Oh dear, it certainly is! Now the newspaper that published those research results describes such words as 'tongue twisters'. But I wouldn't call them tongue-twisters really, would you Callum?",
+        "translation": "О – определенно! Сейчас газета, которая опубликовало результаты этого исследования, описывает такие слова как «заплетатели языка». Но я бы их так не назвала, а ты, Callum?"},
+
+      {"name": "Callum",
+        "quote": "Umm - not really, no - because 'tongue twisters' are generally a sentence or an expression that is very difficult to say quickly and repeat again and again and again.",
+        "translation": "Ммм – нет – потому что «заплетатели языка» - это в общем предложение или выражение, которое очень сложно сказать быстро и повторять снова и снова и снова."},
+
+      {"name": "Yvonne",
+        "quote": "Well, I'm feeling really mean today, Callum. Go on - give us an example - and don't - say – it - slowly! Callum, Okay – try this one and a very famous one is: 'Peter Piper picked a peck of pickled pepper'.",
+        "translation": "Я чувствую себя на самом деле значимо сегодня, Callum. Продолжай – задай нам пример – и не произноси его медленно! Хорошо – попробуй эту очень известную: 'Peter Piper picked a peck of pickled pepper'."},
+
+      {"name": "Yvonne",
+        "quote": "…Cor – that was pretty good, wasn't it?! Of course, but we don't have to say tongue twisters in life – but we usually do have to use words like umm, what – ummm - 'statistics' or 'February'. I can't even say it myself – 'February'.",
+        "translation": "Вполне неплохо, не так ли?! Конечно, но мы не должны произносить заплетатели языка в жизни – но мы обычно должны использовать слова как  - «статистика» или «Февраль». Я не могу даже произнести это сама – «Февраль». "},
+
+      {"name": "Callum",
+        "quote": "February.",
+        "translation": "Февраль"},
+
+      {"name": "Yvonne",
+        "quote": "February.",
+        "translation": "Февраль"},
+
+      {"name": "Callum",
+        "quote": "Well yes. It is difficult to get through life without saying words like 'February'.",
+        "translation": "Yes. Да. Тяжело прожить жизнь, не говоря слова как «Февраль». Да. "},
+
+      {"name": "Yvonne",
+        "quote": "But the research shows that many of us try to do just that. We don't want to feel embarrassed when we mispronounce those words so we just avoid them. And that's a really bad example for learners, isn't it?",
+        "translation": "Но исследование показывает, что многие из нас пытаются сделать это. Мы не хотим чувствовать себя смущенными, когда произносим неправильно эти слова, так что мы просто избегаем их. Это действительно плохой пример для учащихся, не так ли? "},
+
+      {"name": "Callum",
+        "quote": "Well, I don't know about that. It's something natural that native speakers do. That…you know, if you're not sure how to pronounce a word, choose another word…or… And I do the same in writing in spelling; if there's a word I'm not sure how to spell, my spelling isn't, you know, perfect - sometimes I will re-write to avoid using that word. So, as in anything, pronunciation does only get better with practise so don't worry about it!",
+        "translation": "Ну я не знаю об этом. Это что-то естественное, что коренные носители языка делают. Если ты не уверен как произносить слово, выбери другое … или …  И я делаю то же самое при правописании; если есть слово, которое я не уверен как правильно писать, моя грамматика, как ты знаешь, несовершенна – иногда я переписываю, чтобы избежать использование этого слова. Так что, как и любое дело, произношение становится лучше с практикой – так что не волнуйся насчет этого!  "},
+
+      {"name": "Yvonne",
+        "quote": "Just go for it. Okay, now for the answer to our question: How many sounds do experts say we need to be able to pronounce - so that we can speak English clearly? Is it: a) 44, b) 104 or c) 400?",
+        "translation": "Хорошо, сейчас ответ на наш вопрос: «Сколько звуков, как говорят эксперты, нам надо быть способным произносить – так чтоб мы могли говорить на английском ясно?»  "},
+
+
+      {"name": "Callum",
+        "quote": "Well, as I said, forty-four; I'm fairly confident that it's forty-four or thereabouts.",
+        "translation": "Как я сказал, 44; я вполне уверен, что 44 или возле того"},
+
+      {"name": "Yvonne",
+        "quote": "Ah, you knew it all the time, Callum. Well, that's all we've got time for today. Join us again for more '6 minute English'.",
+        "translation": "О, ты знал все это время, Callum. Хорошо, это все на сегодня. Присоединяйтесь к нам еще на «6 minute English» "},
+
+      {"name": "C/Y",
+        "quote": "Goodbye!",
+        "translation": "Пока!"}
+    ],
+
+    "img_addr": "6me/2008/2008-10/Problem-pronunciation.jpg",
+    "audio_src": "6me/2008/2008-10/2008-10-01 - 6 Minute English - Problem pronunciation.mp3",
+    "title": "BBC 6 Minute English podcast - Problem pronunciation [Проблемы с произношением], 2008-10-15",
+
+    "words_arr": [
+      {"en_word": "to pronounce", "ru_word": "произносить "},
+      {"en_word": "to mispronounce", "ru_word": "неправильно произносить "},
+      {"en_word": "regularly", "ru_word": "регулярно "},
+      {"en_word": "the ethnicity", "ru_word": "этническая принадлежность "},
+      {"en_word": "the anaesthetist", "ru_word": "анестезилог "},
+      {"en_word": "tough", "ru_word": "тяжело"},
+      {"en_word": "the prononcuation", "ru_word": "произношение"},
+      {"en_word": "whew", "ru_word": "вот так!"},
+      {"en_word": "the remuneration", "ru_word": "вознаграждение"},
+      {"en_word": "the mixture", "ru_word": "смесь "},
+      {"en_word": "the consonants", "ru_word": "согласные(буквы)"},
+      {"en_word": "the twister", "ru_word": "скручиватель, заплетатель"},
+      {"en_word": "to pickle", "ru_word": "мариновать "},
+      {"en_word": "confident", "ru_word": "уверенный"},
+      {"en_word": "thereabouts", "ru_word": "примерно в это время"}
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "phrases_arr": [
+      {"name": "Yvonne",
+        "quote": "Hello, I’m Yvonne Archer and this is 6 minute English. Today, we’re talking about a rather exciting space mission and with me is Callum Robertson. Hello!",
+        "translation": "Привет, я Yvonne Archer и это передача 6 minute English. Сегодня мы говорим о вполне захватывающей космической миссии и со мной Callum Robertson. Привет! "},
+
+      {"name": "Callum",
+        "quote": "Hello Yvonne. Wow! Do you think there'll be space for an extra passenger – for me - on that space mission?",
+        "translation": "Привет, Yvonne. Вау. Ты думаешь там будет дополнительное место для дополнительного пассажира – меня – в этой космической миссии? "},
+
+      {"name": "Yvonne",
+        "quote": "Well, the spacecraft won't leave until about 2017 – so anything can happen by then! But, before you start packing Callum, do you know anything about asteroids, Callum? I mean, I found out that there are millions of them travelling around our solar system.",
+        "translation": "Космический корабль не отправится приблизительно до 2017 года - так что ничто не может произойти до этого.  Но до того как мы начнем собирать вещи, - ты что-нибудь знаешь об астероидах, Callum? Я имею ввиду, что выяснил, что миллионы из них путешествуют вокруг нашей солнечной системы. "},
+
+      {"name": "Callum",
+        "quote": "Yeah... asteroids are - I suppose they're planets, I mean, big pieces of rock, maybe a few miles or a few kilometres wide - and they move around the sun in the same way that the earth moves around the sun.",
+        "translation": "Да… астероиды – я полагаю, что это планеты, я имею ввиду, большие куски камня, возможно несколько миль или километров в ширину – и они двигаются вокруг солнца тем же способом что и земля - вокруг солнца. "},
+
+      {"name": "Yvonne",
+        "quote": "Right, and in today's report we'll hear more about them. But we'll also come across the term 'for analysis'. Can you explain that for us, Callum?",
+        "translation": "Правильно, и в сегодняшнем репортаже мы услышим о них побольше.  Но мы также столкнемся с термином «для анализа». Можешь объяснить это нам, Callum? "},
+
+      {"name": "Callum",
+        "quote": "Sure. If something is given to you 'for analysis', you go through the process of examining it - looking carefully at it to try to understand what it is or what it's made of.",
+        "translation": "Конечно. Если что-то дано тебе для «для анализа», ты проходишь через процесс изучения этого – осторожно смотря на это чтобы попробовать понять что это такое или из чего это сделано. "},
+
+      {"name": "Yvonne",
+        "quote": [
+          "Now, before we hear that report, let's give you that big question Callum. I've been scratching my head about this because you keep on getting them right! But anyway - according to scientists, when was the last time that an asteroid hit earth? Was it",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) 85 million years ago",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) 65 million years ago or",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) 45 million years?"
+        ],
+        "translation": [
+          "До того как мы послушаем репортаж, я задам тебе большой вопрос, Callum. Я чесал свою голову насчет этого(вопроса), потому что ты продолжаешь отвечать на них (вопросы) правильно. Но все равно – согласно ученым, когда был последний раз, когда астероид ударил землю?",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) 85 млн. лет назад",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) 65 млн. лет назад или",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) 45 млн. лет назад?"
+        ]
+      },
+
+      {"name": "Callum",
+        "quote": "Well ummm… I'm not really old enough to remember this…",
+        "translation": "Я недостаточно стар, чтобы помнить это…"},
+
+      {"name": "Yvonne",
+        "quote": "Really???",
+        "translation": "Действительно??? "},
+
+      {"name": "Callum",
+        "quote": "No, and it's going to be a complete guess. So I'm just going to go for the middle one; I'm going to go for 65 million years.",
+        "translation": "Это будет полностью предположение. Так что моим ответом будет средний вариант – 65 млн. лет назад. "},
+
+      {"name": "Yvonne",
+        "quote": "Okay, well we'll find out the answer to that question at the end of the programme. The space mission that's being worked on by European scientists and engineers is called Marco Polo. As the BBC's Christine McGourty's tells us about it, try to find the answer this two-part question: Where do the scientists hope to land and what do they want to bring back to earth?",
+        "translation": "Хорошо, мы выясним ответ на этот вопрос в конце программы. Космическая миссия, над которой работают европейские ученые и инженеры, называется Марко Поло. Как только BBC- корресподент Christine McGourty расскажет нам о ней, попробуй найти ответ на вторую часть вопроса: «Куда ученые надеются приземлиться, и что они хотят принести с собой обратно на землю?» "},
+
+
+      {"name": "CHRISTINE MCGOURTY",
+        "quote": "The plan is to select a small asteroid - less than 1 kilometre across - and to send a spacecraft there. It would land and drill beneath the surface to collect a mixture of dust and rubble to bring back to Earth for analysis.",
+        "translation": "План состоит в том, чтобы выбрать маленький астероид – меньше 1 км. поперек – и высадить на него космический корабль. Он приземлится и просверлит поверхность, чтобы собрать смесь пыли и щебня, чтобы взять ее обратно на землю для анализа. "},
+
+      {"name": "Yvonne",
+        "quote": "Callum, where do the scientists hope to land?",
+        "translation": "Callum, куда ученые надеются высадиться? "},
+
+      {"name": "Callum",
+        "quote": "Well, they want to land on an asteroid but they haven't 'selected' – or chosen which one yet.",
+        "translation": "Они хотят высадиться на астероид, но еще не выбрали на какой. "},
+
+      {"name": "Yvonne",
+        "quote": "That's right – and they want to select an asteroid that's less than one kilometre wide – as the report said: less than one kilometre 'across'. And what do they hope to bring back to earth from the asteroid?",
+        "translation": "Правильно – они хотят выбрать астероид, который меньше чем 1 км в ширину – как было сказано в репортаже: меньше чем 1 км поперек. И что они надеются принести обратно на землю с астероида? "},
+
+      {"name": "Callum",
+        "quote": "Well, rubbish really!",
+        "translation": "Ну, на самом деле мусор! "},
+
+      {"name": "Yvonne",
+        "quote": "A load of old rubbish!",
+        "translation": "Груду старого мусора! "},
+
+      {"name": "Callum",
+        "quote": "Well exactly! They said they'd like to bring back 'dust' and 'rubble' – so small, tiny pieces of the asteroid which they'll take from under the surface. So they'll dig down into the asteroid using a special drill, collect up some dust and rubbish and bring that back.",
+        "translation": "Так точно! Они сказали, что хотели бы принести обратно пыль и щебень – такие маленькие, крошечные кусочки астероида, которое они извлекут из-под поверхности. Т.е. они пробурят астероид, используя специальный бур, соберут немного пыли и мусора и принесут их обратно с собой. "},
+
+      {"name": "Yvonne",
+        "quote": "Fantastic! And their analysis of the dust and rubble and rubbish should show the scientists what asteroids are made of. Interesting, but will it be useful for us to know about that here on earth? Hopefully, Christine has an answer for us in the next part of her report…",
+        "translation": "Фантастика! И анализ пыли и щебня и мусора покажет ученым из чего сделаны астероиды. Интересно, а будет ли полезно для нас знать это земле? Надеюсь, у Christine есть ответ для нас в следующей части репортажа…"},
+
+      {"name": "CHRISTINE MCGOURTY",
+        "quote": "Asteroids are debris leftover from the formation of the solar system, around 4.6 billion years ago. Studying their pristine material should provide new insights into the ingredients of the early solar system and how planets like our own evolved.",
+        "translation": "Астероиды – это мусорные останки от формирования солнечной системы около 4.6 млрд. лет назад. Изучение античного материала даст новое понимание в составляющие ранней солнечной системы и как планеты, наподобие нашей, эволюционировали. "},
+
+      {"name": "Yvonne",
+        "quote": "So the Marco Polo space mission should help us understand more about what our solar system was made up of – it's ingredients. And scientists also hope to learn new information and get a better understanding about how planets like earth gradually changed and developed – how they evolved. So Callum - what about all those really scary stories about asteroids crashing and colliding with earth and killing us – wiping us all out?",
+        "translation": "Так что космическая миссия Марко Поло поможет нам лучше понять из чего состоит наша солнечная система – ее составляющие. И ученые также надеются изучить новую информацию и получить лучшее представление о том как планеты наподобие земли постепенно менялись и развивались – как они эволюционировали. Так что, Callum – как насчет действительно ужасных астероидах, падающих и ударяющихся о землю и убивающих нас – уничтожающих нас всех?"},
+
+      {"name": "Callum",
+        "quote": "Well, there certainly have been some movies along that now. I think 'Armageddon' and 'Deep Impact' were two movies where there were some – some crazy schemes were developed to try and push the asteroids into a different path so they wouldn't hit the earth. But I don't know if that's really possible.",
+        "translation": "Определенно было несколько фильмов об этом. Я думаю «Armageddon » и «Deep Impact» были фильмами, где было несколько – несколько сумасшедших схем разработано чтобы попробовать и оттолкнуть астероиды в другую сторону, так чтоб они не могли ударить по земле. Но я не знаю возможно ли это на самом деле. "},
+
+      {"name": "Yvonne",
+        "quote": "Well, let's hope that if it is possible, in real life, they will find a way how to stop asteroids hitting us here on earth by March the 16th 2880. ",
+        "translation": "Ну, давай понадеемся, что если это возможно в реальной жизни, то они найдут способ как остановить астероиды, ударяющие по нам здесь на земле к 16 марту 2880 года. "},
+
+      {"name": "Callum",
+        "quote": "March the 16th 2880? ",
+        "translation": "16 марта 2880 года. "},
+
+      {"name": "Yvonne",
+        "quote": "Yep. ",
+        "translation": "Да"},
+
+      {"name": "Callum",
+        "quote": "It's a very specific date, Yvonne! Do you know something? ",
+        "translation": "Это очень особая дата, Yvonne! Знаешь о чем о нам? "},
+
+      {"name": "Yvonne",
+        "quote": "Yes. Scientists believe that's when an asteroid of about 10 kilometres – which is about seven miles wide – will actually hit earth. ",
+        "translation": "Да. Ученые верят, что астероиды размером около 10 км – что есть около 7 милей в ширину ударят по земле. "},
+
+      {"name": "Callum",
+        "quote": "Really? Wow! ",
+        "translation": "Действительно? Вау! "},
+
+      {"name": "Yvonne",
+        "quote": "Yeah. But we won't be here anyway, will we? ",
+        "translation": "Но нас не будет здесь уже по-любому, ведь так? "},
+
+      {"name": "Callum",
+        "quote": "Well, I hope not! ",
+        "translation": "Ну надеюсь нет! "},
+
+      {"name": "Yvonne",
+        "quote": "But we must look after our planet for future generations, mustn't we? ",
+        "translation": "Но мы должны присматривать за нашей планетой для будущих  поколений, не так ли? "},
+
+      {"name": "Callum",
+        "quote": "Oh, of course. ",
+        "translation": "О, конечно. "},
+
+      {"name": "Yvonne",
+        "quote": [
+          "Okay – now to that question: When was the last time that an asteroid hit earth?",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) 85 million years ago",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) 65 million years ago or",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) 45 million years?"
+        ],
+        "translation": [
+          "Хорошо – а сейчас тот вопрос: «Когда был последний раз когда астероид ударил по земле?»",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) 85 млн. лет назад",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) 65 млн. лет назад или",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) 45 млн. лет назад?"
+        ]},
+
+      {"name": "Callum",
+        "quote": "Well, I made a complete guess at 65 million years ago. ",
+        "translation": "Я сделал полностью предположение – 65 млн. лет назад. "},
+
+      {"name": "Yvonne",
+        "quote": "And once again, you were right Callum! ",
+        "translation": "И снова ты был прав, Callum! "},
+
+      {"name": "Callum",
+        "quote": "Really? ",
+        "translation": "Да? "},
+
+      {"name": "Yvonne",
+        "quote": "Yes. ",
+        "translation": "Да. "},
+
+      {"name": "Callum",
+        "quote": "Oh yes! Congratulations to me! ",
+        "translation": "О да! Поздравления мне! "},
+
+      {"name": "Yvonne",
+        "quote": "…Because that's when the dinosaurs were all wiped out - by an asteroid it's thought. ",
+        "translation": "Потому что это когда динозавры были уничтожены из-за астероида – это мысль. "},
+
+      {"name": "Callum",
+        "quote": "Ahh – okay. ",
+        "translation": "Хорошо. "},
+
+      {"name": "Yvonne",
+        "quote": "But that's all we've got time for in today's programme. Do join us again next time for more '6 minute English'. ",
+        "translation": "Это все время для сегодняшней программы. Присоединяйтесь к нам еще в следующий раз для «6 minute English». "},
+
+      {"name": "C + Y",
+        "quote": "Goodbye!",
+        "translation": "Пока!"}
+    ],
+
+    "img_addr": "6me/2008/2008-10/Asteroid-mission.jpg",
+    "audio_src": "6me/2008/2008-10/2008-10-01 - 6 Minute English - Asteroid mission.mp3",
+    "title": "BBC 6 Minute English podcast - Asteroid mission [Астероидная миссия], 2008-10-22",
+
+    "words_arr": [
+      {"en_word": "rather", "ru_word": "скорее"},
+      {"en_word": "the spacecraft", "ru_word": "космический корабль"},
+      {"en_word": "solar", "ru_word": "солнечный"},
+      {"en_word": "to come across", "ru_word": "проходить через"},
+      {"en_word": "the examining", "ru_word": "изучение"},
+      {"en_word": "to hit", "ru_word": "ударять "},
+      {"en_word": "beneath", "ru_word": "под"},
+      {"en_word": "the rubble", "ru_word": "щебень"},
+      {"en_word": "across", "ru_word": "поперек"},
+      {"en_word": "the rubbish", "ru_word": "мусор"},
+      {"en_word": "the debris", "ru_word": "мусор"},
+      {"en_word": "the formation", "ru_word": "формирование"},
+      {"en_word": "the leftover", "ru_word": "останки"},
+      {"en_word": "pristine", "ru_word": "первобытнный, античный"},
+      {"en_word": "the insight", "ru_word": "понимание"},
+      {"en_word": "to evolve", "ru_word": "эволюционировать"},
+      {"en_word": "gradually", "ru_word": "постепенно"},
+      {"en_word": "to crash", "ru_word": "падать"},
+      {"en_word": "to collide", "ru_word": "сталкиваться"},
+      {"en_word": "to wipe out", "ru_word": "уничтожать "},
+      {"en_word": "to impact", "ru_word": "влиять "}
+    ]
+  }
+}
