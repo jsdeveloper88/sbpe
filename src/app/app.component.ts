@@ -35,7 +35,8 @@ import { Component, OnInit } from '@angular/core';
   styles: [`
     .header-logo-up {
         width: 100%;
-        height: 90px;
+        //height: 90px;
+        height: 10vh;
         background-color: rgb(15, 190, 124);
         float: left;
     }
@@ -49,8 +50,8 @@ import { Component, OnInit } from '@angular/core';
     }
     .header-title > .header-logo-left {
       width: auto;
-      height: 90px;
-      //height: 10vh;
+      //height: 90px;
+      height: 10vh;
       float: left;
       border-radius: 5px;
       display: none;
@@ -72,6 +73,10 @@ import { Component, OnInit } from '@angular/core';
       width: 100%;
       float: left;
     }
+    .podcast {
+      height: 85vh;
+    }
+
     .footer {
       background-color: rgb(15, 190, 124);
       border-radius: 5px;
@@ -81,11 +86,11 @@ import { Component, OnInit } from '@angular/core';
       float: left;
       padding: 7px;
 
-      //height: 5vh;
+      height: 5vh;
     }
 
     #main {
-      min-height: 98vh;
+      //min-height: 98vh;
       //min-height: 100vh;
       width: 100%;
       margin: 0 auto;

@@ -19,7 +19,8 @@ import { WordComponent } from './word.component';
 const appRoutes: Routes = [
   //{ path: '', component: HomeComponent},
   { path: '', redirectTo: 'about', pathMatch: 'full'},
-  //{ path: 'mobile_phones', redirectTo: '/6me/2008-06-04/mobile-phones', pathMatch: 'full'},
+  //{ path: '', component: AppComponent},
+  { path: 'mobile_phones', redirectTo: '/6me/2008-06-04/mobile-phones', pathMatch: 'full'},
 
   { path: 'about', component: AboutComponent},
   //{ path: ':rubric/:date/:route', component: PodcastComponent},

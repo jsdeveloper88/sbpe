@@ -22,7 +22,7 @@ import { HttpService } from './http.service';
   styles: [`
     .left-menu {
       width: 100%;
-      margin: 3px 0;
+      margin: 1px 0;
     }
     .left-menu a.year-6me {
       background-color: rgb(15, 190, 124);
