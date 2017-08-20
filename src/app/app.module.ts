@@ -8,6 +8,9 @@ import {Routes, RouterModule} from '@angular/router';
 import { AppComponent } from './app.component';
 import { LeftMenuComponent } from './left.menu.component';
 import { RightMenuComponent } from './right.menu.component';
+import { SearchMenuComponent } from './search.menu.component';
+import { HeaderMenuComponent } from './header.menu.component';
+import { FooterMenuComponent } from './footer.menu.component';
 
 import { AboutComponent } from './about.component';
 import { PodcastComponent } from './podcast.component';
@@ -33,6 +36,9 @@ const appRoutes: Routes = [
     AppComponent,
     LeftMenuComponent,
     RightMenuComponent,
+    SearchMenuComponent,
+    HeaderMenuComponent,
+    FooterMenuComponent,
     AboutComponent,
     PodcastComponent,
     PhraseComponent,

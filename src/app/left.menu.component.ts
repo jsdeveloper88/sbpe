@@ -8,23 +8,26 @@ import { HttpService } from './http.service';
     <div class="left-menu">
       <a routerLink="/about" class="year-6me"> О сайте </a>
     </div>
+
     <div class="left-menu" *ngFor="let year of menu_6me">
       <a class="year-6me" (click)="toggle_year(year)"> {{year.year}} </a>
+
       <div *ngFor="let month of year.months" [ngClass]="{invisible: year.months_invisible}">
         <a class="month-6me" (click)="toggle_month(month)"> {{month.month}} </a>
+
         <div *ngFor="let podcast of month.podcasts" [ngClass]="{invisible: month.podcasts_invisible}">
           <a routerLink="/{{year.rubric}}/{{podcast.title.substring(podcast.title.length - 10, podcast.title.length)}}/{{podcast.route}}" class="podcast-6me"> {{podcast.title}} </a>
-          <!--<a [routerLink]="['podcast', {{'year.rubric'}}, {{'podcast.title.substring(podcast.title.length - 10, podcast.title.length)'}},{{'podcast.route'}}]" class="podcast-6me"> {{podcast.title}} </a>-->
         </div>
+
       </div>
     </div>
   `,
   styles: [`
     .left-menu {
-      width: 100%;
+      //width: 100%;
       margin: 1px 0;
     }
-    .left-menu a.year-6me {
+    .left-menu .year-6me {
       background-color: rgb(15, 190, 124);
       color: white;
       display: block;
@@ -35,7 +38,7 @@ import { HttpService } from './http.service';
       cursor: pointer;
       border-radius: 5px;
     }
-    .left-menu a.month-6me {
+    .left-menu .month-6me {
       background-color: #eee;
       color: black;
       display: block;
@@ -45,7 +48,7 @@ import { HttpService } from './http.service';
       margin: 1px 0;
       border-radius: 5px;
     }
-    .left-menu a.podcast-6me {
+    .left-menu .podcast-6me {
       background-color: white;
       color: black;
       display: block;
@@ -85,7 +88,7 @@ export class LeftMenuComponent implements OnInit {
 
   ngOnInit(){
     this.httpService.getData('assets/menu_6me.json').subscribe(
-      data => {
+        data => {
         this.menu_6me = data;
         //alert('height---' + this.el.nativeElement.offsetHeight);
       }

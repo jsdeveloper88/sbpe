@@ -10,7 +10,7 @@ import { WordComponent } from './word.component';
 @Component({
     selector: 'podcast',
     template:`
-    <div style="border-radius: 5px; padding: 3px;">
+    <div style="border-radius: 5px; padding: 3px; border: 1px solid rgb(15, 190, 124); float: left; margin: -9px 0 1px 0;">
       <h3 style="margin: 5px 0;">{{title}}</h3>
 
       <img src="{{img_addr}}" style="margin: 5px auto 5px auto; display: block; border-radius: 5px; width: 75%;">

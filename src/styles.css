@@ -1,11 +1,13 @@
 * {
   box-sizing: border-box;
 }
-.row::after {
+
+/*.row::after {
   content: "";
   clear: both;
   display: block;
-}
+}*/
+
 html {
   font-family: "Lucida Sans", sans-serif;
 }
