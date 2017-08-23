@@ -1,4 +1,4 @@
-import { Component, OnInit} from '@angular/core';
+import { Component, OnInit, ElementRef, Renderer2} from '@angular/core';
 
 import { ActivatedRoute} from '@angular/router';
 import {Subscription} from 'rxjs/Subscription';
@@ -10,7 +10,7 @@ import { WordComponent } from './word.component';
 @Component({
     selector: 'podcast',
     template:`
-    <div style="border-radius: 5px; padding: 3px; border: 1px solid rgb(15, 190, 124); float: left; margin: -9px 0 1px 0;">
+    <div id = "podcast" style="border-radius: 5px; padding: 3px; float: left; min-height: 76.5vh;/*border: 1px solid rgb(15, 190, 124); margin: -9px 0 1px 0;*/">
       <h3 style="margin: 5px 0;">{{title}}</h3>
 
       <img src="{{img_addr}}" style="margin: 5px auto 5px auto; display: block; border-radius: 5px; width: 75%;">
@@ -79,7 +79,8 @@ export class PodcastComponent implements OnInit {
     this.new_word_invisible = !this.new_word_invisible;
   }
 
-  constructor(private activateRoute: ActivatedRoute, private httpService: HttpService){
+  constructor(private activateRoute: ActivatedRoute, private httpService: HttpService, private element: ElementRef, private renderer: Renderer2){
+    this.renderer.setStyle(this.element.nativeElement, "float", "left");
   }
 
   ngOnDestroy(){

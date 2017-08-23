@@ -20,7 +20,7 @@ import { Component, OnInit } from '@angular/core';
       padding: 7px;
 
       height: 50px;
-      margin: -2px 0 0 0;
+      //margin: -2px 0 0 0;
     }
 
     .footer div {

@@ -3,7 +3,7 @@ import { Component} from '@angular/core';
 @Component({
     selector: 'about-app',
     template: `
-      <div style="border-radius: 5px; padding: 7px; border: 1px solid rgb(15, 190, 124); float: left; margin: -9px 0 1px 0;">
+      <div style="border-radius: 5px; padding: 7px; float: left; min-height: 76.5vh;/*border: 1px solid rgb(15, 190, 124); min-height: 815px; margin: -9px 0 1px 0;*/">
         <h3 style="margin: 5px 0;">О сайте</h3>
         Многие сегодня пытаются улучшить восприятие английского на слух - и тут появляются проблемы, которые чаще всего заключаются в следующем:
           <strong>

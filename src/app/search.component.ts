@@ -8,7 +8,7 @@ import { HttpService } from './http.service';
 @Component({
   selector: 'search_results',
   template: `
-    <div style="/*border: 3px solid rgb(15, 190, 124); */border-radius: 5px; padding: 3px; min-height: 84vh;">
+    <div style="/*border: 3px solid rgb(15, 190, 124); */border-radius: 5px; padding: 3px; min-height: 76.5vh;">
       <h3 style="margin: 5px 0;">Найденные подкасты</h3>
       <div *ngFor="let podcast of found_podcasts">
           <a href="{{podcast.rubric}}/{{podcast.title.substring(podcast.title.length - 10, podcast.title.length)}}/{{podcast.route}}"> {{podcast.title}} </a>
