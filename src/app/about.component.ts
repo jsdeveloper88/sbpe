@@ -22,6 +22,13 @@ import { Component} from '@angular/core';
              </ol>
           </strong>
         Когда вы постепенно прослушаете таким образом примерно 40-50 подкастов, то заметите, что, как минимум начали лучше воспринимать английский, и он уже не так страшен вам как раньше, а если не забросите нашу методику - продолжите дальше прогрессировать.
+        <ins class="adsbygoogle"
+          style="display:block; text-align:center;"
+          data-ad-format="fluid"
+          data-ad-layout="in-article"
+          data-ad-client="ca-pub-8645329394822741"
+          data-ad-slot="3256794670">
+        </ins>
       </div>
     `
 })
