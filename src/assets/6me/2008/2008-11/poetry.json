@@ -1,0 +1,249 @@
+{
+  "data": {
+    "phrases_arr": [
+      {
+        "name": "Yvonne",
+        "quote": "This is '6 Minute English' and I'm Yvonne Archer - and thanks to Callum for joining me today. Hello Callum!",
+        "translation": "Это передача «6 минут английского» и я Иван Арчер – и спасибо Калуму за то что пригласил меня на эфир. Привет, Калум! "
+      },
+
+      {
+        "name": "Callum",
+        "quote": "Hello Yvonne!",
+        "translation": "Привет, Иван! "
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "In today's programme we hear from a poet. But first – Callum, are you any good at writing poetry?",
+        "translation": "В сегодняшней программе мы послушаем поэта. Но сначала – Калум, хорош ли ты в написании поэм? "
+      },
+
+      {
+        "name": "Callum",
+        "quote": "Umm, not really – no – not at all!",
+        "translation": "Нет - вовсе нет! "
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": [
+          "Well don't worry about it because we've a special interview with someone who is good at poetry. But first, a poetic question for Callum,<br> Which is Britain's favourite poem? Is it",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) 'Oh My Luve's Like a Red, Red Rose' by Robert Burns",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) 'How Do I love Thee?' by Elizabeth Barratt Browning – OR…",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) 'Shall I Compare Thee to a Summer's Day?' by William Shakespeare"
+        ],
+
+        "translation": [
+          "Не волнуйся об этом, потому что у нас интервью кое с кем, кто хорошо в поэзии. Но сначала вопрос о поэзии для Калума: «Какая самая любимая поэма в Британии?» Это",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) «О моя Люв – как красная роза» от Роберта Бернса",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) «Как мне любить тебя?» от Элизабет Бэррэт Браунинг – или",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c)«Я сравню тебя с летним днем?» от Вильяма Шекспира"
+        ]
+      },
+
+      {
+        "name": "Callum",
+        "quote": "Well I remember this competition but I don't remember the answer. I'm going to go for Shakespeare - 'Shall I Compare Thee to a Summer's Day' because he's probably our most well known writer.",
+        "translation": "Я помню это сравнение, не помню ответ. Я отвечу что Шекспир - «Я сравню тебя с летним днем?», потому что он самый известный писатель. "
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "That's a good choice but - we'll find out whether you're right or wrong at the end of the programme. Dave Neita is a barrister – a lawyer who speaks on behalf of people or organisations in the higher courts of law. But Dave is also a poet, and in his interview, he uses the words 'metaphors' and 'symbolism' – both very useful for talking in English about poetry. Callum – what can you tell us about 'metaphors'?",
+        "translation": "Хороший выбор, но мы выясним прав ты или нет в конце программы. Дэйв Нэйта – адвокат, который говорит от имени людей или организаций в высших судах. Но Дэйв – еще и поэт, и в своем интервью он использует слова «метафоры» и «символизм» - оба очень полезны в английском для разговора о поэзии. Калум – что ты можешь сказать нам о «метафорах»?"
+      },
+
+      {
+        "name": "Callum",
+        "quote": "Well 'a metaphor' is a way of describing something or someone by using the qualities of something else. For example, in England we have very cold wind, it's so cold, we describe it as 'a biting wind' – 'a biting wind'. So that's a metaphor; it's not really biting, but we say 'a biting wind'.",
+        "translation": "Ну «метафора» - это способ описания чего-то или кого-то путем использования качеств чего-то другого. К примеру, в Англии у нас очень холодный ветер, он такой холодный, мы описываем его как «кусающий ветер» - «холодный ветер». Так что это метафора; на самом деле он не кусает, но мы говорим «кусающий ветер»."
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "Excellent. And what about 'symbolism'?",
+        "translation": "Отлично. А как насчет «символизма»? "
+      },
+
+      {
+        "name": "Callum",
+        "quote": "Well 'symbolism' is when we take an object, a shape or even an idea and we use that to represent something else that we want to talk about.",
+        "translation": "Ну «символизм» - это когда мы берем объект, форму или даже идею и используем чтобы представить что-то другое, о чем мы хотим говорить. "
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "Okay, great! So here's an example of 'symbolism' as used in one of Dave's poems:",
+        "translation": "Хорошо, замечательно! Здесь пример «символизма», используемого в одной из поэм Дэйва: "
+      },
+
+      {
+        "name": "DAVE NEITA",
+        "quote": [
+          "Mind the Gap… mind the gap between the rich and the poor",
+          "If nothing is done, it will extend even more"
+        ],
+        "translation": [
+          "Будь против Пропасти … будь против пропасти между богатыми и бедными",
+          "Если ничего не будет сделано, она расширится еще больше"
+        ]
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "'Mind the gap' is an announcement and a sign that we often hear and see at London Underground train stations. They warn passengers to be careful when getting on and off trains and platforms because of the space between them. But what does the announcement and sign symbolise in that poem Callum?",
+        "translation": "Будь против Пропасти – это объявление и знак того, что мы часто слышим и видим на станциях лондонского метро. Они предупреждают пассажиров быть осторожными, сходящих и входящих с поездов и платформ из-за различия между ними. Но что объявление и знак символизируют в этой поэме, Калум? "
+      },
+
+      {
+        "name": "Callum",
+        "quote": "Well here, Dave has used 'mind the gap' – to symbolise the gap or the difference in wealth between rich people and poor people. He's saying that there's a gap between them and he's giving us a warning that if we're not careful, that gap will get even wider.",
+        "translation": " Ну здесь Дэйв использовал «будь против пропасти» - чтобы символизировать различие в благополучии между богатыми и бедными людьми. Он говорит, что есть пропасть между ними и он предупреждает нас, что если мы не будем осторожны, эта пропасть может даже стать шире. "
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "So 'Mind the Gap' delivers a message from Dave about poverty.",
+        "translation": "Так что «Будь против Пропасти» шлет нам сообщение о бедности от Дэйва. "
+      },
+
+      {
+        "name": "DAVE NEITA",
+        "quote": [
+          "Mind the Gap… mind the gap between the rich and the poor",
+          "If nothing is done, it will extend even more"
+        ],
+        "translation": [
+          "<Будьте против пропасти... будьте против пропасти между богатыми и бедными",
+          "Если ничего не делать, она станет еще больше"
+        ]
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "Now as we hear more from him, try to catch the three things he says poetry can communicate – which three things can poetry tell us about?",
+        "translation": "Сейчас как только мы послушаем его еще, попробуй уловить 3 вещи, которые как он говорит, поэзия может передать – о каких 3 вещах поэзия может рассказать нам? "
+      },
+
+      {
+        "name": "DAVE NEITA",
+        "quote": "Poetry can communicate feelings, thoughts and ideas by way of metaphors and symbolism. But poetry can also tell stories and that is the flexibility of poetry; it lends itself to everyone to do with it as they choose.",
+        "translation": "Поэзия может передать чувства, мысли и идеи путем метафор и символизма. Но поэзия может также рассказывать истории, и это и есть ее гибкость; она поддается каждому. "
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "Callum, which three things can poetry communicate?",
+        "translation": " Калум, какие 3 вещи поэзия может передавать? "
+      },
+
+      {
+        "name": "Callum",
+        "quote": "Dave says that poetry can communicate feelings, thoughts and ideas.",
+        "translation": "Дэйв говорит, что поэзия может передавать чувства, мысли и идеи. "
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "Yes, and we also heard how poetry is flexible so it 'lends itself to' other things such as sending a message, as in 'Mind the Gap' - or even telling a story. Before Dave came to England from Jamaica in 1995, he decided to write a letter to the Queen – except, his letter was really a poem which told his story! 'Letter to the Queen' uses the word 'hospitality' and the term 'short notice'. Callum, what do we mean by them?",
+        "translation": "Да, и мы также услышали как поэзия гибка, так что она поддается другим вещам таким как послание сообщения, как «Будь против Пропасти» - или даже рассказыванию истории. До того как Дэйв приехал в Англию из Ямайки в 1995-и году, он решил написать письмо королеве – за исключением, письмо было настоящей поэмой, которое рассказывает историю! «Письмо королеве» использует слово «гостеприимство» и фразу «короткое уведомление». Калум, что мы под этим имеем ввиду?"
+      },
+
+      {
+        "name": "Callum",
+        "quote": "Well, if someone shows us 'hospitality', they make us feel welcome and comfortable. And 'short notice' is if you don't tell people you're going to do something until just a little bit of time before you do it. So for example, if you ask me to come to the '6 Minute English' studio only two minutes before we're due to record, you are giving me very 'short notice'.",
+        "translation": "Ну если кто-то демонстрирует нам свое гостеприимство, он заставляет нас чувствовать себя доброжелаемыми и комфортно. И «короткое уведомление» - это если вы не говорите людям, что вы собираетесь сделать что-то, до лишь небольшого промежутка времени до того, как вы это делаете. Так что, если вы просите меня прийти в студию «6 минут английского» только за 2 минуты до вещания, вы даете мне «короткое уведомление». "
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "As if I would! Okay, let's get an extract from Dave Neita's poem 'Letter to the Queen'… ",
+        "translation": "Хорошо, давай послушаем отрывок из поэмы Дэйва «Письмо королеве»… "
+      },
+
+      {
+        "name": "DAVE NEITA",
+        "quote": [
+          "When your people come down to Jamaica",
+          "We treat them like royalty",
+          "So when I come up to England",
+          "I'm expecting the same hospitality",
+          "I don't have anywhere to stay",
+          "Because I'm coming up on short notice",
+          "So please, I'm asking you to fix me up a place in a Buckingham Palace"
+        ],
+        "translation": [
+          "Когда люди приезжают на Ямайку",
+          "Мы обращаемся с ними как с королевскими особами",
+          "Так что когда я приезжаю в Англию",
+          "Я ожидаю такого же гостеприимства",
+          "Мне негде остановиться",
+          "Потому что я приезжаю с коротким уведомлением",
+          "Так что я прошу вас приготовить для меня место в Букенгемском Дворе"
+        ]
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "I wonder whether Dave actually sent the Queen his poem?",
+        "translation": "Я удивляюсь, отослал ли Дэйв свою поэму королеве? "
+      },
+
+      {
+        "name": "Callum",
+        "quote": "Oh well, I doubt it – because I'm sure he didn't stay at Buckingham Palace when he arrived in England!",
+        "translation": "О, ну я сомневаюсь – потому что я уверен, что он не пребывал в Букенгемском Дворе, когда прибыл в Англию"
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "No – right. Now let's move on to the answer to today's big question. Which is Britain's favourite poem Callum?",
+        "translation": "Нет – правильно. А сейчас давай вернемся к ответу на сегодняшний вопрос. Какая самая любимая британская поэма, Калум? "
+      },
+
+      {
+        "name": "Callum",
+        "quote": "Well, I wasn't sure. I guessed that it was 'Shall I Compare Thee to a Summer's Day?' by William Shakespeare because he's probably our most famous writer. Was I right – was I right?!",
+        "translation": "Ну я не был уверен. Я предположил, что это была Шекспировская «Я сравню тебя с летним днем?», потому что он возможно наш самый известный писатель. Я был прав – я был прав?! "
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "No you weren't – no you weren't! I guessed the same one at first – but anyway. It was actually 'How Do I Love Thee?' by Elizabeth Barratt Browning. But that's all we've got time for today on '6 Minute English'. Do join us again for more.",
+        "translation": "Нет – ты был не прав! Я предположила так же сначала – но все равно. Это была на самом деле “Как мне любить тебя?” от Элизабет Бэррэт Браунинг. Это на сегодня для «6 минут английского». Присоединяйтесь к нам еще."
+      },
+
+      {
+        "name": "Callum",
+        "quote": "Goodbye!",
+        "translation": "Пока!"
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "Goodbye!",
+        "translation": "Пока!"
+      }
+    ],
+
+	"img_addr": "6me/2008/2008-11/Poetry.jpg",
+	"audio_src": "6me/2008/2008-11/2008-11-12 - 6 Minute English - Poetry.mp3",
+	"title": "BBC 6 Minute English podcast - Poetry [Поэзия], 2008-11-12",
+
+	"words_arr": [
+		{"en_word": "the poet", "ru_word": "поэт"},
+		{"en_word": "the poetry", "ru_word": "поэзия"},
+		{"en_word": "the barrister", "ru_word": "адвокат"},
+		{"en_word": "the behalf", "ru_word": "имя"},
+		{"en_word": "to represent", "ru_word": "представлять"},
+		{"en_word": "the announcement", "ru_word": "объявление"},
+		{"en_word": "the wealth", "ru_word": "богатство"},
+		{"en_word": "to symbolise", "ru_word": "символизировать"},
+		{"en_word": "the poverty", "ru_word": "бедность"},
+		{"en_word": "to communicate", "ru_word": "сообщать"},
+		{"en_word": "the hospitality", "ru_word": "гостеприимство"},
+		{"en_word": "the short notice", "ru_word": "краткое уведомление"}
+	]
+  }
+}

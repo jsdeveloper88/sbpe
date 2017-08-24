@@ -1,0 +1,217 @@
+{
+  "data": {
+	"phrases_arr": [
+		{
+			"name": "Yvonne",
+			"quote": "Hello, I'm Yvonne Archer and this is '6 minute English' - and thanks to William Kremer for joining me today.",
+			"translation": "Привет, я Yvonne Archer и это '6 minute English' – и спасибо William Kremer за приглашения меня сегодня."
+		},
+
+		{
+			"name": "William",
+			"quote": "Hello – it's a pleasure!",
+			"translation": "Привет – это удовольствие для меня!"
+		},
+
+		{
+			"name": "Yvonne",
+			"quote": "For fifty-two years, the Times BFI - British Film Institute's London Film Festival has shown the best new films from around the world. And for the first time, the BFM International Film Festival has also been based at the BFI. William, do you know about the BFM Festival?",
+			"translation": "За 52 года Times BFI – Лондонский кинофестиваль Британского кино-института показал лучшие фильмы со всего мира. И первое время Международный кинофестиваль Британского кино-института также был основан в Британском кино-институте. William, ты знаешь о BFM фестивале?"
+		},
+
+		{
+			"name": "William",
+			"quote": "Umm – I know that it's the Black Film Makers' International Film Festival.",
+			"translation": "Ну я знаю что это международный кинофестиваль чернокожих режиссеров."
+		},
+
+		{
+			"name": "Yvonne",
+			"quote": "That's right and to celebrate its tenth anniversary, the emphasis of the 2008 BFM has been on films made by Black people - who are based here in Britain. Well, I was lucky enough to get an invitation to the BFM Shorts Awards - but before we find out which short film won the award and about the idea behind this festival – I've a question for you. Yes, are you ready William?",
+			"translation": "Правильно и чтобы отпраздновать его 10-ю годовщину, акцент BFM 2008 был на фильмах, снятых чернокожими людьми – которые обосновались здесь в Британии. Мне довольно-таки посчастливилось получить приглашение на награждение короткометражек BFM – но до того как мы выясним какая короткометражка выиграла награду и идею,  которая стоит за этим фестивалем, – у меня есть вопрос для тебя. Ты готов, William?"
+		},
+
+		{
+			"name": "William",
+			"quote": "Yes.",
+			"translation": "Да."
+		},
+
+		{
+			"name": "Yvonne",
+			"quote": [
+      "How long is the shortest film that was ever made? Was it",
+			"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) one second",
+			"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) one minute OR",
+			"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) five minutes"],
+
+			"translation": [
+      "Сколько длится по времени самый короткий фильм, который когда-либо был снят?",
+			"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) секунду",
+			"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) минуту ИЛИ",
+			"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) 5 минут"]
+		},
+
+		{
+			"name": "William",
+			"quote": "I'm gonna go for a) – one second because even though that sounds too short, sounds very silly, I think the silly answers are usually correct. That's my tactic so I'm gonna go for one second.",
+			"translation": "Я скажу, что а) – 1 секунда, потому что даже несмотря на то, что это звучит слишком коротко, звучит очень глупо, я думаю, что глупые ответы обычно правильные. Это моя тактика, так что я скажу, что 1 секунда."
+		},
+
+		{
+			"name": "Yvonne",
+			"quote": "... And we'll find out whether William was right or wrong later on. Now in today's interview we'll come across the word 'stereotyped'. William, what does it mean?",
+			"translation": "... И мы выясним был ли William прав или нет позже. Сейчас в сегодняшнем интервью мы столкнемся со словом 'стереотипизированный'. William, что это значит?"
+		},
+
+		{
+			"name": "William",
+			"quote": "Well if someone is 'stereotyped', other people who don't know them have a very strong, fixed idea about how they will behave. They're 'stereotyped' perhaps because of the country they come from, or (from) the colour of their skin or their religion, for example.",
+			"translation": "Ну если кто-то стереотипизированный , другие, кто его не знают, имеют очень сильное, постоянное мнение как он будет себя вести. Они стереотипизированны возможно потому что из-за страны, из которой они приехали, или из-за цвета кожи или из-за их религии, к примеру."
+		},
+
+		{
+			"name": "Yvonne",
+			"quote": "And what are 'platforms for expression'?",
+			"translation": "И что такое 'площадки для выражения'? "
+		},
+
+		{
+			"name": "William",
+			"quote": "'Platforms for expression' in this case, refers to ways and places that artistic people can use to share their work and messages. So for example, a cinema screen or a novel are 'platforms for expression'.",
+			"translation": " 'Площадки для выражения' в этом случае относятся к путям и местам, которые люди искусства могут использовать, чтобы поделиться своими работами и  сообщениями. Так что, к примеру, экран кинотеатра или роман являются 'площадками для выражения'."
+		},
+
+		{
+			"name": "Yvonne",
+			"quote": "Great! Now as we hear from Nadia Denton, the Director of the BFM International Film Festival, try to catch the verb she uses to mean 'highlight' or 'to draw attention to'. I asked Nadia: why is there a separate section for Black film makers within the London Film Festival each year?",
+			"translation": "Замечательно! А сейчас, как только мы послушаем Nadia Denton, организатора Международного кинофестиваля BFM, попробуй уловить глагол, который она использует, чтобы иметь ввиду 'отметить' или 'привлечь внимание'. Я спросила Nadia: почему есть разделение для чернокожих режиссеров в ежегодном Лондонском кинофестивале?"
+		},
+
+		{
+			"name": "NADIA DENTON",
+			"quote": "Because it's important for us to showcase the stories of groups and communities which otherwise would go unnoticed, which don't get the correct representation in the mainstream, who perhaps are stereotyped, who perhaps don't have many other platforms for expression.",
+			"translation": "Потому что это важно для нас продемонстрировать истории групп и сообществ, которые иначе могли бы пройти незаметно, у которых нет корректного представительства в мэйнстриме, кто возможно стереотипизирован, у кого возможно нет многиъ других площадок для выражения."
+		},
+
+		{
+			"name": "Yvonne",
+			"quote": "William, which verb did Nadia use to mean 'to highlight' or 'to draw attention to'?",
+			"translation": "William, какой глагол Nadia использовала, чтобы иметь виду 'отметить' или 'привлечь внимание'?"
+		},
+
+		{
+			"name": "William",
+			"quote": "'To showcase' – Nadia explained that it's important 'to showcase' the stories of communities and groups which we don't usually see or hear.",
+			"translation": "'Продемонстрировать' - Nadia объяснила, что важно 'продемонстрировать' истории сообществ и групп, которые мы обычно не видим и не слышим."
+		},
+
+		{
+			"name": "Yvonne",
+			"quote": "So the BFM Festival is a chance for people who are often stereotyped and not considered or noticed by mainstream cinema to have their work seen. Now at the BFM Shorts Awards, we saw five new films and voted for the best one. And the winner was 'Win, Lose or Draw' directed by Lawrence Coke. It was a wonderful blend of story-telling and interviews with Caribbean people who'd arrived in Britain from the 1950s, like my own father. And after the awards, Lawrence explained just how important making the film had been to him...",
+			"translation": "Так что фестиваль BFM – это шанс для людей, которые часто стереотипизированны и не рассматриваются или незаметны  мэйнстримовым кино, чтобы их работы увидели. Сейчас, на награждении короткометражек BFM, мы увидели 5 новых фильмов и проголосовали за лучший. И победителем стал 'Победа, Поражение или Ничья', снятый Lawrence Coke. Это была чудесная смесь исторических рассказов и интервью с каррибскими людьми, которые прибыли в Британию из 1950-х, как мой собственный отец. И после награждения Lawrence просто объяснил как важен для него был процесс съемки фильма."
+		},
+
+		{
+			"name": "LAWRENCE COKE",
+			"quote": "The whole thing was a very cathartic experience on one level because, I always say that the young people of today don't understand that they're standing on the shoulders of giants.",
+			"translation": "Весь процесс был очень катарсическим опытом с одной стороны, я всегда говорю, что сегодня молодые люди не понимают, что они стоят на плечах гигантов."
+		},
+
+		{
+			"name": "Yvonne",
+			"quote": "Making 'Win, Lose or Draw' was very 'cathartic' for Lawrence – it allowed him to express some really deep emotions. But it was cathartic for many of us in the audience too – and educational.",
+			"translation": "Процесс снятия 'Победа, Поражение или Ничья' был очень катарсичным для Lawrence – он разрешил ему выразить несколько глубоких эмоций. Но он был очень катарсичным для многих из нас в аудитории тоже – и поучительным."
+		},
+
+		{
+			"name": "William",
+			"quote": "And hopefully lots of young people will see the film because Lawrence sees it as a way to help them understand that they and their parents are an important part of Britain's history.",
+			"translation": "Надеюсь много молодых людей посмотрят этом фильм, потому что Lawrence видит его как способ помочь им понять, что они и их родители являются важной частью британской истории."
+		},
+
+		{
+			"name": "Yvonne",
+			"quote": "Yes – and Lawrence describes our grandparents and parents as 'giants'. Their lives were really difficult but they still tried to help England and make things easy for us and their families back in the Caribbean.",
+			"translation": "Да – и Lawrence описывает наших прародителей и родителей как 'гигантов'. Их жизни были трудны, но они все равно пытались помочь Англии и делать вещи легкими для нас и своих семей на Карибах. "
+		},
+
+		{
+			"name": "LAWRENCE COKE",
+			"quote": "They were children themselves and they came over to help the mother country because they felt it was the right thing to do – leaving children behind, wives, and… I just…I'm in awe of that.",
+			"translation": "Они сами были детьми и прибыли сюда, чтобы помочь своей стране, потому что чувствовали, что это правильный поступок, чтобы исполнить его – оставляя позади детей и жен… Я просто… Я в трепете от этого…"
+		},
+
+
+		{
+			"name": "William",
+			"quote": "Yes, they were an awesome- amazing group of young people.",
+			"translation": "Да, они были восхитительны – удивительная группа молодых людей."
+		},
+
+		{
+			"name": "Yvonne",
+			"quote": "They certainly were. My father travelled to England – at the time, known by Caribbean people as 'the mother country' – and he came here at the age of twenty-one. And like many others from the Caribbean, my father simply wanted to work hard and earn money. He wanted his parents to have what they needed and he especially wanted his younger brothers and sisters to go to school.",
+			"translation": "Определенно они были такими. Мой отец путешествовал по Англии – во время, известное карибцыми как 'страна-мать' - и он приехал сюда в возрасте 21-го года. И как многие другие с Карриб, мой отец просто хотел упорно работать и заработать денег. Он хотел, чтобы у его родителей было то, в чем они нуждались,  и особенно он хотел, чтобы его младшие братья и сестры пошли в школу."
+		},
+
+		{
+			"name": "William",
+			"quote": "So education was really important to them.",
+			"translation": "Так что образование для них было очень важно."
+		},
+
+		{
+			"name": "Yvonne",
+			"quote": "Definitely because most of them left school and started work when they were fourteen years old. But now, it's time for you to educate us, William!",
+			"translation": "Определенно – потому что большинство из них бросили школу и начали работать, когда им было 14 лет. А сейчас время для тебя учить нас, William!"
+		},
+
+		{
+			"name": "William",
+			"quote": "Surely not!",
+			"translation": "Определенно нет!"
+		},
+
+		{
+			"name": "Yvonne",
+			"quote": "Yes! What was your answer to today's question: how long is the shortest film that was ever made?",
+			"translation": "Да! Каким был твой ответ на сегодняшний вопрос: 'Сколько длится по времени самый короткий фильм, который когда-либо был снят?'"
+		},
+
+		{
+			"name": "William",
+			"quote": "I went for the silly one which was one second.",
+			"translation": "Я глупо ответил, что это была 1 секунда."
+		},
+
+		{
+			"name": "Yvonne",
+			"quote": "And you were correct to be silly because you were absolutely right! Anyway, that's all for today's '6 Minute English' from BBC Learning English. Join us again for more next time.",
+			"translation": "И ты оказался прав в своей глупости, потому что ты абсолютно прав! Это все на сегодня для '6 Minute English' на BBC Learning English. Присоединяйтесь к нам еще в следующий раз."
+		},
+
+		{
+			"name": "W/Y",
+			"quote": "Goodbye!",
+			"translation": "Пока!"
+		}
+	],
+
+	"img_addr": "6me/2008/2008-11/BFM-International-Film-Festival.jpg",
+	"audio_src": "6me/2008/2008-11/2008-11-26 - 6 Minute English - BFM International Film Festival.mp3",
+	"title": "BBC 6 Minute English podcast - BFM International Film Festival [Международный Фестиваль Фильмов BFM], 2008-11-26",
+
+	"words_arr": [
+		{"en_word": "the pleasure", "ru_word": "удовольствие"},
+		{"en_word": "the emphasis", "ru_word": "акцент"},
+		{"en_word": "stereotyped", "ru_word": "стереотипный"},
+		{"en_word": "artistic", "ru_word": "художественный"},
+		{"en_word": "to showcase", "ru_word": "продемонстрировать"},
+		{"en_word": "unnoticed", "ru_word": "назаметно"},
+		{"en_word": "the blend", "ru_word": "смесь"},
+		{"en_word": "cathartic", "ru_word": "катарсис"},
+		{"en_word": "the awe", "ru_word": "трепет"}
+	]
+  }
+}

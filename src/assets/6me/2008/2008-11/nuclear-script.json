@@ -1,0 +1,231 @@
+{
+  "data": {
+	"phrases_arr": [
+    {
+      "name": "Yvonne",
+      "quote": "Hello, I’m Yvonne Archer and this is '6 minute English'. And with me today is Callum Robertson. Hello Callum!",
+      "translation": "Привет, я Yvonne Archer и это '6 minute English'. И  со мной сегодня Callum Robertson. Привет, Callum!"
+    },
+
+    {
+      "name": "Callum",
+      "quote": "Hello Yvonne.",
+      "translation": "Привет, Yvonne."
+    },
+
+    {
+      "name": "Yvonne",
+      "quote": [
+        "Now today's topic is about an extraordinary document which has been kept secret for more than thirty years but it's now been made public. It's been kept in a place where other documents and records are kept about Britain's history and that place is called the National Archives. But before we find out more about this extraordinary document, I've got a big question for Callum and it's about the British National Archives. Callum, when were they started? Was it",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) 800 years ago",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) 850 years ago – or",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) 900 years ago"],
+
+      "translation": [
+        "Сегодняшняя тема о чрезвычайном документе, который хранил секреты более чем 30 лет, но сейчас был открыт общественности. Он хранился в месте, где хранятся другие документы и записи о британской истории, и это место называется Национальный Архив. Но до того как мы выясним больше об этом чрезвычайном документе, у меня есть вопрос для тебя, Callum, и он о Национальных Британских Архивах. Callum, когда их открыли?",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) 800 лет назад",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) 850 лет назад – или",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) 900 лет назад"]
+    },
+
+    {
+      "name": "Callum",
+      "quote": "I haven't got a clue really so I'm just going to guess at 850 years ago.",
+      "translation": "У меня нет подсказки, так что я предположу, что 850 лет назад."
+    },
+
+    {
+      "name": "Yvonne",
+      "quote": "Right, whichever answer is right, it was a long time ago! We'll find out later on. Now during the 1970s, the British government felt that a nuclear attack  was a real possibility.",
+      "translation": "Правильно, какой бы ответ не был правильным, это было очень давно! Мы выясним позже. А сейчас в течение 1970-х, британское правительство чувствовало, что ядерная атака была действительно возможна."
+    },
+
+    {
+      "name": "Callum",
+      "quote": "Yeah, I'm old enough to remember those times – the times of the Cold War. It was quite a scary time when you look back on it now.",
+      "translation": "Да, я достаточно стар, чтобы помнить те времена – времена Холодной войны. Это было вполне ужасное время, когда ты смотришь обратно на это сейчас."
+    },
+
+    {
+      "name": "Yvonne",
+      "quote": "Hmmm. The government got together with the BBC and wrote a secret script. It was to be recorded and broadcast every two hours if there was a nuclear attack.",
+      "translation": "Хм. Правительство собралось вместе с BBC и написало секретный сценарий. Он был записан и вещался бы каждые 2 часа, если была ядерная атака."
+    },
+
+    {
+      "name": "Callum",
+      "quote": "Now that must have been a very difficult script to write.",
+      "translation": "Сейчас это должно быть был очень сложный сценарий, чтобы написать его."
+    },
+
+    {
+      "name": "Yvonne",
+      "quote": "Exactly, but that's what the BBC and the government had to do. And when it was written, it was hidden away in the National Archives ready for use. But recently, the script was 'declassified'. Callum, why don't you explain that for us?",
+      "translation": "Так точно, но это то, что BBC и правительство должны были сделать. И когда он был написан, он был спрятан в Национальных архивах, готовый для использования. Но недавно сценарий был рассекречен. Callum, почему ты не объясняешь нам это?"
+    },
+
+    {
+      "name": "Callum",
+      "quote": "Well if there's a document which is meant to be secret, then it's 'classified'. It's given a classification like 'Top Secret' and only a few people can see it. But when it becomes public - after thirty years in Britain, these documents can be made public – we say it's been 'declassified'. So a 'declassified' document is a document that used to be secret, you couldn't see it, but now, everyone can see it.",
+      "translation": "Ну если есть документ, который значится секретным, тогда он засекречен. Ему присваивается классификация 'Высшей секретности', и только несколько людей могут взглянуть на него. Но когда он становится публичным – после 30 лет в Британии, эти документы могут быть переделаны в публичные – мы говорим, что он был рассекречен. Так что рассекреченный документ - это документ, который был засекречен, вы не могли взглянуть на него, но сейчас каждый может сделать это."
+    },
+
+    {
+      "name": "Yvonne",
+      "quote": "Now before we find out what was in that nuclear script, let's look at some of the language that we'll come across. Callum, people get confused by the word 'casualties'…",
+      "translation": "Сейчас до того как мы выясним что было в ядерном сценарии, давай посмотрим на некий язык, с которым мы столкнемся. Callum, людям становится не по себе при слове 'жертвы'…"
+    },
+
+    {
+      "name": "Callum",
+      "quote": "Well the word 'casualties' is a noun and it's to talk about not just the number of people who are killed, but are also killed or injured in an accident or a war.",
+      "translation": "Ну слово 'жертвы' - это существительное, чтобы говорить не просто о количестве людей, которые убиты, но также убитые и раненые в происшествии или войне."
+    },
+
+    {
+      "name": "Yvonne",
+      "quote": "Thanks, Callum. Now as we listen to a reading of part of that declassified nuclear script, try to find out what three things the script was asking people to do…",
+      "translation": "Спасибо, Callum. Сейчас как только мы послушаем чтение части этого ядерного сценария, попробуй выяснить какие 3 вещи сценарий просил людей делать…"
+    },
+
+    {
+      "name": "FROM A REPORT BY MARK SANDERS",
+      "quote": "This is the Wartime Broadcasting Service. This country has been attacked with nuclear weapons. Communications have been severely disrupted, and the number of casualties and the extent of the damage are not yet known. Stay tuned to this wavelength, stay calm and stay in your own homes.",
+      "translation": "Это Служба Военного Радиовещания. Это страна была атакована ядерным оружием. Инфраструктура была серьезно нарушена, и количество жертв и степень повреждений еще неизвестны. Оставайтесь настроенными к радиоволне, соблюдайте спокойствие и оставайтесь в ваших собственных домах. "
+    },
+
+    {
+      "name": "Yvonne",
+      "quote": "Oooh, that makes me feel really cold.",
+      "translation": "Оооо, это действительно бросает холод в мою сторону."
+    },
+
+    {
+      "name": "Callum",
+      "quote": "It's definitely quite chilling to listen to that as though a nuclear attack has already happened.",
+      "translation": "Это определенно вполне холодно слушать несмотря на то, что ядерная атака уже произошла. "
+    },
+
+    {
+      "name": "Yvonne",
+      "quote": "So what three things did the script ask everyone to do, Callum?",
+      "translation": "Так что какие 3 вещи сценарий просил делать каждого, Callum?"
+    },
+
+    {
+      "name": "Callum",
+      "quote": "Well, it told people to 'stay tuned' which means, don't change your radio channel, keep listening to this one for news and information. It told people to 'stay calm' – because of course, panicking in an emergency isn't useful. And finally, the script asked everyone to stay at home – don't go outside.",
+      "translation": "Ну он говорил людям 'оставаться настроенными', что означает не менять свой радиоканал, продолжать слушать его ради новостей и информации. Он говорил людям 'оставаться спокойными' - потому что в панике ничего полезного. И в конце сценарий просил каждого оставаться дома – не выходить наружу."
+    },
+
+    {
+      "name": "Yvonne",
+      "quote": "Thanks, Callum. Now the government and the BBC discussed what should go into the secret script from 1972 to 1975!",
+      "translation": "Спасибо, Callum. А сейчас правительство и BBC обсудили что лучше было вписать в секретный сценарий с 1972-го по 1975-й года!"
+    },
+
+    {
+      "name": "Callum",
+      "quote": "… three years - that's a long time. It's a lot longer than we have to write a '6 Minute English' script!",
+      "translation": "… 3 года – это длинный период времени. Это намного дольше, чем написать сценарий для '6 Minute English'!"
+    },
+
+    {
+      "name": "Yvonne",
+      "quote": "It certainly is – that's for sure. But then, we don't have to write scripts that are really that important, do we? I've another chilling extract for you from the nuclear script which explains why people were being asked to stay at home…",
+      "translation": "Определенно – точно. Но мы не должны писать сценарии, которые действительно так важны, ведь так? У меня есть очередная холодная выдержка для тебя из ядерного сценария, который объясняет почему людей просили оставаться дома…"
+    },
+
+    {
+      "name": "FROM A REPORT BY MARK SANDERS",
+      "quote": "Remember, there is nothing to be gained by trying to get away. By leaving your homes you could be exposing yourselves to greater danger.",
+      "translation": "Запомните, нет ничего важного для того, чтобы выйти наружу. Покидая свои дома, вы можете подвергнуть себя большей опасности."
+    },
+
+    {
+      "name": "Yvonne",
+      "quote": "So trying to 'get away' – to run away from home might have been even more dangerous for people than staying inside their homes. Do you happen to know why they said that Callum?",
+      "translation": "Попытка выбраться наружу – убежать из дому - возможно была бы даже более опасной для людей, чем оставаться дома. Ты знаешь почему они так говорили, Callum?"
+    },
+
+    {
+      "name": "Callum",
+      "quote": "Well, there'd be a number of reasons. One, if there's a nuclear attack, then there's a danger of radiation sickness in the air. You'd be a little safer staying at home. But also, you know, there could be panic on the streets, the traffic would be chaos, it would be very dangerous. So, best to stay at home – safest. That's what they believed.",
+      "translation": "Ну могло быть много причин. Одна из них, в случае ядерной атаки – наличие радиационной болезни в воздухе. Ты была бы немного более в безопасности, оставаясь в доме. Но также, как ты знаешь, могла быть паника на улицах, движение могло быть в хаосе, оно могло быть очень опасным. Так что лучше всего оставаться в доме – самое безопасное. Это то, во что они верили."
+    },
+
+    {
+      "name": "Yvonne",
+      "quote": "That sounds sensible. Anyway, here's something a little less frightening: the declassified records show that one government official felt it was really, really important for someone from the BBC, with a voice that most people knew and trusted, should be the one to record the announcement. And this was because the government didn't want people to believe that the BBC had been 'obliterated' – totally destroyed – gone forever!",
+      "translation": "Звучит разумно. Все равно, есть что-то менее пугающее: рассекреченные записи показывают, что один государственный представитель чувствовал, что очень, очень важно, чтобы кто-то из BBC, с голосом, который большинство людей знали и доверяли, записал запись для объявления. Это было потому что правительство не хотело, чтобы люди верили, что BBC разрушено – полностью разрушено – навсегда!"
+    },
+
+    {
+      "name": "Callum",
+      "quote": "Well that just shows how important the BBC was - and of course, still is today for many people around the world!",
+      "translation": "Ну это просто говорит о том как важно было BBC – и конечно, все еще сегодня для многих людей по всему миру!"
+    },
+
+    {
+      "name": "Yvonne",
+      "quote": "Absolutely. Now Callum – today's big question was: When was the British National Archives started? And your answer was…",
+      "translation": "Абсолютно. А сейчас Callum – сегодняшний большой вопрос был: Когда были открыты Британские Национальные Архивы? И твой ответ был…"
+    },
+
+    {
+      "name": "Callum",
+      "quote": "Well I said 850 years ago - but it was just a guess.",
+      "translation": "Ну я сказал 850 лет назад – но это было лишь предположение."
+    },
+
+    {
+      "name": "Yvonne",
+      "quote": "Ahh – it was a good guess – you were 50 years out. It was 900 years ago.",
+      "translation": "Это было хорошее предположение – ты пропустил 50 лет. Это было 900 лет назад."
+    },
+
+    {
+      "name": "Callum",
+      "quote": "900 years ago. Oh dear, wrong again.",
+      "translation": "900 лет назад. Опять неправильно."
+    },
+
+    {
+      "name": "Yvonne",
+      "quote": "Never mind! Well, we hope you've enjoyed today's '6 Minute English'. And do join us again next time for more.",
+      "translation": "Никогда не расстраивайся! Надеемся вам понравился сегодняшний выпуск программы. Присоединяйтесь к нам еще в следующий раз."
+    },
+
+    {
+      "name": "C + Y",
+      "quote": "Goodbye!",
+      "translation": "Пока"
+    }
+  ],
+
+	"img_addr": "6me/2008/2008-11/Nuclear-script.jpg",
+	"audio_src": "6me/2008/2008-11/2008-11-19 - 6 Minute English - Nuclear script.mp3",
+	"title": "BBC 6 Minute English podcast - Nuclear script [Ядерный сценарий], 2008-11-19",
+
+	"words_arr": [
+		{"en_word": "extraordinary", "ru_word": "чрезвычайный"},
+		{"en_word": "the clue", "ru_word": "подсказка"},
+		{"en_word": "whichever", "ru_word": "какой бы"},
+		{"en_word": "nuclear", "ru_word": "ядерный"},
+		{"en_word": "scary", "ru_word": "ужасный"},
+		{"en_word": "to declassify", "ru_word": "рассекречивать"},
+		{"en_word": "the classification", "ru_word": "классификация"},
+		{"en_word": "to come across", "ru_word": "встречать, сталкиваться"},
+		{"en_word": "casualties", "ru_word": "потери, жертвы"},
+		{"en_word": "severely", "ru_word": "серьезно"},
+		{"en_word": "to disrupt", "ru_word": "нарушать"},
+		{"en_word": "the extent", "ru_word": "степень"},
+		{"en_word": "the wavelength", "ru_word": "длика волны"},
+		{"en_word": "chilling", "ru_word": "охдаждающий"},
+		{"en_word": "to gain ", "ru_word": "получать"},
+		{"en_word": "to expose", "ru_word": "разоблачать"},
+		{"en_word": "to frighten", "ru_word": "пугать"},
+		{"en_word": "to obliterate", "ru_word": "уничтожать"}
+	]
+  }
+}

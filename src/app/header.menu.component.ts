@@ -31,6 +31,11 @@ import { Component, OnInit } from '@angular/core';
       border-radius: 5px;
       //display: none;
     }
+    .header > .header-logo:hover {
+     transform: rotateY(360deg);
+     transition: transform .7s;
+    }
+
     .header > .header-text {
       position: relative;
       top: 50%; transform:

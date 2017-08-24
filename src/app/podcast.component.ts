@@ -33,8 +33,9 @@ import { WordComponent } from './word.component';
 	      </tr>
 	    </table>
 
-      <div *ngFor="let phrase of phrases_arr">
-        <phrase [name]="phrase.name" [quote]="phrase.quote" [translation]="phrase.translation"></phrase>
+      <div *ngFor="let phrase of phrases_arr; let ind = index">
+        <phrase [name]="phrase.name" [quote]="phrase.quote" [translation]="phrase.translation" [ind]="ind"></phrase>
+
       </div>
     </div>
     `,
@@ -79,8 +80,7 @@ export class PodcastComponent implements OnInit {
     this.new_word_invisible = !this.new_word_invisible;
   }
 
-  constructor(private activateRoute: ActivatedRoute, private httpService: HttpService, private element: ElementRef, private renderer: Renderer2){
-    this.renderer.setStyle(this.element.nativeElement, "float", "left");
+  constructor(private activateRoute: ActivatedRoute, private httpService: HttpService){
   }
 
   ngOnDestroy(){

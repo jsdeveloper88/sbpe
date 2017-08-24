@@ -13,6 +13,14 @@ import { HttpService } from './http.service';
       <div *ngFor="let podcast of found_podcasts">
           <a href="{{podcast.rubric}}/{{podcast.title.substring(podcast.title.length - 10, podcast.title.length)}}/{{podcast.route}}"> {{podcast.title}} </a>
       </div>
+      <br><br><br>
+      <ins class="adsbygoogle"
+        style="display:block; text-align:center;"
+        data-ad-format="fluid"
+        data-ad-layout="in-article"
+        data-ad-client="ca-pub-8645329394822741"
+        data-ad-slot="8996507839">
+      </ins>
     </div>
   `,
   providers: [ HttpService ]

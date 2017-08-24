@@ -14,6 +14,51 @@ import { Component, Input } from '@angular/core';
     <p *ngFor="let trslt of translation" [innerHTML]="trslt"></p>
     <div><button (click)="toggle_translate()" class="hide_translate"> Скрыть </button></div>
   </div>
+  <div style="padding: 5px;" *ngIf="ind == 8">
+    <ins class="adsbygoogle"
+      style="display:block; text-align:center;"
+      data-ad-format="fluid"
+      data-ad-layout="in-article"
+      data-ad-client="ca-pub-8645329394822741"
+      data-ad-slot="1652370281">
+    </ins>
+  </div>
+  <div style="padding: 5px;" *ngIf="ind == 17">
+    <ins class="adsbygoogle"
+      style="display:block; text-align:center;"
+      data-ad-format="fluid"
+      data-ad-layout="in-article"
+      data-ad-client="ca-pub-8645329394822741"
+      data-ad-slot="3573269692">
+    </ins>
+  </div>
+  <div style="padding: 5px;" *ngIf="ind == 26">
+    <ins class="adsbygoogle"
+      style="display:block; text-align:center;"
+      data-ad-format="fluid"
+      data-ad-layout="in-article"
+      data-ad-client="ca-pub-8645329394822741"
+      data-ad-slot="2360260374">
+    </ins>
+  </div>
+  <div style="padding: 5px;" *ngIf="ind == 35">
+    <ins class="adsbygoogle"
+      style="display:block; text-align:center;"
+      data-ad-format="fluid"
+      data-ad-layout="in-article"
+      data-ad-client="ca-pub-8645329394822741"
+      data-ad-slot="3776627281">
+    </ins>
+  </div>
+  <div style="padding: 5px;" *ngIf="ind == 44">
+    <ins class="adsbygoogle"
+      style="display:block; text-align:center;"
+      data-ad-format="fluid"
+      data-ad-layout="in-article"
+      data-ad-client="ca-pub-8645329394822741"
+      data-ad-slot="6952798425">
+    </ins>
+  </div>
 `,
   styles: [`
     .invisible {
@@ -75,6 +120,8 @@ export class PhraseComponent {
   @Input() name: string;
   @Input() quote: string;
   @Input() translation: string;
+
+  @Input() ind: number;
 
   invisible: boolean = true;
   //bttn_visible: boolean = true;
