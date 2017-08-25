@@ -227,23 +227,23 @@
       }
     ],
 
-	"img_addr": "6me/2008/2008-11/Poetry.jpg",
-	"audio_src": "6me/2008/2008-11/2008-11-12 - 6 Minute English - Poetry.mp3",
-	"title": "BBC 6 Minute English podcast - Poetry [Поэзия], 2008-11-12",
+    "img_addr": "6me/2008/2008-11/Poetry.jpg",
+    "audio_src": "6me/2008/2008-11/2008-11-12 - 6 Minute English - Poetry.mp3",
+    "title": "BBC 6 Minute English podcast - Poetry [Поэзия], 2008-11-12",
 
-	"words_arr": [
-		{"en_word": "the poet", "ru_word": "поэт"},
-		{"en_word": "the poetry", "ru_word": "поэзия"},
-		{"en_word": "the barrister", "ru_word": "адвокат"},
-		{"en_word": "the behalf", "ru_word": "имя"},
-		{"en_word": "to represent", "ru_word": "представлять"},
-		{"en_word": "the announcement", "ru_word": "объявление"},
-		{"en_word": "the wealth", "ru_word": "богатство"},
-		{"en_word": "to symbolise", "ru_word": "символизировать"},
-		{"en_word": "the poverty", "ru_word": "бедность"},
-		{"en_word": "to communicate", "ru_word": "сообщать"},
-		{"en_word": "the hospitality", "ru_word": "гостеприимство"},
-		{"en_word": "the short notice", "ru_word": "краткое уведомление"}
-	]
+    "words_arr": [
+      {"en_word": "the poet", "ru_word": "поэт"},
+      {"en_word": "the poetry", "ru_word": "поэзия"},
+      {"en_word": "the barrister", "ru_word": "адвокат"},
+      {"en_word": "the behalf", "ru_word": "имя"},
+      {"en_word": "to represent", "ru_word": "представлять"},
+      {"en_word": "the announcement", "ru_word": "объявление"},
+      {"en_word": "the wealth", "ru_word": "богатство"},
+      {"en_word": "to symbolise", "ru_word": "символизировать"},
+      {"en_word": "the poverty", "ru_word": "бедность"},
+      {"en_word": "to communicate", "ru_word": "сообщать"},
+      {"en_word": "the hospitality", "ru_word": "гостеприимство"},
+      {"en_word": "the short notice", "ru_word": "краткое уведомление"}
+    ]
   }
 }

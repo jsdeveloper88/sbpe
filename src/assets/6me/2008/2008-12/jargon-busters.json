@@ -1,0 +1,276 @@
+{
+  "data": {
+    "phrases_arr": [
+      {
+        "name": "Yvonne",
+        "quote": "Hello, this is '6 minute English' - I'm Yvonne Archer...",
+        "translation": "Привет, это “6 Minute English” – я Yvonne Archer..."
+      },
+
+      {
+        "name": "William",
+        "quote": "...And I'm William Kremer.",
+        "translation": "...И я William Kremer."
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "Thanks for joining me, William! Now today, we're going to do a bit of glossing, play in few inserts and run a few ideas past you.... Anything to say to that William?",
+        "translation": "Спасибо, что пригласил меня, William! А сегодня мы собираемся сделать немного объяснения, поиграть в несколько вставок и запустить несколько идей мимо вас.... Есть что добавить, William?"
+      },
+
+      {
+        "name": "William",
+        "quote": "Well - why were you using so much jargon, Yvonne?",
+        "translation": "Ну – почему мы используем так много жаргона, Yvonne?"
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "Ahh – that's because that's the topic of today's programme! So you'd better explain what it is for us.",
+        "translation": "А потому что это тема нашей сегодняшней программы! Так что лучше ты объясни нам что это такое."
+      },
+
+      {
+        "name": "William",
+        "quote": "Okay - 'jargon' is a noun that we for specific groups of words and expressions. They're only used by people in special or technical situations because they are the only people who really understand.",
+        "translation": "Хорошо – жаргон – это существительное для особых групп слов и выражений. Они используются людьми в особых или технических ситуациях, потому что только такие люди понимают их."
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "So, for example, 'glossing'...",
+        "translation": "Так, например, 'glossing'..."
+      },
+
+      {
+        "name": "William",
+        "quote": "Yes – 'glossing' basically means 'explaining'. So really the only people who what glossing means are people like you and me, people who teach English over the radio. So 'glossing' is an example of 'jargon'.",
+        "translation": "Да – “glossing” в основном означает “объяснение”. На самом деле люди, которые понимают что означает 'glossing'- это люди такие как ты и я, которые учат английский по радио. Так что 'glossing' - это пример жаргона."
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "Excellent! Now before we hear more about 'jargon', I've got a question for you William. Are you ready?",
+        "translation": "Отлично! До того как мы услышим больше о жаргоне, у меня есть вопрос для тебя, William. Ты готов?"
+      },
+
+      {
+        "name": "William",
+        "quote": "No – I'm not ready but I'm feeling brave!",
+        "translation": "Нет - я не готов, но чувствую себя отважно!"
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": [
+        "That's what I like to hear! Which British Prime Minister became known as 'Jack the Jargon Killer' because he wanted officials to stop using jargon? Was it",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) Tony Blair",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) Winston Churchill or",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) Robert Peel"],
+        "translation": [
+        "Это то, что я люблю слышать! Какой британский премьер-министр стал известен как 'Джэк Убийца Жаргона', потому что он хотел, чтобы чиновники перестали использовать жаргон? Это был",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) Тони Блэр",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) Уинстон Черчиль или",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) Роберт Пилл"]
+      },
+
+      {
+        "name": "William",
+        "quote": "I don't know the answer to that question but I'm going to go for B – Winston Churchill because everybody knows that Winston Churchill loved the English language and he was a very great speaker so maybe he didn't like jargon.",
+        "translation": "Я не знаю ответ на этот вопрос, но скажу, что В - Уинстон Черчиль, потому что все знают, что Уинстон Черчиль любли английский язык, и он был великим оратором, так что, возможно, ему не нравился жаргон."
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "Good answer, but we'll find out at the programme whether you're right or wrong. Okay, recently officials were asked to stop using all the jargon that was written on a list. It contained one hundred different words and expressions – all jargon that people didn't understand unless they worked with government officials, for example.",
+        "translation": "Хороший ответ, но мы выясним в течение программы прав ты или нет. Хорошо, недавно чиновников попросили перестать использовать весь жаргон, который был указ в списке. Он содержал 100 разных слов и выражений - весь жаргон, который не понимали люди, за исключением, если она работали с правительственными чиновниками, к примеру."
+      },
+
+      {
+        "name": "William",
+        "quote": "Now that sounds like an interesting list. I wonder whether I would understand any of the jargon on it?",
+        "translation": "Звучит как интересный список. Я задаюсь вопросом понял ли я каждый пример жаргона в нем?"
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "You might, you'll have a chance to find out - however, I need you to explain some of the language we'll come across in that report today, William. First, what does 'flagged up' mean?",
+        "translation": "Возможно, у тебя будет шанс выяснить - хотя, мне надо, чтобы ты объяснил несколько слов и выражений, с которыми мы столкнемся в сегодняшнем репортаже, William. Первое, что значит 'flagged up'?"
+      },
+
+      {
+        "name": "William",
+        "quote": "If you 'flag something up', you really want to draw attention to it, you want people to notice it, so you 'flag it up' – it's a phrasal verb.",
+        "translation": "Если ты 'помечаешь что-то', то ты действительно хочешь привлечь внимание к этому, ты хочешь, чтобы люди заметили это, так что ты 'помечаешь это' - это фразовый глагол."
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "And in England, what are 'councils'?",
+        "translation": "И в Англии, что такое 'councils'?"
+      },
+
+      {
+        "name": "William",
+        "quote": "'Councils' are a form of local government - so 'councillors' are local politicians who people vote for. And elected councillors make decisions about things like new local buildings and roads.",
+        "translation": "'Councils' - это форма местного правительства - так что 'councillors' - это местные политики, за которых голосуют люди. И избранные местные политики принимают решение о таких вещах как новые местные здания и дороги."
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "Lovely. Now Paul Ross and Joanne Good from BBC London's Breakfast Show looked at three pieces of jargon which they found on that list I mentioned. But do they understand any of the jargon? Try to find out...",
+        "translation": "Прекрасно. А сейчас Paul Ross и Joanne Good из BBC London's Breakfast Show посмотрели на 3 части жаргона, который они нашли в том списке, который я упомянула. Но понимают ли они весь жаргон в нем? Попробуем выяснить..."
+      },
+
+      {
+        "name": "PAUL ROSS",
+        "quote": "What do these phrases mean to you: 'stakeholder engagement'? No, me neither (no). 'A multi-agency approach'? Sort of. And 'a civic amenity site'? The chances are not much – which is why they've all been flagged up as some of the worst examples of jargon used by councils and public bodies...",
+        "translation": "Что значат для тебя эти фразы: 'stakeholder engagement'? Нет, для меня ничего. 'A multi-agency approach'? И 'a civic amenity site'? Шансов немного - какой и почему они отметили как некоторые из самых худших примеров жаргона, используемых местными политиками и публичными личностями..."
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "William, did they understand any of the jargon?",
+        "translation": "William, поняли ли они хоть какой-нибудь пример жаргона?"
+      },
+
+      {
+        "name": "William",
+        "quote": "Well, no – Paul said 'sort of' which means he had an idea what it meant, but he wasn't sure.",
+        "translation": "Нет - Paul сказал 'sort of', что означает у него есть идея, что он означит, но он не уверен."
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "And what about you William – do you know what 'a civic amenity site' is, for example?",
+        "translation": "И что насчет тебя, William - ты знаешь что такое 'a civic amenity site', к примеру?"
+      },
+
+      {
+        "name": "William",
+        "quote": "Err – not really but I'm guessing it's a really useful place that's used by citizens.",
+        "translation": "Эээ - не совсем, но я предполагаю, что это полезное место, используемое гражданами."
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "And when you put it like that, it sounds absolutely lovely – but 'a civic amenity site' is jargon so it's confusing because it could be a wonderful community centre or a smelly rubbish tip. But are there times when jargon is useful? What do you think, William?",
+        "translation": "Когда ты растолковываешь это так, это звучит прекрасно - но 'a civic amenity site' - это жаргон, так что он спутывает, потому что это могло быть прекрасным общественным центром или вонючей помойкой. Но бывают ли моменты, когда жаргон полезен? Что ты думаешь, William?"
+      },
+
+      {
+        "name": "William",
+        "quote": "Yes, I think if you don't want other people to understand what you're saying – but then that's not very nice because it could mean that they don't get really important information. For example, people can't complain about the building of a new civic amenity site if they don't know whether it's a good or a bad thing.",
+        "translation": "Да, я думаю, если ты не хочешь, чтобы другие люди не понимали что ты говоришь - но это не очень хорошо, потому что это могло бы значить, что они не получают важной информации. К примеру, люди не могут пожаловаться насчет здания новой гражданской инфраструктуры, если они не знают хорошая это или плохая вещь."
+      },
+
+
+      {
+        "name": "Yvonne",
+        "quote": "True – and that's why I don't like jargon. But does Joanne agree with me?",
+        "translation": "Правда - вот почему я не люблю жаргон. Но согласна ли со мной Joanne?"
+      },
+
+      {
+        "name": "JOANNE GOOD",
+        "quote": "In the end, we embrace it, don't we? I mean, jargon is the vernacular, isn't it? And I love being in the know. I mean, I've been loving this morning's calls because people introduce you into their shorthand for their workplace...",
+        "translation": ""
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "So Jo believes that after a while, most of us 'embrace' jargon – we get used it, we begin to like it and we even start using it. But does she actually like it?",
+        "translation": "Так что Jo верит, что после того, пока большинство из нас охватывало жаргон  - мы привыкли к нему, он начался нам нравиться, и мы даже начали им пользоваться. Но нравиться ли он ей на самом деле?"
+      },
+
+      {
+        "name": "William",
+        "quote": "Yes, she does. She says that she loves jargon because it puts her 'in the know' – she feels part of a special group of people who understand and use it.",
+        "translation": "Да, нравится. Она говорит, что ей нравиться жаргон, потому что он держит ее в курсе - она чувствует себя частью особой группы людей, котороые понимают и пользуются им."
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "That's right and she even calls jargon 'the vernacular'. But what does she mean by that, William?",
+        "translation": "Правильно, и она даже называет жаргон 'народным'. Но что она имеет ввиду под этим, William?"
+      },
+
+      {
+        "name": "William",
+        "quote": "'Vernacular' - she means that it's almost slang – very informal language that's only used by people who do a particular type of work.",
+        "translation": "Под 'народным' она имеет ввиду, что это почти слэнг - очень неформальный язык, которым пользуются только люди, которые выполняют определенный вид работы."
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "Okay, now without using informal language, William, I need the answer to today's question! Which British Prime minister became known as 'Jack the Jargon Killer' because he tried to stop officials using jargon?",
+        "translation": "Хорошо, без использования неформального языка, William, мне нужен ответ на сегодняшний вопрос! Какой британский премьер-министр стал известен как 'Джэк Убийца Жаргона', потому что пытался остановить чиновников использовать жаргон?"
+      },
+
+      {
+        "name": "William",
+        "quote": "I said maybe Winston Churchill.",
+        "translation": "Я сказал, возможно, Уинстон Черчиль."
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "And - you were absolutely... right!",
+        "translation": "И ты абсолютно... прав!"
+      },
+
+      {
+        "name": "William",
+        "quote": "Yeah!",
+        "translation": "Да!"
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "Yes! He didn't like things like 'the receipt of your communication is hereby acknowledged with thanks' - which means?",
+        "translation": "Да! Он не любил выражения наподобие 'принятие вашего обращения в итоге признано благодарством' - которое значит?"
+      },
+
+      {
+        "name": "William",
+        "quote": "Thanks for your letter!",
+        "translation": "Спасибо за твое письмо!"
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "Easier! But that's all we've got time for today on '6 Minute English' from BBC Learning English...",
+        "translation": "Это все на сегодня для '6 Minute English' на BBC Learning English..."
+      },
+
+      {
+        "name": "W/Y",
+        "quote": "Goodbye!",
+        "translation": "Пока!"
+      }
+    ],
+
+    "img_addr": "6me/2008/2008-12/Jargon.jpg",
+    "audio_src": "6me/2008/2008-12/2008-12-24 - 6 Minute English - Jargon.mp3",
+    "title": "BBC 6 Minute English podcast - Jargon Busters [Борцы с жаргоном], 2008-12-24",
+
+    "words_arr": [
+		{"en_word": "glossing", "ru_word": "explaining"},
+		{"en_word": "the official", "ru_word": "должностное лицо"},
+		{"en_word": "to draw attention to it", "ru_word": "привлечь внимание к чему-то"},
+		{"en_word": "to flag smth up", "ru_word": "привлечь внимание к чему-то"},
+		{"en_word": "to notice", "ru_word": "обращать внимание"},
+		{"en_word": "councils", "ru_word": "местное правительство(политики)"},
+		{"en_word": "amenity", "ru_word": "благоустройство"},
+		{"en_word": "civic", "ru_word": "гражданский"},
+		{"en_word": "to embrace", "ru_word": "объять"},
+		{"en_word": "vernacular", "ru_word": "народный"},
+		{"en_word": "the shorthand", "ru_word": "стенография"},
+		{"en_word": "informal", "ru_word": "неофициальный"},
+		{"en_word": "the receipt", "ru_word": "получение"},
+		{"en_word": "to acknowledge", "ru_word": "признавать"},
+		{"en_word": "hereby ", "ru_word": "настоящим образом"}
+	]
+  }
+}

@@ -1,0 +1,161 @@
+{
+	"data": {
+	"phrases_arr": [
+		{"name": "Yvonne",
+		"quote": "Hi - I'm Yvonne Archer and this is '6 Minute English'. And joining me today is William Kremer. Hello William!",
+		"translation": "Привет - я Yvonne Archer и это передача '6 Minute English'. И меня сегодня подключает к эфиру William Kremer. Привет, William!"},
+
+		{"name": "William",
+		"quote": "Hello Yvonne!",
+		"translation": "Привет, Yvonne!"},
+
+		{"name": "Yvonne",
+		"quote": "Now everyone, young and old, loves a good story - so today, we hear from a writer who lives in Senegal, West Africa. I met her during a very exciting British Council trip to Nigeria when I was one of sixty lucky people on the 'Interaction: Trust the Difference' leadership programme. And forty people had travelled from nine different countries across Africa to be there.",
+		"translation": "Сейчас, все, молодые и пожилые, любят хорошие истории – так что сегодня мы послушаем писательницу, которая живет в Сенегале, Западной Африке. Я встретилась с ней во время очень захватывающего путешествия Британского Совета в Нигерию, когда я было одной из 60 счастливчиков на программе руководства «Interaction: Trust the Difference». И 40 человек приехали из 9 разных стран в Африке чтобы быть там.  "},
+
+		{"name": "William",
+		"quote": "Wow – that sounds like an amazing trip!",
+		"translation": "Вау – это звучит как удивительное путешествие! "},
+
+		{"name": "Yvonne",
+		"quote": "Yeah, it was absolutely brilliant, but that's another story - and we've already got one for today! So first, I've a question for you William. Are you ready?",
+		"translation": "Это был настоящий бриллиант, но это другая история – и у нас уже есть одна на сегодня! Так что сначала, у меня есть вопрос для тебя, William. Ты готов? "},
+
+		{"name": "William",
+		"quote": "Yes, I'm ready as always.",
+		"translation": "Да, я готов как всегда. "},
+
+		{"name": "Yvonne",
+		"quote": [
+			"Good! In a popular children's story, the beautiful princess has to kiss many frogs to find the prince she'll marry. But what's the world record for the most number of kisses ever given in one minute? Is it",
+			"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) 94",
+			"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) 904",
+			"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) 1004"
+		],
+		"translation": [
+			"Хорошо! В одном детском рассказе, красивая принцесса должна поцеловать много лягушек, чтобы отыскать принца, за которого она выйдет замуж. Но какой мировой рекорд самого большого количества поцелуев в одну минуту когда-либо? Это",
+			"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) 94",
+			"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) 904",
+			"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) 1004"
+		]},
+
+		{"name": "William",
+		"quote": "I'm going to go for 94.",
+		"translation": "Я отвечу что 94. "},
+
+		{"name": "Yvonne",
+		"quote": "Why?!",
+		"translation": "Почему?! "},
+
+		{"name": "William",
+		"quote": "Because I… how can you kiss anybody – how can you kiss anybody nine hundred times in a minute?!",
+		"translation": "Потому что … как ты можешь поцеловать кого-то – как ты можешь поцеловать кого-то 900 раз за 1 минуту?! "},
+
+		{"name": "Yvonne",
+		"quote": "Well, we're not going to practice now William so you'll have to wait until the end of the programme and then I'll tell you whether you're right or wrong! Karima Grant has been writing stories since she was a little girl and now her stories are published! But Karima is most proud of her award-winning stories called 'Sophie and the City'. They’re about a little girl from Senegal who moves to New York City with her parents. But Sophie's finding life there rather difficult. As we listen to Karima, we'll hear the term 'hardy beings' and the word 'resilience'. William, can you explain what they mean for us please?",
+		"translation": "Мы не будем практиковать это сейчас, William, так что ты должен будешь подождать до конца программы, и после я тебе скажу прав ты или нет! Karima Grant пишет рассказы с тех времен, когда она еще была девочкой, и сейчас ее рассказы публикуются! Но Karima больше всего гордится выигрывающими награды рассказами под названием «Sophie and the City». Они о маленькой девочке из Сенегала, которая переезжает в New York City со своими родителями. Но Sophie находит жизнь там более сложной. Как только мы послушаем Karima, мы услышим выражение «hardy beings» и слово «resilience». William, можешь объяснить что они значат для нас, пожалуйста?"},
+
+		{"name": "William",
+		"quote": "Certainly. 'Hardy beings' here means people - human beings – who are tough and strong because they can survive really difficult situations and experiences. But we can also use 'hardy' to describe plants and animals as well as people.",
+		"translation": "Определенно. «Hardy beings» здесь означает людей – человеческих существ – которые крепкие и сильные, потому что они могут пережить действительно сложные ситуации и опыты. Но мы можем также использовать «hardy» чтобы описать растения и животных как и людей. "},
+
+		{"name": "Yvonne",
+		"quote": "And 'resilience'?",
+		"translation": " А «resilience»?"},
+
+		{"name": "William",
+		"quote": "Well, 'resilience' has a similar meaning to the word 'hardy' because we use it to talk about the ability that people, animals or plants have to get better after something unpleasant has happened to them. So 'a resilient person', like 'a hardy being', is someone who is strong and doesn't get hurt easily.",
+		"translation": "Ну, «resilience» имеет схожее значение со словом «hardy», потому что мы используем его чтобы говорить о способности, которая есть у людей, животных и растений, чтобы стать лучше после того как что-то неприятное случилось с ними. Так что «a resilient person» как и «a hardy being» - это кто-то, кто силен и кого нелегко повредить. "},
+
+		{"name": "Yvonne",
+		"quote": "Great. Now let's find out what Karima says hardy or resilient children often do to help them cope with - or manage - difficult experiences…",
+		"translation": "Замечательно. А сейчас давай выясним что, как говорит Karima, сильные и устойчивые дети часто делают, чтобы помочь себе справиться со сложными опытами…"},
+
+		{"name": "KARIMA GRANT",
+		"quote": "I love to write about resilience and children because I think that children are very hardy beings. So that's usually what I find myself writing about – about how children find resilience, how they express it, how they cope and how they usually resort to creative means to problem solve.",
+		"translation": "Я люблю писать об устойчивости и детях, потому что я думаю, что дети – сильные и крепкие существа. Так что это то о чем я пишу – о том как дети находят устойчивость, как они выражают его, как они обычно справляются и как они прибегают к креативным средствам, чтобы решить проблему. "},
+
+		{"name": "Yvonne",
+		"quote": "William, what does Karima say children do to cope in difficult circumstances?",
+		"translation": "William, что, как говорит Karima, дети делают, чтобы справляться со сложными обстоятельствами? "},
+
+		{"name": "William",
+		"quote": "She says that they usually 'resort to' – or they turn to 'creative means' or new ideas to cope with their problems because they can't find any other ways to do it.",
+		"translation": "Она говорит, что они обычно прибегают к «творческим средствам» или новым идеям, чтобы справиться со своими проблемами, потому что они не могут найти никаких других способов чтобы сделать это. "},
+
+		{"name": "Yvonne",
+		"quote": "And that's a lesson we adults could take from children really, isn't it?",
+		"translation": "И это урок, который взрослые могли бы перенять у детей, не так ли? "},
+
+		{"name": "William",
+		"quote": "Yeah – it is, yeah.",
+		"translation": "Да – это так, да. "},
+
+		{"name": "Yvonne",
+		"quote":  ["If there doesn't seem to be a solution to a problem, try to think differently and be creative!",
+				"One day, when Karima was living in the United States, she was sitting on the front steps of her house in a city when she saw a group of little girls playing. And one little girl seemed to be different and was being treated differently by the others. But she was coping – she was resilient."],
+		"translation": ["Если кажется, что нет решения для проблемы, попробуй думать по-другому и быть креативным!",
+					 "Однажды, когда Karima жила в США, она сидела на передних ступеньках своего дома в городе, когда она увидела группу играющих маленьких девочек. И одна девочка показалось другой и с ней обращались по-другому другие девочки. Но она справлялась – она была сильной."]},
+
+		{"name": "William",
+		"quote": "Right, so is that how 'Sophie and the City' came about?",
+		"translation": "Правильно, так это то как «Sophie and the City» появились? "},
+
+		{"name": "Yvonne",
+		"quote": "Umm – possibly! And those stories are now special to both male and female readers of all ages. But when Karima read them to her mother, she found out that she'd somehow managed to tell her own mother's story - and expressed her feelings about the city she'd moved to from Senegal many years ago…",
+		"translation": "Хм – возможно! И те рассказы сейчас особые для читателей и читательниц всех возрастов. Но когда Karima прочитала их своей матери, она обнаружила, что ей каким-то образом удалось рассказать ей свою собственную историю – и выразила свои чувства о городе, в который она переехала из Сенегала много лет назад… "},
+
+		{"name": "KARIMA GRANT",
+		"quote": "My mother said that was her impression(s) when she first landed in the United States and in New York in particular. She just thought – 'Oh, this is so ugly'. It didn't look anything like what she knew, so it (a) strange resonance (it had) for me.",
+		"translation": "Моя мать сказала, что это было ее первое впечатление, когда она впервые приземлилась в США, в Нью-Йорке в частности. Она просто подумала – «О, это так ужасно». Это не выглядело как то, что она знала, так что это был странный резонанс для меня. "},
+
+		{"name": "William",
+		"quote": "Ah - Karima's stories had a strange 'resonance' for her… in a strange way, they echoed the experiences of her own mother so the stories of Sophie became even more special and important for Karima.",
+		"translation": "Ах – у рассказов Каримы был странный резонанс на нее… странным образом, они прозвучали отзвуком в опытах ее собственной матери, так что рассказы Sophie стали даже более особыми и важными для Karima. "},
+
+		{"name": "Yvonne",
+		"quote": "That's right – quite a strange and spooky experience really. And as more and more of us move to different countries across the world, there are even more stories to tell…",
+		"translation": "Правильно – вполне странный и ужасный опыт на самом деле. И пока все больше и больше из нас переезжают в разные страны по всему миру, появляется даже больше историй, чтобы рассказать… "},
+
+		{"name": "William",
+		"quote": "…And lessons to be learned.",
+		"translation": "И уроков, чтобы выучить. "},
+
+		{"name": "Yvonne",
+		"quote": "That's true. But right now, it's time to learn the answer to today's question. Earlier, I asked: what's the world record for the most number of kisses ever given in one minute? And William said…?",
+		"translation": "Правда. А прямо сейчас время выучить ответ на сегодняшний ответ. Ранее я спросила: «Какой мировой рекорд самого большого количества поцелуев в одну минуту когда-либо?» И William сказал…?"},
+
+		{"name": "William",
+		"quote": "I said ninety-four.",
+		"translation": "Я сказал 94. "},
+
+		{"name": "Yvonne",
+		"quote": "And you were right – yet again.",
+		"translation": "И ты был прав – еще раз. "},
+
+		{"name": "William",
+		"quote": "Yet again! I'm always right.",
+		"translation": "Еще раз! Я всегда прав!"},
+
+		{"name": "Yvonne",
+		"quote": "...Oh – that's another story! But that's all for today's '6 Minute English'. Join BBC Learning English again for more!",
+		"translation": "...О - это уже другая история! Но это все для сегодняшнего выпуска '6 Minute English'. Присоединяйтесь к BBC Learning English еще!"},
+
+		{"name": "W/Y",
+		"quote": "Goodbye!",
+		"translation": "Пока!"}
+	],
+
+	"img_addr": "6me/2009/2009-01/destined-to-be-a-writer.jpg",
+	"audio_src": "6me/2009/2009-01/2009-01-14 - 6 Minute English - Story at the ready!.mp3",
+	"title": "BBC 6 Minute English podcast - Destined to be a writer [Судьбой предназначено быть писательницей], 2009-01-14",
+
+	"words_arr": [
+		{"en_word": "the resilience", "ru_word": "устойчивость"},
+		{"en_word": "the hardy being", "ru_word": "the tough and strong human being"},
+		{"en_word": "to cope", "ru_word": "справляться"},
+		{"en_word": "to resort to", "ru_word": "to turn to"},
+		{"en_word": "spooky", "ru_word": "жуткий"}
+	]
+}
+}

@@ -1,0 +1,303 @@
+{
+  "data": {
+    "phrases_arr": [
+      {
+        "name": "Yvonne",
+        "quote": "Hello, I'm Yvonne Archer, this is '6 Minute English' - and thanks to William for joining me today.",
+        "translation": "Привет, я Yvonne Archer, и это '6 Minute English' - и спасибо William за то, что приграсил меня сегодня."
+      },
+
+      {
+        "name": "William",
+        "quote": "You're welcome, Yvonne!",
+        "translation": "Добро пожаловать, Yvonne!"
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "Now, are your hands usually warm or cold?",
+        "translation": "А сейчас, твои руки обычно холодные или теплые?"
+      },
+
+      {
+        "name": "William",
+        "quote": "Err – you tell me...",
+        "translation": "Ааа – ты говоришь мне..."
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "Ooh, you've got warm hands! And that just might explain the type of person you are. Hmmm...",
+        "translation": "Ооо – у тебя теплые руки! И это возможно может объяснить какого типа личности ты."
+      },
+
+      {
+        "name": "William",
+        "quote": "Right, in what way?",
+        "translation": "Хорошо, каким способом?"
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": [
+          "I'm not telling you! In today's report, we hear the results of some research into whether there's any real link between warm hands and a warm heart. But first – today's big question! William, what's the world's record for the longest time spent by someone in full body contact in ice? Is it",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a)one hour and fifteen minutes",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b)one hour and thirty minutes or",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c)one hour and fifty minutes"
+        ],
+        "translation": [
+          "Я не скажу тебе! В сегодняшнем репортаже мы услышим результаты некоторого исследования о том есть ли какая-либо связь между теплыми руками и теплым сердцем. Но сначала – сегодняшний большой вопрос! William, какой мировой рекорд самого долгого времени, проведенного кем-то в полном контакте тела со льдом? Это",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) 1 час и 15 минут",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) 1 час и 30 минут или",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) 1 час и 50 минут"
+        ]
+      },
+
+      {
+        "name": "William",
+        "quote": "Umm – I don't know. I'm going to go for a) – one hour and fifteen minutes.",
+        "translation": "Хм – не знаю. Я отвечу, что а) - 1 час и 15 минут."
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "And how long do you think you'd be able to stay in ice?",
+        "translation": "И как долго, ты думаешь, ты был бы способен оставаться во льду?"
+      },
+
+      {
+        "name": "William",
+        "quote": "Umm - what, alive?!",
+        "translation": "Хм – что, живым?!"
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "Yeah!",
+        "translation": "Да!"
+      },
+
+      {
+        "name": "William",
+        "quote": "I – probably about, I don't know, twenty minutes; I'm a bit of a softy.",
+        "translation": "Я – возможно около, ну я не знаю, 20 минут; я немного нежен."
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "Yeah – I don't think I could do five minutes actually. But we'll find out whether your answer is right or wrong at the end of the programme. Now, we need your help with some of the language, William, that we'll come across in today's report. First, we'll hear how some people are 'generous in their judgements'. What does that mean?",
+        "translation": "Да – я не думаю, что могла бы протянуть 5 минут на самом деле. Но мы выясним правилен ли твой ответ или нет в конце программы. А сейчас, нам нужна твоя помощь с некоторым языком, William, с которым мы столкнемся в сегодняшнем репортаже. Но сначала мы послушаем как люди «щедры в своих суждениях». Что это значит?"
+      },
+
+      {
+        "name": "William",
+        "quote": "Well if you're 'generous in your judgement' of somebody, for example – then your opinion of them is quite nice and quite kind. You're generous in your judgement of them.",
+        "translation": "Ну если ты «щедр в своем суждении» о ком-то, например – тогда твое мнение о нем вполне хорошее и доброе. Ты щедр в своем суждении о нем."
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "So when I say that you're great company here in the '6 Minute English' studio, William, am I being generous in my judgement of you?",
+        "translation": "То есть когда я говорю, что ты хорошая компания здесь в студии '6 Minute English', William, я щедра в своих суждениях о тебе?"
+      },
+
+      {
+        "name": "William",
+        "quote": "Well – you're being honest! No - you're being very generous in your judgement. Yes.",
+        "translation": "Ну – ты честно это говоришь! Нет – ты очень щедра в своем суждении. Да."
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "Okay. Now what are 'volunteers'?",
+        "translation": "Хорошо. А сейчас, кто такие волонтеры?"
+      },
+
+      {
+        "name": "William",
+        "quote": "People who aren't paid, but offer their time and their help to do something, usually for a charity. These are 'volunteers'. For example, I used to be a volunteer .... .",
+        "translation": "Люди, которым не платят, но они предлагают свое время и помощь, чтобы сделать что-нибудь, обычно ради благотворительности. Они «волонтеры». К примеру я был волонтером .... ."
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "Did you?",
+        "translation": "Ты был?"
+      },
+
+      {
+        "name": "William",
+        "quote": "Yeah.",
+        "translation": "Да."
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "Doing what?",
+        "translation": "Делая что?"
+      },
+
+      {
+        "name": "William",
+        "quote": "I worked for the Red Cross as a volunteer for a little while.",
+        "translation": "Я работал для Красного Креста в качестве волонтера немного."
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "Fabulous, so helping people who were ill or injured and so on?",
+        "translation": "Потрясающе, то есть помогал людям, которые были больны или ранены и тому подобное?"
+      },
+
+      {
+        "name": "William",
+        "quote": "Yeah – people who were in need. Yeah.",
+        "translation": "Да – люди, которые были в нужде. Да."
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "Excellent. Now in today's report from the BBC's John McGrath, we'll hear how volunteers were asked to judge people's personalities. But what were the volunteers asked to hold before they made their judgements?",
+        "translation": "Отлично. А сейчас в сегодняшнем репортаже от John McGrath на BBC, мы услышим как попросили волонтеров судить о человеческих личностях. Но что попросили волонтеров подержать до того, как они сделали свои суждения."
+      },
+
+      {
+        "name": "JOHN MCGRATH",
+        "quote": "They found that those who had held warm cups of coffee were more likely to be generous in their judgements than those who had held cups of ice. In a second study, the scientists found that the volunteers were more likely to give a gift to another person if they had warmed their hands first.",
+        "translation": "Они выяснили, что те кто держал теплые чашки с кофе были скорее более всего щедры, чем те кто держал чашки со льдом. Во втором учении, ученые выяснили, что волонтеры скорее более всего дали бы подарок другой личности, если бы она сначала согрела свои руки."
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "William, what were the volunteers asked to hold before they judged people's personalities?",
+        "translation": "William, что попросили волонтеров подержать до того, как они судили о личностях людей?"
+      },
+
+      {
+        "name": "William",
+        "quote": "Well some were given warm cups of coffee to hold so their hands were warm, while others were given cups of ice to hold.",
+        "translation": "Ну некоторым дали теплые чашки с кофе так чтоб их руки были согреты, в то время как другим дали чашки со льдом."
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "Hmmm - and those people with warm hands said nicer things about the personality of each person they judged. And in the second study – or experiment – did you happen to catch what the volunteers with warm hands were more likely to do?",
+        "translation": "Хм – те люди с согретыми руками говорил более приятные вещи о личности каждого человека, о которой они судили. А во втором учении – или эксперименте – тебе удалось уловить, что волонтеры с согретыми руками были скорее всего сделать?"
+      },
+
+      {
+        "name": "William",
+        "quote": "Yes, they wanted to give gifts to other people, while those with cold hands didn't.",
+        "translation": "Да, они хотели подарить подарки другим людям, в то время как те с холодными руками – нет."
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "Aha! So next time you shake hands with someone, you might want to check whether their hands are warm or cold. If they're warm – there could be a gift on its way to you! Now as we know, the words 'warm' and 'cold' are sometimes used to describe people - even in children's stories. But what do we mean when we use those terms, William?",
+        "translation": "Аха! Так что в следующий раз ты пожмешь руку тому, у кого ты возможно захочешь проверить теплые или холодные у них руки. Если теплые – подарок будет от него тебе! А сейчас, как мы знаем, слова «теплый» и «холодный» иногда используются, чтобы описать людей – даже в детских рассказах. Но что мы имеем ввиду, когда используем эти выражения, William?"
+      },
+
+      {
+        "name": "William",
+        "quote": "Well, someone who is a 'warm' person is usually someone who's good, kind, giving and friendly. But someone who is a 'cold' person is the opposite and might even be thought of as a bit cruel.",
+        "translation": "Ну, тот кто «теплая» личность – обычно тот кто хороший, добрый, отдающий и дружелюбный. Но тот кто «холодный» - наоборот и возможно тот, о котором думают как о немного жестоком."
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "Ooh - but where did that idea come from?",
+        "translation": "Ооо – откуда пришла эта идея?"
+      },
+
+      {
+        "name": "JOHN MCGRATH",
+        "quote": "The research team say that describing people as either warm or cold, taps into emotions and experiences that date back to childhood.",
+        "translation": "Команда исследователей говорит, что описывание людей либо как «теплыми» или холодными стучится в эмоции и опыты, которые относятся к детству."
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "William, John used the expression– 'taps into emotions' - so, 'to tap into'. What did he mean by that?",
+        "translation": "William, John использовал выражение  - «стучится в эмоции» - то есть «стучаться в». Что он имел под этим ввиду?"
+      },
+
+      {
+        "name": "William",
+        "quote": "John means that describing people as 'warm' or 'cold' reminds us of feelings and experiences from our childhood. So for example, most people think of a mother as a warm person who's kind and good. And that makes us see others who are physically warm as being kind and good too.",
+        "translation": "John имеет ввиду, что описывание людей как «теплых» или «холодных» напоминает нам о чувствах и опытах из нашего детства. Так что к примеру большинство людей думают о матери как о теплой личности, которая хорошая и добрая. И это заставляет нас видеть других людей, которые физически теплые, как добрых и хороших тоже."
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "Yes, but psychologists and scientists on the research team have warned us that this isn't always the case. We can't always know who is good and who is bad by checking whether their hands are warm or cold. But what we do know is that our own behaviour and feelings can change depending on whether our own hands are warm or cold.",
+        "translation": "Да, но психологи и ученые из команды исследователей предупредили нас, что это не всегда так. Мы не можем всегда знать кто хороший и кто плохой путем проверки холодные или теплые у них руки. Но то мы знаем, что наши собственные поведение и чувства могут меняться в зависимости от того теплые или холодные у нас руки."
+      },
+
+      {
+        "name": "William",
+        "quote": "Well that's it! If a salesman gives me a warm cup of coffee when I go to buy something, I won't take it.",
+        "translation": "Ну да это так! Если продавец дает мне теплую чашку кофе, когда я иду покупать что-то, я это куплю."
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "Why not?",
+        "translation": "Почему нет?"
+      },
+
+      {
+        "name": "William",
+        "quote": "Because if my hands are nice and warm, I just might buy something that I don't really need or want.",
+        "translation": "Потому что, если мой руки нежные и теплые, я возможно просто куплю что-то, что мне на самом деле надо или я не хочу."
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "That's good thinking! Okay, it's time now to find out the answer to today's big question, William. What's the world's record for the longest time spent by someone in full body contact with ice?",
+        "translation": "Хорошее рассуждение! Хорошо, а сейчас время выяснить ответ на сегодняшний большой вопрос, William. Какой мировой рекорд самого долгого времени, проведенного кем-то в полном контакте тела со льдом?"
+      },
+
+      {
+        "name": "William",
+        "quote": "I said a) - an hour and quarter.",
+        "translation": "Я сказал а) – 1 час и 15 минут."
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "And again...",
+        "translation": "И снова..."
+      },
+
+      {
+        "name": "William",
+        "quote": "Again? Am I right?",
+        "translation": "Снова? Я прав? "
+      },
+
+      {
+        "name": "Yvonne",
+        "quote": "No – no, you were wrong. Sorry. It's actually an hour and a half. It was a man in China. And yes, he was still alive when they took him out! But that's all we've got time for on today's '6 Minute English'",
+        "translation": "Нет – ты был не прав. Жаль. На самом деле полтора часа. Это был мужчина из Китая. И да, он все еще жив, когда его вытащили изо льда! Это все для сегодняшнего выпуска '6 Minute English'"
+      },
+
+      {
+        "name": "W/Y",
+        "quote": "Goodbye!",
+        "translation": "Пока!"
+      }
+    ],
+
+    "img_addr": "6me/2008/2008-12/Warm-hands-warm-heart.jpg",
+    "audio_src": "6me/2008/2008-12/2008-12-24 - 6 Minute English - Jargon.mp3",
+    "title": "BBC 6 Minute English podcast - Warm hands, warm heart [Теплые руки, теплое сердце], 2008-12-24",
+
+    "words_arr": [
+  		{"en_word": "the judgement", "ru_word": "суждение"},
+  		{"en_word": "fabulous", "ru_word": "потрясающий"},
+  		{"en_word": "the personality", "ru_word": "личность"},
+  		{"en_word": "likely", "ru_word": "скорее всего"},
+  		{"en_word": "opposite", "ru_word": "противоположный, напротив"}
+  	]
+  }
+}

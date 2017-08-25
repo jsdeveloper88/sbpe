@@ -1,0 +1,249 @@
+{
+  "data": {
+    "phrases_arr": [
+      {
+        "name": "Yvonne",
+        "quote": "Hi, I'm Yvonne Archer and this is '6 minute English'. And joining me today is William Kremer. Hello William!",
+        "translation": " Привет, я Yvonne Archer и это «6 minute English». И сегодня меня присоединяет к эфиру William Kremer. "
+      },
+      {
+        "name": "William",
+        "quote": "Hello Yvonne!",
+        "translation": "Привет, Yvonne!"
+      },
+      {
+        "name": "Yvonne",
+        "quote": "Now recently, I heard an interesting report about how, in South Korea, only people who are blind are legally allowed to do a certain type of work.",
+        "translation": " Сегодня недавно я услышала интересный репортаж о том, как в Южной Корее только незрячим людям разрешено выполнять определенный вид работы. "
+      },
+      {
+        "name": "William",
+        "quote": "Oh – but what type of work? And is that law fair to everyone else – especially to people with other types of disability?",
+        "translation": " О – но какой вид работы? И справедливо ли это по закону по отношению к другим людям – особенно к людям с другими видами инвалидности? "
+      },
+      {
+        "name": "Yvonne",
+        "quote": "Well, they're all good questions William – but before we find out a few answers, I've got a question for you. Are you ready?",
+        "translation": " Ну это хорошие вопросы, William - но до того как мы выясним ответы на них, у меня есть вопрос для тебя. Ты готов? "
+      },
+      {
+        "name": "William",
+        "quote": "As ever…",
+        "translation": " Как никогда"
+      },
+      {
+        "name": "Yvonne",
+        "quote": [
+          "Good! Approximately how many people in the world are living with a disability of some kind? Is it",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) two percent",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) ten percent OR",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) twelve percent"
+        ],
+
+        "translation": [ 
+          "Хорошо! Примерно сколько людей в мире живут с инвалидностью определенного типа?",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) 2%",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) 10%",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) 12%"
+        ]
+      },
+      {
+        "name": "William",
+        "quote": "I don't know but I'm guessing B – ten percent. Because there's a lot of old people obviously, and old people very often have disabilities of one kind or another. And there's unfortunately, there're a lot of wars and that leaves people with a lot of disability. So ten percent…",
+        "translation": " Я не знаю, но полагаю, что В – 10%. Потому что, очевидно, есть много старых людей, а у старых людей часто есть инвалидности одного или другого вида. И к сожалению есть много войн, и они оставляют людей с множеством инвалидностей. Так что 10%..."
+      },
+      {
+        "name": "Yvonne",
+        "quote": "Good answer - ten percent. Okay, we'll find out whether you're right or wrong at the end of the programme. Since 1963, people in South Korea who are blind have been the only ones allowed to work as massage therapists. William, what type of job that?",
+        "translation": " Хороший ответ – 10%. Хорошо, мы выясним прав ли ты или нет в конце программы. С 1963-го года люди в Южной Корее, которые слепы, были единственными, кому было разрешено работать в качестве массажного терапевта. William, что это за работа? "
+      },
+      {
+        "name": "William",
+        "quote": "Certainly. A 'massage therapist' is a person who mainly uses their hands and fingers to rub different areas of the body, head, arms or legs to help stop pain or to help people move more easily. So someone who's been in an accident, for example, might have 'massage therapy'.",
+        "translation": " Массажный терапевт – это человек, который использует свои руки и пальцы, чтобы массажировать различные области тела, головы, рук или ног, чтобы помочь остановить боль или помочь людям передвигаться легче. Так что те люди, которые побывали в авариях, к примеру, возможно ходит на массажную терапию. "
+      },
+      {
+        "name": "Yvonne",
+        "quote": "And people in South Korea, especially those who've recently become blind, are really happy that the law keeps those jobs for them. But people who aren't blind want that law changed so that they can also earn money in the same way. In today's report, we'll come across the expression 'to cope with demand'. William, what's that mean?",
+        "translation": " Так люди в Южной Корее, особенно те кто недавно потерял зрение, на самом деле счастливы, что закон держит эту работу для них. Но те люди, которые не являются слепыми, хотят, чтобы закон изменился, так чтобы они тоже могли зарабатывать тем же способом. В сегодняшнем репортаже мы столкнемся с выражением «справляться со спросом». William, что это значит? "
+      },
+      {
+        "name": "William",
+        "quote": "Yes, if a person or a company 'copes with demand', they provide what their customers need when they need it. So for example, a dressmaker who can't sew all her customers' dresses on time has more work than she can manage and she can't 'cope with demand'.",
+        "translation": " Да, если личность или компания «справляется со спросом», то они обеспечивают своих клиентов тем, что им надо и когда надо. К примеру, портниха, которая не может сшить все платья своих клиентов вовремя, имеет больше работы, чем может справиться, и она не может «справиться со спросом». "
+      },
+      {
+        "name": "Yvonne",
+        "quote": "Great – and what does 'awash with' mean?",
+        "translation": " Хорошо – а что значит «быть наводненный»? "
+      },
+      {
+        "name": "William",
+        "quote": "'Awash' literally means covered with water. But here, it means that there's lots of something. So for example, if you said 'London is awash with tourists in the summer' it means that there's lots of tourists in London in the summer.",
+        "translation": " «Наводненный» буквально означает быть покрытым водой. Но здесь это означает много чего-то. К примеру, если ты сказал «Лондон наводнен туристами летом», это означает, что много туристов в Лондоне летом. "
+      },
+      {
+        "name": "Yvonne",
+        "quote": "Excellent. Now in his report, the BBC's John Sudworth explains that there are about seven thousand massage therapists who are blind in South Korea. But how many people who aren't blind would like to be legal massage therapists too?",
+        "translation": " Отлично. Сейчас в этом репортаже, John Sudworth из ВВС объясняет, что в Южной Корее около 7000 слепых массажных терапевтов. Но сколько людей, которые зрячие, хотели бы работать легальными массажными терапевтами тоже? "
+      },
+      {
+        "name": "JOHN SUDWORTH",
+        "quote": "There may be seven thousand, but they can't cope with demand. South Korean cities are awash with massage parlours, barbers' shops and bath houses – all offering massages by unlicensed, sighted practitioners. An estimated half a million of them in total.",
+        "translation": " Возможно есть 7000, но они не могут справиться со спросом. Города Южной Кореи наводнены массажными салонами, парикмахерскими и банями – все предлагают массаж от нелицензированных зрячих практикантов. Полмиллиона из них в целом по оценке. "
+      },
+      {
+        "name": "Yvonne",
+        "quote": "So the cities in South Korea are awash with all kinds of businesses which offer massages. But William, how many sighted people – people who can see - are breaking the law by providing those massages?",
+        "translation": " То есть города в Южной Корее наводнены всеми видами бизнеса, которые предлагают массаж. Но, William, сколько зрячих людей – люди, которые могут видеть – нарушают закон, делая массаж? "
+      },
+      {
+        "name": "William",
+        "quote": "Well, John says that there are about half a million people who are working illegally – without a licence.",
+        "translation": " Ну, John говорит, что там около полумиллиона людей, работающих незаконно – без лицензии. "
+      },
+      {
+        "name": "Yvonne",
+        "quote": "That's right – and they've asked the courts to change the law because they believe it's unfair to stop them from earning money and it actually makes them into criminals by doing massages. Now the massage therapists who are blind aren't happy either…",
+        "translation": " Правильно – и они просят суды изменить этот закон, потому что они верят, что это несправедливо останавливать их от зарабатывания денег, и это на самом деле заставляет их нарушать закон, делая массаж. Сейчас массажные терапевты, которые слепые, все равно несчастливы…"
+      },
+      {
+        "name": "JOHN SUDWORTH",
+        "quote": "Now blind masseurs and masseuses have been taking to the streets to defend their monopoly. Some massage therapists have even jumped off bridges into the Han River.",
+        "translation": " Сейчас слепые массажисты и массажистки выходят на улицы, чтобы защитить свою монополию. Некоторые массажные терапевты даже спрыгнули с мостов в Han River. "
+      },
+      {
+        "name": "William",
+        "quote": "Wow – that's a powerful protest. They really do want to keep their legal right to be the only group of people who can become massage therapists; they're desperate to hold onto their 'monopoly'.",
+        "translation": " Вау – это сильный протест. Они действительно хотят сохранить свое законное право, чтобы быть единственной группой людей, которые могут стать массажными терапевтами; они отчаились в удержании своей монополии. "
+      },
+      {
+        "name": "Yvonne",
+        "quote": "They certainly are and luckily, so far, no-one has been seriously hurt in the protests. Now even though there's more than enough work for everyone, blind people are worried that this won't always be the case - and say it would be really difficult for them to find other types of work. But here's a final question from John which gives us all something else to think about:",
+        "translation": " Определенно они разочарованы, и к счастью никто серьезно не пострадал в протестах. Но даже несмотря на то, что работы для каждого больше чем достаточно, слепые люди обеспокоены тем, что эта работа не всегда будет для них – и они говорят, что для них было бы трудно найти другие виды работ. И здесь финальный вопрос от John, который заставляет нас задуматься еще кое о чем: "
+      },
+      {
+        "name": "JOHN SUDWORTH",
+        "quote": "So is massage work a valuable protection for a vulnerable minority, or a patronising excuse for a lack of equality?",
+        "translation": " Так работа массажиста является значимой защитой уязвимого меньшинства или покровительствующим извинением за недостаток равенства? "
+      },
+      {
+        "name": "Yvonne",
+        "quote": "Hmmm, a question the courts will have to answer. But William, what are your thoughts - should certain jobs be kept for people with disabilities?",
+        "translation": " Ммм, вопрос, на который должны будут ответить суды. Но, William, какие твои мысли – лучше некоторые работы отдавать людям с инвалидностью?  "
+      },
+      {
+        "name": "William",
+        "quote": "Umm…I don't know – that's a very, very difficult question. Umm – maybe. Maybe that's the fairest thing until everyone can apply for every job. I don't know.",
+        "translation": " Ммм… Я не знаю – это очень сложный вопрос. Мм – возможно. Возможно самая справедливая позиция – чтобы каждый мог иметь любую работу. Я не знаю. "
+      },
+      {
+        "name": "Yvonne",
+        "quote": "Well, there's a lot to think about and discuss after the programme. But for now, let's get the answer to today's question: William, approximately how many people in the world are living with a disability of some kind?",
+        "translation": " Ну, тут есть много чего, над чем подумать и что обсудить после программы. Но сейчас, давай получим ответ на сегодняшний вопрос: William, приблизительно сколько людей по всему миру живут с инвалидностью определенного типа? "
+      },
+      {
+        "name": "William",
+        "quote": "I said ten percent…",
+        "translation": " Я сказал 10%..."
+      },
+      {
+        "name": "Yvonne",
+        "quote": "You're absolutely right.",
+        "translation": " Ты абсолютно прав. "
+      },
+      {
+        "name": "William",
+        "quote": "Yeah!",
+        "translation": "Да!"
+      },
+      {
+        "name": "Yvonne",
+        "quote": "It's an extraordinary number, isn't it?",
+        "translation": " Это удивительное число, не так ли? "
+      },
+      {
+        "name": "William",
+        "quote": "It is actually. It's a much higher number than a lot of people would think, I believe.",
+        "translation": " Да на самом деле. Я верю, это на много большее число, чем некоторые люди могли бы подумать. "
+      },
+      {
+        "name": "Yvonne",
+        "quote": "Anyway, that's all we've time for today – but do join us again next time for more '6 Minute English' from BBC Learning English.",
+        "translation": " По-любому, это все, на что у нас было время на сегодня – но присоединяйтесь к нам еще в следующий раз на «6 Minute English» на BBC Learning English."
+      },
+      {
+        "name": "W/Y",
+        "quote": "Goodbye!",
+        "translation": "Пока"
+      }
+    ],
+
+    "img_addr": "6me/2008/2008-12/Blind-Masseurs.jpg",
+    "audio_src": "6me/2008/2008-12/2008-12-03 - 6 Minute English - Blind Masseurs.mp3",
+    "title": "BBC 6 Minute English podcast - Blind Masseurs [Слепые массажные терапевты], 2008-12-03",
+
+    "words_arr": [
+      {
+        "en_word": "the disability",
+        "ru_word": "инвалидность"
+      },
+      {
+        "en_word": "the therapist",
+        "ru_word": "терапевт"
+      },
+      {
+        "en_word": "the dressmaker",
+        "ru_word": "портной"
+      },
+      {
+        "en_word": "to be awash with smth.",
+        "ru_word": "быть наводненым чем-то"
+      },
+      {
+        "en_word": "the parlour",
+        "ru_word": "салон"
+      },
+      {
+        "en_word": "the barbers' shop",
+        "ru_word": "парикмахерская"
+      },
+      {
+        "en_word": "the bath house",
+        "ru_word": "баня"
+      },
+      {
+        "en_word": "the sighted man",
+        "ru_word": "зрячий человек"
+      },
+      {
+        "en_word": "the practitioner",
+        "ru_word": "практикант"
+      },
+      {
+        "en_word": "the masseur",
+        "ru_word": "массажист"
+      },
+      {
+        "en_word": "the masseus",
+        "ru_word": "массажистка"
+      },
+      {
+        "en_word": "to hold onto",
+        "ru_word": "удерживать"
+      },
+      {
+        "en_word": "the minority",
+        "ru_word": "меньшинство"
+      },
+      {
+        "en_word": "to patronise",
+        "ru_word": "покровительствовать"
+      },
+      {
+        "en_word": "vulnerable",
+        "ru_word": "уязвимый"
+      }
+    ]
+  }
+}

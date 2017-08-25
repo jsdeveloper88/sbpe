@@ -1,0 +1,161 @@
+{
+  "data": {
+    "phrases_arr": [
+      {"name": "Yvonne",
+      "quote": "This is '6 Minute English', I'm Yvonne Archer - and thanks to Callum for joining me today.",
+      "translation": "Это программа '6 Minute English', я Yvonne Archer - и спасибо Каллуму за то что пригрласил меня сегодня."},
+
+      {"name": "Callum",
+      "quote": "Hello Yvonne!",
+      "translation": "Привет, Иван!"},
+
+      {"name": "Yvonne",
+      "quote": "Hi Callum. As the world knows, recently, the United States of America got its very first African American President. And today, we find out how one French-Londoner decided to mark this historic event. But first, I've a question for you Callum!",
+      "translation": "Привет, Каллум. Как знает весь мир, недавно США получили своего первого президента африканского происхождения. И сегодня мы выясняем как один французский лондонец решил отметить это историческое событие. Но сначала, у меня для тебя вопрос, Каллум!"},
+
+      {"name": "Callum",
+      "quote": "OK – go on Yvonne.",
+      "translation": "Хорошо – валяй, Иван."},
+
+      {"name": "Yvonne",
+      "quote": [
+        "Right! In 1881, Alexander Graham Bell, the inventor of the telephone, went to the White House to find something for President James Garfield. Was it",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) gold",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) hidden bottles of wine OR",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) a bullet"],
+      "translation": [
+        "Правильно! В 1881 году Александр Грэхэм Бэлл, изобретатель телефона, пришел в Белый Дом чтобы найти кое-что для президента Джеймса Гарфильда. Это было",
+        "nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) золото",
+        "nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b)  спрятанные бутылки с вином или",
+        "nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) пуля"]
+      },
+
+      {"name": "Callum",
+      "quote": "I have to say, I have absolutely no idea on this one. Err – I'm just going to go for hidden bottles of wine. That's my answer.",
+      "translation": "Должен сказать, я абсолютно не имею понятия насчет этого. Эээ – я просто собираюсь сказать что спрятанные бутылки с вином. Это мой ответ."},
+
+      {"name": "Yvonne",
+      "quote": "It's a good, but we'll find out whether you're right or wrong later on. Now Alice Gbelia is the editor of an internet listings site. So she tells people who visit the website about the most interesting plays, clubs, films and other events in and around London. So of course, Alice knew the best places for people in London to watch the new American president being 'sworn in'. Callum, could you explain what being 'sworn in' means please?",
+      "translation": "Хорошо, но мы выясним прав ты или нет позже. А сейчас Элис Джибелия, редактор сайта интернет объявлений. Она рассказывает людям кто посещает сайт о самых интересных играх, клубах, фильмах и других событиях в и за пределами Лондона. Так что конечно Элис знала о лучших местах для людей в Лондоне чтобы посмотреть на нового американского президента, приносящего присягу. Каллум, можешь пожалуйста объяснить что означает «приносить присягу» ?"},
+
+      {"name": "Callum",
+      "quote": "Certainly. When someone is 'sworn in', it means that they take an oath – which is a serious, sincere promise. For example, at the beginning of a court trial, a witness is 'sworn in' - to promise to tell the truth. And politicians are 'sworn in' when they take office – when they start their new job – to show that they will do everything their new job requires.",
+      "translation": "Определенно. Когда кто-то принес присягу, это означает что он взял клятву на себя – которая является серьезным, искренним обещанием. К примеру, в начале судебного процесса, свидетель приносит присягу – обещает говорить правду. И политики приносят присягу когда они занимают свое кресло – когда они начинают свою новую работу – чтобы показать что они будут делать все возможное что требует их новая работа."},
+
+      {"name": "Yvonne",
+      "quote": "Thanks Callum. Now Alice uses the word 'inauguration' which is the special name for a swearing-in ceremony – in this case, making it official that Barak Obama is now the President. But Alice also mentions 'promoters'. What are they Callum?",
+      "translation": "Спасибо, Каллум. А сейчас Элис использует слово «инаугурация», которые является специальным названием для церемонии принесения присяги – в данном случае, делая это официально что Барак Обама теперь президент. Но Элис также упоминает «промоутеров». Кто это такие, Каллум?"},
+
+      {"name": "Callum",
+      "quote": "'Promoters' are people who help organise public events such as films, concerts, parties and trips. And 'promoters' use their own money for the events – so they also make money from them.",
+      "translation": "«Промоутеры» - это люди, которые помогают организовывать общественные события такие как фильмы, концерты, вечеринки и путешествия. И «промоутеры» используют свои собственные деньги для событий – так что они также делают деньги с этого."},
+
+      {"name": "Yvonne",
+      "quote": "They certainly do! And what's 'a cocktail party'?",
+      "translation": "Определенно! А что такое котейлевая вечеринка?"},
+
+      {"name": "Callum",
+      "quote": "Oh 'a cocktail party' is a party where 'cocktails' are served! And they're drinks which are made from two or more ingredients and usually include some alcohol, but they don't have to. So for example – a cocktail could be made from pineapple, coconut, fresh mint, cabbage, lemon and rum.",
+      "translation": "О, «коктейлевая вечеринка» - это вечеринка где подают коктэйли! Это напитки которые сделаны из двух или более ингредиентов и обычно включают в себя немного алкоголя, но необязательно. К примеру, коктэйль может быть сделан из ананаса, кокоса, свежей мяты, капусты, лимона и рома."},
+
+      {"name": "Yvonne",
+      "quote": "Callum, is that a real cocktail?!",
+      "translation": "Каллум, это настоящий коктэйль?!"},
+
+      {"name": "Callum",
+      "quote": "No, I made that one up! But some cocktails are made from very unusual ingredients – so their names are often unusual and even entertaining.",
+      "translation": "Нет, я сам придумал! Но некоторые коктэйли делают из очень необычных ингредиентов – так что их названия часто очень необычные и даже забавные."},
+
+      {"name": "Yvonne",
+      "quote": "A bit like you really, Callum! Anyway, now as we hear from Alice Gbelia, try to find out why she decided to mark the historic inauguration of President Obama at the event where I met her.",
+      "translation": "На самом деле немного как ты, Каллум! Все равно, а сейчас как только мы послушаем Элис Джибелиа, попробуй выяснить почему она решила отметить эту историческую инаугурацию президента Обамы на том событии, где я ее встретила."},
+
+      {"name": "ALICE GBELIA",
+      "quote": "Because all the events, you have all these promoters doing something around it, you know, and throwing some cocktail parties and some DJ parties and I just wanted to watch the inauguration with like-minded people.",
+      "translation": "Потому что все эти события, все эти промоутеры делающие что-то вокруг этого, знаешь, и устраивающие коктэйлевые и диджейские вечеринки, а я просто хотела посмотреть инаугурацию с одинаково-мыслящими людьми."},
+
+      {"name": "Yvonne",
+      "quote": "Callum, why did Alice choose to go to one particular event rather than any of the others she knew about?",
+      "translation": "Каллум, почему Элис выбрала пойти на одну конкретное событие нежели чем на любое другое о котором она знала?"},
+
+      {"name": "Callum",
+      "quote": "Well, she wasn't interested in watching the inauguration at a cocktail party or at a DJ party – where someone was playing recorded music. Alice just wanted to watch the inauguration.",
+      "translation": "Ну, потому что она не была заинтересована в просмотре инаугурации на коктейлевой или диджейской вечеринке – где кто-то проигрывает записанную музыку. Элис просто хотела посмотреть инаугурацию."},
+
+      {"name": "Yvonne",
+      "quote": "And you may have noticed that she also wanted to watch it with who she calls 'like-minded people'. Callum, who are they?",
+      "translation": "И возможно ты заметил что она также хотела посмотреть ее с теми кого она называет «одинаково-мыслящими людьми». Каллум, кто это?"},
+
+      {"name": "Callum",
+      "quote": "People who are 'like-minded' have similar views or interests to us – so we usually get on with them very well. Their minds often work in a similar way to our own, so we can call them 'like-minded people'.",
+      "translation": "Люди, которые «одинаково-мыслящие», имеют схожие взгляды или интересы с нами – так что мы обычно ладить с ними очень хорошо. Их разумы часто работают схожим путем с нашим, так что мы можем называть «одинаково-мыслящими людьми»."},
+
+      {"name": "Yvonne",
+      "quote": "Well I asked Alice to explain who she means by 'like-minded people'…",
+      "translation": "Я попросила Элис объяснить кого она имеет ввиду под «одинаково-мыслящими людьми»…"},
+
+      {"name": "ALICE GBELIA",
+      "quote": "…People who are for Obama – who support Obama and who are happy to have a Black president of the United States of America.",
+      "translation": "…Люди которые за Обаму – кто поддерживает Обаму и кто счастлив иметь черного президента США."},
+
+      {"name": "Yvonne",
+      "quote": "Now as someone who is happy that President Obama is in the White House, I wondered what Alice expects from him…",
+      "translation": "Это некто кто счастлив что президент Обама в Белом Доме, меня удивило что Элис ожидает от него…"},
+
+      {"name": "ALICE GBELIA",
+      "quote": "Well, I think that people are putting too many expectations on Obama. Personally, all I'm asking is that he's a good president for the United States first because most people think that he's going to be the president for all Black people around the world but that's not the case.",
+      "translation": "Ну я думаю что люди возлагают слишком много ожиданий на Обаму. Лично все что я прошу – это прежде всего чтобы он был хорошим президентом для США потому что большинство людей думают что он будет президентом для всех чернокожих по всему миру но это не так."},
+
+      {"name": "Callum",
+      "quote": "So at this point, Alice only asks that President Obama does his job well for his own country.",
+      "translation": "Таким образом, единственное что Элис просит – это то чтобы президент Обама делал свою работу хорошо для своей собственной страны."},
+
+      {"name": "Yvonne",
+      "quote": "Hmmm – but she also thinks that people expect too much of him – they want him to do more than he'll be able to do. Do you think she has a point there, Callum?",
+      "translation": "Хм – но она также думает что люди ожидают слишком много от него – они хотят чтобы он делал больше чем будет способен. Ты думаешь она права насчет этого, Каллум?"},
+
+      {"name": "Callum",
+      "quote": "I think she does. There are such high expectations that I think it will be nearly impossible for him to live up to everybody's dreams.",
+      "translation": "Я думаю что да. Есть такие высокие ожидания которые я думаю будут почти невозможны для него чтобы воплотить в жизнь мечты каждого."},
+
+      {"name": "Yvonne",
+      "quote": "I agree. Well, it's time now for the answer to today's big question. Callum, what was Alexander Bell looking for in the White House back in 1881?",
+      "translation": "Согласна. Ну, а сейчас время для ответа на сегодняшний главный вопрос. Каллум, что искал Александр Бэлл в Белом Доме в 1881-м году?"},
+
+      {"name": "Callum",
+      "quote": "Well, I thought it was some wine. Was I right?",
+      "translation": "Ну, я думаю что немного вина. Я был прав?"},
+
+      {"name": "Yvonne",
+      "quote": "No - for a change, you were wrong! Yes, he was looking for a bullet. President Garfield had been shot and the bullet was still in his body.",
+      "translation": "Нет – для разнообразия, ты был неправ! Да, он искал пулю. Президент Гарфильд был подстрелен и пуля все еще была в его теле."},
+
+      {"name": "Callum",
+      "quote": "Oh, I see.",
+      "translation": "О, я вижу."},
+
+      {"name": "Yvonne",
+      "quote": "Anyway, that's it for today's '6 Minute English' from BBC Learning English.",
+      "translation": "Все, это все на сегодня."},
+
+      {"name": "C/Y",
+      "quote": "Goodbye!",
+      "translation": "Пока!"}
+    ],
+
+    "img_addr": "6me/2009/2009-01/Obama-inauguration-party.jpg",
+    "audio_src": "6me/2009/2009-01/2009-01-28 - 6 Minute English - Obama inauguration party.mp3",
+    "title": "BBC 6 Minute English podcast - Obama inauguration party [Вечеринка в честь инаугурации Обамы], 2009-01-28",
+
+    "words_arr": [
+      {"en_word": "the oath", "ru_word": "клятва"},
+      {"en_word": "the trial", "ru_word": "судебное разбирательство"},
+      {"en_word": "to get sworn in", "ru_word": "приносить присягу"},
+      {"en_word": "the pineapple", "ru_word": "ананас"},
+      {"en_word": "the coconut", "ru_word": "кокос"},
+      {"en_word": "the cabbage", "ru_word": "капуста"},
+      {"en_word": "the rum", "ru_word": "ром"},
+      {"en_word": "like-minded people", "ru_word": "себе-подобные люди"}
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+	"data": {
+		"phrases_arr": [
+			{"name": "Yvonne",
+			"quote": "This is '6 Minute English', I'm Yvonne Archer and thanks to William Kremer for joining me again today. Hello William!",
+			"translation": "Это программа '6 Minute English', я Yvonne Archer и спасибо William Kremer за то что пригласил меня снова сегодня. Привет, William!"},
+
+			{"name": "William",
+			"quote": "Hello Yvonne.",
+			"translation": "Привет, Yvonne!"},
+
+			{"name": "Yvonne",
+			"quote": "William, what type of stories would you say we generally hear about the country Sudan?",
+			"translation": "Вильям, какие истории ты бы сказал мы в основном слышим о стране Судан?"},
+
+			{"name": "William",
+			"quote": "Umm – not very positive stories. We hear a lot of stories about the war and about refugees in Darfur.",
+			"translation": "Хм – не очень позитивные. Мы слышим много историй о войне и убежищах в Дарфуре."},
+
+			{"name": "Yvonne",
+			"quote": "...But not everyone in Sudan is involved the conflict or the war. So in today's programme, we hear about something different!",
+			"translation": "Но не каждый в Судане вовлечен в конфликт или войну. Так что в сегодняшней программе мы услышим о кое-чем другом!"},
+
+			{"name": "William",
+			"quote": "Yeah!",
+			"translation": ""},
+
+			{"name": "Yvonne",
+			"quote": "Yes. I met - during a British Council trip to Nigeria – a gentleman who's a volunteer at a very special school in Sudan.",
+			"translation": "Да. Я встретилась – во время путешествия Британского Совета в Судан – с джентельменом, который является волонтером в очень особой школе в Судане."},
+
+			{"name": "William",
+			"quote": "Right, so what's special about the school? Is it that it's open even though there's a war?",
+			"translation": "Правильно, так что особенного в той школе? То что она открыта даже несмотря на войну?"},
+
+			{"name": "Yvonne",
+			"quote": "Well that's part of it, but as we'll find out, there's even more to it than that. But first, you'd better answer today's big question. William. Are you ready?",
+			"translation": "Ну так отчасти, но как мы выясним, есть даже больше к этому. Но сначала, тебе лучше ответить на сегодняшний главный вопрос. Вильям. Ты готов?"},
+
+			{"name": "William",
+			"quote": "Yes.",
+			"translation": ""},
+
+			{"name": "Yvonne",
+			"quote": [
+				"Okay. What age was the world's oldest student when she got a college degree in the United States? Was she",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) 91",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) 95",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) 101"
+			],
+			"translation": [
+				"Хорошо. Какого возраста была самая старая студентка в мире, когда она получила степень колледжа в США? Ей было",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) 91",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) 95",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) 101"
+			]},
+
+			{"name": "William",
+			"quote": "I'm going to go for one hundred and one.",
+			"translation": "Я скажу что 101 год."},
+
+			{"name": "Yvonne",
+			"quote": "I like that age too, but - we'll find out whether you're right or wrong later on! Now following the signing of the Comprehensive Peace Agreement in Sudan, some ex child soldiers – people who used to be soldiers when they were children - were disarmed. Their weapons were taken away so that they could become a part of society again. And this included going to school, something they hadn't done during the country's twenty-one years of war.",
+			"translation": "Мне тоже нравиться этот возраст, но – мы выясним прав ты или нет позже. А сейчас следуя подписанию Всестороннего Мирового Соглашения в Судане, несколько бывших детских солдат – люди которые были солдатами когда они были детьми – были разоружены. Их оружие забрали так чтобы они опять могли стать частью общества. И это включило хождение в школу, нечто что они не делали в течение 21-летней войны."},
+
+			{"name": "William",
+			"quote": "Gosh.",
+			"translation": "Черт возьми."},
+
+			{"name": "Yvonne",
+			"quote": "Hmmm. Santo Khamis is a volunteer teacher at a primary school in Sudan which was specially set up in 2006 for ex-child soldiers. He describes his students as 'aggressive' and 'stubborn' when they first begin school. William, what does he mean by that?",
+			"translation": "Хм. Санто Камис – это учитель-волонтер в первоначальной школе в Судане, который был специально назначен в 2006 году для бывших солдат. Он описывает своих учеников как 'агрессивных' и 'упрямых', когда они впервые начали посещать школу. Вильям, что он этим имеет ввиду?"},
+
+			{"name": "William",
+			"quote": "Well, someone who is described as 'aggressive' behaves in an angry and forceful way – and a way that makes other people feel threatened, uncomfortable, maybe even afraid sometimes. So being 'aggressive' is a negative quality.",
+			"translation": "Ну, тот кого описывают как 'агрессивный' ведет себя в злой и сильной манере – таким способом что заставляет других чувствовать себя под угрозой, некомфортно, возможно даже временами обеспокоенным. Так что 'быть агрессивным' - это отрицательное качество."},
+
+			{"name": "Yvonne",
+			"quote": "And 'stubborn'?",
+			"translation": "А 'упрямый'?"},
+
+			{"name": "William",
+			"quote": "That's another negative quality – to be 'stubborn'. Someone who is described as 'stubborn', continues to do or believe exactly what they want to even if they're wrong. So a stubborn person can be really annoying and difficult to deal with because they refuse to change their mind.",
+			"translation": "Это еще одно отрицательное качество – быть 'упрямым'. Тот кого описывают как 'упрямый', продолжает делать или верить именно в то что он хочет, даже если он ошибается. Так что упрямая личность может быть действительно раздражающей и сложной, чтобы иметь с ней дело, потому что она отказывается менять свое мнение."},
+
+			{"name": "Yvonne",
+			"quote": "Thanks William. Now as we hear from Santo, try to find out how long it takes before the students at his school begin to change.",
+			"translation": "Спасибо, William. А сейчас, как только мы послушаем Санто, попробуй выяснить сколько времени на это уходит до того как ученики в его школе начинают меняться."},
+
+			{"name": "SANTO KHAMIS",
+			"quote": "You get them aggressive in the classes. There are times, (they) threaten teachers because they are used that military life where things are done by command. They will (be) so stubborn and very hard to approach but after a year, they change for the better and I'm proud of that.",
+			"translation": "Они агрессивные в классе. Бывают времена, когда они угрожают учителям, потому что они привыкли к той военной жизни, где вещи исполняются по приказу. Они будут упрямы и трудны чтобы приблизиться к ним, но через год, они меняются в лучшую сторону, и я горжусь этим."},
+
+			{"name": "Yvonne",
+			"quote": "The students at Santo's school, who are between 25 and 40 years old, sometimes threaten the teachers if they don't get what they want. But how long does it usually take before students change for the better?",
+			"translation": "Студенты в школе Санто, которым от 25 до 40 лет, иногда угрожают учителям, если им не дают что они хотят. Но сколько обычно уходит времени на то чтобы они поменялись в лучшую сторону?"},
+
+			{"name": "William",
+			"quote": "Well, it only takes about a year – which isn't very long at all. So Santo is quite rightly proud of that.",
+			"translation": "Ну на это примерно уходит год – который длится не очень долго в общем. Так что Санто вполне правильно гордится за это."},
+
+			{"name": "Yvonne",
+			"quote": "Santo and the other teachers spend time talking with and questioning new students to help them. But they also talk about what students will learn, how going to school will help them become a part of society again and bring peace to Sudan. But they also talk about the great future students can have!",
+			"translation": "Санто и другие учителя проводят время, разговаривая и упрашивая новых учеников помочь им. Но они также разговаривают о том что ученики будут учить, как посещение школы поможет им снова стать частью общества и принести мир в Судан."},
+
+			{"name": "William",
+			"quote": "And what subjects do they learn at the school, Yvonne?",
+			"translation": "И какие предметы они учат в школе, Иван?"},
+
+			{"name": "Yvonne",
+			"quote": "Santo told me that the students really enjoy history, geography and environmental studies. But learning languages, including English, really helps them to get jobs!",
+			"translation": "Санто сказал мне, что ученикам на самом деле нравится история, география и учения об окружающей среде. Но учение языков, включая английский, действительно помогает им получить работу!"},
+
+			{"name": "SANTO KHAMIS",
+			"quote": "Most of them get employed within the organisations as security guards, others work in houses of the foreigners within the country as cleaners, others work as messengers in offices...",
+			"translation": "Большинство из них получают работу в организациях в качестве охраны безопасности, другие работают в домах иностранцев в пределах страны в качестве уборщиков, другие работают в качестве курьеров в офисах..."},
+
+			{"name": "William",
+			"quote": "That's great. So do they go onto secondary schools?",
+			"translation": "Это замечательно. Они ходят в средние школы?"},
+
+			{"name": "Yvonne",
+			"quote": "Well sadly, no – not at the moment because they're too old to go to school with young people. But Santo and his friends and colleagues are trying to set up a special secondary school for them so that they can learn agriculture and become farmers. And of course, lots of them would like to go to university. So that's great, isn't it?",
+			"translation": "Печально, но нет – нет в данный момент, потому что они очень взрослые чтобы ходить в школу с молодыми людьми. Но Санто и его друзья и коллеги пытаются устроить специальную среднюю школу для них, так чтобы они могли учить сельское хозяйство и стать фермерами. И конечно, большинство из них хотели бы пойти в университет. Так что это замечательно, не так ли?"},
+
+      {"name": "William",
+       "quote": "Yeah - it is. We wish them lots of luck with that and let's hope that they get lots of donations and more volunteers to help them start those new secondary schools.",
+       "translation": "Да – это так. Мы желаем им много удачи и давай понадеемся что они получат много пожертвований и больше волонтеров чтобы помочь им начать те новые средние школы."},
+
+      {"name": "Yvonne",
+        "quote": "Absolutely. But now, it's time for the answer to today's big question. William, what age was the world's oldest student when she got a college degree in the United States?",
+        "translation": "Абсолютно. А сейчас время для ответа на сегодняшний главный вопрос. Вильям, какого возраста была самая старая студентка в мире, когда она получила степень колледжа в США?"},
+
+      {"name": "William",
+        "quote": "I said, maybe a hundred and one.",
+        "translation": "Я сказал - возможно 101 год"},
+
+      {"name": "Yvonne",
+        "quote": "And you'd be really pushing it! She wasn't. She was ninety-five.",
+        "translation": " И ты бы на самом деле протолкнул бы его! Не ей не было столько лет. Ей было 95 лет."},
+
+      {"name": "William",
+        "quote": "Aww…!",
+        "translation": "Ааа...!"},
+
+      {"name": "Yvonne",
+        "quote": "So - still a good age, isn't it?",
+        "translation": " Но это все еще хороший возраст, не так ли?"},
+
+      {"name": "William",
+        "quote": "A very good age, yeah.",
+        "translation": " Очень хороший возраст, да."},
+
+      {"name": "Yvonne",
+        "quote": "But that's all we've got time for on today's '6 Minute English'. Join BBC Learning English again for more!",
+        "translation": "Но это все на сегодняшний выпуск '6 Minute English'. Присоединяйтесь к BBC Learning English еще!"},
+
+      {"name": "W/Y",
+        "quote": "Goodbye!",
+        "translation": "Пока!"}
+		],
+
+		"img_addr": "6me/2009/2009-01/School-for-ex-soldiers.jpg",
+		"audio_src": "6me/2009/2009-01/2009-01-21 - 6 Minute English - School for ex soldiers.mp3",
+		"title": "BBC 6 Minute English podcast - School for ex soldiers [Школа для бывших солдат], 2009-01-21",
+
+		"words_arr": [
+			{"en_word": "the refuge", "ru_word": "убежище"},
+			{"en_word": "the signing", "ru_word": "подписание"},
+			{"en_word": "comprehensive", "ru_word": "всеобъемлющий"},
+			{"en_word": "stubborn", "ru_word": "упрямый"},
+			{"en_word": "forceful", "ru_word": "принудительный"},
+			{"en_word": "to threaten", "ru_word": "угрожать"},
+			{"en_word": "the agriculture", "ru_word": "сельское хоз-во"},
+			{"en_word": "the donation", "ru_word": "пожертвование"},
+			{"en_word": "the secondary school", "ru_word": "средняя школа"}
+		]
+	}
+}

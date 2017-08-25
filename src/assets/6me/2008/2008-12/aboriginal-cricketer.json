@@ -1,0 +1,202 @@
+{
+  "data": {
+    "phrases_arr": [
+      {
+        "name": "Yvonne",
+        "quote": "Hello - this is '6 minute English' and I'm Yvonne Archer. And with me today is the lovely William Kremer. Hello William!",
+        "translation": "Привет – это «6 Minute English» и я Yvonne Archer. И со мной сегодня со мной William Kremer. Привет, William! "
+      },
+      {
+        "name": "William",
+        "quote": "Oh hello Yvonne!",
+        "translation": "О – привет, Yvonne! "
+      },
+      {
+        "name": "Yvonne",
+        "quote": [
+          "Today – a sporting programme as we hear the story of an extraordinary Australian cricketer. Sadly, he's only just been recognised - thirty years after his death. But before we find out more, let's get out today's big question! William, cricket balls have been made from the same materials since the 1700s. But what colour were they originally?",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) white",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) light brown or",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) cherry red"
+        ],
+        "translation": [
+          "Сегодня спортивная программа как только мы послушаем истрорию об необычном австралийском игроке в крикет. К сожалению, он единственный был признан – через 30 лет после своей смерти. Но до того, как мы выясним больше, давай вынесем сегодняшний главный вопрос! William, мячи для крикета делают из тех же материалов с 1700-го года. Но какого они цвета изначально?",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) белого",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) светло-коричневого или",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) темно-красного"
+        ]
+      },
+      {
+        "name": "William",
+        "quote": "Err… as always, I don't know but I'm gonna go for b) light brown because - cricket balls are made from leather and lots of leather things are light brown. So that's my guess – light brown.",
+        "translation": "Как всегда я не знаю, но скажу, что b) светло-коричневого, потому что – мячи для крикета делаются для кожи, и многие кожаные вещи светло-коричневого цвета. Так что это мое предположение – светло-коричневый. "
+      },
+      {
+        "name": "Yvonne",
+        "quote": "Great answer, but are you right or wrong? We'll find out later on. But now, let's look at some of the language we'll hear in today's report. First, William - what is meant by 'indigenous Australians'?",
+        "translation": "Хороший ответ, но прав ли ты или нет? Мы выясним позже. А сейчас, давай посмотрим на некоторые слова, которые мы услышим в сегодняшнем репортаже. Но сначала, William – что значит «коренные австралийцы»?"
+      },
+      {
+        "name": "William",
+        "quote": "Well, 'indigenous' people are the original people or native people of a country or land. So 'indigenous Australians' – who are also known as aboriginals or aborigines – have always been in Australia. And they were there thousands of years before Europeans arrived.",
+        "translation": "Ну коренные люди – это исконные и оригинальные люди страны или местности. Так что «коренные австралийцы» - те, которые также известны как аборигены – всегда были в Австралии. И они были там тысячи лет до того как прибыли европейцы. "
+      },
+      {
+        "name": "Yvonne",
+        "quote": "Can you explain 'indignities'…",
+        "translation": "Можешь объяснить «унижения» …"
+      },
+      {
+        "name": "William",
+        "quote": "Yes, 'an indignity' is something that makes us feel embarrassed or humiliates us and (makes us feel) of little importance. So to give you an example: prisoners usually have to shower in front of everyone else – and that's one of the 'indignities' that they have to live with.",
+        "translation": "Да, «унижение» это то, что заставляет нас чувствовать себя смущенно или унижает нас и (заставляет чувствовать нас) с малой важностью(значением). Вот тебе пример: заключенные в тюрьмах должны принимать душ перед кем-то другим – и это одно из унижений, с которым они должны жить. "
+      },
+      {
+        "name": "Yvonne",
+        "quote": "And 'slights' or 'a slight' – what's that?",
+        "translation": "И «пренебрежения» или «пренебрежение» - это что? "
+      },
+      {
+        "name": "William",
+        "quote": "'A slight' is a bit of an old fashioned word and it means a quiet kind of insult. So, if I give you an example: if I say hello to you Yvonne and you turn your back and start talking to someone else, well that's a bit of a slight – and in fact, I can say that you've 'slighted' me.",
+        "translation": " «Пренебрежение» - это немного старомодное слово, и оно означает тихий вид оскорбления. Так что, вот тебе пример: если я говорю тебе привет, а ты и Yvonne поворачиваетесь ко мне спиной и начинаете разговаривать с кем-то другим, это небольшое пренебрежение – и, фактически, я могу сказать, что ты «пренебрег» мной. "
+      },
+      {
+        "name": "Yvonne",
+        "quote": "But of course, I'd never slight you, William. Now in today's report from the BBC's Nick Bryant, we'll hear about a very talented Australian cricketer who played many years ago. As you listen, try to find out what two things he usually needed before he could go and play against white cricketers…",
+        "translation": "Но, конечно, я бы никогда не пренебрег тобой, William. А сейчас в сегодняшнем репортаже от Nick Bryant из BBC мы услышим об очень талантливом австралийском игроке в крикет, который играл много лет назад. Как только ты послушаешь, попробуй выяснить какие 2 вещи ему обычно были нужны до того, как он мог пойти и поиграть в крикет против белокожей команды…"
+      },
+      {
+        "name": "NICK BRYANT",
+        "quote": "Eddie Gilbert played in the 1930s, when indigenous Australians were confronted with all kinds of indignities and slights. Even to make the journey to play cricket against white players, he needed written permission to leave his Aboriginal settlement and was normally chaperoned.",
+        "translation": "Eddie Gilbert играл в 1930-х, когда коренные австралийцы сталкивались со всеми видами унижений и пренебрежений. Даже чтобы пойти и поиграть в крикет против белокожих игроков, ему нужно было письменное разрешение, чтобы оставить свое аборигенское поселение, и, как правило, его при этом сопровождали. "
+      },
+      {
+        "name": "Yvonne",
+        "quote": "William, what two things did Eddie Gilbert need as an aboriginal cricketer before he could go and play against white cricketers?",
+        "translation": "William, какие 2 вещи Eddie Gilbert нужны были как аборигенскому игроку в крикет до того как он мог пойти и поиграть против белых игроков? "
+      },
+      {
+        "name": "William",
+        "quote": "Well, he needed to have something in writing – he needed 'written permission' to say that he was allowed to travel to the cricket match. And he was usually 'chaperoned' – so someone with authority had to go with Eddie even though he was an adult. And so in Eddie's case, the chaperone would have been a white man.",
+        "translation": "Ну ему нужно было кое-что в письменном виде – ему нужно было «письменное разрешение», чтобы сказать, что ему разрешили отправиться ни матч по крикету. И его обычно «сопровождали» - так что кое-кто, кому доверяли, должени были идти с Eddie даже несмотря на то, что он был взрослым. Так что в случае с Eddie сопровождающий был бы белым. "
+      },
+      {
+        "name": "Yvonne",
+        "quote": "As we heard, aborigines like Eddie, lived in 'settlements' – areas where they were forced to stay by the Australian government of the time. But Australian aborigines during the 1930s were demanding equal rights and to be treated with dignity. Now Eddie once bowled and hit the bat right out of the hands of one of the world's best cricketers - Sir Donald Bradman. So Eddie was the fastest bowler of the era, but as we'll hear, he never entered the 'pantheon of cricket'. William, can you explain that term for us? ",
+        "translation": "Как мы слышали, аборигены такие как Eddie, жили в поселениях – областях, где их принуждало оставаться австралийское правительство того времени. Но австралийские аборигены в течение 1930-х годов требовали равные права и чтобы с ними обращались с достоинством. Eddie однажды подал мяч и выбил биту из рук одного из лучших в мире игроков в крикет - Sir Donald Bradman. Так что Eddie был самым быстрым питчером эпохи, но как мы услышим, он никогда не входил в «Пантеон крикета». William, можешь объяснить этот термин для нас?"
+      },
+      {
+        "name": "William",
+        "quote": "Yes, 'a pantheon' here refers to a special group made up of the world's best cricketers in this example. And Eddie was never included in that 'pantheon' – that group of admired and honoured cricketers.",
+        "translation": "Да, «пантеон» здесь ссылается на группу, состоящую из лучших игроков в крикет в этом примере. И Eddie никогда не включали в этом «пантеон» - группу восхитительных и почитаемых игроков в крикет.  "
+      },
+      {
+        "name": "Yvonne",
+        "quote": "Yeah - it's believed that Eddie's many years of throwing a boomerang – an Australian type of hunting weapon – was the reason why he could bowl so fast. And there's another story about Eddie's skills but it might not be true...",
+        "translation": "Да – верят, что так как Eddie много лет занимался бросанием бумеранга – австралийского оружия для охоты – это являлось причиной почему он мог так быстро подавать. И есть еще одна история о мастерстве Eddie, но она возможно неправдива…"
+      },
+      {
+        "name": "NICK BRYANT",
+        "quote": "Had Eddie Gilbert been born white, he might well have entered the pantheon of cricket but he never represented his nation. Folklore has it that one of his deliveries burst through a picket fence and struck a dog with such force that the animal was killed.",
+        "translation": "Если бы Eddie Gilbert был рожден белым, он бы возможно вошел в пантеон крикета, но он никогда не представлял свою нацию. В фольклоре есть легенда, что одна из его подач прожгла забор и попала по собаке с такой силой, что бедное животное умерло. "
+      },
+      {
+        "name": "William",
+        "quote": "Oh no – that poor dog!",
+        "translation": "О – нет, бедная собака! "
+      },
+      {
+        "name": "Yvonne",
+        "quote": "Yes, but remember William, it's only folklore so perhaps the story about the dog isn't actually true. But thirty years after his death, what we do know to be true is that Eddie Gilbert was one of the world's greatest cricketers. So at least they're going to put up a life-size bronze statue in Eddie's home state of Queensland in his honour.",
+        "translation": "Но запомни, William, это только легенда, возможно история о собаке на самом деле не является правдой. Но спустя 30 лет после его смерти, правдой, которую мы знаем, является то, что Eddie Gilbert был одним из великих игроков в крикет. Они хотя бы собираются воздвигнуть бронзовую статую размером с его рост в его честь в родном штате Eddie Queensland. "
+      },
+      {
+        "name": "William",
+        "quote": "Ahh – so maybe Eddie Gilbert will be remembered in sporting history after all.",
+        "translation": "Эх – может Eddie Gilbert запомнится в истории спорта после всего этого. "
+      },
+      {
+        "name": "Yvonne",
+        "quote": "Let's hope so. Sadly, Eddie was buried in an unmarked grave so his statue is very important - especially to aborigines. And now, more people will know the name Eddie Gilbert. Right William, today's big question: Cricket balls have been made from the same materials since the 1700s - but what colour were they originally? And your answer was…",
+        "translation": "Давай понадеемся. К сожалению, Eddie был похоронен в безымянной могиле, так что его статуя очень важна – особенно для аборигенов. И больше людей будут узнавать имя Eddie Gilbert. Правильно, William, сегодняшний вопрос: Мячи для крикета делаются из одного и того же материала с 1700-х годов – но какого цвета они были изначально? И твой ответ был…"
+      },
+      {
+        "name": "William",
+        "quote": "…My answer was light brown – and…",
+        "translation": "Мой ответ был  светло-коричневый – и…"
+      },
+      {
+        "name": "Yvonne",
+        "quote": "And you were right!",
+        "translation": "И ты был прав! "
+      },
+      {
+        "name": "William",
+        "quote": "Yeah!",
+        "translation": "Да!"
+      },
+      {
+        "name": "Yvonne",
+        "quote": "….Well done to you. But that's we've got time for in today's '6 Minute English' from BBC Learning English.",
+        "translation": "Хорошо сработано. Но это все для сегодняшнего выпуска '6 Minute English' на BBC Learning English."
+      },
+      {
+        "name": "W/Y",
+        "quote": "Goodbye!",
+        "translation": "Пока!"
+      }
+    ],
+
+    "img_addr": "6me/2008/2008-12/Aboriginal-cricketer.jpg",
+    "audio_src": "6me/2008/2008-12/2008-12-10 - 6 Minute English - Aboriginal cricketer.mp3",
+    "title": "BBC 6 Minute English podcast - Aboriginal cricketer [Аборигенский игрок в крикет], 2008-12-10",
+
+    "words_arr": [
+      {
+        "en_word": "originally",
+        "ru_word": "изначально"
+      },
+      {
+        "en_word": "indeginous",
+        "ru_word": "коренной"
+      },
+      {
+        "en_word": "the indignity",
+        "ru_word": "унижение"
+      },
+      {
+        "en_word": "to humiliate",
+        "ru_word": "унижать"
+      },
+      {
+        "en_word": "the insult",
+        "ru_word": "оскорбление"
+      },
+      {
+        "en_word": "to slight",
+        "ru_word": "пренебрегать(не обращать внимание)"
+      },
+      {
+        "en_word": "to confront",
+        "ru_word": "сталкиваться"
+      },
+      {
+        "en_word": "the settlement",
+        "ru_word": "поселение"
+      },
+      {
+        "en_word": "to chaperone",
+        "ru_word": "сопровождать"
+      },
+      {
+        "en_word": "the dignity",
+        "ru_word": "достоинство"
+      },
+      {
+        "en_word": "to struck",
+        "ru_word": "ударять"
+      }
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "data": {
+    "phrases_arr": [
+      {"name": "Yvonne",
+      "quote": "Hello - this is '6 minute English', I'm Yvonne Archer - and thanks to William Kremer for joining me today.",
+      "translation": "Привет - это передача '6 minute English', я Yvonne Archer - и спасибо William Kremer за приглашение меня сегодня."},
+
+      {"name": "William",
+      "quote": "Hello Yvonne.",
+      "translation": "Привет, Yvonne."},
+
+      {"name": "Yvonne",
+      "quote": "Hello William! Today, we hear from a very impressive South African man who used to think of himself as 'an academic' - but then his studies lead him to become 'an activist' within the area of HIV/AIDs. William, can you explain what 'an activist' is?",
+      "translation": "Привет, William! Сегодня мы послушаем очень впечатляющего южноафриканского мужчину, который думал о себе как об «академике» - но затем его учения привели его чтобы стать активистом в области ВИЧ/СПИД. William, можешь объяснить кто такой «активист»?"},
+
+      {"name": "William",
+      "quote": "Yeah – of course. It's somebody who works to bring about political and social changes. That's 'an activist'.",
+      "translation": "Да – конечно. Это некто, кто работает чтобы принести политические и социальные перемены. Это «активист»."},
+
+      {"name": "Yvonne",
+      "quote": "Great. Well, before we find out more about that man I met up with in Cape Town, I've a question for you William. Are you ready?",
+      "translation": "Замечательно. Ну, перед тем как мы узнаем больше об этом человеке,  с которым я встретился в Cape Town, и у меня есть вопрос для тебя, William. Ты готов?"},
+
+      {"name": "William",
+      "quote": "Yes!",
+      "translation": "Да"},
+
+      {"name": "Yvonne",
+      "quote": [
+        "OK. Which country in Africa is generally thought of as a success story in terms of its battle against HIV and AIDS? Is it",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) Uganda",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) South Africa OR",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) Gambia"
+      ],
+      "translation": [
+        "Хорошо. О какой стране в Африке в основном думают как об успешной истории в терминах ее борьбы против ВИЧ и СПИД? Это",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) Уганда",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) Южная Африка ИЛИ",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) Гамбия"
+      ]},
+
+      {"name": "William",
+      "quote": "Hmmm – I'm gonna go for a) Uganda.",
+      "translation": "Хм – я скажу что а) Уганда."},
+
+      {"name": "Yvonne",
+      "quote": "Really?",
+      "translation": "Действительно?"},
+
+      {"name": "William",
+      "quote": "Yeah – I've got a good feeling about that one.",
+      "translation": "Да – у меня хорошее предчувствие насчет этого."},
+
+      {"name": "Yvonne",
+      "quote": "OK - we'll find out whether you're right or wrong at the end of the programme. When I met up with Ralph Berold, he'd just finished his MBA- and we were celebrating! But Ralph had also studied History, Development and Politics. So, why did his studies turn him into an activist within the field of HIV/AIDs some years ago?",
+      "translation": "Хорошо – мы выясним прав ты или нет в конце программы. Когда я встретился с Ralph Berold, он только что закончил MBA, и мы праздновали! Но Ralph также изучал историю, строительство и политику. Так почему же его учения обратили его в активиста в области ВИЧ/СПИД несколько лет назад?"},
+
+      {"name": "RALPH BEROLD",
+      "quote": "I felt that it was the most pressing sort of social public work to be done in the country.",
+      "translation": "Мне показалось что это было самой срочным видом социальной работы, которую надо проделать в стране."},
+
+      {"name": "Yvonne",
+      "quote": "William, what does Ralph mean by 'pressing' here?",
+      "translation": "William, что Ralph имеет ввиду под «pressing» здесь?"},
+
+      {"name": "William",
+      "quote": "Well, 'urgent' – Ralph felt that in South Africa, urgent work was needed to help people with HIV and AIDs immediately…This huge and important problem was 'pressing'.",
+      "translation": "Ну, «срочный» - Ralph почувствовал что в Южной Африке нуждались в срочной работе чтобы помочь людям с ВИЧ и СПИД немедленно… Эта огромная и важная проблема была «срочной»."},
+
+      {"name": "Yvonne",
+      "quote": "So, rather than study the problem, Ralph became a part of the solution. He became manager of a non-profit organisation – a charity called Treatment Action Campaign - or TAC. While Ralph was at TAC, a group of prisoners in a very large prison in Durban contacted the organisation for help. After discussing things with the prison services, Ralph and his team went to find out more from the prisoners themselves. About half of them were HIV positive or suffering from AIDs. As we hear from Ralph now, try to catch the three main problems that he found out about during his visit…",
+      "translation": "Таким образом, вместо того чтобы изучать проблему, Ralph стал частью решения. Он стал менеджером некоммерческой организации – благотворительной под названием Treatment Action Campaign – или TAC. Пока Ralph был в TAC, группа заключенных в очень большой тюрьме в Durban контактировала с этой организацией ради помощи. После обсуждения неких вещей с тюремными службами, Ralph и его команда приехали чтобы узнать больше от самих заключенных. Около половины из них были ВИЧ-позитивными или страдали от СПИДа. Как только мы сейчас послушаем Ralph, попробуй уловить три главные проблемы, о которых он узнал во время своего визита…"},
+
+      {"name": "RALPH BEROLD",
+      "quote": "Overcrowding was a huge thing, you know, many people were dying in their cells – you know, looking after each other until the point of death. It was really a sad story.",
+      "translation": "Переполненность была огромной проблемой, знаешь, многие люди умирали в своих камерах – присматривая друг за другом до момента смерти. Это было действительно печальной историей."},
+
+      {"name": "Yvonne",
+      "quote": "William, what were the three main problems the prisoners were facing?",
+      "translation": "William, какими были три главные проблемы, с которыми сталкивались  заключенные?"},
+
+      {"name": "William",
+      "quote": "Well first, the prison was 'overcrowded' - so there were too many prisoners in each cell.",
+      "translation": "Ну сначала, тюрьма была «переполнена» - так что там было слишком много заключенных в каждой камере."},
+
+      {"name": "Yvonne",
+      "quote": "And Ralph told me how this lead to more prisoners getting TB - tuberculosis.",
+      "translation": "И Ralph сказал мне как это ведет к большему количеству заключенных, подхватывающих туберкулез."},
+
+      {"name": "William",
+      "quote": "Prisoners were dying in their cells.",
+      "translation": "Заключенные умирали в своих камерах."},
+
+      {"name": "Yvonne",
+      "quote": "Yes, so the prisoners didn't have access to hospitals or to medicines, such as anti-retroviral drugs which are used to treat and prevent infections in people with HIV and AIDs. And finally?",
+      "translation": "Да, так что у заключенных не было доступа к больницам или лекарствам, такие как анти-ретровирусные лекарства, которые используются чтобы лечить и предотвращать инфекции в людях с ВИЧ и СПИД. И в итоге?"},
+
+      {"name": "William",
+      "quote": "And finally, the sick prisoners were looking after each other 'to the point of death' – right up until they died, so they didn't have any doctors or nurses.",
+      "translation": "И в итоге, больные заключенные присматривали друг за друг «до момента смерти» - прямо до того момента пока они не умрут, так что у них не было никаких докторов и медсестер."},
+
+      {"name": "Yvonne",
+      "quote": "Ralph also told me that although it was difficult spending time with people who'd often committed horrific crimes, it was important to remember that they were still people. So, Ralph and his team took the case to court on behalf of the prisoners and, the Department of Correctional Services - the prison services – were ordered to make doctors and medicines available to treat the sick prisoners.",
+      "translation": "Ralph также сказал мне что хотя было сложно проводить время с людьми, которые совершили ужасные преступления, было важно помнить что они все еще люди. Так что, Ralph и его команда подали иск в суд от имени заключенных, и Отделу Исправительных Служб – тюремным службам – было приказано сделать докторов и лекарства доступными чтобы лечить больных заключенных."},
+
+      {"name": "William",
+      "quote": "Wow – that's an amazing result! And they brought about a real social change, didn't they?",
+      "translation": "Вау – это удивительный результат! И они принесли примерно реально настоящее изменение, не так ли?"},
+
+      {"name": "Yvonne",
+      "quote": "They certainly did. And just as importantly perhaps, Ralph and his group also managed to help change attitudes towards this issue. But whose attitude did they change?",
+      "translation": "Определенно, они сделали это. И просто насколько это важно, возможно, Ralph и его команде удалось помочь изменить отношение к этой проблеме. Но чье отношение они изменили?"},
+
+      {"name": "RALPH BEROLD",
+      "quote": "Just because they have some rights taken away from them as prisoners, this doesn't mean they don't have a right to life, for example. So, you know, government was therefore taking the issue a lot more seriously and actually made those medicines available - and these are life-saving medicines. So it was a very powerful time. Yeah",
+      "translation": "Просто из-за того что они лишились некоторых прав как заключенные, это не означает что они не имеют право на жизнь, к примеру. Так что, знаешь, правительство таким образом отнеслось к проблеме намного более серьезно и сделало лекарства на самом деле доступными – это жизненно необходимые лекарства. Так что это было очень влиятельное время."},
+
+      {"name": "William",
+      "quote": "They managed to change the attitude of the South African government - and politicians began to take the issue of HIV/AIDs in prisons a lot more seriously.",
+      "translation": "Им удалось изменить отношение Южно-Африканского правительства – и политики начали относиться к проблеме ВИЧ/СПИД в тюрьмах намного более серьезно."},
+
+      {"name": "Yvonne",
+      "quote": "And Ralph Berold, the South African academic turned activist is, quite rightly, still very proud of that achievement. OK, time for today's big question: Which country in Africa is generally thought of as a success story in terms of its battle against HIV and AIDS? And your answer William…",
+      "translation": "И Ralph Berold, южноафриканский академик, превратившийся в активиста, совершенно справедливо очень гордится своим достижением. Хорошо, а сейчас время для сегодняшнего вопроса: О какой стране в Африке в основном думают как об успешной истории в терминах ее борьбы против ВИЧ и СПИД? И твой ответ, William…"},
+
+      {"name": "William",
+      "quote": "…was Uganda.",
+      "translation": "…был Уганда"},
+
+      {"name": "Yvonne",
+      "quote": "And you're right!",
+      "translation": "И ты прав!"},
+
+      {"name": "William",
+      "quote": "Yeah!",
+      "translation": "Да!"},
+
+      {"name": "Yvonne",
+      "quote": "Yes, they went from having about one third of the population infected with HIV/AIDs down to- today, they think it's about six percent.",
+      "translation": "Да, они прошли путь с одной трети инфицированного ВИЧ/СПИД населения до примерно шести процентов."},
+
+      {"name": "William",
+      "quote": "Wow, that's another success story, isn't it?",
+      "translation": "Вау, это очередная успешная история, не так ли?"},
+
+      {"name": "Yvonne",
+      "quote": "Very much so. But that's all for today's '6 Minute English'. Do join us again for more!",
+      "translation": "Очень. Но это все на сегодня. Присоединяйтесь к нам еще!"},
+
+      {"name": "W/Y",
+      "quote": "Goodbye!",
+      "translation": "Пока!"}
+    ],
+
+    "img_addr": "6me/2009/2009-01/academic-to-Activist.jpg",
+    "audio_src": "6me/2009/2009-01/2009-01-07 - 6 Minute English - Academic to Activist.mp3",
+    "title": "BBC 6 Minute English podcast - Academic to Activist [Из академика в активисты], 2009-01-07",
+
+    "words_arr": [
+      {"en_word": "impressive", "ru_word": "впечатляющий"},
+      {"en_word": "generally", "ru_word": "в основном, как правило"},
+      {"en_word": "the pressing", "ru_word": "нажатие"},
+      {"en_word": "the treatment", "ru_word": "лечение"},
+      {"en_word": "the Overcrowding", "ru_word": "переполненость тюрем"},
+      {"en_word": "anti-retroviral", "ru_word": "анти-ретровирусный"},
+      {"en_word": "on behalf of smb.", "ru_word": "от имени кого-то"},
+      {"en_word": "the attitude", "ru_word": "отношение"}
+    ]
+  }
+}
