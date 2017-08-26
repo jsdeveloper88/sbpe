@@ -1,0 +1,168 @@
+{ 
+	"data": {
+		"phrases_arr": [
+			{"name": "Kate",
+			"quote": "Hello, I’m Kate Colin and today I'm joined by Rebecca Byrne. Hi Rebecca. Rebecca, how are you feeling today? You look very happy!",
+			"translation": "Привет, я Kate Colin и сегодня меня пригласила Rebecca Byrne. Привет, Rebecca. Rebecca, как ты чувствуешь себя сегодня? Ты выглядишь очень хорошо!"},
+
+			{"name": "Rebecca",
+			"quote": "Yes, I am very happy actually. Spring is finally here and I have to say that the lighter evenings and the sunnier days do indeed make me feel much happier!",
+			"translation": " Да, на самом деле я очень счастлива. Наконец-то весна здесь, и я должна сказать, что светлые вечера и солнечные деньки заставляют меня на самом деле чувствовать себя намного счастливее!"},
+
+			{"name": "Kate",
+			"quote": [
+				"That's good to hear because, here in the UK and all around the world, the economic recession is really beginning to make life increasingly difficult for many people. So in today's programme, we're going to talk about happiness and where we are likely to find it, especially when times are hard.",
+				"But before we find out more, I have the question for this week. Which country do you think is the happiest? Is it",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) Mexico",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) Denmark",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) Nigeria"
+			],
+			"translation": [
+				"Приятно слышать, потому что здесь в Объединенном Королевстве и по всему миру экономический спад на самом деле начинает делать жизнь возрастающе сложной для многих людей. Так что в сегодняшней программе мы поговорим о счастье и где вероятнее всего мы его найдем, особенно когда временя тяжелые.",
+				"Но до того как мы выясним больше у меня есть вопрос на эту неделю. Какая страна, как ты думаешь, самая счастливая? Это",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) Мексика",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) Дэнмарк",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) Нигерия"
+			]},
+
+			{"name": "Rebecca",
+			"quote": "answers…",
+			"translation": "ответы..."},
+
+			{"name": "Kate",
+			"quote": "We'll check your answer later, but for now, I'd like to ask you what makes you happy?",
+			"translation": " Мы проверим твой ответ позже, а сейчас я бы хотела спросить тебя что делает тебя счастливой? "},
+
+			{"name": "Rebecca",
+			"quote": "Generally, I'm happiest when I'm just hanging out with friends and family and I like also listening to music, that always makes me happy.",
+			"translation": " В общем, я больше всего счастлива, когда я зависаю с друзьями и семьей, а также мне нравиться слушать музыку, которая всегда делает меня счастливой. "},
+
+			{"name": "Kate",
+			"quote": "Yes, I agree. I always feel happiest when I'm with friends and family too. But enough about us, let's listen to the first extract. Can you hear what it is that makes this speaker happy?",
+			"translation": " Да, согласна. Я тоже чувствую себя больше всего счастливой, когда я с друзьями и семьей. Но хватит о нас, давай послушаем первую выдержку. Можешь ли ты расслышать что делает этого рассказчика счастливым? "},
+
+			{"name": "Man",
+			"quote": "What makes me happy is slowing down. I think that we live in a very fast, speedy world and we often forget to take stock and take time.",
+			"translation": " То, что делает меня счастливым так это замедление. Я думаю мы живем в очень быстром, скоростном мире и мы часто забываем подвести итоги и занять время. "},
+
+			{"name": "Rebecca",
+			"quote": "He said that 'slowing down' makes him happy. He mentioned the fact that we live in a fast world and we often forget to 'take stock'. This means we should slow down and examine our lives, rather than rush through our daily activities as most of us tend to do.",
+			"translation": " Он сказал, что «замедление» делает его счастливым. Он упомянул тот факт, что мы живем в быстром мире и часто забываем «подвести итоги». Это значит, что нам лучше замедлиться и исследовать наши жизни, нежели чем бросаться сквозь повседневную деятельность, как большинство из нас, как правило, поступают. "},
+
+			{"name": "Kate",
+			"quote": "And what does he go to say is the problem with happiness?",
+			"translation": " И что, как он собирается сказать, является проблемой счастья? "},
+
+			{"name": "Man",
+			"quote": "Well, the problem with happiness is of course that sometimes when you are happy, you are infected with the spirit of the fact that it's going to stop, so sometimes you can't enjoy happiness because you know it's going to end.",
+			"translation": " Проблема счастья заключается конечно в том, что иногда когда вы счастливы, вы заражены духом того факта, что оно остановится, так что иногда вы не можете наслаждаться счастьем, потому что вы знаете, что оно закончится."},
+
+			{"name": "Rebecca",
+			"quote": "He says that the problem is that whenever we are happy, we're always aware of the fact that it's going to stop so we can't fully enjoy it.",
+			"translation": "Он говорит, что проблема заключается в том, что всякий раз когда вы счастливы, вы всегда осознаете тот факт, что это закончится, так что мы не можем полностью насладиться этим."},
+
+			{"name": "Kate",
+			"quote": "So, on to the next extract. We're going to hear the words 'contentment' and 'satisfaction'. What do these words mean?",
+			"translation": " К следующей выдержке. Мы услышим слова «довольство» и «удовлетворение». Что они значат? "},
+
+			{"name": "Rebecca",
+			"quote": "Well 'contentment' is when you're pleased with your situation and not hoping for change or improvement. And 'satisfaction' is the feeling of having everything you need or want.",
+			"translation": " Ну «довольство» - это когда ты доволен своей ситуацией и не надеешься на перемены или улучшение. И «удовлетворение» - это чувство, когда у тебя есть все, что тебе надо или ты хочешь. "},
+
+			{"name": "Kate",
+			"quote": "Have a listen and tell me what is this speaker's attitude to happiness?",
+			"translation": " Послушай и скажи мне какое у рассказчика отношение к счастью? "},
+
+			{"name": "Man 2",
+			"quote": "I think it is a very good thing to try and aim to be happy. Happiness is a difficult concept, you're aiming for contentment and satisfaction with a few moments of joy.",
+			"translation": " Я думаю, это очень хорошая штука пробовать и стремиться, чтобы быть счастливым. Счастье – это сложное понятие, ты стремишься ради довольства и удовлетворения несколькими моментами наслаждения. "},
+
+			{"name": "Rebecca",
+			"quote": "He says that we should all aim or try to be happy. To him, happiness is contentment and satisfaction with a few moments of joy. Joy means 'great happiness'.",
+			"translation": " Он говорит, что нам всем лучше стремиться и пробовать, чтобы быть счастливыми. Для него счастье – это довольство и удовлетворение несколькими моментами наслаждения. Наслаждение означает «огромное счастье»."},
+
+			{"name": "Kate",
+			"quote": "Yes, so he thinks that we can't all be very happy all the time. To be contented with a few periods of true happiness should be enough for us. What else does he go on to say? What two things does he think lead to happiness?",
+			"translation": " Да, так что он думает, что мы не можем все быть счастливыми все время. Быть довольным несколькими промежутками времени настоящего счастья для нас достаточно. Что еще он скажет нам? Какие две вещи по его мнению приводят к счастью? "},
+
+			{"name": "Man 2",
+			"quote": "And for me, like most people actually what the evidence tells you is it's about having good relationships and making time for them, so I'm never happier than when I'm with my wife and child and also having fulfilling and satisfying work.",
+			"translation": " И для меня как для большинства людей на самом деле что говорит мне доказательство этого так это иметь хорошие взаимоотношения и уделять время им, так что я никогда более не счастлив, чем со своей женой и ребенком, а также иметь осуществимую и удовлетворяющую работу. "},
+
+			{"name": "Rebecca",
+			"quote": "He says that the things that lead to happiness are good relationships (he says he's never happier than when he's with his family) and the second thing was having fulfilling and satisfying work. This means to have a job you enjoy and feeling you have a useful role.",
+			"translation": " Он говорит, что вещами, которые приводят к счастью, являются хорошие взаимоотношения(он говорит, что никогда не был более счастливым, чем со своей семьей) и второй вещью было иметь осуществимую и удовлетворяющую тебя работу. Это означает иметь работу, которой ты наслаждаешься, и чувствуешь что у тебя есть полезная роль. "},
+
+			{"name": "Kate",
+			"quote": "What's interesting is that he doesn't mention 'material possessions'. What does this mean?",
+			"translation": " Что интересно так это, что он не упомянул «материальные имущества». Что это значит? "},
+
+			{"name": "Rebecca",
+			"quote": "Material possessions are things we buy, clothes, houses, cars, TVs. There's a common idea that acquiring material possessions makes us happy.",
+			"translation": " Материальные имущества – это вещи, которые мы покупаем, одежда, дома, машины, телевизоры. Есть общее мнение, что приобретение делает нас счастливыми. "},
+
+			{"name": "Kate",
+			"quote": "Yes, many people go shopping and spend money when they feel depressed and think that this will make them feel happier. Have a listen to another speaker to hear what he has to say on the subject:",
+			"translation": " Да, много людей ходят на шопинг и тратят деньги, когда чувствуют депрессию, и думают, что это заставить их чувствовать себя более счастливыми. Послушаем другого рассказчика, чтобы услышать что он должен сказать по этому поводу: "},
+
+			{"name": "Man 3",
+			"quote": "Again there's a wealth of evidence about this – above a certain point wealth and possessions don't contribute to happiness. Of course there's a minimum, if you've just lost your job and you can't pay the mortgage, you're going to be miserable. But above a certain level, and it's actually relatively low in a society like ours, money doesn't actually buy happiness.",
+			"translation": " Опять же есть богатое множество доказательств насчет этого – выше определенной точки богатство и имущества не вносят вклад в счастье. Конечно есть минимум, если только что потерял работу и не можешь оплачивать ипотеку, ты будешь жалок. Но выше определенного уровня, он на самом деле относительно низок в обществе наподобие нашего, деньги на самом деле не покупают счастье. "},
+
+			{"name": "Rebecca",
+			"quote": "He says that there is evidence to suggest that above a certain point, money doesn’t contribute to happiness. Of course, there is a basic level of living for which we need money, for food and shelter but as long as we have basics, having lots of material possessions won't make us any happier.",
+			"translation": " Он говорит, что есть доказательство предположить, что выше определенной точки деньги не вносят вклад в счастье. Конечно есть базовый уровень проживания, на который нам нужны деньги, на еду и кров, но пока у нас есть основы, обладание множеством материальных имуществ не сделает нас более счастливыми."}, 
+
+			{"name": "Kate",
+			"quote": [
+				"So there we have it, there is indeed evidence to say that money cannot buy us happiness….an important lesson for us all I think. Let's have a look at some of the vocabulary we came across in today's programme:",
+				"We had take stock, which means to look at one's life and assess it Contentment means to be pleased with your situation and not hoping for change or improvement",
+				"Satisfaction is the feeling of having everything you need or want ",
+				"Joy means great happiness",
+				"Fulfilling is meeting all your needs and expectations",
+				"Material possessions are objects, as opposed to abstract ideas such as love, happiness etc. And finally, to the question I asked you earlier in the programme. Which country is the happiest?"
+			],
+			"translation": [
+				"Так что у нас есть на самом деле доказательство сказать, что деньги не купят нам счастье…. Важный урок для всех нас, я думаю. Давай посмотрим на несколько слов, с которыми мы столкнулись сегодняшней программе:",
+				"У нас были take stock, что означает посмотреть на жизнь и оценить ее. Contentment означает быть довольным своей ситуацией и не надеяться на перемены или улучшение.",
+				"Satisfaction – чувство иметь все, что тебе надо или ты хочешь",
+				"Joy означает огромное счастье",
+				"Fulfilling соответствует всем твоим нуждам и ожиданиям",
+				"Material possessions – объекты, как противоположности к абстрактным идеям, таким как любовь, счастье и т.д. И в итоге вопрос, который я задала тебе ранее в программе. Какая страна самая счастливая?"
+			]},
+
+			{"name": "Rebecca",
+			"quote": "I said…..",
+			"translation": " Я сказала….."},
+
+			{"name": "Kate",
+			"quote": "And you were correct – according to various surveys carried out in 2006, Denmark is the happiest county. Puerto Rico and Colombia also scored highly but Britain came in at number 41 so I think we've still got some work to do!",
+			"translation": "И ты была права – согласно различным исследованиям, проведенным в 2006-м году, Дэнмарк – самая счастливая страна. Пуэрто-Рико и Колумбия также имеют высшие места но Британия на 41-м, так что я думаю нам есть над чем работать!"},
+
+			{"name": "Both",
+			"quote": "That’s all we've got time for. Until next week, have a happy week. Goodbye.",
+			"translation": "Это все на сегодня. До следующей недели и счастливой вам недели. Пока."}
+		],
+
+		"img_addr": "6me/2009/2009-04/Happiness.jpg",
+		"audio_src": "6me/2009/2009-04/2009-04-09 - 6 Minute English - Happiness.mp3",
+		"title": "BBC 6 Minute English - Happiness [Счастье], 2009-04-09",
+
+		"words_arr": [
+			{"en_word": "indeed", "ru_word": "на самом деле"},
+			{"en_word": "to hang out", "ru_word": "'зависать'"},
+			{"en_word": "the stock", "ru_word": "запас"},
+			{"en_word": "to examine", "ru_word": "исследовать"},
+			{"en_word": "to rush", "ru_word": "бросаться"},
+			{"en_word": "to infect", "ru_word": "заражать"},
+			{"en_word": "whenever", "ru_word": "всякий раз, когда"},
+			{"en_word": "the contentment", "ru_word": "довольство"},
+			{"en_word": "to be pleased", "ru_word": "быть довольным"},
+			{"en_word": "the possession", "ru_word": "имущество"},
+			{"en_word": "to acquire", "ru_word": "приобретать"},
+			{"en_word": "to contribute", "ru_word": "вносить вклад"},
+			{"en_word": "the shelter", "ru_word": "кров"},
+			{"en_word": "to carry out", "ru_word": "проводить"}
+		]
+	}
+}	

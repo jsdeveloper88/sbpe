@@ -1,0 +1,213 @@
+{
+	"data": {
+		"phrases_arr": [
+			{"name": "Kate",
+			"quote": "Hello, I'm Kate Colin and this is '6 Minute English' - and thanks to Jackie Dalton for joining me today. Good Morrow Jackie!",
+			"translation": "Привет, я Кейт Колин и передача '6 минут английского' и спасибо Джеки Дальтон за приглашения меня сегодня. Доброе, Джеки!"},
+
+			{"name": "Jackie",
+			"quote": "Eh…pardon?",
+			"translation": " Эээ.. прошу прощения? "},
+
+			{"name": "Kate",
+			"quote": "Good Morrow! I beseech thee, whence comest thou?",
+			"translation": "Неизвестаная язык..."},
+
+			{"name": "Jackie",
+			"quote": "Ermm…",
+			"translation": " Ээээ…"},
+
+			{"name": "Kate",
+			"quote": "Don’t worry, I didn’t expect you to understand that, I’m speaking in ‘Old English’. What I said was the equivalent of saying, ‘Good morning – where do you come from?’, using words which were in use a few hundred years ago and that we don’t use any longer.",
+			"translation": "Не беспокойся, я не ожидала, что ты это поймешь, я говорю на «старом английском». То, что я сказала, было эквивалентно «Доброе утро, откуда ты пришла?», используя слова, которыми пользовались несколько сотен лет назад, и которые мы больше не используем. "},
+
+			{"name": "Jackie",
+			"quote": "Hello Kate. Yes, English is a language which is evolving all the time. So this means that there are new words continuously appearing and older words are disappearing. I didn’t understand the ‘Old English’ you started the programme with, because you were using words which we no longer use in everyday speech.",
+			"translation": " Привет, Кейт. Да, английский - язык, который эволюционирует все время. Так что это означает, что есть слова, которые продолжительно появляются и старые, которые пропадают. Я не поняла «старый английский», с которого ты начала программу, потому что ты использовала слова, которые больше не используются в повседневной речи. "},
+
+			{"name": "Kate",
+			"quote": [
+				"Exactly. So, as you might have guessed, the topic we’ll be discussing is language and how it evolves and develops.",
+				"So Jackie, as usual, I have a question for you…",
+				"Some of the oldest English sounding words date back how many years?",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) 1000 years",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) 20,000 years",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) 500 years"
+			],
+			"translation": [
+				"Точняк. Так что, как ты возможно догадалась, тема, которую мы сегодня обсуждаем, - это язык и как он эволюционирует и развивается.",
+				"Так что, Джеки, как обычно, у меня есть вопрос для тебя…",
+				"Сколько лет некоторым самым старым англозвучащим словам?",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) Тыща",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) двадцать тыщ",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) полтыщи"
+			]},
+
+			{"name": "Jackie",
+			"quote": "(answers)",
+			"translation": "(ответы)"},
+
+			{"name": "Kate",
+			"quote": "OK, well we’ll check your answer at the end of the programme. But first, we’re going to hear part of an interview with a scientist who has been using a special computer to study our use of words and their evolution through time. Can you tell us what ‘evolution’ means?",
+			"translation": " ОК, мы проверим твой ответ в конце программы. Но сначала мы послушаем часть интервью с ученым, который использовал специальный комп, чтобы обследовать наше использование слов и их эволюцию сквозь время. Можешь сказать нам, что означает «эволюция»? "},
+
+			{"name": "Jackie",
+			"quote": "Yes, ‘evolution’ – it’s similar to the word ‘evolving’, which I explained earlier. ‘Evolution’ is the gradual process of change and development over a long period of time and in this context it refers to language and how it develops and changes over the years.",
+			"translation": " Да, «эволюция» - оно схоже с «эволюционированием», которое я объяснила ранее. «Эволюция» - это постепенный процесс изменения и развития через долгий период времени, и в данном контексте оно ссылается на язык и как он развивается и изменяется сквозь годы. "},
+
+			{"name": "Kate",
+			"quote": "OK –  well let’s listen and see if you can hear which words he thinks are some of the oldest in the English language…",
+			"translation": " ОК – ну давай послушаем и посмотрим, можешь ли ты услышать какие слова, как он думает - самые старые в английском из некоторых…"},
+
+			{"name": "Mark Pagal",
+			"quote": "‘Well we’ve be able to discover that the numbers two, three and five and the pronoun ‘I’ and ‘who’ – those are the oldest words in the English language’.",
+			"translation": " Ну, нам удалось обнаружить, что числи «два», «три» и «пять» и местоимение «я» и «кто» – те самые старые слова в английском. "},
+
+			{"name": "Kate",
+			"quote": "So Jackie, did you get that?",
+			"translation": " Так, Джеки, ты поняла это? "},
+
+			{"name": "Jackie",
+			"quote": "Yes, he said that the oldest words were two, three and five and the pronoun ‘I’ and the word, ‘who’.",
+			"translation": " Да, он сказал, что самые старые слова – это «два», «три» и «пять» и местоимение «я» и «кто». "},
+
+			{"name": "Kate",
+			"quote": "That’s correct. It’s hard to believe that some of the words we use everyday are in fact, extremely old. Back to our scientist, as well as thinking about words that have been in use for many years, he also predicts which words may eventually become extinct.",
+			"translation": " Правильно. Тяжело поверить, что некоторые из этих слов, которые мы используем каждый день, - фактически, экстремально старые. Возвращаясь к нашему ученому, также думающему о словах, которые использовались много лет, он также предсказывает какие слова, возможно, в итоге станут вымершими. "},
+
+			{"name": "Kate",
+			"quote": "Jackie, what does ‘predict’ mean?",
+			"translation": " Джеки, что означает «предсказывать»? "},
+
+			{"name": "Jackie",
+			"quote": "To ‘predict’ is to say what you think will happen in the future, especially as a result of having prior knowledge or experience. For example, it’s cloudy outside today, so I predict that it’s going to rain later.",
+			"translation": " Слово «предсказать» существует, чтобы сказать что, ты думаешь, произойдет в будущем, особенно как результат получения знаний и опыта. К примеру, сегодня облачно, так что я предсказываю, что позже будет дождь. "},
+
+			{"name": "Kate",
+			"quote": "and ‘extinct’ what does ‘extinct’ mean?",
+			"translation": " и «вымерший» - что значит «вымерший»? "},
+
+			{"name": "Jackie",
+			"quote": "‘to become extinct’ means to be no longer in existence or you can use the phrasal verb ‘to die out’. The word is often used when talking about a tribe of people or a type of animal which has ‘died out’, for example the dinosaurs have become extinct.",
+			"translation": " «становиться вымершим» означает больше не существовать или ты можешь использовать фразовый глагол «вымирать». Это слово часто используется, когда говорят о племени людей или типе животных, которые «вымерли», к примеру, динозавры стали вымершими. "},
+
+			{"name": "Kate",
+			"quote": "So our scientist predicts which words are likely to become extinct. He does this by finding out how quickly different words evolve or develop and are replaced by other words with the same meaning. Now, let’s listen to the next extract. ….which words does he predict might become extinct?",
+			"translation": " Так что наш ученый предсказывает какие слова скорее всего станут вымершими. И делает он это путем выяснения как быстро разные слова эволюционируют или развиваются и заменяются другими словами с тем же значением. А сейчас давай послушаем следующую выдержку. …какие слова, как он предсказывает, возможно станут вымершими? "},
+
+			{"name": "Mark Pagal",
+			"quote": "‘We can make some guesses as to what words might next go extinct, so for example the word ‘dirty’ seems to have the highest rate of change and so we might predict that sometime in the next 750 years, that word will be lost’.",
+			"translation": " «Мы можем сделать несколько предположений о том какие слова возможно следующими станут вымершими, к примеру, слово «грязный» кажется имеет самый высокий показатель изменения и таким образом мы возможно предскажем, что когда-нибудь в следующие 750 лет, это слово потеряется». "},
+
+			{"name": "Jackie",
+			"quote": "He said the word ‘dirty’ may be lost or become extinct in the future. This is because it’s being replaced quite quickly by other words that mean the same thing.",
+			"translation": " Он сказал, что слово «грязный» возможно потеряется или станет вымершим в будущем. Это потому, что оно заменяется довольно быстро другими словами, которое имеют то же значение. "},
+
+			{"name": "Kate",
+			"quote": "That’s right and we’ll be hearing some more about his theory of why words come and go, but first a look at some more of the vocabulary we’ll come across. He uses the word ‘frequency’. What does ‘frequency’ mean?",
+			"translation": " Правильно и мы услышим немного больше об этой теории почему слова приходят и уходят, но сначала посмотрим на несколько слов, с которыми мы столкнемся. Он использует слово «частота». Что означает «частота»?"},
+
+			{"name": "Jackie",
+			"quote": "This is how often some happens, so the frequency with which a word is used, means how often the word is used.",
+			"translation": " Это как часто что-то происходит, так что частота с которой используется слово, означает как часто слово используется. "},
+
+			{"name": "Kate",
+			"quote": "And ‘common everyday speech’?",
+			"translation": " А «общая повседневная речь»? "},
+
+			{"name": "Jackie",
+			"quote": "This is the language that we use most frequently.",
+			"translation": " Это язык, который мы используем чаще всего. "},
+
+			{"name": "Kate",
+			"quote": "And what about the word ‘predictor’?",
+			"translation": " А что насчет слова «предсказатель»? "},
+
+			{"name": "Jackie",
+			"quote": "A ‘predictor’ is something which can help us predict or say what will happen in the future.",
+			"translation": " «Предсказатель» - это нечто, что помогает нам предсказывать или сказать что произойдет в будущем. "},
+
+			{"name": "Kate",
+			"quote": "And finally, ‘retained’?",
+			"translation": " И в итоге, «оставшийся»? "},
+
+			{"name": "Jackie",
+			"quote": "‘retained’ means ‘to keep’, so if a word is ‘retained’ it means we will continue to use it.",
+			"translation": " «оставшийся» означает «сохраняться», так что если слово «оставшееся», это значит, мы будем его использовать. "},
+
+			{"name": "Kate",
+			"quote": "Thanks, well let’s listen to the final extract….",
+			"translation": " Спасибо, так давай послушаем финальную выдержку…."},
+
+			{"name": "Mark Pagal",
+			"quote": "What we’ve discovered is that the frequency with which words are used in our common everyday speech, is a strong predictor of whether or not they’ll be retained’.",
+			"translation": " Мы открыли то, что частота, с которой используются слова в нашей общей повседневной речи, - это сильный предсказатель останутся они или нет. "},
+
+			{"name": "Jackie",
+			"quote": "So he says that the words we use most often are the most likely to still be in use in the future - the most common words tend to be the most used and oldest ones!",
+			"translation": " Так что он говорит, что слова, которые мы используем чаще всего – вероятнее всего все еще будут использоваться в будущем – самые общие слова имеют тенденцию быть самыми используемыми и самыми старыми! "},
+
+			{"name": "Kate",
+			"quote": "That’s correct and you might like to know that the other words he predicts may become extinct are ‘squeeze and ‘guts’. Let’s go over some words which we came across in this programme in the programme today…",
+			"translation": " Правильно и тебе возможно будет приятно знать, что следующие слова, которые он предсказывает, возможно станут вымершими - это «сжимать» и «кишки». Давай пройдемся по словам, с которыми мы столкнулись в этой программе сегодня…"},
+
+			{"name": "Jackie",
+			"quote": [
+				"We had:",
+				"Evolution",
+				"Extinct",
+				"Predict",
+				"Frequency",
+				"common everyday speech",
+				"predictor",
+				"retained"
+			],
+			"translation": [
+				"У нас были:",
+				"эволюция",
+				"вымерший",
+				"предсказывать",
+				"частота",
+				"общая повседневная речь",
+				"предсказатель",
+				"оставшийся"
+			]},
+
+			{"name": "Kate",
+			"quote": "Thanks Jackie and just before we finish for this week, let’s see if you got the answer to my question correct. I asked about some of the oldest English sounding words and how old you thought some of them were.",
+			"translation": "Спасибо, Джеки, и до того как мы закончим для этой недели, давай посмотрим правильно ли ты ответила на мой ответ. Я спросила о нескольких самых старых англозвучащих словах и насколько старыми, как ты думаешь, они были. "},
+
+			{"name": "Jackie",
+			"quote": "I think I say 20,000 years old.",
+			"translation": "Я думаю, я сказала 20 тыщ лет. "},
+
+			{"name": "Kate",
+			"quote": "….and you were correct! The oldest English sounding words, were used by humans over 20,000 years ago. Incredible to think that our Stone Age ancestors were using similar sounding words all those years ago. That’s all we have time for today. Until next time! Goodbye.",
+			"translation": "….и ты была права! Самые старые англозвучащие слова были используемыми человеческими существами около 20 тыщ лет назад. Невероятно подумать, что наши предки из Каменного Века использовали схожезвучащие слова все эти годы."},
+
+			{"name": "Jackie",
+			"quote": "Goodbye!",
+			"translation": "Пока!"}
+		],
+
+		"img_addr": "6me/2009/2009-03/disappearing-words.jpg",
+		"audio_src": "6me/2009/2009-03/2009-03-12 - 6 Minute English - Disappearing words.mp3",
+		"title": "BBC 6 Minute English - Disappearing words [Исчезающие слова], 2009-03-12",
+
+		"words_arr": [
+			{"en_word": "the evolution", "ru_word": "эволюция"},
+			{"en_word": "gradual", "ru_word": "постепенный"},
+			{"en_word": "to discover", "ru_word": "открывать, обнаруживать"},
+			{"en_word": "the pronoun", "ru_word": "местоимение"},
+			{"en_word": "prior", "ru_word": "предшествующий"},
+			{"en_word": "the tribe", "ru_word": "племя"},
+			{"en_word": "to die out", "ru_word": "вымирать"},
+			{"en_word": "extinct", "ru_word": "вымерший"},
+			{"en_word": "the frequency", "ru_word": "частота"},
+			{"en_word": "to be retained", "ru_word": "быть сохраненным"},
+			{"en_word": "to squeeze", "ru_word": "сжимать"},
+			{"en_word": "the guts", "ru_word": "кишки"},
+			{"en_word": "the ancestors", "ru_word": "предки"}
+		]
+	}
+}	

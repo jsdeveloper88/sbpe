@@ -1,0 +1,152 @@
+{
+	"data": {
+		"phrases_arr": [
+			{"name": "Kate",
+			"quote": "Hello, I’m Kate Colin and welcome to 6 Minute English. Today I'm joined again by Jackie Dalton and we’re talking about smells and memories.",
+			"translation": "Привет, я Kate Colin и добро пожаловать на программу 6 Minute English. Сегодян меня пригласила снова Jackie Dalton и мы говорим о запахах и воспоминаниях."},
+
+			{"name": "Jackie",
+			"quote": "Hi Kate, yes our topic today is about how certain smells can take us back to another time and place. We've all experienced the sudden flashback of memory and emotions that certain smells conjure up. To conjure up means to create picture in your mind. Often we don’t just remember something from the past, we feel exactly the same way as we did the first time we smelt it.",
+			"translation": " Привет, Кейт, да тема сегодня о том, как определенные запахи возвращают нас обратно в другие время и место. Мы неожиданно испытали воспоминание памяти и эмоции, которые определенные запахи вызывают в воображении. To conjure up означает создавать картинку в вашем уме. Часто мы просто не помним что-то из прошлого, мы чувствуем себя точно также как в первый раз, когда мы учуяли это."},
+
+			{"name": "Kate",
+			"quote": "Yes, for me the smell of mothballs takes me back to being in my grandmother's house. I remember exactly how I felt when I was five years old and went to visit her.",
+			"translation": " Да, для меня запах нафталина возвращает меня обратно, когда я была в доме моей бабушки. Я ясно помню себя как я чувствовала себя, когда мне было 5 лет приходила к ней в гости."},
+
+			{"name": "Jackie",
+			"quote": "And for me, the smell of lavender reminds me of the house that I grew up in because we used to have a lot of lavender in the garden.",
+			"translation": " И для меня запах лаванды напоминает мне дом, в котором я выросла, потому что у нас было много лаванды в саду."},
+
+			{"name": "Kate",
+			"quote": "So here's my question for this week. Are you ready? As we grow older does our sense of smell get better or worse?",
+			"translation": " Так что мой вопрос на эту неделю. Ты готова? Когда мы становимся старше, наша способность чуять запах становится лучше или хуже? "},
+
+			{"name": "Jackie",
+			"quote": "Answers",
+			"translation": "Ответы"},
+
+			{"name": "Kate",
+			"quote": "Alright, we’ll check your answer at the end of the programme. But first we're going to hear from some people on the streets of London who are talking about what smells remind them of certain things. Listen and try to remember what specific things they say trigger certain memories. To trigger means to cause something to start….",
+			"translation": " Хорошо, мы проверим твой ответ в конце программы. Но сначала мы послушаем несколько людей на улицах Лондона, которые говорят о том какие запахи напоминают им определенные вещи.  Послушай и попробуй запомнить какие специфические вещи, как они говорят, запускают определенные воспоминания. To trigger означает заставить что-то начаться…."},
+
+			{"name": "Man 1",
+			"quote": "Pipes, smoking pipes always remind me of Isle of Wight",
+			"translation": " Трубки, курительные трубки всегда напоминают мне об Острове Уайта"},
+
+			{"name": "Man 2",
+			"quote": "And bleach smells of Majorca to me in Spain, being on holiday in Spain",
+			"translation": " Отбеливатель пахнет Майоркой для меня в Испании, будучи в отпуске в Испании"},
+
+			{"name": "Man 3",
+			"quote": "Old mud makes memories of old villages back home in India, you know",
+			"translation": " Старая грязь напоминает мне о старых деревнях обратно дома в Индии, вы знаете"},
+
+			{"name": "Woman 4",
+			"quote": "Cigarettes, perfume and vodka for my grandmother",
+			"translation": " Сигареты, парфюм и водка – мою бабушку"},
+
+			{"name": "Jackie",
+			"quote": "They mentioned pipe smoke, bleach, old mud and finally the last lady said cigarettes, perfume and vodka reminded her of her grandmother.",
+			"translation": " Они упомянули дым из курительной трубки, старую грязь и в конце последняя леди сказала сигареты, парфюм и водка напоминают ей о ее бабушке. "},
+
+			{"name": "Kate",
+			"quote": "That's right. Let's hear more about how smells are linked to our emotions and memories. Let's listen to psychologist, Professor Rachel Hertz. You'll hear the word 'triggered' again. What other senses does she say can 'trigger' a memory?",
+			"translation": " Правильно. Давай послушаем больше о том, как запахи связаны с нашими эмоциями и воспоминаниями. Давай послушаем психолога, профессора Рэйчела Херца. Ты услышишь слово «triggered» опять. Какие другие чувства, как она говорит, может «запустить» воспоминание? "},
+
+			{"name": "Clip 4",
+			"quote": "Compared to a memory triggered by seeing something, hearing something, feeling something or the word for something…..",
+			"translation": " По сравнению с воспоминанием, запущенным когда увидите что-то, почувствуете что-то или услышите что-то….."},
+
+			{"name": "Jackie",
+			"quote": "She mentioned that memories can be triggered by seeing, hearing, feeling or hearing the word for something. But there's something different about the way we're affected by those things and by smelling……lets listen to find out what the difference is:",
+			"translation": " Она упомянула, что воспоминания могут быть запущены, когда вы видите, чувствуете или слышите что-то. Но есть что-то другое, когда мы находимся под влиянием тех вещей и чуем запах……. Давай послушаем, чтобы выяснить в чем различие: "},
+
+			{"name": "Clip 4",
+			"quote": "…..when it's a smell that brings back the memory we experience that memory as more emotionally intense, we are more back to that original time and place and actually our brain is more activated in the emotion centres than if it's any other cue, that brings us to the exact same memory.",
+			"translation": " …..когда это запах, который навевает обратно воспоминание, которое мы испытываем, то воспоминание как более эмоционально интенсивное, мы более обратно близко к тому изначальному месту и времени и на самом деле наш мозг более активирован в эмоциональных центрах, чем если бы это был любой другой сигнал, который возвращает нас обратно к точно такому же воспоминанию. "},
+
+			{"name": "Jackie",
+			"quote": "She said that smells bring us to the same memory as the other senses but we experience that memory as more emotionally intense. This means that we feel it more strongly. We are taken back to a certain time and place more convincingly than if a memory was triggered by another cue, for example a photograph or music. And apparently this is because smell physically enters our brain and goes to the same areas where we process memory and emotion.",
+			"translation": " Она сказала, что запахи переносят нас к одному и тому же воспоминанию, как другие чувства обоняния, но мы испытываем это воспоминание как более эмоциональное. Это означает, что мы чувствуем его более сильно. Нас определенно переносит к определенному времени и месту более убедительно, чем если бы воспоминание было вызвано другим сигналом, к примеру фотографией или музыкой. И, по всей видимости, это потому что запах физически входит в наш мозг и идет в те же области, где мы обрабатываем память и эмоции. "},
+
+			{"name": "Kate",
+			"quote": "Now, let's look at some smell related vocabulary - there are many words in English we use to mean 'smell'. These include: fragrance, scent and aroma, odour and stink.",
+			"translation": "А сейчас давай посмотрим на некий запах, относящийся к лексике – есть много слов в английском, которые мы используем, что иметь ввиду «запах». Они включают: fragrance, scent и aroma, odour и stink."},
+
+			{"name": "Jackie",
+			"quote": "Yes, fragrance or scent is often used when the smell is a pleasant one, perfume for example is often called a fragrance. Scent is also a nice natural smell. Aroma is often used when talking about food or drink in a positive way, for example 'the wine had a fruity aroma'. Odour, however often refers to an unpleasant, for example 'inside the room there was a distinct odour of sweaty feet' and we use the word stink when we want to say that something smells very unpleasant, for example, 'this house stinks of cigarettes!'",
+			"translation": "Да, fragrance или scent часто используются, когда запах – приятен, парфюм к примеру часто называют fragrance. Scent – также приятный естественный запах. Aroma часто используется, когда говорят о еде или питье в положительном смысле, к примеру «у вина был хороший арома-запах». Oudour, однако часто ссылается на неприятный, к примеру «в комнате была отчетливая вонь потных ног» и мы используем слово stink, когда хотим сказать, что что-то пахнет очень неприятно, к примеру «этот дом воняет сигаретами!»"},
+
+			{"name": "Kate",
+			"quote": "Eurrgh! Going back what we were saying about how smells conjure up memories, what's interesting is that smells only evoke special memories for us when we don't smell them very often. For example, if we smell coffee every day, it's not going to remind us of that holiday 10 years ago. Let's listen to the next speaker, James Watts. He's a frequent traveller and likes to pair up smells and good memories. He deliberately imprints memories of holidays in his mind each time he goes away somewhere new. How does he do this?",
+			"translation": "Возвращаясь обратно к тому, о чем мы говорили, как запахи вызывают в воображении воспоминания, что интересно – так это то, что запахи только вызывают определенные воспоминания для нас, когда мы не чуем их очень часто. К примеру, если мы чуем запах кофе каждый день, он не напоминает нам об отпуске 10 лет назад. Давай послушаем следующего рассказчика, Джеймса Уотса. Он частый путешественник и любит разделять запахи и воспоминания. Он сознательно запечатлевает воспоминания об отпусках в своем уме каждый раз, когда выбирается куда-нибудь в новое место. Как он это делает?"},
+
+			{"name": "Man",
+			"quote": "When I go away on holidays I deliberately buy a deodorant or an aftershave so in five/ten years' time I can smell this and it can take me back, like that. Within a second a smelling it I can picture who I was with, the food we ate, the music we were into to…",
+			"translation": " Когда я уезжаю в отпуска я сознательно покупаю дезодорант или лосьон после бритья, так чтобы в течение 5-10 лет я мог чуять их запах и это может возвращать меня обратно, типа того. В течение секунды пока я их чую я могу представить с кем я был, еду которую ел, музыку которую слушал…"},
+
+			{"name": "Jackie",
+			"quote": "He said that when he goes on holiday he deliberately buys deodorant or aftershave which he uses for the duration of the holiday. Then in five or ten years' time he can sniff the bottle and be transported back in time to that specific time and place. I've never heard of anyone using smell and memory to deliberately conjure up memories like that before, but I think it's quite a good idea.",
+			"translation": " Он сказал, что когда выбирается в отпуск, он сознательно покупает дезодорант или лосьон после бритья, который использует в течение отпуска. Затем в течение 5-10 лет он может нюхать бутылку и переноситься обратно во время, то особое время и место. Я никогда не слышала ни о ком, использующем запах и воспоминание, чтобы сознательно представлять в воображении воспоминания наподобие этого, но я думаю это вполне хорошая идея. "},
+
+			{"name": "Kate",
+			"quote": [
+				"Yes, I might try it when I go on my holiday this year. Now let's go over some of the vocabulary we've come across today. We had:",
+				"conjure up - to create a picture in one's mind.",
+				"to trigger - to cause something to start",
+				"emotionally intense - to feel something very strongly",
+				"And the smell related words:",
+				"fragrance, scent and aroma which generally refer to pleasant smells and odour and stink which are bad smells"
+			],
+			"translation": [
+				"Да, я возможно попробую это, когда выберусь в отпуск в этом году. А сейчас давай пройдемся по некоторым словам, с которыми мы столкнулись сегодня. У нас были:",
+				"conjure up – создавать картинку в уме.",
+				"to trigger – заставить что-то начаться",
+				"emotionally intense – чувствовать что-то очень сильно",
+				"И слова относящиеся к запахам:",
+				"fragrance, scent и aroma, которые обычно относятся к приятным запахам, и odour и stink, которые являются плохими запахами."
+			]},
+
+			{"name": "Kate",
+			"quote": "So finally to my question I asked earlier. I asked you if our sense of smell gets better or worse as we get older.",
+			"translation": " В итоге мой вопрос, который я спросила ранее. Я спросила тебя, становиться ли наш чувство обоняния для запаха лучше или хуже, когда мы становимся старше."},
+
+			{"name": "Jackie",
+			"quote": "I said….",
+			"translation": "Я сказала...."},
+
+			{"name": "Kate",
+			"quote": "And you were correct, unfortunately as we get older our sense of smell gets worse along with all our other senses. That's all we've got time for today, thanks for listening – goodbye!",
+			"translation": "И ты была права, к сожалению как только мы взрослеем наше чувство обоняния для запаха становиться хуже наряду с другими чувствами. Это все на сегодня, спасибо что были с нами – спасибо! "}
+		],
+
+		"img_addr": "6me/2009/2009-04/Smells-and-memories.jpg",
+		"audio_src": "6me/2009/2009-04/2009-04-30 - 6 Minute English - Smells & memories.mp3",
+		"title": "BBC 6 Minute English - Smells and memories [Запахи и воспоминания], 2009-04-30",
+
+		"words_arr": [
+			{"en_word": "to experience", "ru_word": "испытывать"},
+			{"en_word": "the flashback", "ru_word": "воспоминание"},
+			{"en_word": "the mothballs", "ru_word": "нафталин"},
+			{"en_word": "the lavender", "ru_word": "лаванда"},
+			{"en_word": "to trigger ", "ru_word": "вызывать"},
+			{"en_word": "the bleach", "ru_word": "отбеливатель"},
+			{"en_word": "the mud", "ru_word": "грязь"},
+			{"en_word": "the memories", "ru_word": "воспоминания"},
+			{"en_word": "the cue", "ru_word": "сигнал, намек"},
+			{"en_word": "convincingly", "ru_word": "убедительно"},
+			{"en_word": "the scent", "ru_word": "приятный запах"},
+			{"en_word": "the fregnance", "ru_word": "приятный запах"},
+			{"en_word": "the aroma", "ru_word": "приятный запах"},
+			{"en_word": "the oudoor", "ru_word": "неприятный запах"},
+			{"en_word": "the stink", "ru_word": "неприятный запах"},
+			{"en_word": "to evoke", "ru_word": "вызывать"},
+			{"en_word": "to pair up", "ru_word": "разделять на пары"},
+			{"en_word": "to imprint", "ru_word": "запечатлевать"},
+			{"en_word": "the aftershave", "ru_word": "лосьон после бритья"},
+			{"en_word": "to sniff", "ru_word": "нюхать"},
+			{"en_word": "to conjure up", "ru_word": "вызывать в воображении"},
+			{"en_word": "the senses", "ru_word": "чувства"}
+		]
+	}
+}

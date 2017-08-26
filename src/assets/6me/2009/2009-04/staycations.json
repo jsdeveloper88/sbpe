@@ -1,0 +1,170 @@
+{
+	"data": {
+		"phrases_arr": [
+			{"name": "Kate",
+			"quote": "Hello, I'm Kate Colin and today I'm joined by Jackie Dalton. Hi Jackie.",
+			"translation": "Привет, я Kate Colin и сегодня приглашена Jackie Dalton. Привет, Jackie."},
+
+			{"name": "Jackie",
+			"quote": "Hi Kate",
+			"translation": "Привет, Kate"},
+
+			{"name": "Kate",
+			"quote": "Jackie, I believe you've just got back from holiday haven't you. How was it?",
+			"translation": " Джеки, я смотрю ты только что вернулась из отпуска, не так ли. Как оно? "},
+
+			{"name": "Jackie",
+			"quote": "It was great thank you - I had a very relaxing time. I did lots of reading and some skiing.", 
+			"translation": " Он был замечателен, спасибо – у меня было очень расслабляющее время. Я много читала и немного покаталась на лыжах. "},
+
+			{"name": "Kate",
+			"quote": "Sounds wonderful, but these days more and more of us are considering whether we can actually justify the cost of a holiday abroad and the idea of going absolutely nowhere is actually becoming quite appealing. A 'staycation' is a new phrase which is combination of the expressions 'stay' (at home)' and 'vacation'.",
+			"translation": " Звучит чудесно, но в наши дни все многие и многие из нас рассматривают могут ли они на самом деле оправдать цену отпуска за границей, и идея абсолютно никуда не ехать на самом деле становится вполне привлекательной. «Стейкейшн» – это новая фраза, которая является комбинацией выражений «оставаться (дома)» и «отпуск». "},
+
+			{"name": "Jackie",
+			"quote": "Well, yes I have heard of staycations, but to be honest I can't say it is something that really appeals to me because I like going on holiday to see other cultures, to listen to new languages and eat different food. Just to get away from my normal day to day life once in a while. I think that's what holidays are about.",
+			"translation": " Ну, да я слышала о стейкейшенах, но честно говоря я не могу сказать что это что-то, что действительно меня привлекает, потому что я люблю выбираться в отпуске, чтобы увидеть другие культуры, слушать новые языки и есть разную еду. Просто чтобы убежать от моей обычной повседневной жизни однажды на время. Я думаю вот для чего нужен отпуск. "},
+
+			{"name": "Kate",
+			"quote": [
+				"Well to some people it is, but before we go any further, I'm going to ask my question for this week. Which country is the top location for British people to go on holiday at the moment?",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) Spain",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) France",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) Turkey"
+			],
+			"translation": [
+				"Ну для некоторых людей это так, но до того как мы двинемся дальше, я собираюсь задать тебе вопрос для этой недели. Какая страна является топовым местом для британцев, чтобы поехать в отпуск на данный момент?",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) Испания",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) Франция",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) Турция"
+			]},
+
+			{"name": "Jackie",
+			"quote": "answers",
+			"translation": "ответы"},
+
+			{"name": "Kate",
+			"quote": "Good answer; we'll check if you're correct in a few minutes. But first here’s a lady who really likes staycations. Why does she prefer to stay at home?",
+			"translation": " Хороший ответ, мы проверим права ли ты через несколько минут. Но сначала здесь леди, которой нравятся стейкейшены. Почему она предпочитает оставаться дома? "},
+
+			{"name": "Clip 1",
+			"quote": "If you take your 2 weeks off and just stay at home and do what you like, it's so much more liberating than going away somewhere new and not having your own things around and having the pressure to explore all this new stuff. It's just a winner; I don’t understand why more people don't do it.",
+			"translation": " Если ты берешь 2 недели отпуска и просто остаешься дома и делаешь что тебе нравится, это намного более освобождающее, чем уезжать куда-то в новое место и не имея своих собственных вещей вокруг, а имея напряжение открывать для себя все эти новые вещи. Это просто удачная идея; я не понимаю почему все больше людей не поступают так."},
+
+			{"name": "Jackie",
+			"quote": "She said that staying at home is much more liberating than going away. If something is 'liberating' it makes you feel free and able to do what you like. She goes on to say that going on holiday means that you don't have your own things around you and there's lots of pressure to explore. She says that staying at home is a 'winner' (which means a very good thing) and she can't understand why more people don't do it!",
+			"translation": " Она сказала, что оставаться дома – намного более освобождающее, чем уезжать. Если что-то освобождающее, это заставляет тебя чувствовать свободно и быть способным делать то, что тебе нравится. Она продолжает говорить, что выход в отпуск означает, что у тебя нет своих собственных вещей вокруг и много напряжения, чтобы осознать его для себя. Она говорит, что пребывания дома – это удачная идея(что означает очень хорошую вещь), и она не может понять почему все больше людей не делают этого!"},
+
+			{"name": "Kate",
+			"quote": "Now we're going to hear from someone with the opposite point of view. She uses the phrase 'contradiction in terms' which means to say a combination of things which don't make sense as they often have opposite meanings. She also uses the term 'same old, same old' which you often hear when people talk about always doing the same thing. Listen out for it in the following extract…",
+			"translation": " Сейчас мы послушаем кое-кого с противоположной точкой зрения. Она использует фразу «противоречие в терминах», что означает говорить комбинацию вещей, которые не делают смысла, так как они имеют противоположные значения. Она также использует выражение «то же самое старье, то же самое старье», которое ты часто слышишь, когда люди говорят о всегдашнем исполнении одного и того же. Расслышь это в следующей выдержке…"},
+
+			{"name": "Clip 2",
+			"quote": "Well to me, holidaying at home is a complete contradiction in terms. When you stay at home you know it's the same old, same old and it just underpins the whole beauty of having that energizing break and doing something entirely different.",
+			"translation": " Ну для меня отпуск дома – это полное противоречие в терминах. Когда ты остаешься дома ты знаешь что это то же самое старье, то же самое старье и это лишь подкрепляет всю красоту этой энергетической передышки и выполнения чего-то полностью другого."},
+
+			{"name": "Jackie",
+			"quote": "Well, she said that she thinks holidaying at home is a contradiction in terms – it doesn't make sense. She thinks that taking a holiday is about getting away from your usual routine of being at home which she describes as 'the same old, same old'. I suppose she's referring to the everyday jobs of housework and shopping and things like that. She says this underpins the whole beauty of going away. Underpins means to give strength or support to something, so here the fact that there's always so much to do when you stay at home, supports or underpins her argument that we need to go away on holiday once in a while.",
+			"translation": " Ну, она сказала, что думает отпуск в стенах дома – это противоречие в терминах – это не делает никакого смысла. Она думает, что выход в отпуск подразумевает под собой побег от твоей обычной рутины пребывания дома, которую она описывает как «то же самое старье, то же самое старье». Я полагаю она ссылается на ежедневную работу по дому и поход по магазинам и вещей типа того. Она говорит, что это подкрепляет всю красоту побега из дома. Подкрепляет означает придавать силу или поддерживать что-то, так что здесь факт в том, что всегда есть так много работы, когда остаешься дома, подкрепляет ее аргумент, что надо уезжать в отпуске однажды на время. "},
+
+			{"name": "Kate",
+			"quote": "Let's go back to the first lady we heard from. Here she gives some other reasons why she prefers not to go away. She uses the term 'peace of mind'. What does this mean?",
+			"translation": " Давай вернемся обратно к первой леди, которую мы слушали. Здесь она дает несколько других причин почему предпочитает не уезжать. Она использует выражение «peace of mind». Что оно значит? "},
+
+			{"name": "Jackie",
+			"quote": "'peace of mind' is when you can relax because you don’t have to worry about anything.",
+			"translation": " «состояние покоя» - это когда ты можешь расслабиться, потому что не должен ни о чем беспокоиться. "},
+
+
+			{"name": "Clip 3",
+			"quote": "On the rare occasions that I have gone on a proper holiday, the amount of work you have to do to go away and enjoy peace of mind, totally negates the benefit of the holiday to me.",
+			"translation": " В редкие случаи, когда я ухожу в соответствующий отпуск, количество работы, которую ты должен сделать чтобы уехать и насладиться состоянием покоя, полностью отменяет выгоду отпуска для меня. "},
+
+			{"name": "Jackie",
+			"quote": "She says that all the effort you have to go to make sure you can enjoy peace of mind, negates the benefit of the holiday. I suppose she means that she spends a lot of time making sure her house is locked properly and things to make sure that she won't have to worry about anything going wrong while she's away. She says this negates the benefit of a holiday. To negate means to cancel out the effect of something, so all the worry related to going on holiday negates the good things about holidays.",
+			"translation": " Она говорит, что все усилия, что ты должен приложить, чтобы быть увереным что можешь насладиться состоянием покоя, отменяют выгоду отпуска. Я полагаю она имеет ввиду, что тратит много времени, удостовериваясь что ее дом закрыт, и на всякие вещи, чтобы удостовериться что она не должна беспокоиться, что что-то идет не так пока ее нет дома. Она говорит, что это отменяет выгоду отпуска. То negate означает отменять эффект чего-то, так что все тревоги относительно отпуска отменяют его выгоды. "},
+
+			{"name": "Kate",
+			"quote": "Let's hear what the second lady has to say in reply…she uses the word 'anticipation'. What does this mean?",
+			"translation": " Давай послушаем что вторая леди должна сказать в ответ…. она использует слово «предвкушение». Что оно значит? "},
+
+			{"name": "Jackie",
+			"quote": "'anticipation' means to look forward to something. You'll also hear the expression 'Groundhog Day'. In this context, this is a term which we sometimes use when referring to doing the same thing over and over again. It comes from a film called 'Groundhog Day' starring Bill Murray and Andie MacDowell, and the film features a man who finds himself living the same day over and over again. Now the expression has made its way into the English language to describe something which is the same everyday. So if you had a job where it seems you're doing the same thing day after day, you could say it was like 'Groundhog Day'.",
+			"translation": " «предвкушение» означает ожидать что-то. Ты также услышишь выражение «День Сурка». В этом контексте, это выражение, которое мы иногда используем чтобы сослаться на выполнение одного и того же снова и снова. Оно произошло из фильма под названием «День Сурка» при участии Билла Мэррэя и Энди Макдоувэлла, и фильм описывает человека, который обнаруживает себя живущим одним и тем же днем снова и снова. Сейчас это выражение проложили себе путь в английский язык, чтобы описать что-то, что каждый день является одним и тем же. Так что если у вас была работа, где кажется что вы делаете одно и то же день за днем, вы могли бы сказать что она была как «День Сурка»."},
+
+			{"name": "Clip 4",
+			"quote": "It's like anything in life you either approach it positively or negatively. I think part of the beauty of a holiday is the anticipation. I know it's stressful preparing for a holiday but it's quite exciting too and I think we need it because when we do the same things day after day, life becomes like Groundhog Day and one of the great beauties underpinning that is to go on holiday.",
+			"translation": " Это как любая вещь в жизни к которой вы относитесь либо положительно, либо отрицательно. Я думаю часть красоты отпуска заключается в предкушении. Я знаю эту стрессовую подготовку к отпуску, но она тоже вполне захватывающая, и я думаю нам он нужен потому что когда мы делаем одни и те же вещи день за днем, жизнь становиться как День Сурка и одна из огромных причин подкрепляющих это – это уехать во время отпуска."},
+
+			{"name": "Kate",
+			"quote": "What do you think Jackie? Are you tempted to have a 'staycation' next time you want a holiday?",
+			"translation": " Что ты думаешь, Джеки? Ты искушена остаться дома в следующий раз, когда захочешь в отпуск? "},
+
+			{"name": "Jackie",
+			"quote": "Well, having heard both sides of the argument, I can understand the reasons for staying at home but I'm afraid I like to travel too much and I don't think I'll be taking a staycation this year.",
+			"translation": " Ну, выслушав обе стороны аргумента, я могу понять причины чтобы остаться дома, но я боюсь что мне нравится слишком много путешествовать и я не думаю что останусь дома в этому году. "},
+
+			{"name": "Kate",
+			"quote": [
+				"So let's have a look the words we came across earlier in the programme: We had:",
+				"staycation",
+				"liberating",
+				"a contradiction in terms",
+				"same old, same old",
+				"to underpin",
+				"peace of mind",
+				"negates",
+				"anticipation",
+				"Groundhog Day"
+			],
+			"translation": [
+				"Ну давай посмотрим на слова с которыми мы столкнулись в этой программе раннее. У нас были:",
+				"стейкейшн",
+				"освобождающий",
+				"противоречие в терминах",
+				"то же самое старье, то же самое старье",
+				"подкреплять",
+				"состояние покоя",
+				"отменять",
+				"предвкушение",
+				"День Сурка"
+			]},
+
+			{"name": "Kate",
+			"quote": "Finally to the question I asked earlier. I asked you which county is the top European location for British people to go on holiday at the moment.",
+			"translation": " Ну и под конец - наш вопрос, который я спросила тебя ранее. Я спросила тебя какая страна является топовым местом для британцев, чтобы поехать в отпуск на данный момент?"},
+
+			{"name": "Jackie",
+			"quote": "…and I said Spain. …",
+			"translation": " И я сказала Испания. "},
+
+			{"name": "Kate",
+			"quote": "I'm afraid you were wrong. You were nearly right, but it is in fact Turkey.",
+			"translation": " Боюсь ты была неправа. Ты почти была близко, но факт в том, что это Турция."},
+
+			{"name": "Both",	
+			"quote": "That's all for this week. Goodbye!",
+			"translation": "Это все на эту неделю. Пока!"}
+		],
+
+		"img_addr": "6me/2009/2009-04/Staycations.jpg",
+		"audio_src": "6me/2009/2009-04/2009-04-16 - 6 Minute English - Staycations.mp3",
+		"title": "BBC 6 Minute English - Staycations [Отпуск в стенах дома], 2009-04-16",
+
+		"words_arr": [
+			{"en_word": "to justify", "ru_word": "оправдывать"},
+			{"en_word": "appealing", "ru_word": "привлекательный"},
+			{"en_word": "to appeal", "ru_word": "привлекать"},
+			{"en_word": "the pressure", "ru_word": "давление"},
+			{"en_word": "to explore", "ru_word": "исследовать"},
+			{"en_word": "liberating", "ru_word": "освободительный"},
+			{"en_word": "the contradiction", "ru_word": "противоречие"},
+			{"en_word": "to underpin", "ru_word": "подкреплять"},
+			{"en_word": "the occasion", "ru_word": "случай"},
+			{"en_word": "to negate", "ru_word": "отменять"},
+			{"en_word": "the anticipation", "ru_word": "предвкушение"},
+			{"en_word": "to feature", "ru_word": "изображать"},
+			{"en_word": "to tempt", "ru_word": "искушать"}
+		]
+	}
+}	

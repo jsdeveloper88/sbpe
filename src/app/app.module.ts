@@ -115,6 +115,9 @@ const appRoutes: Routes = [
   { path: 'search', component: SearchComponent},
 ];
 
+import {enableProdMode} from '@angular/core';
+enableProdMode();
+
 @NgModule({
   declarations: [
     AppComponent,

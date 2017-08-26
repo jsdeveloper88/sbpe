@@ -1,0 +1,153 @@
+{ 
+	"data": {
+		"phrases_arr": [
+			{"name": "Kate",
+			 "quote": "Hello, I’m Kate Colin and this is 6 minute English. Today I'm joined again by Jackie Dalton. Hi Jackie.",
+			 "translation": "Привет, я Kate Colin и это передача 6 minute English. Сегодня меня снова пригласила Jackie Dalton. Привет, Jackie."},
+
+			{"name": "Jackie",
+			 "quote": "Hi Kate",
+			 "translation": "Привет, Kate."},
+
+			{"name": "Kate",
+			"quote": "As you may know, yesterday, April 1st was April Fool's Day!",
+			"translation": " Как ты, возможно, знаешь вчера, 1-го апреля, было Апрельский День Дурака! "},
+
+			{"name": "Jackie",
+			"quote": "Well, to be honest, I completely forgot …..until I was caught out that is…",
+			"translation": " Но, честно говоря, я совсем забыла….. до того как меня на этом подловили…"},
+
+			{"name": "Kate",
+			"quote": "Oh no – what happened?",
+			"translation": " О, нет - что случилось? "},
+
+			{"name": "Jackie",
+			"quote": "Well, my flatmate changed my clock so I ended up getting up a whole hour earlier than I needed to. I only realised just before I was about to leave the house and I heard the time on the radio. I felt quite silly!",
+			"translation": " Мой сосед по квартире перенастроил мои часы так, что я встала на час раньше, чем надо. Я поняла это только когда собиралась уходить из дома и услышала время по радио. Я почувствовала себя довольно глупо. "},
+
+			{"name": "Kate",
+			"quote": [
+				"Oh dear, but at least you were nice and early for work. I bet you'd have preferred an extra hour in bed though. Well April Fool's Day is the one day of the year when we are all allowed to have some fun and play a few jokes on our friends and colleagues. Newspapers, radio stations and even large companies have their share of fun as well. But before we go any further, here' s my question for this week",
+				"In the UK on April Fool's Day, we are traditionally allowed to play jokes on people until what time. Is it:",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) midnight",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) midday",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) 4 o'clock"
+			],
+			"translation": [
+				"О, дорогая, зато ты было готова к работе пораньше. Спорим, ты бы предпочла дополнительный час в постели несмотря на это. Ну 1-е апреля – это единственный день в году, когда нам можно повеселиться и разыграть несколько шуток над друзьями и коллегами. Газеты, радиокомпании и даже крупные компании также разделяют это смех. Но до того как мы двинемся дальше, мой вопрос на эту неделю",
+				"В Объединенном Королевстве по традиции нам разрешено разыгрывать шутки над людьми - до какого времени? Это",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) Полночь",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) Полдень",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) 4 часа"
+			]},
+
+			{"name": "Jackie",
+			"quote": "answer",
+			"translation": "ответ"},
+
+			{"name": "Kate",
+			"quote": "OK, we'll see if you answered correctly at the end of the programme. Next we're going to hear from our colleague Carrie as she tells us what usually happens on April Fool's Day. See if you can hear how she describes the jokes that are played on people?",
+			"translation": " Хорошо, мы проверим ответила ли ты правильно в конце программы. Следующим мы послушаем нашего коллегу Кэрри, которая скажет нам что обычно происходит 1-го апреля. Посмотрим сможешь ли ты расслышать как она описывает шутки, которые разыгрывают над людьми? "},
+
+			{"name": "Carrie",
+			"quote": "It's usually people playing practical jokes on other people. So if somebody makes somebody else look rather silly, by telling them something that isn't true, by playing a practical joke on them.",
+			"translation": "Обычно люди разыгрывают розыгрыши над другими людьми. То есть если кто-то заставляет других выглядеть скорее глупо, говоря им что-то, что не является правдой, разыгрывая розыгрыши над ними. "},
+
+			{"name": "Jackie",
+			"quote": "She called the jokes 'practical jokes' and these are when you play a trick on someone or do something to make them look silly. So the joke my flatmate played on me was an excellent example of a 'practical joke'. I'll get her back next year though!",
+			"translation": " Она назвала шутки «розыграшами» и это когда ты подшучиваешь над кем-то или делаешь что-то, чтобы они выглядели глупо. Так что шутка, которую мой сосед по квартире разыграл, была отличным примером «розыгрыша». Несмотря на это, меня опять разведут на ней в следующем году. "},
+
+			{"name": "Kate",
+			"quote": "Another expression which has a similar meaning to 'practical joke' is 'hoax'. A hoax is when people are deceived into thinking something false and it's usually on a larger scale than a practical joke, involving many people. A 'media hoax' is when the people in charge of the media (TV, radio or newspapers and online) play a trick on their audience. Listen to what Carrie says about 'hoaxes'. What does she think is the problem with 'media hoaxes'?",
+			"translation": " Другое выражение, которое имеет схожее значение с «розыгрышем» - это «утка». Утка – это когда людей вводят в заблуждение думая о чем-то неправдивом и это обычно в большем масштабе чем розыгрыш, включая много людей. «Медиа-утка» - это когда люди в связке со СМИ(ТВ, радио или газеты и онлайн) подшучивают над своей аудиторией. Послушаем, что говорит Кэрри об «утках». Что, как она думает, является проблемой с «медиа-уткой»?"},
+
+			{"name": "Carrie",
+			"quote": "The media have a lot of hoaxes, so you can pick up a newspaper on April Fool's Day and there'll be a story in it that you know is a media hoax and it's clearly not true. Or not as the case may be! I think the trouble is now that you pick up a newspaper on 1st April and you look through and try and find the spoof story and quite often you'll pick something that maybe isn't a spoof story at all, it really is a genuine story.",
+			"translation": " СМИ имеют много уток, так что вы можете взять газету на 1-е апреля, и в ней будет история, которая, как вы знаете, является медиа-уткой и она явно неправда. Я думаю сейчас проблема в том, что вы берете газету 1-го сентября, и пролистывая ее, пытаетесь найти надувательскую историю, и вполне часто вы выбираете что-то, что вовсе и не является надувательством, это действительно правдивая история."},
+
+			{"name": "Jackie",
+			"quote": "Carrie says that the trouble with 'media hoaxes' is that now we all expect that's there's going to be one and often we'll see a story and we think it's a hoax when actually it's true.",
+			"translation": " Кэрри говорит, что проблема с «медиа-утками» в том, что сейчас мы все ожидаем, что будет одна и часто смотрим историю и думаем, что это утка, когда на самом деле это правда."},
+
+			{"name": "Kate",
+			"quote": "We also heard the expression 'spoof story'. What does this mean?",
+			"translation": " Мы также услышали выражение «надувательская история». Что это значит? "},
+
+			{"name": "Jackie",
+			"quote": "A 'spoof story' is a kind of practical joke or hoax and it's a story that's not true, presented in a style that makes it looks like as though it's really true. So an example of a spoof story would be a newspaper article saying that Elvis Presley has been seen walking down the streets of London, when in fact he's been dead for many years.",
+			"translation": " «Надувательская история» - это некий вид розыгрыша или утки, и это история, которая неправдива, представленная в виде, который заставляет выглядеть ее как настоящая правда. Примером надувательской истории могла бы быть газетная статья, говорящая, что Элвиса Прэсли видели гуляющим по улицам Лондона, когда фактически он мертв уже много лет. "},
+
+			{"name": "Kate",
+			"quote": "Yes, and it can be easy to be 'taken in' by these kind of stories. 'Taken in by' in a phrasal verb we use when we believe something that isn't true. Another way of describing someone who is easily taken in by things is to say they are 'gullible'. A 'gullible' person will believe most things you tell them, no matter how unlikely they are to be true. There have been plenty of other media hoaxes and spoof stories and many gullible people have been taken in over the years. Back to Carrie:",
+			"translation": " Да, и это может оказаться очень легким купиться на такого рода истории. «Купиться» в фразовом глаголе мы используем, когда верим чему-то, что не является правдой. Другой способ, чтобы описать кого-то, кто легко покупается на такие вещи – это сказать, что он «доверчив». «Доверчивая» личность поверит большинству вещей, которые вы говорите ей, не важно как маловероятно, что они правдивы. Было достаточно других медиа-уток и надувательских историй, и многие доверчивые люди покупались на них годами. Но вернемся обратно к Кэрри: "},
+
+			{"name": "Carrie",
+			"quote": "I think the most famous media hoax is actually a BBC hoax which I think happened in the1950s when a very well respected news programme called Panorama ran a story about spaghetti trees and how, I think it was the Swiss were harvesting a bumper crop of spaghetti and they had film clips of people picking spaghetti off trees. It's still probably the most famous, certainly in the UK, the most famous hoax.",
+			"translation": " Я думаю, что самая известная медиа-утка – это на самом деле утка от BBC, которая, как я думаю, произошла в 1950-х годах, когда очень уважаемая новостная программа под названием «Панорама» запустила историю о спагетти-деревьях и, как я думаю, это была Швейцария, собиравшая небывалый урожай спагетти, и у них были фильмовые клипы с людьми, собиравшими спагетти прямо с деревьев. И это все еще возможно самая известная, определенно в Объединенном Королевстве, самая известная утка."},
+				
+			{"name": "Kate",
+			"quote": "So many people were taken in by that practical joke that a large number of people contacted the BBC wanting to know how to cultivate their own spaghetti trees! Unsurprisingly, as Carrie said, even after 50 years it remains one of the most successful TV hoaxes of all time.",
+			"translation": " Так что многие люди купились на эту утку, что много людей звонили на BBC, желая знать как выращивать свои собственные спагетти-деревья! Неудивительно, как сказала Кэрри, даже спустя 50 лет она остается одной из самой успешных ТВ-уток всего времени. "},
+
+			{"name": "Jackie",
+			"quote": "And the BBC have been quite naughty pranskters in the past. A prankster is someone who plays tricks or pranks on someone else. And in 1965, the BBC told the public that they were broadcasting smells through the airwaves so that if they sniffed their radios they would be able to get smells sent over from the BBC. Many people actually contacted the BBC saying that they could indeed smell things coming through their radio.",
+			"translation": " BBC были вполне озорными пранкстерами в прошлом. Пранкстер – это тот, кто подшучивает над другими. В 1965-м году BBC сказали общественности, что они передавали запахи через радиоволны, так что если люди понюхали радио, они были бы способны почуять запах, посланный им от BBC. Многие люди на самом деле звонили на BBC, говоря что они на самом деле почуяли запах. "},
+
+			{"name": "Kate",
+			"quote": [
+				"I bet they felt very silly after they realised it was just an April Fool. It's amazing what some people will believe…..Let's have a quick look over the vocabulary we came across today: We had:",
+				"practical joke - which a type of joke which is played at someone else's expense",
+				"hoax - to trick people into believing something that's not true, usually on a larger scale",
+				"spoof story - a story that's not true presented as though it were true",
+				"taken in by - to believe something that isn't true",
+				"gullible - describes someone who believes things easily, even if it's obvious that they're not true",
+				"prank - is a type of practical joke."
+			],
+			"translation": [
+				"Спорим, что они чувствовали себя очень глупо, когда осознали что это была всего лишь первоапрельская шутка. Удивительно во что многие люди способны  поверить……  Давай быстренько посмотрим на слова, с которыми мы столкнулись сегодня:",
+				"Розыгрыш – тип шутки в убыток других",
+				"Утка – разыгрывать людей в большом количестве",
+				"Надувательская история – неправдивая история, представленная правдой",
+				"Покупаться – верить во что-то, что неправда",
+				"Доверчивый – описывает кого-то, кто легко верит вещи, которые заведомо неправдивы",
+				"Пранк – разновидность розыгрыша"
+			]},
+
+			{"name": "Kate",
+			"quote": "Now lastly to the question I asked you earlier, in the UK on April Fool's Day, we are allowed play jokes on people until what time?",
+			"translation": " А сейчас обратно к вопросу, который я спросила ранее, в ОК на 1-е апреля, до какого времени нам разрешено подшучивать над людьми? "},
+
+			{"name": "Jackie",
+			"quote": "I said midday",
+			"translation": " Я сказала до полудня"},
+
+			{"name": "Kate",
+			"quote": "And you were correct…traditionally in England, the jokes only last until noon midday. Elsewhere, such as in Ireland, France, and the USA, the jokes can last all day. Unlucky for them! That's all we have time for today. Until next week.",
+			"translation": " И ты была права… обычно в Англии, шутка длятся только для полудня. В других странах, такие как Ирландия, Франция и США, шутки могут длиться весь день. К неудаче для них! Это все на сегодня. До следующей недели."},
+
+			{"name": "Both",
+			"quote": "Goodbye!",
+			"translation": "Пока!"}
+		],
+
+		"img_addr": "6me/2009/2009-04/April-Fools-Day.jpg",
+		"audio_src": "6me/2009/2009-04/2009-04-02 - 6 Minute English - April Fool's Day.mp3",
+		"title": "SBPE: BBC 6 Minute English - April Fools Day [1-е апреля], 2009-04-02",
+
+		"words_arr": [
+			{"en_word": "to be caught out", "ru_word": "быть пойманым"},
+			{"en_word": "the practical joke", "ru_word": "розыгрыш"},
+			{"en_word": "the hoax", "ru_word": "обман в большем масштабе"},
+			{"en_word": "to deceive", "ru_word": "обманывать"},
+			{"en_word": "the spoof", "ru_word": "надувательство"},
+			{"en_word": "genuine", "ru_word": "подлинный"},
+			{"en_word": "to be taken in by smth.", "ru_word": "to believe smth. that isnt true"},
+			{"en_word": "gullible", "ru_word": "доверчивый"},
+			{"en_word": "unlikely", "ru_word": "маловероятно"},
+			{"en_word": "the bumper crop", "ru_word": "небывалый урожай"},
+			{"en_word": "to cultivate", "ru_word": "выращивать"},
+			{"en_word": "naughty", "ru_word": "шаловливый, озорной"},
+			{"en_word": "the pranskter", "ru_word": "someone who plays tricks or pranks on someone else"}
+		]
+	}
+}	

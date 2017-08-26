@@ -1,0 +1,172 @@
+{
+	"data": {
+		"phrases_arr": [
+			{"name": "Jackie",
+			"quote": "Hello, welcome to 6 minute English! I’m Jackie Dalton, with me is Neil Edgeller – hello!",
+			"translation": "Привет, добро пожаловать на передачу 6 минут английского! Я Джеки Дальтон и со мной Нейл Эджеллер - привет!"},
+
+			{"name": "Neil",
+			"quote": "Hello!",
+			"translation": "Привет!"},
+
+			{"name": "Jackie",
+			"quote": [
+				"Today we’ll be looking at how changes in the economy are affecting what people eat. As we do this, we’ll look at the language of money and economies. First, a tricky question for you Neil… The word ‘economy’ comes from the Ancient Greek word, ‘oikonomia’. What, literally, did the term ‘oikonomia’ mean? Was it",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) the practice of making money and wealth move around",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) management of a household",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) saving as much money as possible"
+			],
+			"translation": [
+				"Сегодня мы посмотрим, как изменения в экономике влияют на то, что едят люди. Как только мы это сделаем, мы рассмотрим понятия насчет денег и экономики. Но сначала хитрый вопрос для тебя, Нэйл… Слово «экономика» произошло от древнего греческого слова «ойкономия». Что буквально означало слово «ойкономия»? Это",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) опыт зарабатывания денег и движения состояния вокруг",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) управление домашним хозяйством",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) экономия столько денег сколько возможно"
+			]},
+
+			{"name": "Neil",
+			"quote": "(answers)",
+			"translation": "(ответы)"},
+
+			{"name": "Jackie",
+			"quote": "We’ll find out if you’re right at the end of the programme. Now, Britain is currently officially in recession – now that’s a word we’ve been hearing every day for many weeks, now…",
+			"translation": " Мы выясним прав ли ты в конце программы. Сейчас, на текущий момент, Британия официально находится в рецессии – сейчас это слово мы слышали каждый день в течение многих дней, сейчас…"},
+
+			{"name": "Neil",
+			"quote": "Yes, a recession is a period of reduced economic activity: often during a recession many people lose their jobs, businesses find it more difficult to survive, there’s less trade. Britain is in a recession at the moment and so the economy is suffering.",
+			"translation": " Да, рецессия – это период сниженной экономической активности: часто в течение рецессии многие люди теряют свои работы, бизнесы находят сложным выживать, меньше торговли. Британия находится в рецессии на данный момент, так что экономика страдает. "},
+
+			{"name": "Jackie",
+			"quote": "We hear other related terms like ‘economic slowdown’ which isn’t quite as serious as a recession, but it’s a time when the economy isn’t doing so well - an economic slowdown.",
+			"translation": " Мы слышим другие связанные понятие такие как «экономическое замедление», которое не вполне также серьезно как рецессия, но сейчас время, когда экономика не чувствует себя хорошо – это экономическое замедление. "},
+
+			{"name": "Neil",
+			"quote": "Yes, a similar expression is ‘an economic downturn’. Or you could say there’s ‘a slump’ in the economy.",
+			"translation": " Да, схожее выражение – экономический спад». Или ты могла бы сказать, что есть «резкое падение спроса» в экономике. "},
+
+			{"name": "Jackie",
+			"quote": "Of course, a recession may have all kinds of effects on people, including the obvious effects such as people losing their jobs or being unable to find work, but it’s also having an effect on what we eat. In what way? Are we eating better or worse? Listen to our New York correspondent Mathew Price to find out.",
+			"translation": " Конечно, рецессия возможно имеет все виды эффектов на людей, включая очевидные эффекты такие как потеря людьми своих работ или пребывания в состоянии, в котором невозможно найти работу, но она также имеет эффект на то, что мы едим. Но каким образом? Мы едим лучше или хуже? Послушаем нашего корреспондента в Нью – Йорке Мэтью Прайса, чтобы выяснить. "},
+
+			{"name": "Mathew Price",
+			"quote": "As customers cut down on spending there's evidence that they're also changing what they buy. Shifting from the stuff that's good for them ... <crunch> ... And instead munching away <crunch> on fast food.",
+			"translation": " Как только клиенты сокращают расходы, есть доказательство, что они также меняют то, что покупают. Переключаясь от продуктов, которые хороши для них … на &lt;хм-хм&gt;… И взамен разжевывая &lt;хм-хм&gt; на фастфуд. "}, 
+
+			{"name": "Neil",
+			"quote": "Well it would seem we’re not eating so healthily, instead, we’re eating more fast food.",
+			"translation": " Ну, кажется, что мы не потребляем здоровую пищу, вместо этого мы едим больше фастфуда. "},
+
+			{"name": "Jackie",
+			"quote": "Yes, Mathew talked about people cutting down on spending.",
+			"translation": " Да, Мэтью разговаривал с людьми, сокращающими расходы. "},
+
+			{"name": "Neil",
+			"quote": "Yes, ‘cut down’ is a handy phrase for talking about things that we start to do less. My friend Pete, is trying to cut down on smoking, because he knows it’s bad for him. People are cutting down on spending because they need to save money.",
+			"translation": " Да, «сокращать» - это удобная фраза, чтобы говорить о вещах, которые мы начинаем делать меньше. Мой друг Пит пытается сократить курение, потому что он знает, что это плохо для него. Люди сокращают расходы, потому что им надо экономить деньги. "},
+
+			{"name": "Jackie",
+			"quote": "So as people cut down on spending, they’re also changing what they eat and eating less healthy food. Is that what you’re doing Neil?",
+			"translation": "Так что как только люди сокращают расходы, они также изменяют то, что они едят и едят меньше здоровой пищи. Это то, что ты делаешь, Нэйл? "},
+
+			{"name": "Neil",
+			"quote": "(answers)",
+			"translation": "(ответы)"},
+
+			{"name": "Jackie",
+			"quote": "You’re listening to bbclearningenglish.com. Listen to this next clip, where we’ll hear Mathew go on to talk about how the changes in what people are eating are affecting certain businesses. Which business?",
+			"translation": " Вы слушаете bbclearningenglish.com. Послушаем следующий клип, где мы услышим Мэтью, продолжающего разговаривать о том, как перемены в том, что едят люди, влияют на определенные бизнесы. Какие бизнесы? "},
+
+			{"name": "Mathew Price",
+			"quote": "Hence, the so-called recession beating companies. Like McDonald's. As with some other budget food retailers they're planning to expand this year. Helped in part by the attraction of their one dollar menu.",
+			"translation": " Таким образом, так называемые борющиеся с рецессией компании. Такие как Макдачка. Наряду с некоторыми другими бюджетными пищевыми ритейлерами, они планируют расширяться в этом году. Отчасти помогают себе при помощи привлекательности однодолларового меню. "},
+
+			{"name": "Jackie",
+			"quote": "So the effect of people cutting down on spending is that certain companies, like fast food companies are doing well.",
+			"translation": " Так что эффект на людей, сокращающих расходы, заключается в тех определенных компаниях, такие как фастфуды. "},
+
+			{"name": "Neil",
+			"quote": "Yes, Mathew describes these as ‘recession beating’ companies – firms that aren’t actually suffering from the recession.",
+			"translation": " Да, Мэтью описывает эти как борющиеся с рецессией компании – фирмы, которые на самом деле не страдают от рецессии. "},
+
+			{"name": "Jackie",
+			"quote": "And in this case, the recession beating firms are fast food chains, that do cheap food. Mathew used another word there to mean cheap…",
+			"translation": " И в этом случае, борющиеся с рецессией фирмы – это фастфудные сети, которые производят дешевую еду. Мэтью использовал другое слово, чтобы обозначить дешевый…"},
+
+			{"name": "Neil",
+			"quote": "He used the term ‘budget’, which means low cost. A ‘budget airline’, for example, is an airline that offers services at quite a low cost. Budget food retailers are firms that sell cheap food.",
+			"translation": " Он использовал слово «бюджет», что означает низкая цена. «Бюджетная авиалиния», к примеру – это авиалиния, которая предлагает услуги по вполне низкой цене. Бюджетные пищевые ритейлеры – это фирмы, которые продают дешевую еду. "},
+
+			{"name": "Jackie",
+			"quote": "And the figures suggest that certain budget food retailers are planning to expand – to get bigger.",
+			"translation": " И показатели полагают, что определенные бюджетные пищевые ритейлеры планируют расширяться – становиться больше. "},
+
+			{"name": "Neil",
+			"quote": "Yes, ‘expand’ is a term we might often hear when we talk about the growth of the economy or a business. When the recession is over, hopefully the economy will start to expand again. McDonald’s is planning to expand this year – it wants to open more stores.",
+			"translation": " Да, «расширяться» - это слово, которое мы возможно часто слышим, когда говорим о росте экономики или бизнеса. Когда рецессия закончится, экономика начнет снова расти. Макдачка планирует расширяться в этом году – она хочет открыть больше ресторанов. "},
+
+			{"name": "Jackie",
+			"quote": "Let’s hear more from Mathew. He’s going to talk about a study showing how a lack of money affects obesity rates – the numbers of people who are seriously overweight. Does having less money nowadays tend to make people fatter or thinner?",
+			"translation": " Давай послушаем больше Мэтью. Он будет говорить об исследовании, показывающим как недостаток денег влияет на показатели ожирения – количество людей, которые серьезно весят больше нормы. Имеет ли тенденцию малое количество денег делать людей толще или стройнее в сегодняшние дни? "},
+
+			{"name": "Mathew Price",
+			"quote": "Not so many decades ago a slimmed down wallet meant a slimmer waistline. To be poor was to be underfed, and more often than not - skinny. Not so these days apparently. A study in California has concluded that when poverty rates increase by 10%, obesity rates also go up by 6%.",
+			"translation": " Не так много десятилетий назад похудевший лопатник означал постройневшую талию. Быть бедным означало быть недоедающим, и чаще всего – худым. Но по всей видимости не в наши дни. Исследование в Калифорнии заключило, что когда показатели бедности увеличиваются на 10%, показатели ожирения растут на 6%."},
+
+			{"name": "Jackie",
+			"quote": "Neil, does poorer mean fatter or thinner?",
+			"translation": " Нэйл, более бедный значит толще или стройнее? "},
+
+			{"name": "Neil",
+			"quote": "Well strangely – at least in the western world – nowadays less money means fatter. Mathew says a ‘slimmed down wallet’ – in other words, a wallet that’s thinner because it doesn’t have much money in it – does not mean a slimmer waistline.",
+			"translation": " Странно – по крайне мере на Западе – в сегодняшние дни меньше денег означает толще. Мэтью говорит «похудевший лопатник» - другими словами лопатник, который тоньше, потому что в нем не так много денег как раньше – не означает постройневшую талию. "},
+
+			{"name": "Jackie",
+			"quote": [
+				"Yes, less money actually means fatter. Let’s have a reminder of some of today’s key words and expressions.",
+				"a recession",
+				"an economic slowdown",
+				"an economic slump",
+				"to cut down budget",
+				"to expand"
+			],
+			"translation": [
+				"Меньше денег на самом деле означает толще. Давай напомним несколько сегодняшних ключевых слов и выражений.",
+				"Рецессия",
+				"Экономическое замедление",
+				"Резкое падение спроса в экономике",
+				"Сокращать бюджет",
+				"Расширяться"
+			]},
+
+			{"name": "Jackie",
+			"quote": "And finally, the answer to today’s question! Oikonomia means 'management of a household'. Goodbye for now, join us again soon for more 6 minute English!",
+			"translation": " И наконец, ответ на сегодняшний вопрос! Ойкономия означает «управление домашним хозяйством»."},
+
+			{"name": "Neil",
+			"quote": "Goodbye!",
+			"translation": "Пока!"}
+		],
+
+		"img_addr": "6me/2009/2009-03/cutting-down-eating-up.jpg",
+		"audio_src": "6me/2009/2009-03/2009-03-05 - 6 Minute English - Cutting down, eating up.mp3",
+		"title": "BBC 6 Minute English - Cutting down, eating up [Сокращение доходов ведет перееданию], 2009-03-05",
+
+		"words_arr": [
+			{"en_word": "to affect ", "ru_word": "влиять"},
+			{"en_word": "the household", "ru_word": "домашнее хоз-во"},
+			{"en_word": "the recession", "ru_word": "экономический спад"},
+			{"en_word": "to slowdown", "ru_word": "замедляться"},
+			{"en_word": "the economic downturn", "ru_word": "экономический спад"},
+			{"en_word": "the slump", "ru_word": "резкое падение спроса"},
+			{"en_word": "to shift", "ru_word": "переключаться"},
+			{"en_word": "to munch", "ru_word": "чавкать"},
+			{"en_word": "to cut down", "ru_word": "сокращать, урезать"},
+			{"en_word": "hence ", "ru_word": "следовательно, отсюда"},
+			{"en_word": "the slimmed down wallet", "ru_word": "похудевший лопатник"},
+			{"en_word": "the slimmer waistline", "ru_word": "постройневшая талия"},
+			{"en_word": "to be underfed", "ru_word": "быть недоедающим"},
+			{"en_word": "apparently", "ru_word": "по-видимому"},
+			{"en_word": "the poverty", "ru_word": "бедность"},
+			{"en_word": "the obesity", "ru_word": "ожирение"}
+		]
+	}
+}		

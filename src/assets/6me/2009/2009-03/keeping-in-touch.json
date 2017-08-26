@@ -1,0 +1,171 @@
+{
+	"data": {
+		"phrases_arr": [
+			{"name": "Kate",
+			"quote": "Hello, I’m Kate Colin and this is 6 minute English. Today I'm joined by Jackie Dalton and we'll be talking about keeping in touch the old-fashioned way. Hi Jackie, a quick question for you to begin with....I'd like to know when was the last time you wrote a letter to a friend or relative and posted it? Not an email, but a real letter....",
+			"translation": "Привет, я Кейт Колин и это 6 минут английского. Сегодня меня пригласила Джеки Далтон, и мы будем говорить о пребывании в контакте старомодным способом. Привет, Джеки, быстрый вопрос для тебя, чтобы начать.... Я бы хотела знать когда ты в последний раз писала письмо другу или родственнику и отсылала его? Не е-мэйл, а настоящее письмо...."},
+
+			{"name": "Jackie",
+			"quote": "Well funnily enough, it was only about a week ago, which I think is quite unusual nowadays.",
+			"translation": "Ну довольно-таки смешно, это было около недели назад, что, я думаю, вполне необычно в сегодняшнее время."},
+
+			{"name": "Kate",
+			"quote": "Yes, it certainly is because in this modern age of emails, texts, phones, Facebook and Skype, we seldom take the time to put pen to paper and write a letter. Can you tell me what 'put pen to paper' means?",
+			"translation": "Да – это, определенно, потому что в современную эпоху е-мэйлов, смсок, телефонов, ФБ и Скайпа, мы редко уделяем время, чтобы приложить ручку к бумаге для того, чтобы написать письмо. Можешь сказать мне что значит «приложить ручку к бумаге»?"},
+
+			{"name": "Jackie",
+			"quote": "Yes, this is an expression which means to deliberately write something down, a letter, a story or a poem perhaps. So putting 'pen to paper' to write a letter is certainly becoming less common these days. It's quite sad because until very recently, writing letters had been our main way of communicating with friends and family and now the tradition seems to be dying out.",
+			"translation": "Да, это выражение, которое означает сознательно написать что-то, письмо, рассказ или поэму возможно. Так что прикладывание «ручки к бумаге», чтобы написать письмо определенно становиться менее обобщенным в эти дни. Это вполне печально, потому что до недавнего времени написание писем было нашим главным способом коммуникации с друзьями и семьей, и сейчас это традиция кажется вымирает."},
+
+			{"name": "Kate",
+			"quote": "Yes, but now of course now we have so much technology available to us that we can communicate with people all over the world in a matter of seconds. It's so much easier than it used to be!",
+			"translation": "Да, но сейчас, конечно, у  нас так много технологий, доступных нам, что мы можем коммуницировать  с людьми по всему миру за считанные секунды. Это намного легче, чем было!"},
+
+			{"name": "Jackie",
+			"quote": "Exactly, we no longer have to go to the bother of writing a letter, buying a stamp and posting it, we can just click a few buttons and our message is at its destination.",
+			"translation": "Точно, мы больше не должны беспокоиться о написании письма, покупая марку и отсылая его, мы можем просто кликнуть несколько кнопок, и наше сообщение в нужном месте сообщения."},
+
+			{"name": "Kate",
+			"quote": [
+				"Later in the programme we'll be hearing from someone who still prefers to write 'real letters' rather than emails. But first to my question for this week, which is an easy one. When we talk about the postal service in the UK, we sometimes jokingly use a nickname. Do we say:",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) slug mail",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) worm mail",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) snail mail"
+			],
+			"translation": [
+				"Далее в программе мы услышим кое-кого, кто все-еще предпочитает писать «настоящие письма» нежели е-мэйлы. Но сначала к моему вопросу этой недели, который легок. Когда мы говорим о почтовой службе в Объединенном Королевстве, мы иногда в шутку используем никнэйм. Мы говорим:",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) личиночная почта",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) червичная почта",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) улиточная почта"
+			]},
+
+			{"name": "Jackie",
+			"quote": "Ah that’s an easy one....",
+			"translation": "А, это легкий ..."},
+
+
+			{"name": "Kate",
+			"quote": "Okay, we’ll check your answer in a few minutes. But first we're going to hear from a girl called Liz. See if you can hear what she liked about receiving letters when she was younger....",
+			"translation": "Хорошо, мы проверим твой ответ через несколько минут. Но сначала мы послушаем девочку по имени Лиза. Посмотрим, сможешь ли ты услышать что ей нравилось в получении писем, когда она была помладше...."},
+
+			{"name": "Liz",
+			"quote": "‘It was having something that came through that was yours and someone had taken the time to write to you. And because no one else can open your post, it’s really private as well and it’s exclusively just for you. I found that really exciting.’",
+			"translation": "Это было нечто, что пришло к тебе, что было твое и что кто-то потратил свое время, чтобы написать тебе его. И потому что никто другой не мог открыть твою посылку, она действительно была лично твоей также как и эксклюзивно только для тебя."},
+
+			{"name": "Jackie",
+			"quote": "She said it was having something that 'came through' that was hers alone. We often use the phrasal verb 'come through' when talking about a letter or a parcel which is posted to us. For example, 'my exam certificate came through this morning'. She liked the fact that someone had taken the time to write to her. This means to actually spend the time to do it and she said that a letter was private and 'exclusively for her'. 'Exclusively' means for one person only, it's not public and often refers to something quite luxurious or special.",
+			"translation": "Она сказала, это было нечто, что к ней пришло и что было только ее. Мы часто используем фразовый глагол «приходить», когда говорим о письме или посылке, которые посланы нам. К примеру, «мой экзаменационный сертификат пришел этим утром». Ей нравиться сам факт, что кто-то уделил свое время, чтобы написать ей. Это означает на самом деле потратить свое время, чтобы сделать это, и она сказала, что письмо лично ее и эксклюзивно для нее. «Эксклюзивно» значит только для одной личности, это слово публично и часто ссылается к чему-то вполне роскошному и особому."},
+
+			{"name": "Kate",
+			"quote": "What else does she like about receiving letters? Listen to find out:",
+			"translation": "Что еще она любит при получении писем? Давай послушаем и выясним:"},
+
+			{"name": "Liz",
+			"quote": "‘It’s so tactile as opposed to any kind of technology and because the method is so traditional and long-standing it just seems a lot more real’.",
+			"translation": "Оно так тактильно – как противоположность любой технологии, и так как этот способ такой традиционный и давнишний, оно кажется намного более настоящим."},
+
+			{"name": "Kate",
+			"quote": "She said it’s tactile. What does tactile mean?",
+			"translation": "Она сказала оно тактильно. Что значит тактильно?"},
+
+			{"name": "Jackie",
+			"quote": "This means 'nice to touch' and I think she's talking about the fact that a letters are real and you can hold them, as opposed to just reading things off a computer screen.",
+			"translation": "Это означает «приятно трогать», и я думаю, она говорит о том факте, что письма настоящие, и ты можешь держать их в руках – как противоположность простому считыванию с экрана."},
+
+			{"name": "Kate",
+			"quote": "And long-standing?",
+			"translation": "А давнишний?"},
+
+			{"name": "Jackie",
+			"quote": "We use 'long-standing' when we talk about something that has been taking place for many years, a tradition can be 'long standing' for example.",
+			"translation": "Мы используем «давнишний», когда говорим о чем-то, что имело место быть многие годы, традиция может быть «давнишней» к примеру."},
+
+			{"name": "Kate",
+			"quote": "So what do you think? Do you like it when a letter comes through for you?",
+			"translation": "Так что ты думаешь? Тебе нравится, когда письмо приходит тебе?"},
+
+			{"name": "Jackie",
+			"quote": "Yes I do actually, I much prefer to receive a real letter rather than an email.",
+			"translation": "Да, на самом деле, я скорее предпочитаю получать настоящее письмо, чем е-мэйл."},
+
+			{"name": "Kate",
+			"quote": "Well, many people would agree with you and before technology played such a huge part in our lives, lots of people used to have pen pals. These were friends who kept in contact through letters, hence the name (pal is another word for friend).",
+			"translation": "Ну многие люди бы согласились с тобой, и до того как технологии начали играть такую огромную роль в нашей жизни, у многих людей были друзья по переписке. Это были друзья, которые держались в контакте путем писем, отсюда и название(пол – другое слово для слово «друг». Примечание автора: название компании по безопасным платежам в интернете PayPal произносится как  ПэйПол – платежный друг или друг по платежам – пожалуйста, никогда не произносите его как ПэйПал – меня это бесит !!!!!!!!!!!!!!)"},
+
+			{"name": "Jackie",
+			"quote": "Yes, there are a lot of advantages to having a pen pal including the opportunity to practise reading and writing in a foreign language, to improve literacy, to learn more about other countries and lifestyles and to make friendships.",
+			"translation": "Да, есть много преимуществ иметь друзей по переписке, включая возможность практиковать чтение и письмо на иностранном языке, улучшить грамотность, узнать больше о других странах и жизни в них и завести друзей."},
+
+			{"name": "Kate",
+			"quote": "Many people are still keen in having a pen pal and often use a special agency to put the me in contact with someone in another country they can write to. Another way of saying this to link up with someone. Liz has a few pen pals - let's hear what else she has to say...",
+			"translation": "Многие люди до сих пор заострены на том, чтобы иметь друзей по переписке и часто используют специальное агентство, чтобы поддерживать минимальный контакт с кем-то в другой стране, чтобы они могли писать ему. Другой способ сказать то же самое – это быть на связи с кем-то. У Лизы есть несколько друзей по переписке – давай послушаем что еще она может сказать..."},
+
+			{"name": "Liz",
+			"quote": "I’ve got 3 pen pals now – they’re all based in America. The pen pals started through some research I was doing and I found the Letter Writers Alliance on the internet. It’s like a dating service but for pen pals, they just link you up with somebody else and all you get is their address and then you just start a dialogue with them.",
+			"translation": "Сейчас у меня есть 3 друга по переписке  - все они обосновались в Америке. Мы стали друзьями по переписками через некоторое исследование, которое я делала, и я нашла Альянс Авторов Писем в инете. Это как сервис по знакомству, но для друзей по переписке, они просто связывают тебя с кем-то еще, и все, что ты получаешь – это его адрес, и затем ты просто начинаешь диалог с ним."},
+
+
+			{"name": "Jackie",
+			"quote": "She said she linked up with some of her pen pals through an agency which was a bit like a dating service! It seems to work though...some people remain pen pals for only a short time, while others continue to exchange letters for the rest of their lives. Some pen pals eventually arrange to meet face to face and there are even stories of some pen pals getting married!",
+			"translation": "Она сказала, что связалась с несколькими друзьями по переписке через агентство, которое немного как сервис по знакомству! Кажется это работает хотя... несколько людей остались друзьями по переписке лишь на короткое время, в то время как другие продолжали обмениваться письмами в течение их жизни. Несколько друзей по переписке в конечном итоге договорились встречаться напрямую и есть даже истории некоторых друзей по переписке, которые поженились."},
+
+			{"name": "Kate",
+			"quote": "You can still have a pen pal even if you prefer to use email....these are sometimes called 'key pals' as you write letters on the keys of your computer rather than with a pen. Let's have a quick recap on the vocabulary we've come across today....",
+			"translation": "У тебя все еще может быть друг по переписке даже если ты предпочитаешь использовать е-мэйл.... Иногда их называют «друзьями по клаве», потому что ты пишешь письма при помощи клавиатуры своего компа нежели чем ручки. Давай быстренько подытожим слова, с которыми мы столкнулись сегодня...."},
+
+			{"name": "Jackie",
+			"quote": [
+				"put pen to paper – to deliberately writing something down",
+				"came through/come through – a phrasal verb we use when talking about a letter or parcel which is posted to us",
+				"taking the time – to spend the time to do something",
+				"exclusively – special or for one person only",
+				"tactile – nice or pleasant to touch",
+				"long standing – something we have been doing for a long time",
+				"link up – another phrasal verb meaning 'to connect with'"
+			],
+			"translation": [
+				"прикладывать ручку к бумаге – сознательно записывать что-то",
+				"приходить – фразовый глагол, который мы используем, когда говорим о письме и посылке, которые посланы нам",
+				"уделять время – тратить время, чтобы сделать что-то",
+				"эксклюзивно – специально или только для одной личности",
+				"тактильный – приятно трогать",
+				"давнишний – что-то, что мы делали долгое время",
+				"быть на связи – другой фразовый глагол, означающий «быть на связи»"
+			]},
+
+			{"name": "Kate",
+			"quote": "And finally, to the question I asked at the beginning of the programme – the term we sometimes use for the traditional postal service is.....",
+			"translation": "И наконец вопрос, который я задала в начале программы – выражение, которое мы иногда используем для обычной почтовой службы – это....."},
+
+			{"name": "Jackie",
+			"quote": "I said it was 'snail mail' as compared to email and the telephone, sending a letter is a slow as a snail!",
+			"translation": "Я сказала «улиточная почта», по сравнению  с е-мэйлом и телефоном, посылка письма медленная как улитка!"},
+
+			{"name": "Kate",
+			"quote": "That's right. Thanks Jackie – until next time.",
+			"translation": "Правильно. Спасибо, Джеки – до следующего раза."}
+		],
+
+		"img_addr": "6me/2009/2009-03/keeping-in-touch.jpg",
+		"audio_src": "6me/2009/2009-03/2009-03-19 - 6 Minute English - Keeping in touch.mp3",
+		"title": "BBC 6 Minute English - Keeping in touch [Держаться в контакте], 2009-03-19",
+
+		"words_arr": [
+			{"en_word": "seldom", "ru_word": "редко"},
+			{"en_word": "deliberately", "ru_word": "сознательно"},
+			{"en_word": "the bother", "ru_word": "беспокойство"},
+			{"en_word": "jokingly", "ru_word": "в шутку"},
+			{"en_word": "the slug", "ru_word": "личинка"},
+			{"en_word": "the snail", "ru_word": "улитка"},
+			{"en_word": "to come through", "ru_word": "when talking about a letter or a parcel which is posted to us"},
+			{"en_word": "tactile", "ru_word": "nice to touch"},
+			{"en_word": "long-standing", "ru_word": "давнишний"},
+			{"en_word": "hence", "ru_word": "отсюда..."},
+			{"en_word": "the literacy", "ru_word": "грамотность"},
+			{"en_word": "to be keen in smth.", "ru_word": "быть заостренным на чем-то"},
+			{"en_word": "The Alliance", "ru_word": "Альянс"},
+			{"en_word": "to exchange", "ru_word": "обмениваться"},
+			{"en_word": "the recap", "ru_word": "резюме"}
+		]
+	}
+}
