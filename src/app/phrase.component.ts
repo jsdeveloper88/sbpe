@@ -1,4 +1,4 @@
-import { Component, Input } from '@angular/core';
+import { Component, Input, AfterViewInit } from '@angular/core';
 
 @Component({
   selector: 'phrase',
@@ -14,49 +14,43 @@ import { Component, Input } from '@angular/core';
     <p *ngFor="let trslt of translation" [innerHTML]="trslt"></p>
     <div><button (click)="toggle_translate()" class="hide_translate"> Скрыть </button></div>
   </div>
-  <div style="padding: 5px;" *ngIf="ind == 8">
+
+  <div style="background-color: yellow; padding: 5px; color: red; border-radius: 5px; text-align: center; font-weight: bold;" *ngIf="part_end">{{ part_end }}</div>
+
+  <div style="padding: 5px;" *ngIf="ind == 9">
+    <!-- podcast-ad-2 -->
     <ins class="adsbygoogle"
-      style="display:block; text-align:center;"
-      data-ad-format="fluid"
-      data-ad-layout="in-article"
-      data-ad-client="ca-pub-8645329394822741"
-      data-ad-slot="1652370281">
+         style="display:block"
+         data-ad-client="ca-pub-8645329394822741"
+         data-ad-slot="2102106045"
+         data-ad-format="auto">
     </ins>
   </div>
-  <div style="padding: 5px;" *ngIf="ind == 17">
+  <div style="padding: 5px;" *ngIf="ind == 19">
+    <!-- podcast-ad-3 -->
     <ins class="adsbygoogle"
-      style="display:block; text-align:center;"
-      data-ad-format="fluid"
-      data-ad-layout="in-article"
-      data-ad-client="ca-pub-8645329394822741"
-      data-ad-slot="3573269692">
+         style="display:block"
+         data-ad-client="ca-pub-8645329394822741"
+         data-ad-slot="5055572440"
+         data-ad-format="auto">
     </ins>
   </div>
-  <div style="padding: 5px;" *ngIf="ind == 26">
+  <div style="padding: 5px;" *ngIf="ind == 29">
+    <!-- podcast-ad-4 -->
     <ins class="adsbygoogle"
-      style="display:block; text-align:center;"
-      data-ad-format="fluid"
-      data-ad-layout="in-article"
-      data-ad-client="ca-pub-8645329394822741"
-      data-ad-slot="2360260374">
+         style="display:block"
+         data-ad-client="ca-pub-8645329394822741"
+         data-ad-slot="9766286727"
+         data-ad-format="auto">
     </ins>
   </div>
-  <div style="padding: 5px;" *ngIf="ind == 35">
+  <div style="padding: 5px;" *ngIf="ind == 39">
+    <!-- podcast-ad-5 -->
     <ins class="adsbygoogle"
-      style="display:block; text-align:center;"
-      data-ad-format="fluid"
-      data-ad-layout="in-article"
-      data-ad-client="ca-pub-8645329394822741"
-      data-ad-slot="3776627281">
-    </ins>
-  </div>
-  <div style="padding: 5px;" *ngIf="ind == 44">
-    <ins class="adsbygoogle"
-      style="display:block; text-align:center;"
-      data-ad-format="fluid"
-      data-ad-layout="in-article"
-      data-ad-client="ca-pub-8645329394822741"
-      data-ad-slot="6952798425">
+         style="display:block"
+         data-ad-client="ca-pub-8645329394822741"
+         data-ad-slot="4385310990"
+         data-ad-format="auto">
     </ins>
   </div>
 `,
@@ -116,10 +110,11 @@ import { Component, Input } from '@angular/core';
     }
   `]
 })
-export class PhraseComponent {
+export class PhraseComponent implements AfterViewInit {
   @Input() name: string;
   @Input() quote: string;
   @Input() translation: string;
+  @Input() part_end: string;
 
   @Input() ind: number;
 
@@ -129,5 +124,18 @@ export class PhraseComponent {
   toggle_translate(){
     this.invisible = !this.invisible;
     //this.bttn_visible = !this.bttn_visible;
+  }
+
+  ngAfterViewInit() {
+    //setTimeout(()=>{
+      try{
+        (window['adsbygoogle'] = window['adsbygoogle'] || []).push({});
+        (window['adsbygoogle'] = window['adsbygoogle'] || []).push({});
+        (window['adsbygoogle'] = window['adsbygoogle'] || []).push({});
+        (window['adsbygoogle'] = window['adsbygoogle'] || []).push({});
+      }catch(e){
+        console.error("PhraseComponent error");
+      }
+    //},500);
   }
 }

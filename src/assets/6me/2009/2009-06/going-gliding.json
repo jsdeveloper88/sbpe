@@ -1,0 +1,171 @@
+{
+  "data": {
+    "phrases_arr":
+    [
+      {"name": "Kate",
+      "quote": "Hello and welcome to 6 Minute English with me, Kate Colin. In this programme we're going to be talking about gliding. This is when you fly in a light unpowered <span class='new_word'>aircraft<span class='tooltiptext'>самолет</span></span> known as a <span class='new_word'>glider<span class='tooltiptext'>планер</span></span>. Today I'm joined by Rebecca Byrne, who by sheer co-incidence, has just been gliding for the first time! Hi Rebecca – so how was it?",
+      "translation": "Привет и добро пожаловать на передачу '6 минут английского' со мной, Кейт Колин. В сегодняшней программе мы будем говорить о планеризме. Это когда ты летаешь на самолете без двигателя, известном под названием планер. Сегодня я приглашена Ребекой Берн, которая, по полному совпадению, летала на планере первый раз! Привер, Ребека - каково это было?"},
+
+      {"name": "Rebecca",
+      "quote": "Hi Kate – it was fantastic. I really enjoyed it.",
+      "translation": "Привет, это было фантастически. Я действительно этим насладилась."},
+
+      {"name": "Kate",
+      "quote": "You weren't flying by yourself were you….?",
+      "translation": "Ты не летала одна, так ведь...?"},
+
+      {"name": "Rebecca",
+      "quote": "answers",
+      "translation": ""},
+
+      {"name": "Kate",
+      "quote": "I can't wait to hear more about it - but first of all, let's find out a bit more about the sport. Gliding is also sometimes known as 'soaring'. <span class='new_word'>To soar<span class='tooltiptext'>витать, парить</span></span> means to fly high in the air using the wind to carry you. The <span class='new_word'>glider<span class='tooltiptext'>планер</span></span> is designed to be graceful and extremely light and actually doesn't even have an engine. So, tell me, if it doesn't have an engine how do you get into the sky in the first place? And how do you stay up?",
+      "translation": "Не могу дождаться, чтобы услышать об этом побольше - но прежде всего, давай узнаем немного больше о спорте. Планеризм иногда известен под названием 'парение'(витание). Витать означает летать высоко в воздухе, используя ветер, чтобы он переносил тебя. Планер разработан, чтобы быть изящным и экстремально легким, и на самом деле у него даже нет двигателя. Так что скажи мне, если у него двигателя, как ты поднимаешься в небо из начального положения? И как ты остаешься наверху?"},
+
+      {"name": "Rebecca",
+      "quote": "Well, in order to get into the air you do need a little <span class='new_word'>assistance<span class='tooltiptext'>содействие</span></span>. There are several ways of doing this but when I went, my <span class='new_word'>glider<span class='tooltiptext'>планер</span></span> was pulled up into the sky by another light <span class='new_word'>aircraft<span class='tooltiptext'>самолет</span></span> (which had an engine) sometimes called a <span class='new_word'>'tug'<span class='tooltiptext'>буксир, тягач</span></span> or <span class='new_word'>'tow'<span class='tooltiptext'>буксир, тягач</span></span> plane and the two planes were connected together with a strong rope. When the <span class='new_word'>glider<span class='tooltiptext'>планер</span></span> got to the required height, the pilot released the cable and we were free to glide gracefully back down to the ground again.",
+      "translation": "Для того, чтобы подняться в воздух, тебе нужно немного содействия. Есть несколько способов сделать это, но когда я это делала я, мой планер был поднят в небо другим легким самолетом (у которого был двигатель), который иногда называют 'самолетом-тягачом', и два самолета были соединены вместе крепким тросом. Когда планер достиг нужной высоты, пилот освободил кабель, и мы были свободны, чтобы изящно скользить по воздуху вниз на землю."},
+
+      {"name": "Kate",
+      "quote": "Were you scared at all?",
+      "translation": "Ты была напугана?"},
+
+      {"name": "Rebecca",
+      "quote": "I was a little bit scared at first but once the cable was released it was much smoother. It felt a bit like being a bird. The typical modern <span class='new_word'>glider<span class='tooltiptext'>планер</span></span> uses the same air currents or moving air that birds use to fly.",
+      "translation": "Сначала я была немного напугана, но когда кабель был освобожден, стало легче. Это на чувство как будто ты маленькая птичка. Типичный современный планер использует тот же воздушные течения или движушийся воздух, которые птицы используют, чтобы летать."},
+
+      {"name": "Kate",
+      "quote": "It sounds like an amazing experience.",
+      "translation": "Звучит как удивительный опыт."},
+
+      {"name": "Rebecca",
+      "quote": "Yes, it was and it really gave me a bird's eye view of the countryside - this means to see things as a bird would.",
+      "translation": "Да, это так и было и это на самом деле дало мне вид сельской местности с высоты птичьего полета - это означает видеть вещи как это видела бы птичка."},
+
+      {"name": "Kate",
+      "quote": [
+        "Before we go any further, here's my question for this week. What year do you think the first flight in a <span class='new_word'>glider<span class='tooltiptext'>планер</span></span> took place?",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) 1891",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) 1905",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) 1913"],
+      "translation": [
+        "До того как мы двинемся дальше, мой вопрос на эту неделю. В каком году, ты думаешь, первый полет на планере имел место быть?",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) 1891",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) 1905",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) 1913"]},
+
+      {"name": "Rebecca",
+      "quote": "answers",
+      "translation": ""},
+
+      {"name": "Kate",
+      "quote": "Now we're going to hear from the president of the North Yorkshire gliding club which is celebrating its 75th anniversary this year. Moyra Johnson is ninety three years old and was one of the first people to fly in the area back in 1935 when she was still a teenager. In the following extract, we're going to hear how she got interested in flying. She mentions her father was in the RNAS – what does this mean?",
+      "translation": "А сейчас мы услышим президента клуба планеризма Северного Еркшира, который празднует свою 75-ю годовщину в этом году. Мойре Джонсон 93 года, и она была одной из первых людей, которые летали в этой местности в 1935 году, когда она была подростком. В следующем отрывке мы услышим как она заинтересовалась в полетах. Она упоминает, что ее отец был в RNAS - что это значит?"},
+
+      {"name": "Rebecca",
+      "quote": "This stands for the 'Royal Naval Air Service' but this was later turned into the RAF, the Royal Air Force. She also mentions <span class='new_word'>'measles'<span class='tooltiptext'>корь</span></span> which is an infectious disease which produces small spots all over the body and is common in childhood.",
+      "translation": "Она означает Королевская Воздушно-Морская Служба, но позже она переименовалась в Королевские Воздушные Силы. Она также упоминает корь, что является инфекционной болезнь, которая производит маленькие пятна по всему телу и обычно встречается в детстве."},
+
+      {"name": "Kate",
+      "quote": "Let's listen – how did Moyra first become interested in flying?",
+      "translation": "Давай послушаем - как Мойра впервые заинтересовалась полетами?"},
+
+      {"name": "Clip 1",
+      "quote": "Having been born during the First World War, my father was in the RNAS. When I had <span class='new_word'>measles<span class='tooltiptext'>корь</span></span> he <span class='new_word'>rigged up<span class='tooltiptext'>to rig up - сооружать</span></span> an aeroplane which went from one end of the bedroom to the other which I could <span class='new_word'>pull on<span class='tooltiptext'>to pull on smth. - тянуть за что-то</span></span> a <span class='new_word'>string<span class='tooltiptext'>веревка</span></span>. I would have probably been only about 10 then and I think from then on, flying or things like that which were new in those days, I was interested in.",
+      "translation": "Родившись в течение Первой Мировой Войны, мой отец был в Королевской Воздушно-Морской Службе. Когда у меня была корь, он соорудил аэроплан, который ходил от одного конца спальни в другой, и который я могла тянут за веревку. Мне возможно было толко около 10 лет тогда, и я думаю, что с тех пор, полеты и вещи наподобие этого были чем-то новым в те дни, я заинтересовалась в них."},
+
+      {"name": "Rebecca",
+      "quote": "She said that when she was about 10 years old she was ill with <span class='new_word'>measles<span class='tooltiptext'>корь</span></span> and her father who had been a pilot, put a toy aeroplane in her bedroom. Ever since then, flying has interested her.",
+      "translation": "Она сказала, что когда ей было около 10 лет, она заболела корью, и ее отец, который был пилотом, установил игрушечный аэроплан в ее спальне. С тех пор полеты заинтересовали ее."},
+
+      {"name": "Kate",
+      "quote": "So, we heard from you earlier in the programme how your <span class='new_word'>glider<span class='tooltiptext'>планер</span></span> got into the air by being tied to another small aeroplane and being <span class='new_word'>pulled up<span class='tooltiptext'>to pull up - тянуть вверх</span></span> - but how did they do it in the old days?",
+      "translation": "Так что мы слышали от тебя ранее в программе как твой планер вышел в воздух, будучи привязанным к другому маленькому аэроплану и потянутому вверх - как они делали это в старые дни?"},
+
+      {"name": "Clip 2",
+      "quote": "Well you were bungee launched by these two great <span class='new_word'>thick<span class='tooltiptext'>толстый</span></span> ropes that several strong men on each side would pull – like a catapult. And someone else hanging on to your tail until someone else said 'let go'! And then phroom – you would just go into the air.",
+      "translation": "Ну вы были бы пружинным устройством, запускаемым двумя огромными толстыми тросами, которые несколько сильных мужчин с каждой стороны тянули - как катапульту. И кто другой был бы подвешен к вашему хвосту, пока ему не скажут 'отпускай'. И затем пах - ты в воздухе."},
+
+      {"name": "Rebecca",
+      "quote": "She said that she was 'bungee launched' and we think that means that maybe the ropes were elasticated and the force from the men pulling and then suddenly letting go, would propel the plane into the air. She said it was like a catapult. A catapult is a device which can throw objects at a high speed using a spring or <span class='new_word'>elastic<span class='tooltiptext'>резинка</span></span> to give it extra force.",
+      "translation": "Она сказала, что она была 'пружинным устройством' и мы думаем, что это значит, что возможно тросы были эластичными и натягивались тянущими мужчинами и затем неожиданно опускались, и выталкивали планер в воздух. Она сказала, что это было как катапульта. Катапульта - это устройство, которое может выбрасывать объекты на высокой скорости, используя пружину или резинку, чтобы придать дополнительное усилие."},
+
+      {"name": "Kate",
+      "quote": "Incredibly, Moyra still flies <span class='new_word'>occasionally<span class='tooltiptext'>от случая к случаю</span></span>. Let's listen to the final extract. Can you tell me what it is she likes about flying?",
+      "translation": "Невероятно, но Мойра все еще летает от случая к случаю. Давай послушаем финальный отрывок. Можешь ли ты сказать мне что она любит в полетах?"},
+
+      {"name": "Clip 3",
+      "quote": "You don’t hear anything but the wind, you just hear the wind blowing. It was wonderful here. You get that feeling of being a bird, which is what I've felt I'd always like to be.",
+      "translation": "Ты не слышишь ничего кроме ветра, ты только слышишь дующий вечер. Это было чудно. Ты получаешь такое чувство как будто ты птичка, которую я чувствовала и которой мне всегда нравилось быть."},
+
+      {"name": "Rebecca",
+      "quote": "She said that you don't hear anything but the wind and that you get the feeling of being a bird. That is exactly what I would have said about the flying experience actually, it does actually really feel like that. It was a fantastic experience and I'd definitely recommend that you try it if you have the chance.",
+      "translation": "Она сказала, что ничего не слышишь кроме ветра, и что ты чувствуешь себя как птичка. Это именно то, что я бы сказала об опыте полета на планере, он действительно вызывает такое чувство. Это был фантастический опыт, и я определенно рекомендую его тебе поробовать, если тебе выпдет шанс."},
+
+      {"name": "Kate",
+      "quote": [
+        "I'll do my best. Let's go over some of the flight related vocabulary we've come across today…..",
+        "First we had <span style='font-weight: bold;'>gliding</span> which is the flying of very light <span class='new_word'>unpowered<span class='tooltiptext'>без двигателя</span></span> <span class='new_word'>aircrafts<span class='tooltiptext'>the aircraft - самолет</span></span> known as <span class='new_word'>gliders<span class='tooltiptext'>the glider - планер</span></span>",
+        "<span style='font-weight: bold;'><span class='new_word'>soar<span class='tooltiptext'>витать, парить</span></span></span> - to fly high in the air using wind currents to move forward rather than an engine or the power of wings",
+        "<span style='font-weight: bold;'>air currents</span> refers to moving air",
+        "<span style='font-weight: bold;'>birds eye view</span> – this means to see things from above as a bird would",
+        "<span style='font-weight: bold;'>RNAS</span> –'Royal Naval Air Service'",
+        "<span style='font-weight: bold;'>RAF</span> - the Royal Air Force",
+        "<span style='font-weight: bold;'><span class='new_word'>measles<span class='tooltiptext'>корь</span></span></span> – an infectious disease which produces small spots all over the body and is which is common in childhood.",
+        "<span style='font-weight: bold;'>a catapult</span> is a device which can throw objects at a high speed using elastic or a spring to gain power"],
+      "translation": [
+        "Я постараюсь. Давай пройдемся по некоторомы словам, которые относятся к полетам и с которыми мы столкнулись сегодня... ",
+        "Сначала у нас был <span style='font-weight: bold;'>планеризм</span>, что есть полет очень легких самолетов, известных под названием как планеры",
+        "<span style='font-weight: bold;'>витать</span> - летать высоко в воздухе, используя потоки ветров чтобы двигаться вперед, вместо двигателя или силы крыльев",
+        "<span style='font-weight: bold;'>воздушные потоки</span> ссылаются на движущийся воздух",
+        "<span style='font-weight: bold;'>вид с высты птичьего полета</span> - это означает видеть вещи с высока, как их видела бы птичка",
+        "<span style='font-weight: bold;'>КВМС</span> - Королевская Воздушно-Морская Служба",
+        "<span style='font-weight: bold;'>КВС</span> - Королевская Воздушная Служба",
+        "<span style='font-weight: bold;'>корь</span> - инфекционное заболевание, которое провоцирует маленькие пятна по всему телу и которое распространено в детстве",
+        "<span style='font-weight: bold;'>катапульта</span> - устройство, которое может выбрасывать объекты на высокой скорости, испоьзуя резинку или пружину, чтобы получить усилие"]},
+
+      {"name": "Kate",
+      "quote": "Lastly let's find out the answer to the question I asked you earlier. I asked you when was the first flight in a glider?",
+      "translation": "В конце давай выясним ответ на вопрос, который я задала тебе ранеее. Я спросила тебя когда был первый полет на планере?"},
+
+      {"name": "Rebecca",
+      "quote": "answers",
+      "translation": ""},
+
+      {"name": "Kate",
+      "quote": "It was actually in 1891.",
+      "translation": "На самом деле он был в 1891-м году."},
+
+      {"name": "Kate",
+      "quote": "Well thanks very much Rebecca for coming in and telling us about your flight. That's all we have time for, until next time. Goodbye!",
+      "translation": "Ну спасибо, Ребека, за приход на передачу и поддержание с нами разговора о твоем полете. Это все на сегодня, до следующего раза. Пока!"}
+    ],
+
+    "img_addr": "6me/2009/2009-06/Going-gliding.jpg",
+    "audio_src": "6me/2009/2009-06/2009-06-18 - 6 Minute English - Going gliding.mp3",
+    "title": "BBC 6 Minute English - Going gliding [Летая на планере], 2009-06-18",
+
+    "words_arr": [
+      {"en_word": "the aircraft", "ru_word": "самолет"},
+      {"en_word": "unpowered", "ru_word": "без двигателя"},
+      {"en_word": "the glider", "ru_word": "планер"},
+      {"en_word": "to soar", "ru_word": "парить, витать"},
+      {"en_word": "the assistance", "ru_word": "содействие"},
+      {"en_word": "the tug", "ru_word": "буксир"},
+      {"en_word": "the tow", "ru_word": "буксир"},
+      {"en_word": "smooth", "ru_word": "гладко"},
+      {"en_word": "the сurrent", "ru_word": "течение"},
+      {"en_word": "the measles", "ru_word": "корь"},
+      {"en_word": "to rig up", "ru_word": "сооружать"},
+      {"en_word": "to pull on smth.", "ru_word": "тянуть за что-то"},
+      {"en_word": "the string", "ru_word": "веревка"},
+      {"en_word": "to pull up", "ru_word": "тянуть вверх"},
+      {"en_word": "thick", "ru_word": "толстый"},
+      {"en_word": "elasticated", "ru_word": "эластичный"},
+      {"en_word": "the elastic", "ru_word": "резинка"},
+      {"en_word": "occasionally", "ru_word": "от случая к случаю"},
+      {"en_word": "naval ", "ru_word": "военно-морской"},
+      {"en_word": "to glide", "ru_word": "скользить"}
+    ]
+  }
+}

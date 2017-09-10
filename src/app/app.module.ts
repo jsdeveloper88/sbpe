@@ -19,6 +19,7 @@ import { SearchComponent } from './search.component';
 
 import { WordComponent } from './word.component';
 
+
 const appRoutes: Routes = [
   { path: 'mobile_phones', redirectTo: '/6me/2008-06-04/mobile-phones', pathMatch: 'full'},
   { path: 'dieting', redirectTo: '/6me/2008-06-11/dieting', pathMatch: 'full'},
@@ -134,6 +135,7 @@ enableProdMode();
   ],
   imports: [
     BrowserModule,
+
     HttpModule,
     FormsModule,
     RouterModule.forRoot(appRoutes)

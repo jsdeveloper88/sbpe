@@ -1,4 +1,4 @@
-import { Component, OnInit, ElementRef, Renderer2} from '@angular/core';
+import { Component, OnInit, AfterViewInit } from '@angular/core';
 
 import { ActivatedRoute} from '@angular/router';
 import {Subscription} from 'rxjs/Subscription';
@@ -10,7 +10,7 @@ import { WordComponent } from './word.component';
 @Component({
     selector: 'podcast',
     template:`
-    <div id = "podcast" style="border-radius: 5px; padding: 3px; float: left; min-height: 76.5vh;/*border: 1px solid rgb(15, 190, 124); margin: -9px 0 1px 0;*/">
+    <div id = "podcast" style="border-radius: 5px; padding: 3px; float: left; min-height: 74vh;/*border: 1px solid rgb(15, 190, 124); margin: -9px 0 1px 0;*/">
       <h3 style="margin: 5px 0;">{{title}}</h3>
 
       <img src="{{img_addr}}" style="margin: 5px auto 5px auto; display: block; border-radius: 5px; width: 75%;">
@@ -18,6 +18,14 @@ import { WordComponent } from './word.component';
       <div align="center" style="margin: 5px auto 5px auto; border-radius: 5px; border: 1px solid rgb(15, 190, 124); padding: 0;">
 	      <audio controls [src]="audio_src" style="width: 100%;"></audio>
 	    </div>
+
+      <!-- podcast-ad-1 -->
+      <ins class="adsbygoogle"
+           style="display:block"
+           data-ad-client="ca-pub-8645329394822741"
+           data-ad-slot="9794206882"
+           data-ad-format="auto">
+      </ins>
 
 	    <table style="margin: 5px auto 5px auto; width: 100%;">
 	      <tr>
@@ -34,7 +42,7 @@ import { WordComponent } from './word.component';
 	    </table>
 
       <div *ngFor="let phrase of phrases_arr; let ind = index">
-        <phrase [name]="phrase.name" [quote]="phrase.quote" [translation]="phrase.translation" [ind]="ind"></phrase>
+        <phrase [name]="phrase.name" [quote]="phrase.quote" [translation]="phrase.translation" [part_end]="phrase.part_end" [ind]="ind"></phrase>
 
       </div>
     </div>
@@ -56,7 +64,7 @@ import { WordComponent } from './word.component';
     `],
     providers: [ HttpService ]
 })
-export class PodcastComponent implements OnInit {
+export class PodcastComponent implements OnInit, AfterViewInit {
   new_word_invisible: boolean = true;
 
   private subscription: Subscription;
@@ -118,5 +126,15 @@ export class PodcastComponent implements OnInit {
             }
           );
         });
+  }
+
+  ngAfterViewInit() {
+    //setTimeout(()=>{
+      try{
+        (window['adsbygoogle'] = window['adsbygoogle'] || []).push({});
+      }catch(e){
+        console.error("PodcastComponent error");
+      }
+    //},500);
   }
 }

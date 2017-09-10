@@ -1,0 +1,135 @@
+{
+  "data": {
+    "phrases_arr": [
+      {"name": "Kate",
+      "quote": "Hello, I’m Kate Colin and this is 6 minute English and today I'm joined as usual by Jackie Dalton. Well now we're well into the month of May and spring is well under way so today we’re talking about the modern attitude to 'spring cleaning and housework' – can you explain what spring cleaning is Jackie?",
+      "translation": "Привет, я Кейт Колин и это передача «6 минут английского», и сегодня меня как обычно пригласила Джеки Далтон. Сейчас у нас на дворе месяц май и весна в разгаре, так что сегодня мы говорим о современном отношении к «уборке по весне и работе по дому» - можешь объяснить, что такое уборка по весне, Джеки?"},
+
+      {"name": "Jackie",
+      "quote": "Yes, spring cleaning is when you clean all your house from top to bottom (including the bits you don't clean very often!)",
+      "translation": "Да, уборка по весне – это когда ты чистишь весь свой дом от верхушки до дна (от потолка до пола)(включая те его места, которые ты не чистишь очень часто!)"},
+
+      {"name": "Kate",
+      "quote": "Well, today people have very varied attitudes to housework. Some people spend a lot of time cleaning, others employ cleaners to do it for them and some people do no housework at all, preferring to spend their free time doing something else completely.",
+      "translation": "Ну, сегодня у нас очень разные отношения к работе по дому. Некоторые люди тратят много времени на уборку, другие нанимают работников клининговой службы чтобы они сделали это за них, а некоторые люди не делают работу по дому вообще, предпочитая тратить свое свободное время, делая совершенно что-то другое."},
+
+      {"name": "Jackie",
+      "quote": "Yes, I recently heard of something called 'skimming' and this means that you spray a bit of furniture polish into a room to make it smell like you've been cleaning but in fact you haven't done any at all.",
+      "translation": "Да, я слышал недавно о кое-чем под названием «скимминг», и это значит, что ты распыляешь немного полировки для мебели в комнату, чтобы она пахла, как будто ты только что произвел уборку, когда фактически ты ничего не делал."},
+
+      {"name": "Kate",
+      "quote": [
+        "Oh – I might try that! Here's my question for this week - how many hours per week do you think the average woman spends doing housework?",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) 3 hours",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) 15 hours",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) 20 hours"],
+      "translation": [
+        "О – я возможно так попробую сделать. Мой вопрос на эту неделю – сколько часов в неделю, ты думаешь, среднестатистическая женщина тратит на уборку по дому?",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) 3",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) 15",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) 20"]},
+
+      {"name": "Jackie",
+      "quote": "Answers",
+      "translation": ""},
+
+      {"name": "Kate",
+      "quote": "We'll check your answer later but first let's listen to an extract which was recorded 20 years ago. It's with a lady called Edna McLaren talking about her mother and her attitude to housework when she was growing up. How do you think housework has changed over the years?",
+      "translation": "Мы проверим твой ответ позже, но сначала давай послушаем выдержку, которая была записана 20 лет назад. Оно с леди по имени Эдна Макларен, которая говорит о своей матери и ее отношении к работе по дому, когда она была ребенком. Как, ты думаешь, работа по дому изменилась через года?"},
+
+      {"name": "Clip 1",
+      "quote": "Monday was washday, Tuesday probably one bedroom, Wednesday probably another, Thursday, she'd perhaps do the front room. And of course there was all the outside to do, all the fronts and the backs and the toilets and then Friday, the carpets used to have to be taken up and then the floor had to be washed and then polished.",
+      "translation": "Понедельник был днем стирки, вторник – возможно для одной спальни, среда – возможно для другой, в четверг она возможно бы занималась передней комнатой. И конечно нужно было обработать все снаружи, все сзади и спереди и туалеты, и затем в пятницу ковры надо было приподнимать, и затем пол должен был быть вымыт и затем отполирован."},
+
+      {"name": "Jackie",
+      "quote": "Well, it seems women in the past had a very busy time cleaning their houses. It seems to have been a full time job! Of course now we have vacuum cleaners and washing machines to make our life easier. I certainly wouldn't have time to do all that and have a job as well.",
+      "translation": "Кажется, что женщины в прошлом тратили много времен на уборку своих домов. Кажется, что это была работа на все время! Конечно у нас сейчас есть пылесосы и стиральные машины, что делает нашу жизнь легче. У меня определенно не было бы времени, чтобы делать это все, а также ходить на работу."},
+
+      {"name": "Kate",
+      "quote": "Well yes, and many people do find it difficult to fit in housework round their full-time jobs and commitments, and some prefer to do the very minimum. In the next extract you'll hear from a lady called Vivien Emery, who admits she doesn't spend much time tidying her house. Is her house messy or tidy?",
+      "translation": "Ну да, многие люди люди находят сложным, чтобы встраиваться под работу по дому наряду со своей повседневной работой и обязательствами, и некоторые предпочитают делать только необходимый минимум. В следующей выдержке мы послушаем леди по имени Вивьен Эмри, которая подтверждает, что она не тратит много времени на чистку дома. Грязный или чистый ее дом?"},
+
+      {"name": "Clip 2",
+      "quote": "The state of my house is reasonably tidy, especially the rooms you can see. But I'm not obsessive about anything, I mean the kitchen's clean but it's very untidy - everything's on the worktops. The bathroom is clean but not particularly tidy and the downstairs too, that's clean but there's all sorts - wellingtons and walking boots in there.",
+      "translation": "Состояние моего дома довольное чистое, особенно комнаты, которые вы можете видеть. Но я ненавязчива ни в чем, я имею ввиду, что кухня чистая, но очень нечисто – все, что на столешницах. Ванная чистая, но не очень аккуратная и внизу тоже, чисто, но там все виды – сапог и ботинок."},
+
+      {"name": "Jackie",
+      "quote": "Well it sounds to me that her house is fairly untidy but she insists it's clean. And she said she wasn’t obsessive about anything. Now if you're obsessive, you're very interested or worried about something in an extreme way. For example people can get obsessive about cleaning, they always want to make sure that everything is clean and tidy. She admitted that there's lots of clutter in her downstairs loo or toilet. Clutter is a word we'll be hearing later and that means there's lots of junk and stuff which is just lying around the house like piles of newspapers and books and thing like that.",
+      "translation": "Для меня это звучит, что ее дом довольно таки нечистый, но она настаивает, что они чист. И она сказала, что она ненавязчива ни в чем. Если ты навязчив, то ты очень заинтересован или обеспокоен о чем-то в крайней степени. К примеру, люди могут становиться навязчивыми в уборке, они всегда хотят удостовериться, что все чисто и вымыто. Она подтвердила, что внизу ее лестницы много беспорядка. Беспорядок – это слово, которое мы услышим позже, и оно означает много барахла и вещей, которые лежат по дому, такие как груды газет и книг и вещей наподобие них."},
+
+      {"name": "Kate",
+      "quote": "What's your house like Jackie? Do you have lots of clutter lying around or are you a clean freak? A clean freak is when someone spends all their time cleaning and tidying.",
+      "translation": "На что похож твой дом, Джеки? У тебя много беспорядка по дому или ты фрик, помешанный на чистоте? Фрик, помешанный на чистоте – это когда кто-то тратит все свое время на уборку и чистку."},
+
+      {"name": "Jackie",
+      "quote": "answers",
+      "translation": ""},
+
+      {"name": "Kate",
+      "quote": "Next we're going to hear from somebody who is a professional cleaner. We're going to hear her talking about spring cleaning and having a clear out. A clear out is when you throw or give away lots of things in your house you no longer need. Can you hear some reasons why she says spring cleaning is a good idea?",
+      "translation": "Следующим мы послушаем кое-кого, кто является профессиональной уборщицей. Мы услышим ее, говорящей о весенней уборке и разборе вещей. Clear out – это когда ты выбрасываешь или отдаешь много вещей в своем доме, которые тебе больше не нужны. Можешь ли ты расслышать несколько причин почему она говорит что весенняя уборка – хорошая идея?"},
+
+      {"name": "Clip 3",
+      "quote": "I think psychologically more than anything it's good to have a good clear out, you know, get rid of stuff and it just kind of clears the air, it clears your head. Open the windows, let the air in and I just think it kind of lifts your spirits to be able to have less clutter around.",
+      "translation": "Я думаю скорее психологически, чем по-другому, это хорошая идея проводить хороший разбор вещей, вы знаете, избавляться от вещей, и это как-бы очищает воздух и вашу голову. Раскрывайте окна, впускайте воздух, и я просто думаю, это как-бы повышает ваше настроение, чтобы быть в состоянии иметь меньше беспорядка вокруг."},
+
+      {"name": "Jackie",
+      "quote": "She said that spring cleaning clears the air and your head. So it not only makes things cleaner physically but it also helps you mentally and helps you think more clearly. She also said that having less clutter lifts the spirits. If something lifts your spirits, it makes you feel happier.",
+      "translation": "Она сказала, что весенняя уборка очищает воздух и вашу голову. Так что это не только делает вещи физически чище, но также помогает психологически и помогает вам думать более ясно. Она также сказала, что меньшее количество беспорядка повышает настроение. Если что-то повышает ваше настроение, оно заставляет вас чувствовать себя счастливее."},
+
+      {"name": "Kate",
+      "quote": "I certainly agree with that – maybe I'll have a clear out this weekend. Lastly, let's have a look at some of the words we have come across today:",
+      "translation": "Я определенно согласна с этим – возможно я произведу разбор вещей на этой неделе. В заключении, давай посмотрим на несколько  слов, с которыми мы столкнулись сегодня:"},
+
+      {"name": "Jackie",
+      "quote": [
+        "First we had to spring clean which means to deep clean your house. This usually only happens once a year - in the spring.",
+        "obsessive is when someone is very interested or worried about something.",
+        "clutter which means a lot of junk and stuff which is lying around your house, like newspapers, books and shoes.",
+        "a clean freak is when someone spends all their time cleaning and tidying.",
+        "clear out is when you throw or give away lots of things in your house you no longer need.",
+        "to lift your spirits means that something makes you feel happier."],
+      "translation": [
+        "Сначала у нас было spring clean, что означает капитально убрать свой дом. Это обычно происходит один раз в год – весной.",
+        "Навязчивый – это когда кто-то очень заинтересован или обеспокоен насчет чего-то.",
+        "Беспорядок – что означает много барахла и вещей, которые лежат по дому, такие как газеты, книги и туфли.",
+        "Фрик, помешанный на чистоте – это когда кто-то тратит все свое время на уборку и чистку.",
+        "Разбор вещей – это когда ты выбрасываешь или отдаешь много вещей в своем доме, которые тебе больше не нужны.",
+        "Повышать настроение означает, что что-то делает тебя счастливее."]},
+
+      {"name": "Kate",
+      "quote": "And finally let's go back to the question I asked you earlier. I asked how many hours per week do you think the average woman spends doing housework?",
+      "translation": "И, наконец, давай вернемся обратно к вопросу, который спросила тебя ранее. Я спросила, сколько часов в неделю, как ты думаешь, среднестатистическая женщина тратит на уборку по дому?"},
+
+      {"name": "Jackie",
+      "quote": "And I said…",
+      "translation": "И  я сказала…"},
+
+      {"name": "Kate",
+      "quote": "And I'm afraid you were wrong, the average woman spends 15 hours per week doing the housework which seems like a lot when you compare it to the average man who spends just 7 hours. Something not quite right there I think! That's all we have time for I'm afraid. Until next week.",
+      "translation": "И я боюсь, ты была неправа, среднестатистическая женщина тратит 15 часов в неделю на уборку по дому, что кажется много, если ты сравнишь это со среднестатистическим мужчиной, который тратит только 7 часов. Там что-то не вполне правильно, я думаю! Боюсь это все на сегодня. До следующей недели."},
+
+      {"name": "Both",
+      "quote": "Goodbye!",
+      "translation": ""}
+    ],
+
+    "img_addr": "6me/2009/2009-05/Spring-cleaning.jpg",
+    "audio_src": "6me/2009/2009-05/2009-05-14 - 6 Minute English - Spring cleaning.mp3",
+    "title": "BBC 6 Minute English - Spring cleaning [Уборка по весне]], 2009-05-14",
+
+    "words_arr": [
+      {"en_word": "to employ", "ru_word": "нанимать"},
+      {"en_word": "the commitment", "ru_word": "обязательство"},
+      {"en_word": "to tidy", "ru_word": "приводить в порядок"},
+      {"en_word": "obsessive", "ru_word": "навязчивый"},
+      {"en_word": "the worktop", "ru_word": "рабочий стол, столешница"},
+      {"en_word": "the wellingtons", "ru_word": "высокие сапоги"},
+      {"en_word": "the clutter", "ru_word": "беспорядок"},
+      {"en_word": "the junk", "ru_word": "барахло"},
+      {"en_word": "the pile ", "ru_word": "груда"},
+      {"en_word": "to clear out", "ru_word": "to give away things in your house you no longer need"},
+      {"en_word": "the clean freak", "ru_word": "someone who spends all their time cleaning and tidying"}
+    ]
+  }
+}

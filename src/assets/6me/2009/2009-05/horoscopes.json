@@ -1,0 +1,146 @@
+{
+  "data": {
+    "phrases_arr": [
+      {"name": "Kate",
+      "quote": "Hello, I’m Kate Colin and this is 6 minute English. Today I'm joined by Jackie Dalton and we’re talking about horoscopes and astrology. This is the idea that you can find out what's going to happen to you based on what's going on in the sky and your star sign.",
+      "translation": "Привет, я Кэйт Колин и это передача 6 Minute English. Сегодня меня пригласила на передачу Джеки Далтон, и мы говорим о гороскопах и астрологии. Это идея о том, что вы можете выяснить, что случится с вами, основанная на том что происходит в небе и на вашем звездном знаке."},
+
+      {"name": "Jackie",
+      "quote": "Yes, astrology is a practice which started many years ago and the idea is that each person has a particular star sign which depends on when they were born.",
+      "translation": "Да, астрология – это практика, которая началась несколько лет назад, и ее идея в том, что у каждой личности есть конкретный звездный знак, который зависит от того когда вы родились. "},
+
+      {"name": "Kate",
+      "quote": "So you could be Taurus, Capricorn, Scorpio, Cancer or numerous others. Each sign is said to have particular personality characteristics. So Jackie…what star sign are you?",
+      "translation": "Так что вы могли бы быть Тельцом, Козерогом, Скорпионом, Раком или многими другими. Говорят, что у каждого знака есть определенные личностные характеристики. Так что Джеки… Какой у тебе знак?"},
+
+      {"name": "Jackie",
+      "quote": "I'm a Virgo which means I'm supposed to be practical, intelligent and a bit of a perfectionist!",
+      "translation": "Я Дева, что означает мне предполагается быть практичной, интеллектуальной и немного перфекционисткой!"},
+
+      {"name": "Kate",
+      "quote": [
+        "Sounds pretty accurate to me…. I'm Aquarius and I'm supposed to be friendly independent, but frequently late - mmm – not sure about the last one, I'm always on time! So here's my question for this week. How many different star signs are there in the Zodiac?",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) 10",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) 5",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) 12"],
+      "translation": [
+        "Звучит вполне точно для меня… Я Водолей, и мне положено быть независимой от друзей, но часто опаздывающей – ммм – не уверена насчет этого, я никогда не опаздываю! Так что здесь мой вопрос на эту неделю. Сколько звездных знаков в Зодиаке?",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) 10",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) 5",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) 12"]},
+
+      {"name": "Jackie",
+      "quote": "answers",
+      "translation": ""},
+
+      {"name": "Kate",
+      "quote": "Well, astrology and horoscopes are very popular here in the UK, even though they are often taken with a pinch of salt. To take something with 'a pinch of salt', means that we don't believe something to be entirely accurate or true.",
+      "translation": "Ну астрология и гороскопы – очень популярны здесь в Объединенном Королевстве, даже несмотря на то что их часто берут с щепоткой соли. «Брать что-то с щепоткой соли» означает что мы не верим, что что-то полностью верно или правда."},
+
+      {"name": "Jackie",
+      "quote": "Horoscopes usually appear in daily newspapers and magazines and every morning thousands of people read them to try to find out what's in the stars for them that day. To say something is 'in the stars' means it's set to happen in the future.",
+      "translation": "Гороскопы обычно появляются в ежедневных газетах и журналах и каждое утро тысячи людей читают их, пытаясь выяснить что для них таится в звездах на этот день. Говорить что «что-то в звездах» означает, что оно произойдет в будущем. "},
+
+      {"name": "Kate",
+      "quote": "My horoscope this morning said that money would come from an unexpected source, that I should be careful not to lose my temper and that I should wear a lucky colour tonight…! Interesting. Next we're going to hear from a journalist, Jan Muir, who actually had to write the horoscopes. Have a listen – did she always want to be a horoscope writer?",
+      "translation": "Мой гороскоп этим утром сказал, что деньги придут из неожиданного источника, и мне лучше быть осторожным, чтобы не терять свое самообладание и мне лучше одеть одежду счастливого цвета сегодня ночью…! Интересно. Следующим мы послушаем журналистке Жен Мэр, которая на самом деле должна была писать гороскопы. Послушай – всегда ли она хотела быть писателем гороскопов? "},
+
+      {"name": "Clip 1",
+      "quote": "It was my very first job in journalism when I started for a newspaper group in Scotland, and I thought I was going to be rushing round doing all sorts or exciting things, but in fact I was told to sit down and write the horoscopes.",
+      "translation": "Это была моя первая работа в журналистике, когда я начинала в группе для газеты в Шотландии, и я думала, что буду носиться вокруг, делая все виды работ или захватывающие вещи, но фактически мне было сказано сидеть и писать гороскопы. "},
+
+      {"name": "Jackie",
+      "quote": "She said that it was her first job in journalism and she thought she'd be doing exciting things. I don’t think she was expecting to be writing horoscopes.",
+      "translation": "Она сказала, что это было ее первой работой в журналистике, и она думала, что будет делать захватывающие вещи. Я не думаю, что она ожидала, что будет писать гороскопы. "},
+
+      {"name": "Kate",
+      "quote": "So did she have any knowledge or interest in astrology?",
+      "translation": "Были ли у нее знание или интерес в астрологии? "},
+
+      {"name": "Clip 2",
+      "quote": "Not at all at that time and then certainly after I'd been writing them for a few months, I believed even less because I noticed then as I do now – I mean, we were given this formula where you had to write a positive, a negative and a maybe.",
+      "translation": "В общем нет в то время, и затем после того как я пописала их несколько месяцев, я начала верить им меньше, потому что я заметила, как я их составляла – я имею ввиду, что нам выдавали формулу, где ты должен писать позитивное, негативное и возможное. "},
+
+      {"name": "Jackie",
+      "quote": "She said she didn’t have any interest and believed even less in astrology as time went on. She was given a formula. A formula is a standard way of doing something, when it is always exactly the same. Her formula was ' a positive, a negative and a maybe' so she had to say something good, something bad and something else was possibly going to happen.",
+      "translation": "Она сказала, что у нее нет никаких интересов и что она начала верить даже меньше в астрологию через некоторое время. Ей выдавали формулу. Формула – это стандартный способ выполнения чего-то, когда это всегда одно и то же. Ее формула была «позитивной, негативной и возможной», так что она должна была говорить что-то плохое, что-то хорошее и другое, что возможно произойдет. "},
+
+      {"name": "Kate",
+      "quote": "So if this is the way that some horoscopes are written, why does she think that they are still so popular? In the next extract she uses the word 'endure'. If something 'endures' it means that they continue to exist despite overcoming difficulty, in this case, people not believing in horoscopes.",
+      "translation": "Так если это способ, которым некоторые гороскопы написаны, почему она думает, что они все еще популярны? В следующей выдержке она использует слово «продолжаться». Если что-то «продолжается», это значит, что оно продолжает существовать несмотря на нарастающую сложность - в этом случае – люди, неверящие в гороскопы. "},
+
+      {"name": "Clip 3",
+      "quote": "Well I think that's one of the reasons they endure because when people read a newspaper or a magazine it's full of all sorts of information about the world at large, about politics, famine and film stars and all sorts of things and the one little bit in the newspaper refers to them, it's all about them.",
+      "translation": "Ну я думаю, что одна из причин почему они продолжаются – это то, что когда люди читают газеты или журналы, то они полны всех видов информации о мире в основном, о политике, голоде и кинозвездах и всех видов вещей и одна малая часть в газетах ссылается на них, она вся о них.(гороскопах) "},
+
+      {"name": "Jackie",
+      "quote": "She said that horoscopes endure because they're actually about the people who read the newspapers so they always want to know about themselves.",
+      "translation": "Она сказала, что гороскопы продолжаются, потому что они на самом деле о людях, которые читают газеты, так что они всегда хотят знать о самих себе. "},
+
+      {"name": "Kate",
+      "quote": "Yes, it could be… but people are often sceptical about astrology and horoscopes. To be sceptical is when you have doubts or don’t believe in something. There are numerous associations and societies offering training in astrology and there is even university which teaches it at postgraduate level. We're going to hear from Dr Nicholas Campion who is in charge of a course in Wales. What did he say when we asked him if he gets irritated or annoyed when people trivialise astrology? Trivialise means to make something out to be unimportant or a bit of a joke.",
+      "translation": "Да, так могло бы быть… но люди часто скептически настроены насчет астрологии и гороскопов. Быть скептически настроенным – это когда у вас сомнения или вы не верите во что-то. Есть множество ассоциаций и обществ, предлагающих тренировку в астрологии и даже университеты, которые учат этому на аспирантском уровне. Мы послушаем доктора Николаса Кэмпина, который ведет курсы в Уэльсе. Что он ответил, когда мы спросили его раздражают ли его когда люди упрощают астрологию? Упрощать означает делать что-то неважным или слегка в виде шутки. "},
+
+      {"name": "Clip 4",
+      "quote": "No it doesn't annoy me actually, in fact I quite enjoy it! Because you've got in a tabloid newspaper, probably on the same page as the cartoons, a piece of ancient wisdom, that’s pre-Christian – stretches back to ancient Babylon. So just from a cultural sense, I find this survival absolutely fascinating. I mean there is a direct lineage between the people writing the horoscope columns and the priests 4000 years ago advising Babylonian Emperors.",
+      "translation": "Нет, это не расстраивает меня на самом деле, фактически мне вполне это нравится. Потому что вы получаете это в бульварной газете, возможно на той же странице где карикатуры, кусочек античной свободы, который до христианства – который простирается обратно к античному Вавилону. Так что только с культурного смысла, я нахожу это выживание абсолютно очаровательным. Я имею ввиду, что есть родословная между людьми, пишущими колонки гороскопов и священниками 4000 лет назад, дававшими советы Вавилонским императорам."},
+
+      {"name": "Jackie",
+      "quote": "Interestingly, he doesn't get annoyed at all. He said he enjoys seeing a piece of 'ancient wisdom' in our daily newspaper. He's right in a way - whether we believe in it or not, it is fascinating that astrology dates back thousands of years, yet here we are, still talking about it and still reading our daily horoscopes.",
+      "translation": "Интересно, он не раздражается насчет этого вообще. Он сказал, что ему приятно рассматривать кусочки античной свободы в нашей повседневной газете. Он прав в том смысле что – верим мы или нет, это очаровательно, что астрология уносит нас обратно на 1000 лет назад, еще пока мы здесь все еще говорим об этом и все еще читаем наши повседневные гороскопы. "},
+
+      {"name": "Kate",
+      "quote": [
+        "Let's have a look at the vocabulary we've come across today:",
+        "We had 'to take something with a pinch of salt' which means that to believe something to not be entirely accurate or true",
+        "a formula - a standard way of doing something, when it is always exactly the same",
+        "endure – to continue to exist despite overcoming difficulty",
+        "to be sceptical - to have trouble believing in something",
+        "trivialise - means to make something out to be unimportant or a bit of a joke"],
+
+      "translation": [
+        "Давай посмотрим на слова, с которыми мы столкнулись сегодня:",
+        "У нас были «брать что-то с щепоткой соли», что означает верить что что-то не полностью верно или правда.",
+        "Формула – это стандартный способ выполнения чего-то, когда это всегда одно и то же.",
+        "Продолжаться – продолжать существовать несмотря на нарастающую сложность",
+        "Быть скептически настроенным – иметь проблемы с верой во что-то",
+        "Упрощать – делать что-то неважным или слегка в виде шутки"]},
+
+      {"name": "Kate",
+      "quote": "And finally to my question – I asked you how many star signs are in the Zodiac?",
+      "translation": "И в итоге к моему вопросу – я спросила тебя сколько звездных знаков в Зодиаке?"},
+
+      {"name": "Jackie",
+      "quote": "I said 12.",
+      "translation": "Я сказала 12. "},
+
+      {"name": "Kate",
+      "quote": " And you were correct - there are 12 signs in the Zodiac. Too many to list here unfortunately because that's all we have time for. Until next time…",
+      "translation": "И ты была права – в Зодиаке 12 знаков. К сожалению слишком много чтобы перечислить их здесь, потому что время подошло к концу. До следующего раза…"},
+
+      {"name": "Both",
+      "quote": "Goodbye!",
+      "translation": "Пока!"}
+    ],
+
+    "img_addr": "6me/2009/2009-05/Horoscopes-and-astrology.jpg",
+    "audio_src": "6me/2009/2009-05/2009-05-07 - 6 Minute English - Horoscopes.mp3",
+    "title": "BBC 6 Minute English - Horoscopes and astrology [Гороскопы], 2009-05-07",
+
+    "words_arr": [
+      {"en_word": "the Taurus ", "ru_word": "телец"},
+      {"en_word": "the Capricorn ", "ru_word": "козерог"},
+      {"en_word": "intelligent", "ru_word": "умный"},
+      {"en_word": "the Aquarius", "ru_word": "водолей"},
+      {"en_word": "not at all ", "ru_word": "конечно нет"},
+      {"en_word": "to endure", "ru_word": "продолжать существовать"},
+      {"en_word": "the famine", "ru_word": "голод"},
+      {"en_word": "sceptical ", "ru_word": "скептический "},
+      {"en_word": "the postgraduate", "ru_word": "аспирантура "},
+      {"en_word": "to irritate", "ru_word": "раздражать, нервировать "},
+      {"en_word": "to trivialise", "ru_word": "делать тривальным"},
+      {"en_word": "to fascinate", "ru_word": "очаровывать "},
+      {"en_word": "the priest", "ru_word": "священник"}
+    ]
+  }
+}

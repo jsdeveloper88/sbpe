@@ -1,9 +1,9 @@
-import { Component} from '@angular/core';
+import { Component, OnInit, AfterViewInit } from '@angular/core';
 
 @Component({
     selector: 'about-app',
     template: `
-      <div style="border-radius: 5px; padding: 7px; float: left; min-height: 76.5vh;/*border: 1px solid rgb(15, 190, 124); min-height: 815px; margin: -9px 0 1px 0;*/">
+      <div style="border-radius: 5px; padding: 7px; float: left; min-height: 74vh;/*border: 1px solid rgb(15, 190, 124); min-height: 815px; margin: -9px 0 1px 0;*/">
         <h3 style="margin: 5px 0;">О сайте</h3>
         Многие сегодня пытаются улучшить восприятие английского на слух - и тут появляются проблемы, которые чаще всего заключаются в следующем:
           <strong>
@@ -23,14 +23,25 @@ import { Component} from '@angular/core';
           </strong>
         Когда вы постепенно прослушаете таким образом примерно 40-50 подкастов, то заметите, что, как минимум начали лучше воспринимать английский, и он уже не так страшен вам как раньше, а если не забросите нашу методику - продолжите дальше прогрессировать.
         <br><br><br>
+
+        <!-- about-ad-1 -->
         <ins class="adsbygoogle"
-          style="display:block; text-align:center;"
-          data-ad-format="fluid"
-          data-ad-layout="in-article"
-          data-ad-client="ca-pub-8645329394822741"
-          data-ad-slot="5715738371">
+             style="display:block"
+             data-ad-client="ca-pub-8645329394822741"
+             data-ad-slot="5388058012"
+             data-ad-format="auto">
         </ins>
       </div>
     `
 })
-export class AboutComponent { }
+export class AboutComponent implements AfterViewInit {
+  ngAfterViewInit(){
+    //setTimeout(()=>{
+      try{
+        (window['adsbygoogle'] = window['adsbygoogle'] || []).push({});
+      }catch(e){
+        console.error("AboutComponent error");
+      }
+    //},500);
+  }
+}

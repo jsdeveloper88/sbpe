@@ -1,0 +1,207 @@
+{
+  "data": {
+    "phrases_arr":
+    [
+      {"name": "Dima",
+      "quote": "Hello and welcome to this edition of 6 Minute English with me, Dima Kostenko",
+        "translation": "Привет и добро пожаловать на очередной выпуск передачи '6 минут английского' со мной - Димой Костенко"},
+
+      {"name": "Rebecca",
+      "quote": "and me, Rebecca Byrne.",
+        "translation": "и со мной - Ребекой Берн."},
+
+      {"name": "Dima",
+      "quote": "Today we'll have some useful words and phrases used in science and <span class='new_word'>environmental<span class='tooltiptext'>экологический, относящийся к окружающей среде</span></span> studies as we talk about the loneliest creature on the planet. But first - Rebecca, can I ask you a question?",
+        "translation": "Сегодня у нас будут несколько полезных слов и выражений, используемых в науке и учениях об окружающей среде, как только мы поговорим о самом одиноком создании на планете. Но сначала, Ребека - можно мне задать тебе вопрос?"},
+
+      {"name": "Rebecca",
+      "quote": "Responds",
+        "translation": ""},
+
+      {"name": "Dima",
+      "quote": "If you were asked to put yourself on a <span class='new_word'>scale<span class='tooltiptext'>шкала</span></span> from 1 to 10 where 10 means a very <span class='new_word'>sociable<span class='tooltiptext'>общительный</span></span> person who hates being on her own and 1 means a complete <span class='new_word'>loner<span class='tooltiptext'>одиночка</span></span>, where do you <span class='new_word'>reckon<span class='tooltiptext'>to reckon - считать, думать</span></span> your place would be?",
+        "translation": "Если бы тебя попросили оценить себя на шкале от 1 до 10, где 10 означает очень соцализированная личность, которая ненавидит оставаться наедине с самим собой, и 1 означает полная одиночка, где, ты считаешь, было бы твое место?"},
+
+      {"name": "Rebecca",
+      "quote": "Responds",
+        "translation": ""},
+
+      {"name": "Dima",
+      "quote": "Responds. OK, in that case I'd like to stretch your imagination a bit. Imagine always living completely on your own. How would you feel about that?",
+        "translation": "Хорошо, в данном случае я бы немного растянул свое воображение. Представь всегдя жить в полном одиночестве. Как бы ты себя чувствовала?"},
+
+      {"name": "Rebecca",
+      "quote": "Responds",
+        "translation": ""},
+
+      {"name": "Dima",
+      "quote": "And if on top of that you had to live in darkness, deep underground?",
+        "translation": "И плюс к этому ты должна была бы жить в темноте, глубоко под землей?"},
+
+      {"name": "Rebecca",
+      "quote": "Responds",
+        "translation": ""},
+
+      {"name": "Dima",
+      "quote": "Well, it may be hard to imagine but there is a creature on Earth that lives exactly like that: no light, no company - it <span class='new_word'>reproduces<span class='tooltiptext'>to reproduce - размножаться</span></span> by dividing itself - and even no oxygen! It's not a human being of course, it's only a <span class='new_word'>tiny<span class='tooltiptext'>крошечный</span></span> little bug, but the fact that it exists came as a big surprise to a group of scientists who discovered it only a few months ago.",
+        "translation": "Ну, это было бы тяжелло представить, но есть создание на Земле, которое живет именно так: ни света, ни компании - оно размножается путем деления самого себя - и даже ни кислорода! Это конечно не человеческое существо, это всего лишь маленький крошечный жук, но факт состоим в том, что он существует, и явился как большой сюрпириз для группы ученых, которые открыли всего несколько месяцев назад."},
+
+      {"name": "Rebecca",
+      "quote": "I think I remember that story… Wasn't it somewhere in South Africa?",
+        "translation": "Думаю я помню эту историю... Не было ли это где-то в Южной Америке?"},
+
+      {"name": "Dima",
+      "quote": "That's right, deep in a gold mine. In a moment we'll hear from one of those scientists, Dr Dylan Chivian, and I hope you can help me with the language Rebecca.",
+        "translation": "Правильно, глубоко в золотом руднике. Через один момент мы послушаем одного из ученых, Доктора Дилана Чивиана, и я надеюсь ты сможешь помочь мне с языком, Ребека."},
+
+      {"name": "Rebecca",
+      "quote": "Responds",
+        "translation": ""},
+
+      {"name": "Dima",
+      "quote": [
+        "But first, as usual, a question to you: You remember that the lonely bug lives without oxygen. So how do you think it gets its energy? Is it from:",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) gold",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) sulphate, or",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) iron?",
+        "What do you think Rebecca?"],
+
+        "translation": [
+          "Но сначала, как обычно, вопрос для тебя: Ты помнишь, что тот одинокий жук живет без кислорода. Так что, как ты думаешь он получает свою энергию? От:",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) золота",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) сульфата",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;с) железа?",
+        "Что ты думаешь, Ребека?"]},
+
+      {"name": "Rebecca",
+      "quote": "Answers",
+        "translation": ""},
+
+      {"name": "Dima",
+      "quote": "We'll check your answer later but first let's hear from Dr Chivian, and here is Rebecca with some words and expressions to help you understand him better.",
+        "translation": "Мы проверим твой ответ позже, но сначала давайте послушаем Доктора Чивиана, и здесь Ребека с несколькими словами и выражениями, чтобы помочь вам понять его лучше."},
+
+      {"name": "Rebecca",
+      "quote": "<span class='new_word'>'To speculate on something'<span class='tooltiptext'>предполагать или догадываться, что что-то возможно</span></span>, meaning to suggest, or to guess that something is a possible. <span class='new_word'>'A blueprint'<span class='tooltiptext'>полный подробный план чего-то</span></span> - that's a full and detailed plan of something. 'Ecosystem', a word that describes living organisms and the environment where they live. And 'genome' - in other words, a complete set of genes, or full genetic information.",
+        "translation": "'Спекулировать на чем-то' означает предполагать или догадываться, что что-то возможно. 'Блюпринт' - это полный и подробный план чего-то. 'Экосистема', слово, которое описывает живые организмы и окружающую среду, где они живут. И 'геном' - другими словами, полный набор ген, или полная генетическая информация."},
+
+      {"name": "Dima",
+      "quote": "So, as you listen, look out for these words and expressions:",
+        "translation": "Так что, когда послушаешь, попробуй распознать эти слова и выражения:"},
+
+      {"name": "Rebecca",
+      "quote": "Speculate on. Blueprint. Ecosystem. Genome.",
+        "translation": "Спекулировать. Блюпринт. Экосистема. Геном."},
+
+      {"name": "Dima",
+      "quote": "Are you ready? Here's Dr Chivian:",
+        "translation": "Готова? Здесь Доктор Чивиан:"},
+
+      {"name": "Clip 1",
+      "quote": "It's something we've speculated on before, but to really find it happening here on Earth is <span class='new_word'>confirmation<span class='tooltiptext'>подтверждение</span></span> of that idea, that you could in fact pack the blueprint for an entire ecosystem into a single genome.",
+        "translation": "Это кое-то на чем мы спекулировали до этого, но на самом деле происиходящее здесь на Земле является подтверждением той мысли, что ты фактически мог бы запаковать блюпринт для всей экосистемы в один единственный геном."},
+
+      {"name": "Rebecca",
+      "quote": "Dr Chivian says scientists have suspected that an organism like this might exist. And now their idea has been <span class='new_word'>confirmed<span class='tooltiptext'>to confirm - подтверждать</span></span>. The lonely bug is in fact a <span class='new_word'>reflection<span class='tooltiptext'>отражение</span></span>, or a plan of a whole <span class='new_word'>natural<span class='tooltiptext'>природный, естественный</span></span> system, hiding in a single set of genes.",
+        "translation": "Доктор Чивина говорит, что ученые подозревали, что организм наподобие этого существует. И сейчас их мысль была подтверждена. Одинокий жук - это фактически отражение или план всей естественной системы, прячущийся в едином наборе генов."},
+
+      {"name": "Dima",
+      "quote": "And that's not all: Dr Chivian says the bug could even help in the search for <span class='new_word'>extraterrestrial<span class='tooltiptext'>внеземной</span></span> forms of life.",
+        "translation": "И это не все: Доктор Чивиан говорит, что этот жук мог бы даже помочь в поиске внеземных форм жизни."},
+
+      {"name": "Rebecca",
+      "quote": "'Extraterrestrial' - meaning coming from <span class='new_word'>outer space<span class='tooltiptext'>космос</span></span>, from planets other than Earth.",
+        "translation": "'Внеземной' - означает приходящий из космоса, из планет отличных от Земли."},
+
+      {"name": "Dima",
+      "quote": [
+        "Listen to him again and this time try to find the answer to this week's question:",
+        "How does the lonely bug get its energy? Here's a tip for you: try and catch the name of a certain chemical. And what's your language point Rebecca?"],
+        "translation": [
+          "Послушаем его еще раз и на этот раз попробуй найти ответ на вопрос этой недели:",
+          "Как одинокий жук получает свою энергию? Здесь подсказка для тебя: попробуй и расслышь название определенного химического вещества. И какие у тебя новые слова, Ребека?"]},
+
+      {"name": "Rebecca",
+      "quote": "I've got a couple in fact: the verb <span class='new_word'>'to evolve'<span class='tooltiptext'>эволюционировать</span></span>, which is to develop slowly, and a very common phrase 'it may well be', meaning it's quite possible. Shall we listen?",
+        "translation": "У меня есть парочка: глагол 'эволюционировать', что означает развиваться медленно, и очень общая фраза 'имеет место быть', означающая вполне возможно. Послушаем?"},
+
+      {"name": "Clip 2",
+      "quote": "Early Earth and other planets didn't have a lot of <span class='new_word'>oxygen<span class='tooltiptext'>кислород</span></span> on them, so life has evolved to use oxygen in order to get its energy, you know. If we ever discover life on other planets, it may very well be that they live without oxygen and instead potentially use chemicals like sulphate to get their energy.",
+        "translation": "Раньше Земля и другие планеты не имели много кислорода, так что жизнь эволюционировала, чтобы получать кислород для получения энергии, и ты знаешь это. Если мы когда-нибудь откроем жизнь на других планетах, вполне возможно, что они будут жить без кислорода и без потенциального использования химических веществ как сульфат для получения своей энергии."},
+
+      {"name": "Dima",
+      "quote": "That was scientist Dr Dylan Chivian. Now, before we talk about the answer to this week's question, could you go through some of today's vocabulary again Rebecca?",
+        "translation": "Это был ученый Доктор Дилан Чивиан. А сейчас, до того как мы поговорим об ответе на вопрос этой недели, можешь пройтись по некоторым сегодняшним словам, Ребека?"},
+
+      {"name": "Rebecca",
+      "quote": [
+        "Responds. First of all we talked about the phrase to speculate on something,meaning to suggest, or to guess that something is possible.",
+        "Then there was the word blueprint - a full and detailed plan of something.",
+        "We defined ecosystems, a word that describes living organisms and the environments where they live.",
+        "And then, genome - a complete set of genes, or full genetic information.",
+        "We mentioned the adjective extraterrestrial, meaning coming from outer space, from planets other than Earth.",
+        "And then we heard the verb to evolve, which is a shorter way of saying to develop slowly.",
+        "And finally, my favourite: a very common expression that means 'it's quite possible'. Can you remember what it is Dima?"],
+
+        "translation": [
+          "В начале мы говорили о фразе 'спеукулировать на чем-то', означающей предполагать, или догодываться, что что-то возможно.",
+        "Затем было слово блюпринт - полный и детализированный план над чем-то.",
+        "Мы дали описание слову экосистема - слово, которое описывает живые организмы и окружающую среду, где они живут.",
+        "Мы упомянули прилагательное внеземной, значающее приходящий из космоса, из планет отличных от Земли.",
+        "И затем мы услышили глагол эволиционировать, которое является крактим путем сказать развиваться медленно.",
+        "И в конце мое любимое: очень общее выражение, которое значит 'вполне возможно'. Можешь вспомнить, что это, Дима?"]},
+
+      {"name": "Dima",
+      "quote": "'It may well be'?",
+        "translation": "'Имеет место быть'?"},
+
+      {"name": "Rebecca",
+      "quote": "That's exactly right. Or, as Dr Chivian put it, 'it may very well be'.",
+        "translation": "Оно самое. Или как сказал Доктор Чивиан, 'вполне имеет место быть'."},
+
+      {"name": "Dima",
+      "quote": "Thanks Rebecca. Finally, back to our question. Which chemical does the lonely bug get its energy from?",
+        "translation": "Спасибо, Ребека. В итоге вернемся обратно к нашему вопросу недели. Из какого химического вещества одинокий жук получает свою энергию?"},
+
+      {"name": "Rebecca",
+      "quote": "Responds (the choice was gold, sulphate or iron and I said… which was correct/wrong…)",
+        "translation": ""},
+
+      {"name": "Dima",
+      "quote": "I'm afraid that's all we have time for today. Until next week.",
+        "translation": "Боюсь это все на сегодня. До следующей недели."},
+
+      {"name": "Both:",
+      "quote": "Goodbye!",
+        "translation": "Пока!"}
+    ],
+
+    "img_addr": "6me/2009/2009-06/Lonely-bug.jpg",
+    "audio_src": "6me/2009/2009-06/2009-06-25 - 6 Minute English - Lonely bug.mp3",
+    "title": "BBC 6 Minute English - Lonely bug [Одинокий жук], 2009-06-25",
+
+    "words_arr": [
+      {"en_word": "environmental", "ru_word": "экологический, относящийся к окружающей среде"},
+      {"en_word": "the scale", "ru_word": "шкала"},
+      {"en_word": "sociable", "ru_word": "общительный"},
+      {"en_word": "the loner", "ru_word": "одиночка"},
+      {"en_word": "to reckon", "ru_word": "считать, думать"},
+      {"en_word": "on your own", "ru_word": "самостоятельно"},
+      {"en_word": "to reproduce", "ru_word": "размножаться"},
+      {"en_word": "the oxygen", "ru_word": "кислород"},
+      {"en_word": "tiny", "ru_word": "крошечный"},
+      {"en_word": "the mine", "ru_word": "шахта, рудник"},
+      {"en_word": "to speculate on smth.", "ru_word": "предполагать или догадываться, что что-то возможно"},
+      {"en_word": "the blueprint", "ru_word": "полный подробный план чего-то"},
+      {"en_word": "to confirm", "ru_word": "подтверждать"},
+      {"en_word": "the confirmation", "ru_word": "подтверждение"},
+      {"en_word": "the reflection", "ru_word": "отражение"},
+      {"en_word": "natural", "ru_word": "природный, естественный"},
+      {"en_word": "extraterrestrial", "ru_word": "внеземной"},
+      {"en_word": "the outer space", "ru_word": "космическое пространство"},
+      {"en_word": "the tip", "ru_word": "намек, подсказка"},
+      {"en_word": "to evolve", "ru_word": "эволюционировать"},
+      {"en_word": "It may well be", "ru_word": "вполне возможно, имеет место быть"}
+    ]
+  }
+}

@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, AfterViewInit } from '@angular/core';
 
 import { ActivatedRoute} from '@angular/router';
 import {Subscription} from 'rxjs/Subscription';
@@ -8,24 +8,24 @@ import { HttpService } from './http.service';
 @Component({
   selector: 'search_results',
   template: `
-    <div style="/*border: 3px solid rgb(15, 190, 124); */border-radius: 5px; padding: 3px; min-height: 76.5vh;">
+    <div style="/*border: 3px solid rgb(15, 190, 124); */border-radius: 5px; padding: 3px; min-height: 74vh;">
       <h3 style="margin: 5px 0;">Найденные подкасты</h3>
       <div *ngFor="let podcast of found_podcasts">
           <a href="{{podcast.rubric}}/{{podcast.title.substring(podcast.title.length - 10, podcast.title.length)}}/{{podcast.route}}"> {{podcast.title}} </a>
       </div>
       <br><br><br>
+      <!-- search-ad-1 -->
       <ins class="adsbygoogle"
-        style="display:block; text-align:center;"
-        data-ad-format="fluid"
-        data-ad-layout="in-article"
-        data-ad-client="ca-pub-8645329394822741"
-        data-ad-slot="8996507839">
+           style="display:block"
+           data-ad-client="ca-pub-8645329394822741"
+           data-ad-slot="7986301190"
+           data-ad-format="auto">
       </ins>
     </div>
   `,
   providers: [ HttpService ]
 })
-export class SearchComponent implements OnInit {
+export class SearchComponent implements OnInit, AfterViewInit {
   private querySubscription: Subscription;
 
   //private req_str: string;
@@ -81,5 +81,15 @@ export class SearchComponent implements OnInit {
     );
 
 
+  }
+
+  ngAfterViewInit() {
+    //setTimeout(()=>{
+      try{
+        (window['adsbygoogle'] = window['adsbygoogle'] || []).push({});
+      }catch(e){
+        console.error("SearchComponent error");
+      }
+    //},500);
   }
 }

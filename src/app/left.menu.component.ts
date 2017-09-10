@@ -1,4 +1,4 @@
-import { Component, OnInit, ElementRef } from '@angular/core';
+import { Component, OnInit, ElementRef, AfterViewInit } from '@angular/core';
 
 import { HttpService } from './http.service';
 
@@ -12,9 +12,11 @@ import { HttpService } from './http.service';
     <div class="left-menu" *ngFor="let year of menu_6me">
       <a class="year-6me" (click)="toggle_year(year)"> {{year.year}} </a>
 
-      <div *ngFor="let month of year.months" [ngClass]="{invisible: year.months_invisible}">
+      <div *ngFor="let month of year.months; let month_ind = index" [ngClass]="{invisible: year.months_invisible}">
         <a class="month-6me" (click)="toggle_month(month)"> {{month.month}} </a>
-
+        <!--<div class="month-6me" *ngIf="month_ind == 3">
+         {{year.year}}
+        </div>-->
         <div *ngFor="let podcast of month.podcasts" [ngClass]="{invisible: month.podcasts_invisible}">
           <a routerLink="/{{year.rubric}}/{{podcast.title.substring(podcast.title.length - 10, podcast.title.length)}}/{{podcast.route}}" class="podcast-6me"> {{podcast.title}} </a>
         </div>
@@ -67,7 +69,7 @@ import { HttpService } from './http.service';
   `],
   providers: [ HttpService ]
 })
-export class LeftMenuComponent implements OnInit {
+export class LeftMenuComponent implements OnInit, AfterViewInit {
   menu_6me: any[];
 
   toggle_year(obj){
@@ -89,9 +91,19 @@ export class LeftMenuComponent implements OnInit {
   ngOnInit(){
     this.httpService.getData('assets/menu_6me.json').subscribe(
         data => {
-        this.menu_6me = data;
+          this.menu_6me = data;
         //alert('height---' + this.el.nativeElement.offsetHeight);
       }
     );
+  }
+
+  ngAfterViewInit(){
+    //setTimeout(()=>{
+      /*try{
+        (window['adsbygoogle'] = window['adsbygoogle'] || []).push({});
+      }catch(e){
+        console.error("LeftMenuComponent error");
+      }*/
+    //},500);
   }
 }

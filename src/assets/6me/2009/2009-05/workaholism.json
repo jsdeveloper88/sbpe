@@ -1,0 +1,172 @@
+{
+  "data": {
+    "phrases_arr": [
+      {"name": "Kate",
+       "quote": "Hello, I’m Kate Colin and this is 6 Minute English. Today I'm here with Jackie and we’re talking about people who work too much.",
+       "translation": "Привет, я Кейт Колин и это передача '6 минут английского'. Сегодня я здесь с Джеки, и мы говорим о людях, которые работают очень много."},
+
+      {"name": "Jackie",
+       "quote": "Hi Kate, yes most of us spend the majority of our lives at work and our working patterns can vary widely. Some people 'clock-watch' all day, waiting for the moment when they can leave and go home, while others voluntarily do unpaid overtime spending many evenings and weekends at work. They find it difficult to stop and can't help thinking about work even when they're supposed to be relaxing at home. It's similar to an addiction and is sometimes called workaholism.",
+       "translation": "Привет, Кейт, да, большинство из нас проводят большую часть своей жизни на работе и рабочие шаблоны могут различаться варьироваться широко. Некоторые люди смотрят на часы весь день, выжидая момент когда они смогут встать и уйти домой, пока другие добровольно перерабатывают неоплачиваемые переработки, проводя много вечеров и выходных на работе. Они находят сложным остановиться и не могут не думать о работе даже когдя им полагается расслабляться находясь дома. Это схоже с помешательством и иногда называется трудоголизмом."},
+
+      {"name": "Kate",
+       "quote": "Do you think you're in danger of becoming a workaholic?",
+       "translation": "Ты думаешь ты под угрозой стать трудоголиком?"},
+
+      {"name": "Jackie",
+       "quote": "answers",
+       "translation": ""},
+
+      {"name": "Kate",
+       "quote": [
+         "Before we go any further, here's my question for this week. In the UK, how many hours are in the standard working week?",
+         "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) 20",
+         "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) 40",
+         "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) 60"],
+       "translation": [
+         "До того как мы двинемся дальше, мой вопрос на эту неделю. В Объединенном Королевстве, сколько рабочих часов в неделю является стандартом?",
+         "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) 20",
+         "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) 40",
+         "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) 60"]},
+
+      {"name": "Jackie",
+       "quote": "Answers",
+       "translation": ""},
+
+      {"name": "Kate",
+       "quote": "OK – we'll check your answer later on. We'd all like to have the right work-life balance. Can you tell me what this means?",
+       "translation": "Хорошо - мы проверим твой ответ позже. Мы бы все хотели иметь правильный рабочий балланс в повседневной жизни. Можешь сказать, что это значит?"},
+
+      {"name": "Jackie",
+       "quote": "Well, a work-life balance means to get the right combination of working and enjoying our personal life, spending time with friends, relaxing, playing sport etc. Technology plays a big part in disrupting many people's work-life balance because when we have mobile phones and laptops, we are able to work all the time, wherever we are.",
+       "translation": "Ну, рабочий баланс в повседневной жизни означает получение определенного количества прав насчет работы и приятного времяпрепровождения нашей жизни, проводя его с друзьями, тратя его на расслабление, занятие спортом и т.д. Технологии играют большую роль в нарушении рабочего баланса многих людей, потому что когда у нас есть мобильные телефоны и планшеты, то мы способны работать все время, где бы не находились."},
+
+      {"name": "Kate",
+       "quote": "Now we're going to hear from a former workaholic who worked as a lawyer in the City of London and had no work-life balance. How many hours would he sometimes be required to work a day, and what were the effects of doing this?",
+       "translation": "А сейчас мы послушаем бывшего трудоголика, который работал адвокатом в Лондоне и у которого не было рабочего баланса. Сколько часов иногда от него требовалось работать и какие эффекты от этого?"},
+
+      {"name": "Clip 1",
+       "quote": "You may have a 2/3 month period where you're working 18-20 hours a day. You spend all of your conscious hours in the office. One is physically tired as in that you're not getting enough sleep. Generally in those periods, eating becomes a secondary issue as well.",
+       "translation": "У тебя бывают периоды в 2/3 месяца, где ты работаешь по 18-20 часов в день. Ты проводишь все сознательные часы в офисе. Это физически изнуряет, потому что ты не получаешь достаточное количество сна. Обычно в такие периоды принятие пищи становится второй проблемой, как правило."},
+
+      {"name": "Jackie",
+       "quote": "He said that sometimes he would be required to work up to 20 hours a day! Unsurprisingly, his symptoms were tiredness and the physical effects which come with not eating properly as he said eating becomes a secondary issue. This means that it becomes less important than something else.",
+       "translation": "Он сказал, что иногда от него требовалось работать до 20 часов в день! Удивительно, его симптомами были усталость и физические эффекты, которые появляются без принятия пищи соответствующим образом, когда он сказал, что принятие пищи становится второй проблемой. Это означает, что это становится менее важным, чем что-то другое."},
+
+      {"name": "Kate",
+       "quote": "Now listen to what else he has to say. He uses the expression the norm. This means that something is normal and we use it describe standard behaviour. What does he say is the norm?",
+       "translation": "А сейчас послушай что еще он должен сказать. Они использует выражение 'норма'. Это означает, что что-то нормально, и мы используем его, чтобы описать стандартное поведение. Что, как он говорит, является нормой?"},
+
+      {"name": "Clip 2",
+       "quote": "In that environment the vast majority of your colleagues are working as hard as you, so you're just used to operating in that type of culture, it's seen as the norm. You start thinking that late hours or having to work the weekends is standard practice, to be expected nothing special. Most large city institutions I think expect burn out.",
+       "translation": "В той среде огромное количество сотрудников работают также упорно как и ты, так что ты просто привыкаешь к выполнению работы в этом типе культуры, это кажется нормой. Ты начинаешь думать, что поздние часы или обязанность работать по выходным являются стандартной практикой, ожидаемым, ничем особенным. Большинство больших городов, я думаю, выгорели бы."},
+
+      {"name": "Jackie",
+       "quote": "He said that as most of his colleagues were working as hard as he was, he started to think that working in the evenings and at weekends were the norm and to be expected. Doing that was nothing special.",
+       "translation": "Он сказал, что так как большинство его коллег работали так же упорно, как он, он начал думать, что работать по вечерам и выходным было нормой и ожидаемо. Ничем особенным."},
+
+      {"name": "Kate",
+       "quote": "He also uses the term burn out. What does this mean?",
+       "translation": "Он также использует понятие 'выгорать'. Что оно значит?"},
+
+      {"name": "Jackie",
+       "quote": "To burn out is term we use to describe the experience of long-term physical and emotional exhaustion, usually work-related. People in certain professions are apparently more likely to experience burn out, such as lawyers, city workers as well as soldiers and emergency service workers.",
+       "translation": "Выгорать - это понятие, которое мы используем, чтобы описать опыт долгого физического и эмоционального изнурения, обычно связанного с работой. Люди в определенных профессиях по всей видимости более вероятно испытывают выгорание, такие как адвокаты, городские служащие, наряду с солдатами и работниками экстренных служб."},
+
+      {"name": "Kate",
+       "quote": "In this final clip, he mentions the emotional problems that come from overwork. What does he say they are?",
+       "translation": "В финальном клипе он упоминает эмоциональные проблемы, которые появляются от переработок. Какие, как он говорит, это проблемы?"},
+
+      {"name": "Clip 3",
+       "quote": [
+        "1) frustration – that you literally spend your entire life working",
+        "2) anxiety – when you're that busy, it's very hard to switch off.",
+        "And 3) terrible feelings about where you life is going and whether there's more to life than this."],
+       "translation": [
+        "1) рассторойство - что ты буквально проводишь всю свою жизнь на работе",
+        "2) беспокойство - когда ты так занят, очень тяжело отключиться",
+        "И 3) ужасные чувства о том куда идет твоя жизнь и есть ли что-то большее в твоей жизни, чем это."]},
+
+      {"name": "Jackie",
+       "quote": "He said the emotional burdens are frustration, when you worry you are spending all your life working, anxiety, when hard to switch off and relax and terrible feelings of wondering if there's more to life than that.",
+       "translation": "Он сказал, что эмоциональное бремя - это расстройство, когда ты беспокоишься, что проводишь всю свою жизнь на работе, беспокойство, когда тяжело отключиться и расслабиться и ужасные чувства удивления есть ли что-то большее в твоей жизни чем это."},
+
+      {"name": "Kate",
+       "quote": "So it seems there are a lot of physical and emotional problems that come from working too hard. Now we're going to hear from a psychologist called Oliver James. You'll hear the word productivity – this means the level of output that you can achieve within a certain time. For example, if you are a productive person you manage to do a lot. He's going to talk about why there are good reasons why we should stop people from working too hard. What are they?",
+       "translation": "Кажется есть много физических и эмоциональных проблем, которые появляются когда упорно работаешь. А сейчас мы послушаем психолога по имени Оливер Джеймс. Ты услышишь слово 'производительность' - оно означает уровень отдачи, который ты можешь достичь в пределах определенного времени. К примеру, если ты производительный человек, то ты можешь делать много. Он скажет почему есть хорошие причины, что нам лучше останавливать людей от упорной работы. Какие это причины?"},
+
+      {"name": "Clip 4",
+       "quote": "Workaholism definitely doesn't make for higher productivity and many studies have shown that. All that happens is that people spend a lot of time working ineffectually so they get very tired, people become less creative, they become more obsessional, more bogged down.",
+       "translation": "Трудоголизм определенно не делает производительность выше и многие учения показали это. Все, что происходит, так это то, что люди тратят много времени, неэффективно, так что они становятся очень усталыми, люди становятся менее креативными, они становятся более беспокойными, более увязнувшими."},
+
+      {"name": "Jackie",
+       "quote": "He said that workaholism doesn't actually make for higher productivity. He said that all that happens is that people spend a lot of time working ineffectually so they get very tired, less creative and they become more obsessional, more bogged down.",
+       "translation": "Он сказал, что трудоголизм на самом деле не делает производительность выше. он сказал, что все что происходит, так это то что люди тратят много времени, работая неэффективно, так что они становятся очень усталыми, менее креативными и они становятся более беспокойными, более увязнувшими."},
+
+      {"name": "Kate",
+       "quote": "When are people most productive?",
+       "translation": "А когда люди более всего продуктивные?"},
+
+      {"name": "Clip 5",
+       "quote": "The most productive work is done when people don't work long hours, when they have holidays and when they take weekends and have evenings.",
+       "translation": "Самая продуктивная работа выполняется, когда люди не работают долгие часы, когда у них есть отпуски и когда они свободно проводят выходные и вечера."},
+
+      {"name": "Jackie",
+       "quote": "He said the most productive work is done when people don't work long hours, when they have holidays, take weekends and enjoy evenings.",
+       "translation": "Он сказал, что самая продуктивная работа выполняется, когда люди не работают долгие часы, когда они берут отпуска, свободно проводят выходные и наслаждаются вечерами."},
+
+      {"name": "Kate",
+       "quote": [
+        "So there we have it – it seems that working long hours isn't really worth it at all.",
+        "We're all much better off taking holidays, weekends, enjoying ourselves in the evenings and have good work-life balance. Let's have a look at the vocabulary we've come across:",
+        "workaholism – a condition where someone works all the time and finds it difficult to stop",
+        "work-life balance - the right balance between working and our personal life, spending time with friends etc",
+        "a secondary issue - this means that something comes second in importance to something else.",
+        "the norm - we use it describe standard behaviour",
+        "to burn out is term we use to describe the experience of long-term physical and emotional exhaustion, usually work-related.",
+        "productivity – this means the rate at which a company or country makes goods. What are they"],
+
+       "translation": [
+        "Кажется, что работа долгими часами действительно не достойна этого вообще",
+        "Нам всем намного лучше брать отпуска, выходные, наслаждаться собой по вечерам и иметь хороший рабочий баланс в жизни. Давай посмотрим на слова, с которыми мы столкнулись сегодня:",
+        "трудоголизм - условия, когдя кто-то работает все время и находит сложным остановиться",
+        "рабочий баланс в жизни - правильный баланс между работой и личной жизнью, проведением времени с друзьями и т.д.",
+        "вторая проблема - это означает, что что-то появляется вторым по важности по отношению к чему-то.",
+        "норма - мы используем его, чтобы описать стандартное поведение",
+        "выгорать - это понятие, которые мы используем, чтобы описать описать опыт долгого физического и эмоционального изнурения, обычно связанного с работой.",
+        "производительность - это показатель, по которому компания или страна приоизводит блага."]},
+
+      {"name": "Kate",
+       "quote": "So finally to the question I asked you earlier – how many hours are in the standard working week.",
+       "translation": "Ну и наконец вопрос, который я задала тебе ранее - сколько рабочих часов в неделю является стандартом."},
+
+      {"name": "Jackie",
+       "quote": "And I said 40.",
+       "translation": "И я сказала 40."},
+
+      {"name": "Kate",
+       "quote": "And you were correct. 40 hours evens out at 8 hours a day, leaving us time to enjoy our evening and weekends…. That’s all we have time for today – until next time. Goodbye!",
+       "translation": "И ты была права. 40 часов по 8 часов в день,оставляя нам время наслаждаться нашими вечерами и выходными... Это все на сегодня - до следующего раза. Пока!"}
+    ],
+
+    "img_addr": "6me/2009/2009-05/Workaholism.jpg",
+    "audio_src": "6me/2009/2009-05/2009-05-28 - 6 Minute English - Workaholism.mp3",
+    "title": "BBC 6 Minute English - Workaholism [Трудоголизм], 2009-05-28",
+
+    "words_arr": [
+      {"en_word": "the majority", "ru_word": "бОльшая часть"},
+      {"en_word": "to vary", "ru_word": "отличаться, различаться"},
+      {"en_word": "voluntarily", "ru_word": "добровольно"},
+      {"en_word": "to disrupt", "ru_word": "нарушать, разрушать"},
+      {"en_word": "conscious", "ru_word": "сознательный"},
+      {"en_word": "the issue", "ru_word": "проблема"},
+      {"en_word": "the tiredness", "ru_word": "усталость"},
+      {"en_word": "vast", "ru_word": "обширный, огромный"},
+      {"en_word": "the anxiety", "ru_word": "беспокойство"},
+      {"en_word": "the burden", "ru_word": "бремя"},
+      {"en_word": "to switch off", "ru_word": "отключаться"},
+      {"en_word": "the obsessional", "ru_word": "навязчивый"},
+      {"en_word": "to bog down", "ru_word": "(у)вязнуть"}
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "data": {
+    "phrases_arr":
+    [
+      {"name": "Dima",
+      "quote": "Hello and welcome to this edition of 6 Minute English with me, Dima Kostenko",
+      "translation": "Привет и добро пожаловать на этот выпуск передачи 6 Минут Английского со мной, Димой Костенко."},
+
+      {"name": "Rebecca",
+      "quote": "and me, Rebecca Byrne.",
+      "translation": "И со мной, Ребекой Берн."},
+
+      {"name": "Dima",
+      "quote": "Rebecca is here to help us with the language today. Today we'll focus on words and phrases people use when talking about business and money as we hear about one small town's rather unusual attempt to protect itself from the global financial crisis. But first, a question for you Rebecca. Our key word for today is - currency. How would you describe what a currency actually is?",
+      "translation": "Ребека здесь, чтобы помочь нам сегодня с языком. Сегодня мы сфокусируемся на словах и фразах, которые люди используют когда говорят о бизнесе и деньгах, после того как послушаем о необычной попытке одного маленького города защитить себя от мирового финансового кризиса. Но сначала вопрос для тебя, Ребека. Наше главное слово сегодня - валюта. Как бы ты описала о чем на самом деле слово валюта?"},
+
+      {"name": "Rebecca",
+      "quote": "Responds (money used in a particular country at a particular time; usually country-specific but there are exceptions, e.g. euro - and Hong Kong dollar…)",
+      "translation": "Ответы (деньги, используемые в конкретной стране в особое время, обычно зависит от страны, но есть и исключения, например евро - и Гонк-Конговский доллар...)"},
+
+      {"name": "Dima",
+      "quote": "Right, thanks Rebecca for this explanation. I am sure it will be useful to anyone who is travelling abroad, and in particular, those who might be planning a visit to Maleny, an old dairy farming town in Queensland, Australia.",
+      "translation": "Спасибо, Ребека, за объяснение. Я уверен это будет полезоно любому, кто ездить за рубеж, и в частности тем, кто возможно планирует визить в Молени, старый молочно-фермерский городок в Квинлэнд, в Австралии."},
+
+      {"name": "Rebecca",
+      "quote": "Responds/asks what's special about Maleny",
+      "translation": "Ответы/спрашивает что особенного в Молени"},
+
+      {"name": "Dima",
+      "quote": "Maleny Rebecca is about to make history by introducing its own community currency. The so called Baroon Dollar, named after a nearby lake, will be sold to both residents and tourists at local shops, and despite the fact that the scheme won't come into force until August, over 100 companies have already signed up for it.",
+      "translation": "Молени, Ребека, - на пороге истории создания своей собственной общественной валюты. Так называемый Бэруун Доллар, названный в честь находящегося рядом озера, будет для жителей и туристов в местных магазинах, и не смотря на тот факт, что план не вступит в силу до Августа, около 100 компаний признали его."},
+
+      {"name": "Rebecca",
+      "quote": "Responds (another gimmick… Why? What for? What can it do that the official currency, Australian dollar, cannot do?)",
+      "translation": "Ответы (очередной трюк... Почему? Зачем? Что может он чего не может обычная валюта, Австралийский доллар?)"},
+
+      {"name": "Dima",
+      "quote": "Well, if you listen to the scheme organisers, the idea is to counter the global economic downturn by supporting local businesses.",
+      "translation": "Ну, если ты послушаешь организаторов плана, идея заключается в противостоянии мировому экономическому спаду путем поддержания местных бизнессов."},
+
+      {"name": "Rebecca",
+      "quote": "Hmm, a kind of stimulus package on a local scale?",
+      "translation": "Хм, некий вид пакета стимулов на местном уровне?"},
+
+      {"name": "Dima",
+      "quote": "Exactly, well put Rebecca. A stimulus package.",
+      "translation": "Точно, хорошо сказано, Ребека. Пакет стимулов."},
+
+      {"name": "Rebecca",
+      "quote": "I suppose I could have simply said 'a measure, or a number of measures to help revive the economy'. Actually, I've got a couple of other things to gloss. The verb 'to counterfeit' meaning to make forged, illegal banknotes that look like real ones. And the phrase 'to build into', in other words to design and make something in such a way that a certain feature is included.",
+      "translation": "Полагаю я бы просто сказала 'мера или набор мер, чтобы помочь оживить экономику'. На самом деле у меян парочка других вещиц, которыми я могу блеснуть. Глагол 'подделывать', означающий делать поддельные, незаконные банкноты, которые выглядят как настоящие. И фраза 'встраивать', другими словами разрабатывать и делать что-то таким способом, в который включена определенная особенность."},
+
+      {"name": "Dima",
+      "quote": [
+        "In a moment we'll hear from Darren Mitchell, a chief organiser behind the scheme. He says, like any proper currency, the Baroon Dollar will have a number of security features, and here comes your challenge for this week Rebecca. What do you think those security features are for?",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) to make the new banknotes look prettier",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) to make the Baroon Dollar a freely convertible international currency, or",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) to stop counterfeiting?",
+        "What do you think Rebecca?"],
+
+      "translation": [
+        "Через момент мы услышим Дэрена Митчела, главного организатора плана. Он говорит, что как и любая другая валюта, у Бэруун Доллара будет определенное количество особенностей беозопасности, и здесь появляеся вопрос на эту неделю, Ребека. Для чего, как ты думаешь, эти особенности безопасности?",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) сделать новые банкноты более привлекательными",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) сделать Бэруун Доллар международной свободно-конвертируемой валютой, или",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) остановить его подделку?",
+        "Как ты думаешь, Ребека?"]},
+
+      {"name": "Rebecca",
+      "quote": "Answers",
+      "translation": ""},
+
+      {"name": "Dima",
+      "quote": "We'll check your answer later but first let's hear from Darren Mitchell. See if you can spot 'to build into' and 'to counterfeit' in his words:",
+      "translation": "Мы проверим твой ответ попозже, но сначала давай послушаем Дэрена Митчела. Посмотрим, сможешь ли ты расслышать 'встраиваться' и 'подделывать' в его словах:"},
+
+      {"name": "Clip 1",
+      "quote": "We have built into the currency, the community currency, a number of security features that stop counterfeiting. So, we think we have done a fairly good job there.",
+      "translation": "Мы встроили валюту, общественную валюту, несколько особенностей безопасности, которые останавливают подделывание. Так что мы думаем, что проделали вполне хорошую работу."},
+
+      {"name": "Rebecca",
+      "quote": "Darren Mitchell says the community currency has been designed in such a way as to include a number of security features.",
+      "translation": "Дэрен Митчел говорит, что общественная валюта была разработана таким способом, чтобы включить некоторое количество свойств безопасности."},
+
+      {"name": "Dima",
+      "quote": "And did you manage to hear what those security features are for?",
+      "translation": "Тебе удалось расслышать для чего эти свойства безопасности?"},
+
+      {"name": "Rebecca",
+      "quote": "They are to stop people from attempting to make forged, illegal notes - in short, to stop counterfeiting. Which means I was right/not quite right when I made my guess earlier.",
+      "translation": "Они чтобы остановить людей от попытки сделать подделанные, незакоонные банкноты - короче говоря, чтобы остановить подделывание. Что означает я была права/не вполне права, когда сделала предположение раньше."},
+
+      {"name": "Dima",
+      "quote": "Listen to Darren Mitchell again and this time try to catch a commonly used verb which means to deal with, to act in response to (usually something unpleasant).",
+      "translation": "Послушаем Дэрена Митчела снова и на этот раз попробуем уловить общеиспользуемый глагол, который значит 'иметь дело', действовать в ответ (обычно что-то неприятное)."},
+
+      {"name": "Rebecca",
+      "quote": "And just to keep you on full alert, here are two more things to listen out for. First, the word 'hinterland' meaning land just beyond the coastal areas. And second, the expression 'to give an extra boost', which means to give more support, to stimulate new activities. Let's listen:",
+      "translation": "И просто чтобы держать тебя на шухере, есть еще две вещи, чтобы расслышать. Сначала, слово 'прибрежные райны страны', означающее земли позади береговых областей. И второе, выражение 'придавать дополнительное ускорение', что значит оказывать больше поддержки, стимулировать новую деятельность. Давай послушаем:"},
+
+      {"name": "Clip 2",
+      "quote": "We are, sort of, addressing the global financial crisis. We are creating a community currency the first in Australia - across the Sunshine Coast hinterland region. It really gives businesses an extra boost.",
+      "translation": "Мы как бы обращаем внимание на мировой глобальный кризис. Мы создаем общественную валюту, первую в Австралии - вдоль региона с прибрежными районами Солнечного Берега. На самом деле это придает бизнесам дополнительное ускорение."},
+
+      {"name": "Dima",
+      "quote": "That was Darren Mitchell, the man behind Australia's first community currency. Rebecca, did you spot the verb which means to deal with, to act in response to?",
+      "translation": "Это был Дэрен Митчел, человек позади первой австралийскоий общественной валюты. Ребека, ты расслышала глагол, который значит 'иметь дело', 'действовать в ответ'?"},
+
+      {"name": "Rebecca",
+      "quote": "I think it was 'to address'.",
+      "translation": "Я думаю это был 'обращать внимание'."},
+
+      {"name": "Dima",
+      "quote": "That's absolutely right, Darren said, ' We are addressing the global financial crisis'. Well, what can I say, good luck to him and to everyone who'll be using the currency. And I'm afraid all we have time for in this programme is another quick look at some of today's vocabulary. Rebecca?",
+      "translation": "Абсолютно правильно, Дэрен сказал, 'Мы обращаем внимание на глобальный кризис'. ну что я могу сказать, удачи ему и каждому, кто будет использовать эту валюту. И я боюсь, что все на что у нас осталось время в этой передаче - это очереной быстрый взгляд на несколько сегодняшних слов. Ребека?"},
+
+      {"name": "Rebecca",
+      "quote": [
+        "We began by defining currency - that is the money used in a particular country at a particular time.",
+        "We discovered what an economic stimulus package is - a number of measures to help revive the economy.",
+        "Then we had the verb to counterfeit meaning to make forged, illegal banknotes that look like real ones;",
+        "and the phrase to build into, in other words to design and make something in such a way that a certain feature is included.",
+        "In the second clip we heard the noun hinterland meaning land just beyond the coastal areas.",
+        "Also, we challenged you to try and catch the verb to address which means to deal with, to act in response to something bad or urgent,",
+        "and the expression to give an extra boost, which means to provide more support, to stimulate new activity."],
+      "translation": [
+        "Мы начали с определения валюты - это деньги, используемые в определенной стране в конкретное время.",
+        "Мы выяснили что такое экономический стимулирующий пакет - определенное количество мер, чтобы помочь оживить экономику.",
+        "Затем у нас было глагол 'подделывать', означающий делать поддельные незаконные банкноты, которые выглядят как настоящие;",
+        "и фраза 'встраивать', другими словами разрабатывать и делать что таким способом, чтобы определенная особенность была включена.",
+        "Во втором клипе мы слышали существительное 'внутренние районы страны', означающее земли позади береговых областей",
+        "Таже мы заставили тебя расслышать и уловить глагол 'обращать внимание', который означает иметь дело, действовать в ответ на что-то плохое или срочное,",
+        "и выражение 'придавать дополнительное ускорение', которое означает оказывать больше поддержки, стимулировать новую активность."]},
+
+      {"name": "Dima",
+      "quote": "Thanks Rebecca. Well, that's about all for today. Until next week.",
+      "translation": "Спасибо, Ребека. Это все на сегодня. До следующей недели."},
+
+      {"name": "Both",
+      "quote": "Goodbye!",
+      "translation": ""}
+    ],
+
+    "img_addr": "6me/2009/2009-07/Aussie-town-gets-own-money.jpg",
+    "audio_src": "6me/2009/2009-07/2009-07-09 - 6 Minute English - Aussie town gets own money.mp3",
+    "title": "BBC 6 Minute English - Aussie town gets own money [Австралийский городок вводит свою собственную валюту], 2009-07-09",
+
+    "words_arr": [
+      {"en_word": "the explanation", "ru_word": "объяснение"},
+          {"en_word": "dairy", "ru_word": "молочный "},
+          {"en_word": "to introduce", "ru_word": "вводить, представлять"},
+          {"en_word": "nearby", "ru_word": "близлежащий"},
+          {"en_word": "the resident", "ru_word": "житель"},
+          {"en_word": "the gimmick", "ru_word": "трюк"},
+          {"en_word": "to counter", "ru_word": "провостоять"},
+          {"en_word": "the stimulus", "ru_word": "стимул "},
+          {"en_word": "to revive", "ru_word": "восстанавливать"},
+          {"en_word": "to gloss", "ru_word": "придавать блеск"},
+          {"en_word": "to counterfeit", "ru_word": "подделывать"},
+          {"en_word": "to spot", "ru_word": "опознавать"},
+          {"en_word": "fairly", "ru_word": "довольно"},
+          {"en_word": "beyond", "ru_word": "за"},
+          {"en_word": "coastal", "ru_word": "береговой"},
+          {"en_word": "the hinterland", "ru_word": "внутренние районы страны"},
+          {"en_word": "the boost", "ru_word": "ускорение, поддержка"}
+    ]
+  }
+}
