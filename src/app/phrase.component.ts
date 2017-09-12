@@ -18,11 +18,11 @@ import { Component, Input, AfterViewInit } from '@angular/core';
   <div style="background-color: yellow; padding: 5px; color: red; border-radius: 5px; text-align: center; font-weight: bold;" *ngIf="part_end">{{ part_end }}</div>
 
   <div style="padding: 5px;" *ngIf="ind == 9">
-    <!-- podcast-ad-2 -->
+    <!-- podcast-ad-1 -->
     <ins class="adsbygoogle"
          style="display:block"
          data-ad-client="ca-pub-8645329394822741"
-         data-ad-slot="2102106045"
+         data-ad-slot="9794206882"
          data-ad-format="auto">
     </ins>
   </div>

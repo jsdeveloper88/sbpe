@@ -19,25 +19,26 @@ import { WordComponent } from './word.component';
 	      <audio controls [src]="audio_src" style="width: 100%;"></audio>
 	    </div>
 
-      <!-- podcast-ad-1 -->
+	    <!-- podcast-ad-2 -->
       <ins class="adsbygoogle"
            style="display:block"
            data-ad-client="ca-pub-8645329394822741"
-           data-ad-slot="9794206882"
+           data-ad-slot="2102106045"
            data-ad-format="auto">
       </ins>
+
 
 	    <table style="margin: 5px auto 5px auto; width: 100%;">
 	      <tr>
 	        <td colspan="2" style="background-color: rgb(15, 190, 124); border-radius: 5px; color: white; padding: 5px;">
-            <span style="float: left; width: 85%; display: inline-block; text-align: center; vertical-align: bottom; line-height: 27px; font-weight: bold;">Новые слова для словарного запаса</span>
+            <span style="float: left; width: 85%; display: inline-block; text-align: center; vertical-align: bottom; line-height: 27px; font-weight: bold;"> Новые слова для вашего словарного запаса </span>
               <span style="float: left; width: 15%; display: inline-block;">
-                <button (click)="hide_new_words()" class="bttn" [ngClass]="{invisible: !new_word_invisible}"> Скрыть </button>
-                <button (click)="show_new_words()" class="bttn" [ngClass]="{invisible: new_word_invisible}"> Показать </button>
+                <button (click)="hide_new_words()" class="bttn" [ngClass]="{invisible: new_word_invisible}"> Скрыть </button>
+                <button (click)="show_new_words()" class="bttn" [ngClass]="{invisible: !new_word_invisible}"> Показать </button>
               </span>
           </td>
 	      </tr>
-	      <tr new-word [word]="new_word" *ngFor="let new_word of words_arr" [ngClass]="{invisible: !new_word_invisible}">
+	      <tr new-word [word]="new_word" *ngFor="let new_word of words_arr" [ngClass]="{invisible: new_word_invisible}">
 	      </tr>
 	    </table>
 

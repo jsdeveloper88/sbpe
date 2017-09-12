@@ -111,7 +111,7 @@ const appRoutes: Routes = [
   { path: '', redirectTo: '/6me/2009-/', pathMatch: 'full'},*/
 
   { path: 'about', component: AboutComponent},
-  { path: '', redirectTo: 'about', pathMatch: 'full'},
+  { path: '', redirectTo: '/6me/2009-07-23/couch-surfing', pathMatch: 'full'},
   { path: ':rubric/:date/:route', component: PodcastComponent},
   { path: 'search', component: SearchComponent},
 ];
