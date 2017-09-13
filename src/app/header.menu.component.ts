@@ -32,7 +32,7 @@ import { Component, OnInit } from '@angular/core';
       //display: none;
     }
     .header > .header-logo:hover {
-     transform: rotateY(360deg);
+     transform: rotateY(1800deg);
      transition: transform 3s;
     }
 
