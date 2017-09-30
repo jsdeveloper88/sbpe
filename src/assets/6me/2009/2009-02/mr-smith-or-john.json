@@ -1,0 +1,166 @@
+{
+  "data": {
+    "phrases_arr": [
+      {
+        "name": "Jackie",
+        "quote": "Hello, this is 6 minute English. I'm Jackie Dalton and with me today is Neil Edgeller. Hello, sir!",
+        "translation": "Привет, это передача 6 минут английского. Я Джеки Дальтон и со мной сегодня Нэйл Эджеллер. Здравствуйте, сэр!"
+      },
+      {
+        "name": "Neil",
+        "quote": "Sir! Very unusual, you don't usually call me 'sir', Jackie! Cэр!",
+        "translation": "Очень необычно, ты обычно не называешь меня 'сэром', Джэки!"
+      },
+      {
+        "name": "Jackie",
+        "quote": "I don't, usually - I usually call you Neil, don't I?",
+        "translation": "Я обычно нет – я обычно называю тебя Нейл, не так ли?"
+      },
+      {
+        "name": "Neil",
+        "quote": "Yes, you do.",
+        "translation": "Да."
+      },
+      {
+        "name": "Jackie",
+        "quote": "And that's because we're colleagues and the way we interact in the office is pretty informal really – it's quite relaxed, we're just use each others' first names. And the reason I called you 'sir' is because the topic of today's programme is formality, or lack of formality at work.",
+        "translation": "И это потому что мы коллеги и способ, которым взаимодействуем в офисе, на самом деле необычен – он довольно-таки расслабленный, мы просто используем имена друг друга. И причина, по которой я тебя назвала 'сэр', заключается в том, что тема сегодняшней программы – формальность, или ее недостаток на работе. Так что, работаешь ли ты где-нибудь, где ты можешь вести себя расслабленным с коллегами, или ты должен быть политкорректным и, возможно, немного отдаленным? Там есть дресс-код?"
+      },
+      {
+        "name": "Neil",
+        "quote": "Yes a dress-code is the rules for what you should wear in a certain situation. So if a restaurant has a 'no jeans' policy, or dress-code, it means you have to wear smart trousers, you're not allowed in if you wear jeans.",
+        "translation": "Да, дресс-код – это правила для того, что вам лучше носить в определенной ситуации. Так что, если у ресторана политика 'без джинс', или дресс-код, это означает, что вы должны носить умные брюки, и вам не разрешено входить в ресторан, если на вас джинсы."
+      },
+      {
+        "name": "Jackie",
+        "quote": [
+          "Well in a moment, we'll be talking a bit about how things have changed here. First, I have a question for you. A survey was carried out in Britain into dress-codes at work. And I'd like you guess what percentage of people said they'd prefer to be given a precise dress-code – in other words, would prefer to be told what kind of clothes they should wear.",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a)5%",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b)23%",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c)85%"],
+        "translation": [
+          "Ну, через момент мы поговорим о том, как изменились вещи здесь. Но сначала, у меня есть вопрос для тебя. Было проведено исследование в Британии о дресс-кодах на работе. И я бы хотела, чтобы ты угадал какой процент людей сказали, что они бы предпочли, чтобы им дали ясный дресс-код – другими словами, предпочли, чтобы им сказали какие вещи им лучше носить.",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a)5%",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b)23%",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c)85%"]
+      },
+      {
+        "name": "Neil",
+        "quote": "I'm going to say 5%.",
+        "translation": "Я скажу, что 5%."
+      },
+      {
+        "name": "Jackie",
+        "quote": "Well, we'll find out at the end of the programme whether your answer was correct. Would you say the BBC World Service is a fairly formal place to work? (discuss) they're on first-name terms – they call each other by their first names casual – relaxed, informal",
+        "translation": "Ну, мы выясним в конце программы был ли твой ответ правильным. Ты бы сказал, что Мировая служба ВВС – вполне формальное место для работы? (обсуждение)"
+      },
+      {
+        "name": "Jackie",
+        "quote": "Well it wasn't always so. Carrie has been around at the BBC for nearly 30 years and things used to be quite different when she joined. How would she have to address her boss?",
+        "translation": "Ну, это не всегда было так. Кэрри была везде на ВВС примерно 30 лет, и вещи были вполне другими, когда они пришла сюда. Как бы она должна была обращаться к своему начальнику?"
+      },
+      {
+        "name": "Carrie",
+        "quote": "Well when I started in the BBC, my boss was very formal. He wore a suit and tie everyday to work and you had to call him 'Mr', so he was 'Mr Bowman'. I wouldn't have dreamt of calling him Eric, which was his first name. On the other hand, he didn't actually call us 'Miss or Mrs', we were called by our first name because we were his underlings, we were his staff, but the boss was always called 'Mr' or 'Mrs'. But, actually, on most occasions, it would have been a 'Mr'.",
+        "translation": "Ну, когда я только начала работать на ВВС, мой начальник был очень формальным. Он носил костюм и галстук каждый день, и ты должна была называть его 'мистер', так что он был 'мистер Браун'. Я бы даже не мечтала называть его Эрик, по его имени. С другой стороны, он на самом деле не называл нас 'мисс' или 'миссис', к нам обращались по имени, потому что мы были младшими сотрудниками, мы были его рабочим персоналом, но к начальнику всегда обращались как 'мистер' или 'мисс'. Но на самом деле, в большинстве случаев, он был бы 'мистер'."
+      },
+      {
+        "name": "Jackie",
+        "quote": "Did you get that? She had to call her boss 'Mr'. They certainly weren't on first name terms. Well, Carrie also had to face even stricter rules after that. What did she have to do?",
+        "translation": "Ты понял? Она называла своего начальника 'мистер'. Они определенно не обращались друг к другу по именам. Ну, Кэрри также должна была сталкиваться даже с ограничивающими правилами. Что она должна была делать?"
+      },
+      {
+        "name": "Carrie",
+        "quote": "A couple of years after I started at the BBC, I moved to a different department and there was a lady in that department who ran an office with about six or seven staff in it and the staff had to ask permission if they wanted to go to the toilet. They weren't allowed to just leave the office. And in fact, she timed them sometimes too and decided if they were too long in the toilet.",
+        "translation": "После пары лет, когда я начала работать на ВВС, я перешла в другой отдел и там была леди, которая руководила коллективом примерно из 6 или 7 человек рабочего персонала, и рабочий персонал должен был спрашивать разрешение, если они хотели сходить в туалет. Им не разрешали просто так оставить офис. И фактически, она засекала иногда время и решала были ли они слишком долго в туалете."
+      },
+      {
+        "name": "Jackie",
+        "quote": "Carrie had to ask permission to go to the toilet.",
+        "translation": "Кэрри должна была спрашивать разрешение, чтобы пойти в туалет."
+      },
+      {
+        "name": "Neil",
+        "quote": "ask permission – to ask if you can do something.",
+        "translation": "Спрашивать разрешение – можешь ли ты сделать что-нибудь."
+      },
+      {
+        "name": "Jackie",
+        "quote": "We're quite lucky, sitting here in our jeans, or corduroys. There was a time when that would have been out of the question. What did newsreaders at the BBC used to have to wear while they were presenting?",
+        "translation": "Нам вполне повезло, сидящим здесь в наших джинсах или вельветах. Было время, когда это было нельзя даже спрашивать. Что должны были носить дикторы на ВВС, когда они вели эфир?"
+      },
+      {
+        "name": "Carrie",
+        "quote": [
+          "Long, long before I joined, the newsreaders, which at that stage would have been on radio rather than on television had to wear dinner jackets to read the news, even though nobody could see them, other than other people in the studio.",
+          "dinner jacket – formal suit usually worn for a special event",
+          "dress-down Fridays – an arrangement where you can wear casual clothes at work on Fridays, but dress more formally for the rest of the week."
+        ],
+        "translation": [
+          "Давным-давно, до того как я начала здесь работать, дикторы, которые на том этапе должны были быть на радио нежели чем на телевидении, должны были носить смокинги, чтобы читать новости, даже несмотря на то, что никто не мог их увидеть, кроме других людей в студии.",
+          "Смокинг – формальный костюм, который обычно одевают для особого события.",
+          "Пятницы с пониженным дресс-кодом – соглашение, по которому вы можете носить обычную одежду на работу по пятницам, но одежда более формальная для оставшейся недели."
+        ]
+      },
+      {
+        "name": "Jackie",
+        "quote": [
+          "So a quick reminder of some of the vocabulary we've looked at:",
+          "casual/informal",
+          "formal",
+          "first name terms dress code",
+          "dress-down Fridays",
+          "dinner jacket",
+          "to ask permission"
+        ],
+        "translation": [
+          "Так что давай быстро напомним некоторые слова, которые мы встретили:",
+          "обычный/неформальный",
+          "формальный",
+          "дресс-код по именам",
+          "пятницы с пониженным дресс-кодом",
+          "смокинг",
+          "спрашивать разрешение"
+        ]
+      },
+      {
+        "name": "Jackie",
+        "quote": "And finally, the answer to this week's tricky question… 85 per cent would prefer a precise dress code. What would you prefer Neil? (discuss) That's all for this week, join us again soon for more 6 minute English.",
+        "translation": "И наконец, ответ на хитрый вопрос этой недели…  85 процентов предпочло бы ясный дресс-код. Что бы предпочел ты, Нэйл? (обсуждение) Это все на эту неделю, присоединяйтесь к нам еще скоро на 6 минут английского."
+      }
+    ],
+    "img_addr": "6me/2009/2009-02/mr-smith-or-john.jpg",
+    "audio_src": "6me/2009/2009-02/2009-02-11 - 6 Minute English - Mr Smith or John!.mp3",
+    "title": "BBC 6 Minute English podcast - Mr Smith or John? [Мистер Смит или Джон?], 2009-02-11",
+    "words_arr": [
+      {
+        "en_word": "to interact",
+        "ru_word": "взаимодействовать"
+      },
+      {
+        "en_word": "informal",
+        "ru_word": "неформальный"
+      },
+      {
+        "en_word": "distant",
+        "ru_word": "отдаленный"
+      },
+      {
+        "en_word": "precise",
+        "ru_word": "определенный"
+      },
+      {
+        "en_word": "the occasion",
+        "ru_word": "случай"
+      },
+      {
+        "en_word": "the corduroy",
+        "ru_word": "вельвет"
+      },
+      {
+        "en_word": "the vocabulary",
+        "ru_word": "лексикон"
+      }
+    ]
+  }
+}

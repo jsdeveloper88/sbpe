@@ -1,0 +1,163 @@
+{
+  "data": {
+    "phrases_arr": [
+      {"name": "Yvonne",
+      "quote": "Hi, this is ‘6 Minute English’ with Yvonne Archer and joining me today is Callum Robertson. Hello Callum!",
+      "translation": "Привет, это программа '6 минут английского' с Иван Арчер и пригласил меня сюда сегодня Каллум Робертсон. Привет, Каллум!"},
+
+      {"name": "Callum",
+      "quote": "Hello Yvonne.",
+      "translation": "Привет, Иван."},
+
+      {"name": "Yvonne",
+      "quote": "Thanks for joining me. Now today, we'll hear a report about some research which might help to explain some of the mysteries of love - such as why we fall in love. But first, I've a question for you – as usual. Are you ready?",
+      "translation": "Cпасибо, что пригласил меня. И сегодня мы услышим репортаж о некотором исследовании, которое, возможно, поможет объяснить некоторые тайны любви – такие как почему мы влюбляемся. Но сначала у меня есть вопрос для тебя – как обычно. Ты готов? "},
+
+      {"name": "Callum",
+      "quote": "Oh yes!",
+      "translation": "О, да!"},
+
+      {"name": "Yvonne",
+      "quote": ["Good. In 1991, Minnie Munro became the world's oldest bride aged 102. But how old was her groom – the man she married? Was he:",
+      "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) 97",
+      "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) 80 or",
+      "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) 83"],
+      "translation": ["Хорошо. В 1991-м году Мини Манро стала самой старой невестой мира в возрасте 102 лет. Но сколько лет было ее жениху – человеку, который женился на ней? Ему было:",
+      "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) 97",
+      "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) 80 or",
+      "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) 83"]
+      },
+      {"name": "Callum",
+      "quote": "This is just going to have to be a guess; she's 102 - I'll say he was 97.",
+      "translation": "Это будет просто предположением, ей было 102 года – я скажу, что ему было 97 лет. "},
+
+      {"name": "Yvonne",
+      "quote": "OK – we'll find out later on whether you're right or wrong later on. Larry Young is a professor of neuroscience – that's the study of the structure of the nervous system, how it works and the diseases that can cause it problems. Professor Young, based at Emory University in Atlanta, Georgia in the United States, used prairie voles to find out why people fall in love. But what are 'prairie voles' Callum?",
+      "translation": " Хорошо – мы выясним позже прав ты или нет. Ларри Янг – профессор науки о нейронах – это учение о структуре нервной системы, о том как она работает и о болезнях, которые могут вызвать ее проблемы. Профессор Янг, основываясь на Университете Эмери в Атланте, в Джорджии в США, использовал луговых волов, чтобы выяснить почему люди влюбляются. Но кто такие «луговые волы», Каллум? "},
+
+      {"name": "Callum",
+      "quote": "Well, a 'vole' is a very small animal which looks like a mouse but it has smaller ears and a short tail. And 'voles' usually live in fields near rivers but the ones from Professor Young's study live on 'the prairies' - large areas of flat, grassy land in North America. So they're known as 'prairie voles'.",
+      "translation": " Ну, «вол» - очень маленькое животное, которое выглядит как мышка, но у нее маленькие уши и короткий хвост. И «волы» обычно живут на полях рядом с реками, но те, которые из учения Профессора Янга, живут на «лугах» - больших площадях плоской травяной земли в Северной Америке.  Так что они известны как «луговые волы»."},
+
+      {"name": "Yvonne",
+      "quote": "Okay. Now for some scientific language. What is meant by 'surges of chemical'?",
+      "translation": " Хорошо. А сейчас о некотором научном языке. Что имеется ввиду под «увеличением химического вещества»? "},
+
+      {"name": "Callum",
+      "quote": "A 'surge' in something is a sudden, great increase in it - so 'surges of chemical' are large, sudden increases in the amounts of a chemical.",
+      "translation": " «Увеличение» в чем-то – это внезапное, огромное увеличение в этом – так что «увеличение химического вещества» - это огромное, неожиданное увеличение количества химического вещества"},
+
+      {"name": "Yvonne",
+      "quote": "And finally, what is 'a compound' in terms of chemistry?",
+      "translation": "И в итоге, что такое «соединение» в понятиях химии?"},
+
+      {"name": "Callum",
+      "quote": "Well that's a substance – something that contains more than one element. So if there are two or more chemicals in a substance, it's 'a compound' substance.",
+      "translation": "Ну, это субстанция – нечто, что содержит более одного элемента. Так что, если есть два или более химических вещества в субстанции, то это субстанция «соединение»."},
+
+      {"name": "Yvonne",
+      "quote": "Thanks, Callum. Now it's time to hear that report from the BBC's Science Correspondent, Pallab Ghosh. As we listen, try to find out why Professor Young decided to study prairie voles to help with his research.",
+      "translation": " Спасибо, Каллум. А сейчас время послушать репортаж от научного корреспондента ВВС, Паллаба Гоша. Как только мы послушаем, попробуй выяснить, почему Профессор Янг решил изучать луговых волов, чтобы помочь ему в его исследовании. "},
+
+      {"name": "PALLAB GHOSH",
+      "quote": "His studies on prairie voles which like humans, form lifelong relationships, has led him to believe that this most powerful of human emotions is governed by surges of chemicals, including a compound called oxytocin.",
+      "translation": " Его учения на луговых волах, которые как человеческие существа формируют пожизненные взаимоотношения, привели его к тому, чтобы поверить, что эти самые сильные человеческие эмоции контролируются внезапным увеличением химических веществ, включая соединение под названием окситоцин. "},
+
+      {"name": "Yvonne",
+      "quote": "So Professor Young believes that the love we feel is 'governed' or caused by great and sudden increases in the amount of oxytocin in us – a chemical. But why did Professor Young study prairie voles to help with his research, Callum?",
+      "translation": " Так что Профессор Янг верит, что любовь, которую мы чувствуем, управляется или вызывается огромным и внезапным увеличением в количестве окситоцина в нас - химического вещества. Но почему Профессор Янг изучал луговых волов, чтобы помочь ему со своим исследованием, Каллум? "},
+
+      {"name": "Callum",
+      "quote": "Well, because they're like human beings in their relationships. They stay with the same partner throughout their lives, so they form 'lifelong' relationships – just like married people.",
+      "translation": " Ну, потому что они как человеческие существа в своих взаимоотношениях. Они остаются с одним и тем же партнером всю свою жизнь, так что они формируют «пожизненные взаимоотношения» - как женатые люди."},
+
+      {"name": "Yvonne",
+      "quote": "Ahh… Now in the next part of today's report, we'll hear how Professor Young believes that there's a possibility that the chemical oxytocin could also be used in two other ways. Firstly, 'an antidote' for the broken hearted. Unfortunately, most of know what that means, but what is meant by 'an antidote', Callum?",
+      "translation": "Ааа… А сейчас в следующей части сегодняшнего репортажа мы услышим, как Профессор Янг верит, что есть возможность, что химическое вещество окситоцин могло быть также использовано двумя способами. А сначала, «противоядие» для разбитых сердец. К сожалению, большинство из нас знают, что это значит, но что же все-таки подразумевается под «противоядием», Каллум? "},
+
+      {"name": "Callum",
+      "quote": "'An antidote' is usually a drug or a chemical which lessens or reverses the bad effects of something or stops something bad from happening to us. For example, the antidote to a snake bite could stop someone dying from the snake's poison. And an antidote for the broken hearted could help those people feel less tearful and sad.",
+      "translation": " «Противоядие» - обычно лекарство или химическое вещество, которое уменьшает или обращает плохие эффекты чего-то или останавливает что-то плохое, что может произойти с нами. К примеру, противоядие на укус змеи могло бы остановить кого-нибудь от смерти от яда змеи. И противоядие для людей с разбитыми сердцами могло бы помочь им чувствовать себя менее плачущими и печальными. "},
+
+      {"name": "Yvonne",
+      "quote": "We'll also hear how Professor Young believes that a 'genetic love test' could also be developed 'to determine' – to find out - who has 'a pre-disposition to a happy married life'. Callum, in a nutshell – what's meant by that?",
+      "translation": " Мы также услышим, как Профессор Янг верит, что «тест на генетическую любовь» мог бы также быть разработан, чтобы определить – выяснить – кто имеет «склонность к счастливой семейной жизни». Каллум, простыми словами – что имеется ввиду под этим? "},
+
+      {"name": "Callum",
+      "quote": "Well, a genetic love test would basically tell us who was born with the qualities and personality that people really need to be a great husband or wife!",
+      "translation": " Ну, тест на генетическую любовь в основе своей сказал бы нам, кто был рожден с качествами и ндивидуальностью, в которых нуждаются люди, чтобы быть замечательным мужем или женой! "},
+
+      {"name": "Yvonne",
+      "quote": "Hmm – so an antidote for the broken hearted - plus a love test to find out who's really suited to marriage. But who would use a genetic love test?",
+      "translation": " Хм – так что противоядие для людей с разбитыми сердцами – плюс тест на любовь, чтобы выяснить, кто действительно подходит для брака. Но кто мог бы использовать генетический тест на любовь? "},
+
+      {"name": "PALLAB GHOSH",
+      "quote": "Professor Young believes it would equally be possible to develop an antidote to love for the heartbroken and he says there's even the prospect of a genetic love test where matchmaking agencies would attempt to determine a person's pre-disposition to a happy married life.",
+      "translation": "Профессор Янг верит, что могло бы быть в равной степени возможно разработать противоядие для любви для людей с разбитыми сердцами, и он говорит, что есть даже перспектива генетического теста на любовь, где посреднические агентства могли бы попытаться определить склонность личности к счастливой семейной жизни. "},
+
+      {"name": "Yvonne",
+      "quote": "So Callum, who does Professor Young think would use the genetic love test?",
+      "translation": "Так что, Каллум, кто, как считает Профессор Янг, использовал бы генетический тест на любовь? "},
+
+      {"name": "Callum",
+      "quote": "Matchmaking agencies – companies that charge people money to help them find their perfect partner - a husband or a wife.",
+      "translation": " Посреднические агентства – компании, которые используют деньги людей, чтобы помочь им найти их идеального партнера – мужа или жену. "},
+
+      {"name": "Yvonne",
+      "quote": "Hmph! Well, I certainly look forward to any further developments with interest! But now, today's big question! In 1991, Minnie Munro became the world's oldest bride at age 102. But how hold was her groom? And what was your answer, Callum?",
+      "translation": " Хммм! Я определенно представляю любые дальнейшие разработки с интересом! Но сейчас, сегодняшний главный вопрос! В 1991-м году Мини Манро стала самой старой невестой мира в возрасте 102 лет. Но сколько лет было ее жениху? И каким был твой ответ, Каллум? "},
+
+      {"name": "Callum",
+      "quote": "Well, I had a guess at 97.",
+      "translation": "Ну, я предположил, что 97 лет."},
+
+      {"name": "Yvonne",
+      "quote": "Eeee… He was actually 83.",
+      "translation": "Ээээ… Ему на самом деле было 83 года. "},
+
+      {"name": "Callum",
+      "quote": "Oh right, so nearly twenty years' difference!",
+      "translation": "О, правильно, так почти 20 лет разница. "},
+
+      {"name": "Yvonne",
+      "quote": "And Minnie may have found her man a little sooner if a genetic love test had been available, don't you think?",
+      "translation": "И Мини, возможно, нашла своего мужчину немного раньше, если бы генетический тест на любовь был доступен, не думаешь? "},
+
+      {"name": "Callum",
+      "quote": "Ummm - possibly!",
+      "translation": "Мммм – возможно!"},
+
+      {"name": "Yvonne",
+      "quote": "Anyway, that's all we've got time for on today's '6 Minute English'. Do join BBC Learning English again for more!",
+      "translation": "Все равно, это все для сегодняшнего выпуска '6 минут английского'. Присоединяйтесь к нам еще на BBC Learning English!"},
+
+      {"name": "C/Y",
+      "quote": "Goodbye!",
+      "translation": "Пока!"}
+    ],
+
+    "img_addr": "6me/2009/2009-02/love-drug.jpg",
+    "audio_src": "6me/2009/2009-02/2009-02-26 - 6 Minute English - Love Drug.mp3",
+    "title": "BBC 6 Minute English podcast - Love Drug [Лекарство для любви], 2009-02-26",
+
+    "words_arr": [
+      {"en_word": "the mystery", "ru_word": "тайна"},
+      {"en_word": "the groom", "ru_word": "жених"},
+      {"en_word": "the prairies", "ru_word": "луга"},
+      {"en_word": "grassy", "ru_word": "травяной"},
+      {"en_word": "the vole", "ru_word": "the animal which looks like a mouse"},
+      {"en_word": "the surge in smth.", "ru_word": "the sudden, great increase in smth."},
+      {"en_word": "the compound", "ru_word": "соединение(хим.)"},
+      {"en_word": "the substance", "ru_word": "вещество"},
+      {"en_word": "to govern", "ru_word": "управлять"},
+      {"en_word": "the chemical", "ru_word": "химическое вещество"},
+      {"en_word": "the oxytocin", "ru_word": "окситоцин"},
+      {"en_word": "the antidote", "ru_word": "противоядие"},
+      {"en_word": "to lessen", "ru_word": "уменьшать"},
+      {"en_word": "to reverse", "ru_word": "обращать"},
+      {"en_word": "the pre-disposition", "ru_word": "прерасположенность"},
+      {"en_word": "the nutshell", "ru_word": "простой язык"},
+      {"en_word": "Matchmaking agencies", "ru_word": "посреднические агенства"}
+    ]
+  }
+}

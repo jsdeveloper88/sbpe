@@ -1,0 +1,173 @@
+{
+	"data": {
+		"phrases_arr": [
+			{"name": "Kate",
+			"quote": "Hello, I’m Kate Colin and this is 6 Minute English. Today I’m joined by Rebecca Byrne and we’re talking about sleep, or lack of it. Hi Rebecca, I have a question for you to start the programme with — how many hours sleep do you need a night?",
+			"translation": " Привет, это Кэйт Колин и это программа «6 минут английского». Сегодня меня пригласила Ребекка Берн, и мы говорим о сне, или о его недостатке. Привет, Ребекка, у меня вопрос для тебя, чтобы начать программу – сколько часов сна тебя необходимо ночью? "},
+
+			{"name": "Rebecca",
+			"quote": "I need on average 7 to 8 hours I think to feel….human at least.",
+			"translation": "Мне надо в среднем от 7 до 8 часов, я думаю, чтобы чувствовать себя по крайне мере человеком. "},
+
+			{"name": "Kate",
+			"quote": "That’s a good long time. Well, this month is National Bed Month – an event which is organised by The Sleep Council. Their aim is to remind us of the importance of getting a good night’s sleep. 40 years ago most people got 8 hours sleep a night. But with busy lifestyles today, we’re more likely to get around 6, which is not enough for most people. So in today’s programme we’re going to talk about what happens when you don’t get enough sleep.",
+			"translation": " Это хорошее количество времени. Ну а этот месяц – национальный месяц сна – событие, которое организуется Советом Сна. Их целью является напоминать нам о важности хорошего сна ночью. 40 лет назад большинство людей спали 8 часов. Но с деловым стилем жизни сегодня мы скорее всего спим 6 часов, чего недостаточно для большинства людей. Так что в сегодняшней программе мы поговорим о том, что происходит, когда недосыпаешь. "},
+
+			{"name": "Rebecca",
+			"quote": "(yawns) I’m feeling pretty tired already actually…why don’t you wake me up with the question for this week?",
+			"translation": "Я чувствую себя довольно-таки уставшей уже на самом деле… почему бы тебе не разбудить меня вопросом этой недели? "},
+
+			{"name": "Kate",
+			"quote": [
+				"Alright then, here we go. What is the longest time someone has managed to go without sleep?",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) 20 days",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) 11 days",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) 3 days"
+			],
+
+			"translation": [
+				"Хорошо, к этому мы и подходим. Какое самое долгое время, которое удалось кому-либо провести без сна?",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) 20 дней",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) 11 дней",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) 3 дня"
+			]},
+
+			{"name": "Rebecca",
+			"quote": "Answers",
+			"translation": "Ответы"},
+
+			{"name": "Kate",
+			"quote": "Okay, we’ll check your answer at the end of the programme. Not sleeping enough is sometimes referred to as ‘sleep deprivation’. To be deprived of something means to not have enough. This is something which unfortunately is beginning to affect many school children today. Listen to the following extract to hear a teacher talking about what happens when her pupils don’t get enough sleep. Can you tell me what she says are some of the symptoms of sleep deprivation?",
+			"translation": "Хорошо, мы проверим твой ответ в конце программы. Недостаточное количество сна иногда называют как «недостаток сна». Быть в недостатке в чем-то означает не иметь этого достаточно. Это то, что, к сожалению, начинает влиять на многих школьников сегодня. Давай послушаем выдержку, чтобы услышать учительницу, рассказывающую о том, что происходит, когда ученики не получают достаточное количество сна. Можешь сказать мне что, как она говорит, является некоторыми симптомами недостатка сна? "},
+
+			{"name": "Woman",
+			"quote": "It shows in all sorts of different ways, concentration is poor, behaviour gets worse as the week goes on, as the kids are getting less and less sleep.",
+			"translation": "Это отражается разными способами, концентрация беднеет, поведение становится хуже как только начинается неделя, как только дети получают все меньше и меньше сна."},
+
+			{"name": "Rebecca",
+			"quote": "She said that their concentration is poor. If someone’s ‘concentration is poor’ it means that they are lees able to think clearly. She also says that they do not behave well, so they may be talking a lot and not able to do much work.",
+			"translation": "Она сказала, что их концентрация беднеет. Если чья-то концентрация беднеет, это означает, что он менее способен думать ясно. Она также говорит, что они не ведут себя хорошо, так что они, возможно, говорят много и не способны выполнять больше заданий. "},
+
+			{"name": "Kate",
+			"quote": "That’s correct. In the next extract she mentions ‘sleeping in’. This is an expression we use when we can spend longer that usual in bed because we don’t have to get up for work or school. Or we can ‘sleep in’ by mistake, when we fail to wake up when we’re supposed to. For example, I was late for work today because ‘I slept in’. On to the clip…",
+			"translation": "Правильно. В следующей выдержке она упоминает «sleeping in». Это выражение, которое мы используем, когда можем подольше, чем обычно, провести время в постели, потому что нам не нужно идти на работу или в школу. Или мы можем «поваляться в постели» по ошибке, когда не удается  проснуться в нужное время. К примеру, я опоздала сегодня на работу, потому что «проспала». Обратно к ролику…"},
+
+			{"name": "Woman",
+			"quote": "Over the weekend, they get the chance often to sleep in on Saturday or Sunday and so they can catch up on some of the sleep and so by Friday, tempers are getting very frayed because they’re just very stressed, tetchy and sleepy.",
+			"translation": "На выходных у них часто есть шанс поваляться в постели в субботу или воскресенье, и таким образом они могут отхватить немного сна, а к пятнице их настроение становится очень раздраженным, потому что они просто под стрессом, раздражительны и сонны. "},
+
+			{"name": "Rebecca",
+			"quote": "So, she said they get the chance to ‘sleep in’ at the weekends. She also says as the week goes on, her students get more and more tired. The symptoms of being tired are that ‘tempers are frayed’ and they are ‘stressed’, ‘tetchy’ and ‘sleepy’.",
+			"translation": " Да, она сказала, что они получают шанс «поваляться в постели» на выходных. Она говорит, что на протяжении недели ее студенты становятся все более и более усталыми. Симптомами усталости являются то, что «их настроение раздражено» и что они под «стрессом», «раздражительны» и «сонны». "},
+
+			{"name": "Kate",
+			"quote": "Yes, the expression ‘tempers are frayed’ means to get ‘easily angry’.",
+			"translation": "Да, выражение «настроение раздражительно» означает «легко становится сердитым». "},
+
+			{"name": "Rebecca",
+			"quote": "and ‘tetchy’ is often used when talking about how you feel when you haven’t had enough sleep, it means easily angered or upset.",
+			"translation": " и «раздражительный» часто используется, когда говорят как вы чувствуете себя, когда не досыпаете, оно означает легко злиться или расстраиваться. "},
+
+			{"name": "Kate",
+			"quote": "Next we’re going to hear what a sleep expert has to say about the effect of not getting enough sleep. See if you can hear what are the main areas?",
+			"translation": " Далее мы послушаем, что эксперт по сну должен сказать об эффекте недосыпа. Посмотрим, можешь ли ты услышать главные составляющие? "},
+
+			{"name": "Man",
+			"quote": "Where it’s damaging (I think there’s at least 3 general areas). One intellectually — sleep is important for concentration and vigilance. Another aspect is behavioural. They tend to become tetchy and irritable and hostile during the day.",
+			"translation": " Это наносит урон(я думаю есть как минимум 3 главные составляющие). Одна интеллектуальная – сон важен для концентрации и бдительности. Другой аспект – поведенческий. Они, как правило, становятся раздражительными и враждебными в течение дня. "},
+
+			{"name": "Kate",
+			"quote": "He says there are 3 general areas which are affected by sleep deprivation. The first was that it can be damaging intellectually. He says that sleep is important for ‘concentration’ and for ‘vigilance’. What do these words mean?",
+			"translation": "Он говорит, что есть 3 основные составляющие, которые вызваны недостатком сна. Первая заключается в том, что она может наносить интеллектуальный урон. Он говорит, что сон важен для «концентрации» и «бдительности». Что значат эти слова? "},
+
+			{"name": "Jackie", 	
+			"quote": "‘Concentration’ is the ability to think clearly and carefully about one thing in particular. To do mathematics or to read a book for example, requires concentration.",
+			"translation": "«Концентрация» — это способность думать ясно и осторожно об одной вещи в частности. Решать математику или читать книгу, к примеру, требуют концентрации. "},
+
+			{"name": "Kate",
+			"quote": "…..and ‘vigilance’?",
+			"translation": " … а «бдительность»?"},
+
+			{"name": "Rebecca",
+			"quote": " ‘Vigilance’ is the ability to pay attention and to notice things, especially possible danger.",
+			"translation": " «Бдительность» — это способность обращать внимание или замечать вещи, особенно возможную опасность. "},
+
+			{"name": "Kate",
+			"quote": "He also goes on to say that another negative aspect of sleep deprivation is ‘behavioual’. This word relates to how the children are behaving and acting in the classroom. They can be ‘techty’, ‘irratible’ and ‘hostile’. We came across the word ‘tetchy’ earlier but what do the other words mean?",
+			"translation": " Он также продолжает говорить, что другой негативный аспект недостатка сна – «поведенческий». Это слово относится к тому, как дети ведут себя и действуют в классе. Они могут быть «раздражаемыми», «раздражительными» и «враждебными». Мы столкнулись со словом «раздражительный» ранее, но что значат другие слова? "},
+
+			{"name": "Rebecca",
+			"quote": "‘Irritable’ means that someone becomes annoyed very easily and ‘hostile’ means unfriendly and likely to be disagreeable.",
+			"translation": " «Раздражаемый» означает, что кто-то легко становится раздраженным, а «враждебный» означает недружелюбный или скорее всего несогласный. "},
+
+			{"name": "Kate",
+			"quote": "Exactly, let’s listen to the last clip…",
+			"translation": " Точно, давай послушаем последний ролик…"},
+
+			{"name": "Man",
+			"quote": "I think also more worryingly, there’s also this association with obesity and the kids not getting enough sleep tend to be the fatter kids.",
+			"translation": "Я также думаю более обеспокоенно, что есть также связь с ожирением, и дети, получающие недостаточно сна, как правило, являются полными детьми. "},
+
+			{"name": "Rebecca",
+			"quote": "He said that it has an association with ‘obesity’. Obesity is when people weigh too much or are too fat for their height. I suppose this much be related to sleep deprivation because when you’re tired, you do tend to eat more.",
+			"translation": " Он сказал, что есть связь с «ожирением». Ожирение – это когда люди весят слишком много или очень толстые для своего роста. Я полагаю это намного связано с недостатком сна, потому что когда ты уставший, ты, как правило,  больше ешь. "},
+
+			{"name": "Kate",
+			"quote": [
+				"So let’s go over some of the vocabulary we came across today:",
+				"We had sleep deprivation which means to not have enough sleep sleep in, when we spend longer than usual in bed",
+				"tempers are getting very frayed means to get easily angry tetchy is to be irritable, easily angered or upset concentration is the ability to think clearly and carefully",
+				"vigilance is the ability to pay attention and to notice things, especially possible danger",
+				"hostile is unfriendly and likely to be disagreeable",
+				"obesity is extremely overweight or fat",
+				"Finally to the question I asked earlier. What is the longest someone has gone without sleep?"
+			],
+			"translation": [
+				"Давай пройдемся по словам, с которыми мы столкнулись сегодня:",
+				"У нас были sleep deprivation что означает недостаточно спать",
+				"sleep in, когда мы лежим в постели больше, чем обычно",
+				"tempers are getting very frayed означает легко становиться сердитым",
+				"tetchy — быть раздражаемым, легко сердиться или расстраиваться",
+				"concentration — способность думать ясно или осторожно",
+				"vigilance — способность обращать внимание и замечать вещи, особенно возможную опасность",
+				"hostile — недружелюбный и скорее всего несогласный",
+				"obesity — экстремальный избыток веса или жира",
+				"И наконец, к нашему вопросу, который я спросил тебе раннее. Какое самое долгое время, которое удалось кому-либо провести без сна?"
+			]},
+
+			{"name": "Rebecca",
+			"quote": "I said 3 days.",
+			"translation": " Я сказала 3 дня. "},
+
+			{"name": "Kate",
+			"quote": "I’m afraid you were wrong. It’s actually an incredible 11 days! The record was broken by 17 year old Andy Gardner in 1964. Well that’s all we have time for today. I hope we’ve convinced you to get a good night’s sleep tonight.",
+			"translation": "Я боюсь, что ты была неправа. Это на самом деле неправдоподобные 11 дней! Рекорд был установлен 17-летним Энди Гарднером в 1964-м году. Это все на сегодня. Надеюсь, вы уверены, что у вас будет хороший сон сегодня ночью."},
+
+			{"name": "Both",
+			"quote": "Until next time — goodbye!",
+			"translation": "До следующего раза - пока!"}
+		],
+
+		"img_addr": "6me/2009/2009-03/a-good-nights-rest.jpg",
+		"audio_src": "6me/2009/2009-03/2009-03-26 - 6 Minute English - A good night's rest.mp3",
+		"title": "BBC 6 Minute English - A good nights rest [Хороший сон], 2009-03-26",
+
+		"words_arr": [
+			{"en_word": "The Council", "ru_word": "Совет"},
+			{"en_word": "the aim", "ru_word": "цель"},
+			{"en_word": "to reffer", "ru_word": "ссылаться"},
+			{"en_word": "the deprivation", "ru_word": "лишение"},
+			{"en_word": "the extract", "ru_word": "выдержка"},
+			{"en_word": "to sleep in", "ru_word": "to spend in bed longer than usual"},
+			{"en_word": "the temper", "ru_word": "характер"},
+			{"en_word": "tetchy ", "ru_word": "обидчивый"},
+			{"en_word": "sleepy", "ru_word": "сонный"},
+			{"en_word": "the vigilance", "ru_word": "бдительность"},
+			{"en_word": "irritable", "ru_word": "раздражительный, нервный"},
+			{"en_word": "hostile", "ru_word": "враждебный"},
+			{"en_word": "to relate", "ru_word": "относиться"},
+			{"en_word": "to convince", "ru_word": "убеждать"},
+			{"en_word": "to fray", "ru_word": "раздражать"}
+		]
+	}
+}	

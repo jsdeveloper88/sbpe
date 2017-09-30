@@ -1,0 +1,155 @@
+{
+  "data": {
+    "phrases_arr": [
+      {"name": "Yvonne",
+      "quote": "Hi, I'm Yvonne Archer, this is '6 Minute English' – and Callum's here to help me today! Hello Callum.",
+      "translation": "Привет, я Иван Арчер, это передача '6 минут английского' - и Каллум здесь чтобы помочь мне сегодня! Привет, Каллум."},
+
+      {"name": "Callum",
+      "quote": "Hello Yvonne.",
+      "translation": "Привет, Иван."},
+
+      {"name": "Yvonne",
+      "quote": "Recently, BAAF – the British Association for Adoption and Fostering held a Private Fostering Awareness Week here in the UK. And BAAF wanted to help us all understand what 'private fostering' is. But before we find out, Callum - are you ready for today's big question?",
+      "translation": " Недавно, БАУО – Британская Ассоциация по Усыновлению и Опеке провела Неделю Понимания о Личной Опеке в ОК. И БАУО хотела помочь нам всем понять что такое «личная опека». Но до того как мы выясним, Каллум – готов ли ты для сегодняшнего главного вопроса? "},
+
+      {"name": "Callum",
+      "quote": "Oh yes!",
+      "translation": "О, да!"},
+
+      {"name": "Yvonne",
+      "quote": [
+      "Good! The world's very first Child Protection Agency was created in 1894 in the United States. What inspired it? Was it work to…",
+      "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) stop child labour",
+      "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) prevent cruelty to animals - OR",
+      "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) educate all children"],
+
+      "translation": [
+      "Хорошо! Самое первое в мире Агентство по Защите Детей было создано в 1894-м году в США. Что было вдохновителем этого? Эта была работа чтобы:",
+      "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) Остановить детский труд",
+      "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) Предотвратить жестокость по отношению к животным - или",
+      "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) Воспитать всех детей"]},
+
+      {"name": "Callum",
+      "quote": "Ummm – I going… I think it's b) – I think it was inspired by preventing cruelty to animals.",
+      "translation": " Хм – Я отвечу… что думаю что b) – я думаю, что оно было вдохновлено предотвращением жестокости по отношению к животным. "},
+
+      {"name": "Yvonne",
+      "quote": "Interesting – and we'll find out whether you're right or wrong later on! Now Callum, we need you to help us with some language. We know that 'adoption' is when someone takes a child home with them permanently and the child is legally theirs. So, the adopted child has new parents and a new family. But what's 'fostering', Callum?",
+      "translation": " Интересно – и мы выясним прав ли ты или нет попозже. А теперь, Каллум, нам надо, чтобы ты помог нам с некоторыми словами. Мы знаем, что «усыновление» - это когда кто-то берет ребенка к себе домой навсегда, и юридически ребенок становится его. Так что у усыновленного ребенка теперь новые родители и семья. Но что такое «опека», Каллум? "},
+
+      {"name": "Callum",
+      "quote": "'Fostering' is different from adoption because although it's also an official arrangement, it's temporary. 'Foster parents' only take a 'foster child' to live with them for a period of time, but they don't become the child's legal parents.",
+      "translation": " «Опека» отличается от усыновления, потому что, несмотря на то что это также официальная договоренность, она временна. «Опекуны» только берут ребенка под опеку, чтобы он жил с ними определенный промежуток времени, но они не становятся родителями ребенка. "},
+
+      {"name": "Yvonne",
+      "quote": "Thanks, Callum. Now Moira Keen is the Team Manager of a Private Fostering Team in Tower Hamlets, East London. So I asked her to explain the difference between 'fostering' and 'private fostering'. As we listen, try to find out who Moira says makes a fostering arrangement.",
+      "translation": " Спасибо, Каллум. А сейчас Мойра Кин – руководитель команды по опеке в городе Хамлец, в Восточном Лондоне. Так что я попросила ее объяснить различие между «опекой» и «личной опекой». Как только мы послушаем, попробуй выяснить кто, как говорит Мойра, заключает соглашение об опеке. "},
+
+      {"name": "MOIRA KEEN",
+      "quote": "The difference between fostering and private fostering is that, fostering is an arrangement that's made by the local authority when they've sought the care of a child through a care order or through another sort of order.",
+      "translation": " Различие между опекой и личной опекой в том, что опека – это соглашение, которое заключается местными властями, когда они попытались добиться заботы о ребенке через распоряжение о заботе или через какое-либо другое распоряжение. "},
+
+      {"name": "Yvonne",
+      "quote": "Who makes a fostering arrangement, Callum?",
+      "translation": " Кто заключает соглашение об опеке, Калллум? "},
+
+      {"name": "Callum",
+      "quote": "The local authority – the local government makes fostering arrangements if they have what Moira calls 'a care order'. And 'a care order' is legal permission, usually from the courts, to take the child to live with and be cared for by foster parents, temporarily.",
+      "translation": " Местные власти – это местное правительство, которое заключает соглашение об опеке, если, как говорит Мойра, они имеют «распоряжение о заботе». «Распоряжение о заботе» - это юридическое разрешение, обычно от судов, чтобы взять ребенка и заботиться о нем со стороны родителей-опекунов, на определенный срок. "},
+
+      {"name": "Yvonne",
+      "quote": "As Moira explains further, try to find out who looks after a child or a young person in a private fostering arrangement…",
+      "translation": " Как только Мойра объяснит далее, попробуй выяснить кто присматривает за ребенком или молодым человеком при соглашении о личной опеке…"},
+
+      {"name": "MOIRA KEEN",
+      "quote": "Private fostering is an arrangement that's made by the child's parents or person having guardianship - or care of the child, to be looked after by somebody who's not a close family member.",
+      "translation": " Личная опека – это соглашение, которое заключается родителями ребенка или личностью, имеющего попечительство – или заботу о ребенке, чтобы кто-нибудь за ним присматривал, и кто не является близким членом семьи. "},
+
+      {"name": "Yvonne",
+      "quote": "So the child's own birth parents or guardians, rather than the local authority, arranges who the child will stay with. But can the child stay with any responsible adult?",
+      "translation": " Так что собственные родители ребенка и попечители, нежели чем местные власти, договариваются с кем останется ребенок. Но может ли ребенок остаться с любым взрослым под его ответственность? "},
+
+      {"name": "Callum",
+      "quote": "Actually, no. In a private fostering arrangement, the child stays with and is looked after by someone who's not a close family member.",
+      "translation": " На самом деле, нет. В соглашении о личной опеке, ребенок остается с тем и под присмотром того, кто не является близким членом семьи. "},
+
+      {"name": "Yvonne",
+      "quote": "That's right – so an aunt, an uncle, a grandparent or an older brother or sister can't become private foster carers because they are close family members. Okay, here are few more facts on private fostering: if a child under sixteen - or under eighteen years old if they're living with a disability, stays with someone who isn't a close family member for 28 days or more, the local authority must be told by law.",
+      "translation": " Правильно – так что тетя, дядя, дедушка или старшие брат или сестра не могут стать опекунами, потому что они близкие члены семьи. Хорошо, еще немного фактов о личной опеке: если ребенку меньше 16 лет – или меньше 18 лет и у него есть инвалидность, остается с тем, кто не является близким членом семьи на 28 дней или более, местные власти должны быть уведомлены об этом по закону."},
+
+      {"name": "Callum",
+      "quote": "Wow! So it's a criminal offence – you're actually breaking the law if you don't notify the local authority of any private fostering arrangements you know about. Вау!",
+      "translation": " Так что это уголовное преступление – ты на самом деле нарушаешь закон, если ты не уведомляешь местные власти о любом соглашении о личной опеке, о котором ты знаешь. "},
+
+      {"name": "Yvonne",
+      "quote": "Yes - and here's why they need to know:",
+      "translation": " Да – и вот почему им надо знать: "},
+
+      {"name": "MOIRA KEEN",
+      "quote": "A local authority needs to be able to assess the child's need and to assess the carer's capacity to meet those needs to ensure the children are safe and that they're well looked after.",
+      "translation": " Местным властям надо быть способными оценить нужды ребенка и оценить возможности попечителя на эти нужды, чтобы обеспечить ребенка безопасностью и чтобы за ним хорошо присматривали. "},
+
+      {"name": "Callum",
+      "quote": "Ah - of course. The local authorities need to make sure that children are safe and find out how well the carers are able to look after them. They need to 'assess' or find out about the carer's 'capacity' – their ability - to be good carers.",
+      "translation": " А – конечно. Местным властям надо удостовериться, что ребенок находится в безопасности и выяснить как хорошо попечители способны приглядывать за ним. Им надо оценить или выяснить о возможностях попечителя – его способностях – быть хорошими попечителем. "},
+
+      {"name": "Yvonne",
+      "quote": "And understandably, most experts agree that the best place for children is at home with their own parents and families. But sadly, some children are really far away from home for various reasons. Here's Moira again:",
+      "translation": " И понятно, большинство экспертов согласны, что лучшее место для детей – это дом с их собственными родителями и семьями. Но печально, что некоторые дети на самом деле далеки от дома по разным причинам. "},
+
+      {"name": "MOIRA KEEN",
+      "quote": "My advice to parents who are living overseas, looking to send their children to live in a private fostering arrangement in the UK is that these arrangements are not supported financially by the local authority and should only be a matter of last resort.",
+      "translation": " Мой совет родителям, которые живут за границей, подумывающим отправить своих детей жить по соглашению о личной опеке в ОК, заключается в том, что эти соглашения не поддерживаются финансово местными властями, и им лучше быть только вопросом последней надежды. "},
+
+      {"name": "Yvonne",
+      "quote": "And if the local authorities haven't been informed of a private arrangement, then they can't contact the children's parents if things aren't going well; a very upsetting situation for everyone concerned.",
+      "translation": " И если власти не были проинформированы о личном соглашении, тогда они не смогут контактировать с родителями ребенка, если вещи не будут идти хорошо; очень печальная ситуация для каждого обеспокоенного. "},
+
+      {"name": "Callum",
+      "quote": "Definitely upsetting, yes.",
+      "translation": " Определенно печальная, да. "},
+
+
+      {"name": "Yvonne",
+      "quote": "Well, it's time now for the answer to today's question. Callum, the world's very first Child Protection Agency was created in 1894 in the United States. What inspired it?",
+      "translation": " А теперь время для ответа на сегодняшний главный вопрос. Каллум, самое первое в мире Агенство по Защите Детей было создадно в 1894-м году в США. Что было вдохновителем этого? "},
+
+      {"name": "Callum",
+      "quote": "Well, I thought it was protecting animals - that was the inspiration for protecting children. Was I right?",
+      "translation": " Ну, я подумал, что это было защита животных – вдохновление для защиты детей. Я был прав? "},
+
+
+      {"name": "Yvonne",
+      "quote": "You were absolutely right!",
+      "translation": " Ты был абсолютно прав! "},
+
+      {"name": "Callum",
+      "quote": "Oh yes! And I didn't know that – it was just an intelligent guess.",
+      "translation": " О, да! И я не знал – что это было разумным предположением."},
+
+      {"name": "Yvonne",
+      "quote": "It really was! Well, that's all for today's '6 Minute English' – [Join us again]",
+      "translation": "Оно на самом деле оказалось разумным! Это все на сегодня - присоединяйтесь к нам еще."},
+
+      {"name": "C/Y",
+      "quote": "Goodbye!",
+      "translation": "Пока!"}
+    ],
+
+    "img_addr": "6me/2009/2009-02/private-fostering.jpg",
+    "audio_src": "6me/2009/2009-02/2009-02-04 - 6 Minute English - Private Fostering.mp3",
+    "title": "BBC 6 Minute English podcast - Private Fostering [Личная Опека], 2009-02-04",
+
+    "words_arr": [
+      {"en_word": "the adoption", "ru_word": "усыновление"},
+      {"en_word": "the fostering", "ru_word": "временное усыновление"},
+      {"en_word": "to hold", "ru_word": "проводить"},
+      {"en_word": "foster", "ru_word": "приемный"},
+      {"en_word": "to seek", "ru_word": "искать, стремиться"},
+      {"en_word": "the authority", "ru_word": "местные власти"},
+      {"en_word": "the guardianship", "ru_word": "опека"},
+      {"en_word": "to assess", "ru_word": "оценивать"}
+    ]
+  }
+}

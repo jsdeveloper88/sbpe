@@ -1,0 +1,305 @@
+{
+  "data": {
+    "phrases_arr": [
+      {
+        "name": "Kate",
+        "quote": "Hello this is '6 Minute English'. I'm Kate Colin and I'm joined today by Jackie Dalton. Hello Jackie!",
+        "translation": "Привет, это передача '6 Minute English'. Я Kate Colin и меня пригласила на передачу Jackie Dalton. Привет, Jackie!"
+      },
+      {
+        "name": "Jackie",
+        "quote": "Hello!",
+        "translation": "Привет!"
+      },
+      {
+        "name": "Kate",
+        "quote": "The topic for today's programme is the cultural icon – Barbie. Believe it or not, the blonde-haired doll is 50 years old this year. Did you ever have a Barbie doll Jackie?",
+        "translation": "Тема сегодняшней программы – культурная икона – Барби. Веришь или нет, блондиновой кукле исполняется 50 лет в этом году. У тебя когда-нибудь  была кукла Барби, Джеки?"
+      },
+      {
+        "name": "Jackie",
+        "quote": "Yes, I had one Barbie doll when I was younger and I used to enjoy playing with her and pulling her head and legs off!",
+        "translation": "Да, у меня была одна Барби, когда я была маленькой, и я наслаждалась игрой с ней и выдергиванием ее головы и ножек!"
+      },
+      {
+        "name": "Kate",
+        "quote": "Oh dear, I'm sure she didn't like, that but as I said earlier, she's a 'cultural icon' - could you explain what a cultural icon is?",
+        "translation": "О, дорогая, я уверена ей не нравилось это, но, как я сказала ранее, она – 'культурная икона' - можешь объяснить, что такое культурная икона?"
+      },
+      {
+        "name": "Jackie",
+        "quote": "Yes, a cultural icon a person or it could be an object that's readily recognised by a lot of people and it has a lot of importance to them. Shakespeare is seen as a cultural icon, Madonna for many, is a cultural icon.",
+        "translation": "Да, культурная икона – это личность или это может быть объект, который буквально признан многими людьми, и имеет важное значение для них. Шекспир рассматривается как культурная икона, Мадонна для многих – культурная икона."
+      },
+      {
+        "name": "Kate",
+        "quote": [
+          "OK, well as usual I have a question for you. We all know that Barbie dolls have a worldwide appeal. In fact, when they first went on sale in 1959, around 350,000 were sold in the first year. But how many dolls do you think sell today?Is it",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a)3 per hour",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b)3 per second",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c)3 per minute"
+        ],
+        "translation": [
+          "Хорошо, ну как обычно у меня есть вопрос для тебя. Все мы знаем, что  куклы Барби имеют всемирную привлекательность. Фактически, когда они впервые вышли на продажу в 1959 году, около 350000 штук было продано в первый год. Но сколько, как ты думаешь кукол, продаются сегодня? Это",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a)3 каждый час",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b)3 каждую секунду",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c)3 каждую минуту"
+        ]
+      },
+      {
+        "name": "Jackie",
+        "quote": "I would say 'a', 3 per hour because I can't imagine they're still that popular.",
+        "translation": "Я бы сказала, что 'а', 3 каждую секунду, потому что не могу представить, что они все еще так популярны."
+      },
+      {
+        "name": "Kate",
+        "quote": "OK, well we'll see if you're right at the end of the programme. But first let's listen to the Senior Vice President of Barbie Worldwide, Richard Dixon, and try to find out how many countries, Barbie is currently sold in... ...it's a global brand in 150 different countries and our sites are developed everywhere to make sure we unite girls around the world through Barbie.",
+        "translation": "Хорошо, мы выясним права ли ты в конце программы. Но сначала давай послушаем старшего вице- президента Barbie Worldwide, Ричарда Диксона, и попробуем выяснить в скольких странах Барби продается на данный момент... ... это мировой брэнд в 150 разных странах и наши площадки разработаны везде, чтобы быть уверенными, что мы объединяем девочек по всему миру через Барби."
+      },
+      {
+        "name": "Kate",
+        "quote": "Did you catch that? How many countries is Barbie sold in?",
+        "translation": "Ты успела? В скольких странах продается Барби?"
+      },
+      {
+        "name": "Jackie",
+        "quote": "He said 150 countries.",
+        "translation": "Он сказал – в 150 странах."
+      },
+      {
+        "name": "Kate",
+        "quote": "That's correct, he said that Barbie is a 'global brand' in 150 different countries. What's a 'global brand'?",
+        "translation": "Правильно, он сказал, что Барби – это 'мировой брэнд' в 150 разных странах. Но что такое 'мировой брэнд'?"
+      },
+      {
+        "name": "Jackie",
+        "quote": "A 'global brand' is a product made by a company which sells successfully and is recognised all over the world.",
+        "translation": "'Мировой брэнд' - это продукт, созданный компанией, которой успешно продается и признан по всему миру."
+      },
+      {
+        "name": "Kate",
+        "quote": "Barbie is often described as a role model? What's that?",
+        "translation": "Барби часто описывают как ролевую модель? Что это?"
+      },
+      {
+        "name": "Jackie",
+        "quote": "A role model is a person or figure, who is admired and whose behaviour others try to copy. So a female role model would be a woman or girl who other girls are inspired to copy.",
+        "translation": "Ролевая модель – это личность или фигура, которой восхищаются и чье поведение другие пытаются копировать. Так что женская ролевая модель могла бы быть женщиной или девочкой, которую другие девочки вдохновлены копировать."
+      },
+      {
+        "name": "Kate",
+        "quote": [
+          "There has also been some controversy over Barbie's figure when it was pointed out that if Barbie was a real person her measurements would be an impossible 36-18-38, which is extremely thin!",
+          "We're going to hear what some women on the streets of London had to say on the subject, but first let's have a look at some of the vocabulary often used when talking about women and role models.",
+          "First of all 'average' – what does 'average' mean Jackie?"],
+        "translation": [
+          "Также было немного споров насчет фигуры Барби, когда было указано, что если бы Барби была настоящим человеком, ее мерки были бы нереалистичными 36-18-38, что экстремально крошечно!",
+          "Мы услышим, что несколько женщин на улицах Лондона должны были сказать по поводу этого субъекта, но сначала давай посмотрим на некоторые слова, часто используемые, когда говорят о женщинах и ролевых моделях.",
+          "Прежде всего 'средний' - что значит 'средний', Джеки?"]
+      },
+      {
+        "name": "Jackie",
+        "quote": "It means typical or usual.",
+        "translation": "Это означает типичный или обычный."
+      },
+      {
+        "name": "Kate",
+        "quote": "And stereotype or stereotypical?",
+        "translation": "А стереотип или стереотипный?"
+      },
+      {
+        "name": "Jackie",
+        "quote": "A stereotype is a fixed idea that people have about what someone or something is like and it's often wrong.",
+        "translation": "Стереотип – это фиксированная идея, которая есть у людей о том чему кто-то или что-то подобны, и это часто неправильно."
+      },
+      {
+        "name": "Kate",
+        "quote": "What about 'image'?",
+        "translation": "Что насчет 'имиджа'?"
+      },
+      {
+        "name": "Jackie",
+        "quote": "An image is an idea or a mental picture you might have about how something or someone is.",
+        "translation": "Имидж – это ментальная картина, которая у тебя возможно есть насчет того как что-то или кто-то есть на самом деле."
+      },
+      {
+        "name": "Kate",
+        "quote": "OK – well let's see what people think. As you listen, see if you can hear whether this first lady is a fan of Barbie or not?",
+        "translation": "Хорошо – ну давай посмотрим, что думают люди. Как только ты послушаешь, посмотри, можешь ли ты расслышать, является ли первая леди фанаткой Барби или нет?"
+      },
+      {
+        "name": "Woman 1",
+        "quote": "'She is not the average size of an average woman, she purports far too much make-up for someone her ages, her clothing is very stereotypical - just an image that isn't something to be followed I don't think'.",
+        "translation": "'Она не среднего размера среднестатистической женщины, она подразумевает слишком много макияжа для кого-то ее возраста, ее одежда очень стереотипная – просто имидж, который не является чем-то, за чем нужно следовать, я думаю'. "
+      },
+      {
+        "name": "Kate",
+        "quote": "She said she's 'not the average size of an average woman'. What does she mean...?",
+        "translation": "Она сказала, что она 'не среднего размера среднестатистической женщины'. Что она имеет ввиду?"
+      },
+      {
+        "name": "Jackie",
+        "quote": "I think she's means that she's too thin and the proportions of her body aren't very realistic...",
+        "translation": "Я думаю, что она имеет в виду, что она слишком крошечная и пропорции ее тела не очень реалистичны..."
+      },
+      {
+        "name": "Kate",
+        "quote": "Is this lady a fan of Barbie?",
+        "translation": "Это леди фанатка Барби?"
+      },
+      {
+        "name": "Jackie",
+        "quote": "No, I don't think she is.",
+        "translation": "Нет, я так не думаю."
+      },
+      {
+        "name": "Kate",
+        "quote": "I agree, I don't think she is either.",
+        "translation": "Согласна, я не думаю, что она фанатка."
+      },
+      {
+        "name": "Kate",
+        "quote": "Moving on....in the next clip you might hear the following words.'Portraying' – what does 'portraying' mean?",
+        "translation": "Двигаясь дальше....в следующем клипе ты, возможно, услышишь следующие слова. 'Описание' - что означает 'описание'?"
+      },
+      {
+        "name": "Jackie",
+        "quote": "It means 'to represent or show'",
+        "translation": "Это означает 'представлять или показывать'"
+      },
+      {
+        "name": "Kate",
+        "quote": "What about 'skinny'?",
+        "translation": "Как насчет 'худой'?"
+      },
+      {
+        "name": "Jackie",
+        "quote": "This refers to a very thin body type and it's often used in a negative way to mean someone's too thin.",
+        "translation": "Это ссылается на очень крошечный тип тела и часто используется негативным способом, чтобы обозначить кого-нибудь очень худым."
+      },
+      {
+        "name": "Kate",
+        "quote": "Right, so let's have a listen to the next person we met. See if you can hear the words we've just talked about.",
+        "translation": "Правильно, так что давай послушаем следующего человека, которого мы встретили. Посмотрим, сможешь ли ты услышать слова, о которых мы только что говорили."
+      },
+      {
+        "name": "Woman 2",
+        "quote": "'It's about image isn't it – it's about image and portraying yourself and she's portrayed as this blonde, skinny woman...and that's not what women are about.",
+        "translation": "'Это насчет имиджа, не так ли – это насчет имиджа и описания себя, и она описана как эта блондинка, худая женщина...и это не о женщине'"
+      },
+      {
+        "name": "Kate",
+        "quote": "And in this last clip we're going to hear that word 'role model' again. Does this woman think Barbie is a good or bad role model?",
+        "translation": "И в этом последнем клипе мы услышим то слово 'ролевая модель' опять. Эта женщина думает, что Барби – хорошая или плохая ролевая модель?"
+      },
+      {
+        "name": "Woman 3",
+        "quote": "'I don't think she is a role model – I think she's a doll you know and it's like everyone going politically correct mad. It's a doll and it's a dressing up doll and that's fine, yeah, no problem with it'.",
+        "translation": "'Я не думаю, что она ролевая модель – я думаю, что она ролевая модель, которую ты знаешь, и это как каждый поступающий политкорректно безрассуден . Это кукла и это одетая кукла, и это хорошо, да, нет проблем с этим'."
+      },
+      {
+        "name": "Jackie",
+        "quote": "Well, she doesn't think that Barbie is a role model at all....she says Barbie is only a doll and should only be played with.",
+        "translation": "Ну, она не думает, что Барби – ролевая модель вообще...она говорит, что Барби – только кукла и с ней лучше только играть."
+      },
+      {
+        "name": "Kate",
+        "quote": "'Politically correct' – that's an expression we hear a lot these days. What does it mean?",
+        "translation": "'Политкорректный' - это выражение мы слышим много в эти дни. Что оно означает?"
+      },
+      {
+        "name": "Jackie",
+        "quote": "Yes, politically correct means to choose your language very, very carefully so you don't offend people especially when it comes to things like sex and race. But sometimes people think that political correctness has gone to an extreme, we get too worried about what we're saying.",
+        "translation": "Да, политкорректный означает выбирать свои слова очень, очень осторожно, так чтобы ты не обидел людей, особенно когда они относятся к таким вещам как секс или раса. Но иногда люди думают, что политкорректность ушла в экстрим, мы начинаем очень беспокоиться, о чем они говорят."
+      },
+      {
+        "name": "Kate",
+        "quote": "You're listening to BBC Learning English.com and today we've been talking about Barbie and whether she's a suitable female role model. Let's re-cap on some of the vocabulary we've been looking at.....",
+        "translation": "Вы слушаете BBC Learning English.com, и сегодня мы поговорили о Барби и о том является ли она удобной женской ролевой моделью. Давайте повторим некоторые слова, с которыми мы сегодня столкнулись....."
+      },
+      {
+        "name": "Jackie",
+        "quote": [
+          "We had a 'global brand' – a product made by a particular company which sells successfully all over the world.",
+          "role model - a person or figure who is admired and whose behaviour others try to copy.",
+          "average - which means typical or ususal.",
+          "stereotypical - a fixed idea that people have about someone or something",
+          "image – a mental picture in your mind of how something or someone is",
+          "portraying - which means 'to represent or show'",
+          "skinny – very thin",
+          "politically correct – to watch your language so you don't upset anyone."],
+        "translation": [
+          "У нас был 'мировой брэнд' - продукт, выпускаемый конкретной компанией, который продается успешно по всему миру.",
+          "Ролевая модель – личность или фигура, которой восхищаются и чье поведение другие пытаются копировать",
+          "Средний – что означает типичный или обычный",
+          "Стереотипный – фиксированная идея у людей о ком-то или чем-то",
+          "Имидж – ментальная картинка в твоем воображение о том каково кто-то или что-то",
+          "Описание – что означает представлять или показывать",
+          "Худой – очень крошечный",
+          "Политкорректный – следить за своими словами, чтобы никого не расстроить"]
+      },
+      {
+        "name": "Kate",
+        "quote": "Thanks, well we're nearly out of time so finally to the question I asked earlier. Barbie is 50 years old this year – how many do you think sell around the world?",
+        "translation": "Спасибо, но у нас уже почти нет времени, так что к вопросу, который я задавала тебе ранее. Барби исполняется 50 лет в этом году – сколько ее, как ты думаешь, продается по всему миру?"
+      },
+      {
+        "name": "Jackie",
+        "quote": "Well I stand by my first answer which is 3 per hour.",
+        "translation": "Ну, я настаиваю на моем первом ответе – 3 каждый час."
+      },
+      {
+        "name": "Kate",
+        "quote": "I'm afraid you were wrong, it's actually 3 per second which is amazing! She's still as popular as ever even after 50 years.",
+        "translation": "Боюсь, что ты была неправа, на самом деле 3 каждую секунду, что удивительно! Она все еще также популярна как когда-либо даже спустя 50 лет."
+      },
+      {
+        "name": "Jackie",
+        "quote": "That's all for now. Goodbye",
+        "translation": "Это все на сегодня. Пока"
+      },
+      {
+        "name": "Kate",
+        "quote": "Goodbye.",
+        "translation": "Пока."
+      }
+    ],
+    "img_addr": "6me/2009/2009-02/barbies-50th-anniversary.jpg",
+    "audio_src": "6me/2009/2009-02/2009-02-18 - 6 Minute English - Barbie's 50th anniversary!.mp3",
+    "title": "BBC 6 Minute English podcast - Barbies 50th anniversary [50-я годовщина куклы Барби], 2009-02-18",
+    "words_arr": [
+      {
+        "en_word": "readily",
+        "ru_word": "охотно"
+      },
+      {
+        "en_word": "the appeal",
+        "ru_word": "привлекательность"
+      },
+      {
+        "en_word": "to unite",
+        "ru_word": "объединять"
+      },
+      {
+        "en_word": "the controversy",
+        "ru_word": "споры"
+      },
+      {
+        "en_word": "to point out",
+        "ru_word": "указывать"
+      },
+      {
+        "en_word": "mental",
+        "ru_word": "психический"
+      },
+      {
+        "en_word": "to purport",
+        "ru_word": "подразумевать"
+      },
+      {
+        "en_word": "to portray",
+        "ru_word": "изображать"
+      }
+    ]
+  }
+}
