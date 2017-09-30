@@ -1,0 +1,315 @@
+{
+  "data": {
+    "phrases_arr":
+    [
+      {
+        "name": "Dima",
+        "quote": [
+          "Hi, welcome to this edition of 6 Minute English with me, Dima Kostenko."
+        ],
+        "translation": [
+          "Привет, добро пожаловать на очередной выпуск программы \"6 минут английского\" со мной, Димой Костенко."
+        ]
+      },
+
+      {
+        "name": "Kate",
+        "quote": [
+          "and me, Kate Colin. I am going to be your language guide over the next 6 minutes, and we're talking about a protest by an Indian tribe whose historical land - the Niyamgiri Mountain range - is about to be used for industrial mining.",
+          "But before we look at the story, I thought it might be a good idea to go through some of today's vocabulary."
+        ],
+        "translation": [
+          "и со мной, Кейт Колин. Я буду вашим гидом по языку следующие 6 минут, и мы поговорим о протесте индийского племени, чья историческая земля - горный массиы Нямгири - собирается быть выработаной индустриальной горной промышленностью.",
+          "Но до того как мы взглянем на историю, я подумала будет хорошей идеей пройтись по некоторым сегодняшним новым словам."
+        ]
+      },
+
+      {
+        "name": "Dima",
+        "quote": [
+          "OK, shall we do it now?"
+        ],
+        "translation": [
+          "Хорошо, сделаем это сейчас?"
+        ]
+      },
+
+      {
+        "name": "Kate",
+        "quote": [
+          "Yeah, sure. First, the adjective 'indigenous'.",
+          "We use this word when we talk about people or sometimes things that have always naturally lived in a place, rather than arriving from elsewhere.",
+          "Secondly, the verb 'to displace', meaning to force people to leave the place where they normally live.",
+          "And finally, another verb: 'to worship' - that's to have deep faith in someone or something, to be fully devoted to them and to treat them as divine."
+        ],
+        "translation": [
+          "Да, конечно. Сначала, прилагательное \"коренной\".",
+          "Мы используем это слово, когда говорим о людях или иногда вешах, которые всегдя изначально жили в одном месте, нежели чем пришли откуда-то еще.",
+          "Во-вторых, глагол \"вытесныть\", означающее принуждать людей покидать место, где они нормально живут.",
+          "И в итоге, другой глагол: \"поклоняться\" - которое означает иметь глубоку веру в кого-то или что-то, полностью посвятить себя этому и относиться к этому как к божественному."
+        ]
+      },
+
+      {
+        "name": "Dima",
+        "quote": [
+          "That's 'to worship', 'to displace' and 'indigenous'. Well, the latest protest by the indigenous tribal people in India, known as the Kondh, was given a fresh start last week.",
+          "It was then that demonstrators in London protested outside the headquarters of Vedanta, a company that looks set to mine around 250 square kilometres of the Kondh land for the bauxite."
+        ],
+        "translation": [
+          "Это \"поклоняться\", \"вытеснять\" и \"коренной\". Свежее начало самого последнего протеста людей из коренного племени в Индии, известного как Конд, былоо дано на прошлой неделе."
+        ]
+      },
+
+      {
+        "name": "Kate",
+        "quote": [
+          "Bauxite, that's another name for the world's main type of aluminium ore.",
+          "And aluminium of course is a light metal which is silver in colour and is used in many different ways, especially for making cooking equipment and aircraft parts."
+        ],
+        "translation": [
+          "Боксит - это очередное название для главного вида алюминиевой руды в мире.",
+          "Алюминий - это конечно же легкий метал, который схож с серебром по цвету и используется разными спомобами, особенно для оборудования для приготовленя пищи и частей самолета."
+        ]
+      },
+
+      {
+        "name": "Dima",
+        "quote": [
+          "In a moment we'll hear from Dr Bratindi Jenna, an activist who works with the community.",
+          "Dr Jenna says the 8,000 people who live in the mountains completely rely on their surroundings for everything: food, water, livelihood and, importantly, faith. And here comes this week's question for you Kate.",
+          "What or who do you think many indigenous people in the world often worship?",
+          "Is it their tribal chief (because of his position)? Is it church? Or is it nature?"
+        ],
+        "translation": [
+          "Мы послушаем Доктора Братинди Джену, активистку, которая работает с этим сооществом.",
+          "Доктор Джена говорит, что 8000 людей, которые живут в горах, полностью полагаются на местность для всего: еду, воду, средства к существованию и, не менее важно, веру. И вопрос на эту неделю, Кейт.",
+          "Кому или чему, как ты думаешь, много коренных людей в мире поклоняются?",
+          "Это их вождь племени (из-за его положения в обществе)? Церковь? Или окружающая природа?"
+        ],
+        "part_end": "< КОНЕЦ ПЕРЕВОДА 1-Й ЧАСТИ >"
+      },
+
+      {
+        "name": "Kate",
+        "quote": [
+          "Answers"
+        ],
+        "translation": [
+          ""
+        ]
+      },
+
+      {
+        "name": "Dima",
+        "quote": [
+          "You'll hear the answer in Dr Bratindi Jenna's words - let's listen and check if you got it right:"
+        ],
+        "translation": [
+          "Ты услышишь ответ в словах Доктора Братинди Джены - давай послушаем и проверим права ли ты:"
+        ]
+      },
+
+      {
+        "name": "Clip 1",
+        "quote": [
+          "Indigenous people across the world worship nature.",
+          "They worship something which has contributed to their existence for generations.",
+          "That's their lifeline. It has river, it has food, it has everything.",
+          "Indigenous people are the owner of the land - and first of all we displace them and we give them some job which has no meaning for them."
+        ],
+        "translation": [
+          "Коренные люди по всему миру поклоняются природе.",
+          "Они поклоняются чему-то, что способствует их существованию для поколений.",
+          "Это их спасательный трос. У нее есть река, еда, у нее есть все.",
+          "Коренные жители являются владельцами этой земли - прежде всего мы вытесняем их и даем их кое-какую работу, которая не имеет для них никакого значения."
+        ]
+      },
+
+      {
+        "name": "Kate",
+        "quote": [
+          "Dr Jenna says indigenous people across the world worship nature. Which means I was right/wrong with my earlier guess..."
+        ],
+        "translation": [
+          "Доктора Джена говорит, что коренные жители по всему миру поклоняются природе. Что означает, что я была права с моим предположением..."
+        ]
+      },
+
+      {
+        "name": "Dima",
+        "quote": [
+          "And how does she explain this devotion to nature Kate?"
+        ],
+        "translation": [
+          "А как объясняет эту преданность природе, Кейт?"
+        ]
+      },
+
+      {
+        "name": "Kate",
+        "quote": [
+          "Well she says that's because nature has given them the land they live and feed on for many generations, from parents to children.",
+          "Dr Jenna doesn't believe in displacing people because for them, she says, things can simply lose their meaning."
+        ],
+        "translation": [
+          "Ну она говорит это, потому что природа дала им землю, на которой они живут и еду для многих поколений, от родителей к детям.",
+          "Доктор Джена не верить в переселение людей, потому что для них, как говорит она, вещи не могут просто потерять свое значение."
+        ]
+      },
+
+      {
+        "name": "Dima",
+        "quote": [
+          "So that's what last week's protests in London were all about. But understandably perhaps, the mining company sees the situation differently.",
+          "Let's listen to Vedanta's Chief Executive, M. S. Mehta. He says on the whole India's systems balance well the economic and social development."
+        ],
+
+        "translation": [
+          "Это то, о чем были протесты на прошлой неделе в Лондоне. Но возможно понятно, что горнодобывающая компания видит эту ситуацию по-другому.",
+          "Давай послушаем главного исполнительного директора Веданты, М. С. Мехту. Он говорит, что все системы Индии хорошо балансируют экономическое и социальное развитие."
+        ]
+      },
+
+      {
+        "name": "Kate",
+        "quote": [
+          "This is a good word to know and use: 'to balance', meaning to give several things equal amounts of importance, time or money so that a situation is successful.",
+          "And another expression I wanted to mention is 'a final stamp of approval', or 'a final seal of approval'.",
+          "This phrase is used when it has been officially decided that something should definitely happen."
+        ],
+        "translation": [
+          "Хорошо слова, чтобы знать и использовать: \"балансировать\", которое означает придавать несколько вещей с равным количеством важности, времени или денег так, чтобы ситуация стала успешной.",
+          "Другое выражение, которое я хотела упомянуть - это \"окончательный знак одобрения\" или \"финальная печать одобрения\".",
+          "Эта фраза используется, когдя было официально решено, что что-то определенно будет сделано."
+        ],
+        "part_end": "< КОНЕЦ ПЕРЕВОДА 2-Й ЧАСТИ >"
+      },
+
+      {
+        "name": "Dima",
+        "quote": [
+          "That's 'to balance' and 'a final stamp of approval'. Listen out for these words - and also try to find out which very important Indian institution has given their final stamp of approval to Vedanta's project:"
+        ],
+        "translation": [
+          "\"Балансировать\" и \"окончательный знак одобрения\". Расслышь эти слова - а также попробуй выяснить какой очень важный индийский институт выдал этот окончательный знак одобрения проекту Венданты:"
+        ]
+      },
+
+      {
+        "name": "Clip 2",
+        "quote": [
+          "The issue has been in debate for last three years. And all the regulatory agencies in India have had a look at it and the Supreme Court of India had got it re-verified and put the final stamp of approval [in] August last year.",
+          "India has a very good legal system, regulatory system both balancing development and the social development.",
+          "I think we've got to start respecting the legal system."
+        ],
+        "translation": [
+          "Проблема находилась в спорах последние три года. И все регулирующие органы в Индии рассматривали ее, и Высший Суд Индии перепроверял ее и выдал свою итоговую печать одобрения в августе прошлого года.",
+          "У Индии очень хорошоие правовая система и система регулирования, обе балансирующие развитие и социальное развитие.",
+          "Я думаю, мы должны начать уважать правовую систему."
+        ]
+      },
+
+      {
+        "name": "Dima",
+        "quote": [
+          "Did you hear the answer? Which important Indian institution has given its final stamp of approval to the mining project?",
+          "...",
+          "It was the Supreme Court of India. Still campaigners are not convinced.",
+          "They say they want Vedanta to give up the mining project and to leave the area for good. Until then, they say, they won't stop their fight."
+        ],
+        "translation": [
+          "Ты услышала ответ? Какой важный индийский институт выдал свою конечный знак одобрения горнодобывающему проекту?",
+          "...",
+          "Это был Высший Суд Индии. ,
+          ""
+        ]
+      },
+
+      {
+        "name": "Kate",
+        "quote": [
+          "Quite a dramatic story - and you can find out more about it by following the links from our website, bbclearningenglish.com."
+        ],
+        "translation": [
+          "Дововольно-таки драматическая история - и ты можешь выяснить узнать об этом больше пройдешь по ссылкам из нашего сайта, bbclearningenglish.com."
+        ]
+      },
+
+      {
+        "name": "Dima",
+        "quote": [
+          "But before that, can I ask you to go through some of today's key words and phrases again Kate?"
+        ],
+        "translation": [
+          "Но перед этим, могу я попросить тебя пройтись по нескольким сегодняшним ключевым словам и фразам, Кейт?"
+        ]
+      },
+
+      {
+        "name": "Kate",
+        "quote": [
+          "We began with the adjective indigenous, meaning people that have always naturally lived in a place, rather than arriving from elsewhere.",
+          "Then we talked about displacing, that's when people are forced to leave the place where they normally live, and worshiping.",
+          "'To worship' means to have deep faith in someone or something, to be fully devoted to them and to treat them as divine.",
+          "We mentioned bauxites - that's another name for the world's main type of aluminium ore. And aluminium of course is a light metal which is silver in colour and is used in many different ways.",
+          "We had the verb to balance, meaning to give several things equal amounts of importance.",
+          "And just one more phrase to remember: a final stamp of approval. This phrase is used when it has been officially decided that something should definitely happen."
+        ],
+        "translation": [
+          "Мы начали с прилагательного коренной, означающее людей, которые всегда жили в определенном месте с рождения, нежели чем приехали откуда-то еще.",
+          "Затем мы поговорли о выселении, это когда людей принуждают покинуть место, где они нормально жили, и почитали его.",
+          "\"Поклоняться\" означает иметь высокую веру в кого-то или во что-то, быть полностью преданым этому и относиться к этому как к божественному.",
+          ""
+        ]
+      },
+
+      {
+        "name": "Dima",
+        "quote": [
+          "I'm afraid that's all we have time for today. Until next week."
+        ],
+        "translation": [
+          ""
+        ]
+      },
+
+      {
+        "name": "Both",
+        "quote": [
+          "Goodbye!"
+        ],
+        "translation": [
+          ""
+        ]
+      }
+    ],
+
+    "img_addr": "6me/2009/2009-08/Tribal-protest-over-Indian-mine.jpg",
+    "audio_src": "6me/2009/2009-08/2009-08-06 - 6 Minute English - Tribal protest over Indian mine.mp3",
+    "title": "BBC 6 Minute English - Tribal protest over Indian mine [Протест индийской общиный против местных рудников], 2009-08-06",
+
+    "words_arr": [
+      {"en_word": "tribal", "ru_word": "племенной "},
+      {"en_word": "indigenous", "ru_word": "коренной"},
+      {"en_word": "to displace", "ru_word": "вытеснять, переселять"},
+      {"en_word": "the faith", "ru_word": "вера "},
+      {"en_word": "to devote", "ru_word": "посвящать"},
+      {"en_word": "divine", "ru_word": "божественный"},
+      {"en_word": "to worship", "ru_word": "поклоняться"},
+      {"en_word": "the headquarters", "ru_word": "главное управление"},
+      {"en_word": "the surrounding", "ru_word": "окрестность, местность"},
+      {"en_word": "the livelihood", "ru_word": "средства к существованию"},
+      {"en_word": "the lifeline", "ru_word": "жизненный путь"},
+      {"en_word": "the devotion", "ru_word": "преданность"},
+      {"en_word": "understandably ", "ru_word": "понятно"},
+      {"en_word": "the mining", "ru_word": "горная промышленность"},
+      {"en_word": "the seal ", "ru_word": "печать"},
+      {"en_word": "the debate", "ru_word": "дебаты"},
+      {"en_word": "regulatory", "ru_word": "управляющий"},
+      {"en_word": "to verify", "ru_word": "проверять"},
+      {"en_word": "Supreme", "ru_word": "Высший"},
+      {"en_word": "the campaigner", "ru_word": "участник кампании"}
+    ]
+  }
+}
