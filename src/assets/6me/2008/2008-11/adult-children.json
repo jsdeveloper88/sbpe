@@ -1,0 +1,249 @@
+{
+  "data": {
+	"phrases_arr": [
+		{
+			"name": "Yvonne",
+			"quote": "Hello, this is '6 minute English' - I'm Yvonne Archer…",
+			"translation": "Привет, это '6 minute English' - я Yvonne Archer…"
+		},
+
+		{
+			"name": "Callum",
+			"quote": "And I'm Callum Robertson.",
+			"translation": "И я Callum Robertson."
+		},
+
+		{
+			"name": "Yvonne",
+			"quote": " Hi Callum - and thanks for joining me! In today's programme, we've got an interesting case from Italy and it makes us think about the question of – well, when as an adult, should you stop depending on your parents - financially?",
+			"translation": "Привет, Callum – спасибо, что подключил меня к передаче! Сегодня в программе у нас интересный случай из Италии, и он заставляет нас подумать о вопросе – когда тебе, как взрослому, лучше  перестать зависеть от своих родителей – в финансовом плане?"
+		},
+
+		{
+			"name": "Callum",
+			"quote": "Hmmm…",
+			"translation": "Хм..."
+		},
+
+		{
+			"name": "Yvonne",
+			"quote": "But let me ask you this: when did you stop depending on your parents?",
+			"translation": "Дай мне спросить тебя: когда ты перестал зависеть от своих родителей?"
+		},
+
+		{
+			"name": "Callum",
+			"quote": "Well I suppose, financially, it would be when I got my first job and gradually became less financially dependent. So I suppose, when I was about 19 - 20 when I could make my own way.",
+			"translation": "Ну я полагаю в финансовом плане это было когда я получил свою первую работу и постепенно начал становиться менее зависимым. Я полагаю, когда мне было 19-20, когда я мог делать свой собственный путь в жизни."
+		},
+
+		{
+			"name": "Yvonne",
+			"quote": "Well we're going to hear more about that topic, obviously, but first, the big question. Are you ready Callum?",
+			"translation": "Мы послушаем больше насчет этой темы, очевидно, но сначала, вопрос этой недели. Ты готов, Callum?"
+		},
+
+		{
+			"name": "Callum",
+			"quote": "Oh  – yes, another one of your tricky questions.",
+			"translation": "О – да, еще один очередной из твоих хитрых вопросов."
+		},
+
+		{
+			"name": "Yvonne",
+			"quote": [
+      "Yes, but you usually get them right; let's see how you do. A 12 year old boy in the United States was the first to divorce his parents – but when did that happen? Was it in",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) 1992",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) 1998 – or",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) 2001?"
+      ],
+      "translation": ""
+		},
+
+		{
+			"name": "Callum",
+			"quote": "Oh – now I remember this – I remember this, but, I can't remember when it was. I'm going to plump for 1998.",
+			"translation": "О я помню это – я помню это, но не могу вспомнить когда это было. Я скажу что в 1998. "
+		},
+
+		{
+			"name": "Yvonne",
+			"quote": "Good choice, but as usual we'll have to wait until the end of the programme to find out. Now today's report – we're going back to that question about adults who are still financially dependent on their parents. As we listen to the report, we'll come across the term 'expenses incurred'. Callum, can you explain that for us please?",
+			"translation": "Хороший выбор, но как обычно мы должны будем подождать до конца программы чтобы выяснить. А сейчас сегодняшний репортаж – мы вернемся обратно к вопросу о взрослых, которые все еще зависят от своих родителей. Как только мы послушаем репортаж, мы столкнеся с термином «понесенные расходы'. Callum, можешь объяснить его для нас? "
+		},
+
+		{
+			"name": "Callum",
+			"quote": "If you 'incur expenses' – you do something which costs money. So for example, going to work usually incurs travel expenses – so that's the price of your bus fare, your petrol or your train ticket.",
+			"translation": "Если ты несешь расходы – ты делаешь что-то, что стоит денег. К примеру, дорога на работу несет транспортные расходы – что есть цена платы проезда на автобусе, бензина или билета на поезд. "
+		},
+
+		{
+			"name": "Yvonne",
+			"quote": "And what about the words 'pursue' and 'aspirations'?",
+			"translation": "И как насчет слов 'преследовать' и 'желания'?"
+		},
+
+		{
+			"name": "Callum",
+			"quote": "Well, if you 'pursue an aspiration' – you follow a dream to do something. So for example, if you pursue an aspiration to be an English teacher – then you work hard, you study and you train to become an English teacher.",
+			"translation": "Ну если ты преследуешь желание – ты следуешь мечте чтобы сделать что-то. Так что если ты преследуешь желание встать учителем английского – то ты упорно работаешь, учишься и тренируешься чтобы стать учителем английского. "
+		},
+
+		{
+			"name": "Yvonne",
+			"quote": "Lovely. In today's report from the BBC's Emma Wallis, we hear about a court case – a legal case. A man was taken to the highest court in Italy because he didn't want to 'pay maintenance' – to give money to support his twenty year old son, David. As we listen, try to find out who wins the court case; is it David or his father?",
+			"translation": "Прекрасно. В сегодняшнем репортаже от Emma Wallis из BBC мы услышим о судебном иске. Мужчина был вызван в высший суд, потому что он не хотел платить пособие – давать деньги чтобы поддерживать своего старшего 20-летнего сына, Дэвида. Как только мы послушаем репортаж, попробуй выяснить кто выиграл судебный иск; Дэвид или его отец? "
+		},
+
+		{
+			"name": "EMMA WALLIS",
+			"quote": "The court ruled that David, who still lives with his mother, should carry on receiving three-hundred euros a month from his separated father, as well as half of any extra expenses he incurred. The reason; Italian law believes that 'children' have the right, even as adults, to pursue their dreams and aspirations.",
+			"translation": "Суд постановил, что Дэвиду, который все еще живет со своей матерью, лучше продолжить получать 300 евро в месяц от своего разведенного отца, а также и половину любых дополнительных расходов, которые он несет. Причина – закон Италии верит, что дети имеют право, даже когда они взрослые, преследовать свои мечты и желания. "
+		},
+
+		{
+			"name": "Yvonne",
+			"quote": "Callum, who won the court case – was it David or his father?",
+			"translation": "Callum, кто выиграл судебный иск – это был Дэвид или его отец? "
+		},
+
+		{
+			"name": "Callum",
+			"quote": "Well it was David who won the court case. The court ruled – or the court ordered his father to continue paying David money so that he can pursue his dream.",
+			"translation": "Ну это был Дэвид – тот кто выиграл судебный иск. Суд постановил – или суд обязал его отца продолжить выплату Дэвиду денег, чтоб он мог продолжить преследовать свою мечту. "
+		},
+
+		{
+			"name": "Yvonne",
+			"quote": "And the ruling came from the highest court in Italy, so David's father will just have to pay up! Now David is twenty years old. Is he too old to live with his mum and get money from his dad as well? What do you think Callum?",
+			"translation": "Постановление произошло от высшего суда в Италии, так что отец Дэвида просто должен будет платить! Сейчас Дэвиду 20 лет. Он слишком взросл чтобы жить со своей матерью и получать деньги от отца? Что ты думаешь, Callum?"
+		},
+
+		{
+			"name": "Callum",
+			"quote": "I think it's difficult – different countries have different cultures. So, ummm – the court has ruled and I don't have a better opinion than the court.",
+			"translation": "Я думаю это трудно – у разных стран разные культуры. Так что, ммм – суд постановил и у меня нет лучшего мнения, чем у суда. "
+		},
+
+		{
+			"name": "Yvonne",
+			"quote": "Now in the next part of Emma Wallis' report, we'll hear about David's dreams and aspirations are. But first, a little help with the language we'll come across: Callum, what does 'to quit a job' mean?",
+			"translation": "Сейчас в следующей части репортажа Emma Wallis мы услышим какие мечты и желания у Дэвида. Но сначала небольшая помощь с языком, с которым мы столкнемся: Callum, что значит 'бросит работу'? "
+		},
+
+		{
+			"name": "Callum",
+			"quote": "Oh, if you leave your job you 'quit' your job. You don't want to do it any more – you quit.",
+			"translation": "О, если ты оставляешь работу, ты ее бросаешь. Ты не хочешь больше ее выполнять – ты ее бросаешь."
+		},
+
+		{
+			"name": "Yvonne",
+			"quote": "And what about 'to set a precedent'?",
+			"translation": "А как насчет 'устроить прецендент'? "
+		},
+
+
+		{
+			"name": "Callum",
+			"quote": "Oh, that's a legal term – 'to set a precedent'. It's when a law is given for the first time and from then on, in future cases, it can be referred to. They can say, well this happened in this case, so we can use that same law in this case.",
+			"translation": "О – это юридический термин – 'устроить прецендент'. Это когда закон принят в первый раз и затем, в будущих случаях, на него будут ссылаться. Они могут сказать, что это произошло в том случае, так что мы можем использовать этот же закон и в этом случае. "
+		},
+
+		{
+			"name": "Yvonne",
+			"quote": "Okay – here's Emma Wallis again…",
+			"translation": "Хорошо – здесь снова Emma Wallis…"
+		},
+
+
+		{
+			"name": "EMMA WALLIS",
+			"quote": "David's mother said that David had quit his job to enrol on a course, training to become a hairdresser. Until he's able to maintain himself economically, David's father, according to the court, which has set a precedent for all future cases, will have to keep David in the manner to which he's become accustomed.",
+			"translation": "Мать Дэвида сказала, что Дэвид бросил свою работу, чтобы записаться на курсы парикмахера. До того, как он будет способен обслуживать себя экономически, отец Дэвида, согласно суду, который устроил прецендент для всех будущих случаев, должен будет поддерживать Дэвида так, как он привык."
+		},
+
+		{
+			"name": "Yvonne",
+			"quote": "So David's left his job to learn how to become a hairdresser. And while he's training, he wants money from his father so that he won't have to change the way he's always lived. And the phrase we heard there was?",
+			"translation": "Так Дэвид бросил свою работу, чтобы выучиться на парикмахера. И пока он учится, он хочет деньги от своего отца, так чтобы он не должен был менять свой образ жизни,  по которому он всегда жил. И фраза, которую мы там слышали, была? "
+		},
+
+		{
+			"name": "Callum",
+			"quote": "The money is needed 'to keep David in the manner to which he's become accustomed' – to continue with the way of life he's now used to.",
+			"translation": "Деньги нужны Дэвиду, чтобы ''to keep David in the manner to which he's become accustomed' - продолжить поддерживать Дэвида так, как он привык. "
+		},
+
+		{
+			"name": "Yvonne",
+			"quote": "Right and so David's a lucky man really, isn't he? But do you think that we're always children in the eyes of our parents?",
+			"translation": "Правильно – так что Дэвид – на самом деле счастливчик, не так ли? Но думаешь ли ты, что мы всегда являемся детьми в глазах наших родителей?"
+		},
+
+		{
+			"name": "Callum",
+			"quote": "Oh yes, absolutely. I don't think it matters. However old you are, you are still your parents' child. Yes, absolutely.",
+			"translation": "О да, абсолютно. Я не думаю, что это тревожит их. Каким взрослым бы ты ни был, ты все еще остаешься ребенком своих родителей. Да, абсолютно. "
+		},
+
+		{
+			"name": "Yvonne",
+			"quote": "Now Callum – today's big question was: a 12 year old boy in the United States was the first to divorce his parents – but when did that happen? And you said…",
+			"translation": "А сейчас, Callum – сегодняшний вопрос был: 12-летний мальчик в штатах был первым, который перестал жить с родителями – но когда это произошло? И ты сказал…"
+		},
+
+		{
+			"name": "Callum",
+			"quote": "1998?",
+			"translation": "1998?"
+		},
+
+		{
+			"name": "Yvonne",
+			"quote": "Ah – you're right… no, you're wrong. It was 1992",
+			"translation": "А да – ты прав… нет, ты не прав. Это был 1992-й"
+		},
+
+		{
+			"name": "Callum",
+			"quote": "Ah – that long ago?",
+			"translation": "А – так давно? "
+		},
+
+		{
+			"name": "Yvonne",
+			"quote": "It was. And it was a young boy who actually terminated his mother's rights to him so she couldn't visit with him – she didn't have any legal rights over him any more. And that was way back in 1992.",
+			"translation": "Это был мальчик, который лишил материнских прав свою мать, так чтобы она не могла навещать его – она не имела больше никаких юридических прав над ним. И это было в 1992-м году. "
+		},
+
+		{
+			"name": "Callum",
+			"quote": "Oh, what a sad case.",
+			"translation": "О, какой грустный случай."
+		},
+
+		{
+			"name": "Yvonne",
+			"quote": "Quite sad indeed. But that's all we've got time for today! Do join us again next time for more '6 Minute English' from BBC Learning English.",
+			"translation": "Вполне грустный на самом деле. Но это все, на что у нас было время на сегодня. Присоединяйтесь к нам еще в следующий раз на '6 Minute English' на BBC Learning English."
+		}
+	],
+
+	"img_addr": "6me/2008/2008-11/Adult-children.jpg",
+	"audio_src": "6me/2008/2008-11/2008-11-05 - 6 Minute English - Adult children.mp3",
+	"title": "BBC 6 Minute English podcast - Adult children [Взрослые дети], 2008-11-05",
+
+	"words_arr": [
+		{"en_word": "to incure expenses", "ru_word": "нести расходы"},
+		{"en_word": "the fare", "ru_word": "плата за проезд"},
+		{"en_word": "to pursue ", "ru_word": "преследовать"},
+		{"en_word": "the aspiration", "ru_word": "стремление"},
+		{"en_word": "the maintenance", "ru_word": "обслуживание"},
+		{"en_word": "to enrol", "ru_word": "записываться"},
+		{"en_word": "indeed", "ru_word": "действительно, на самом деле"},
+		{"en_word": "accustomed", "ru_word": "привыкший"}
+	]
+  }
+}
