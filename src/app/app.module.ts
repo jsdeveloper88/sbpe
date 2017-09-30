@@ -23,8 +23,8 @@ import { appRoutes } from './app.routes';
 
 
 
-import {enableProdMode} from '@angular/core';
-enableProdMode();
+import { enableProdMode } from '@angular/core';
+//enableProdMode();
 
 @NgModule({
   declarations: [

@@ -1,7 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 
-//import { HttpService } from './http.service';
-
 @Component({
   selector: 'footer-menu',
   template: `
@@ -15,12 +13,8 @@ import { Component, OnInit } from '@angular/core';
       border-radius: 5px;
       text-align: left;
       color: white;
-      width: 100%;
-      float: left;
       padding: 7px;
-
       height: 50px;
-      //margin: -2px 0 0 0;
     }
 
     .footer div {

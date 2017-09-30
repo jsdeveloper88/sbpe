@@ -1,7 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 
-//import { HttpService } from './http.service';
-
 @Component({
   selector: 'header-menu',
   template: `
@@ -9,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
       <img class="header-logo" src="assets/img/favicon3.jpg">
       <div class="header-text">
         <span class="header-title" style="">SBPE with BBC Learning English !!!</span><br>
-         <span class="header-description"  style="">Start Better Perceiving English with BBC 6 Minute: English, Grammar & Vocabulary !!!</span>
+        <span class="header-description"  style="">Start Better Perceiving English with BBC 6 Minute: English, Grammar & Vocabulary !!!</span>
       </div>
     </div>
   `,
@@ -17,29 +15,23 @@ import { Component, OnInit } from '@angular/core';
     .header {
       background-color: rgb(15, 190, 124);
       color: white;
-      width: 100%;
-      //height: 20vh;
       border-radius: 5px;
-      float: left;
     }
+
     .header > .header-logo {
       width: auto;
-      //height: 90px;
-      //height: 20vh;
       height: 100%;
       float: left;
       border-radius: 5px;
-      //display: none;
     }
     .header > .header-logo:hover {
-     transform: rotateY(1800deg);
-     transition: transform 3s;
+     transform: rotateY(360deg);
+     transition: transform 1s;
     }
-
     .header > .header-text {
       position: relative;
-      top: 50%; transform:
-      translateY(-50%);
+      top: 50%;
+      transform: translateY(-50%);
     }
 
     @media only screen and (min-width: 320px) {

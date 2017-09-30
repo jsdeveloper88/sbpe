@@ -3,57 +3,68 @@ import { Component, Input, AfterViewInit } from '@angular/core';
 @Component({
   selector: 'phrase',
   template: `
-  <p class="name">{{name}}:</p>
+  <div (window:resize)="onResize($event, ind)">
+    <div style="padding: 5px;" *ngIf="ind == 0;">
+      <!-- podcast-ad-1 -->
+      <ins class="adsbygoogle podcast-ad"
+           style="display:block"
+           data-ad-client="ca-pub-8645329394822741"
+           data-ad-slot="9794206882"
+           data-ad-format="auto">
+      </ins>
+    </div>
+    <div style="padding: 5px;" *ngIf="ind == 7;">
+      <!-- podcast-ad-2 -->
+      <ins class="adsbygoogle podcast-ad"
+          style="display:block"
+          data-ad-client="ca-pub-8645329394822741"
+          data-ad-slot="2102106045"
+          data-ad-format="auto">
+      </ins>
+    </div>
+    <div style="padding: 5px;" *ngIf="ind == 14;">
+      <!-- podcast-ad-3 -->
+      <ins class="adsbygoogle podcast-ad"
+           style="display:block"
+           data-ad-client="ca-pub-8645329394822741"
+           data-ad-slot="5055572440"
+           data-ad-format="auto">
+      </ins>
+    </div>
+    <div style="padding: 5px;" *ngIf="ind == 21;">
+      <!-- podcast-ad-4 -->
+      <ins class="adsbygoogle podcast-ad"
+           style="display:block"
+           data-ad-client="ca-pub-8645329394822741"
+           data-ad-slot="9766286727"
+           data-ad-format="auto">
+      </ins>
+    </div>
+    <div style="padding: 5px;" *ngIf="ind == 28;">
+      <!-- podcast-ad-5 -->
+      <ins class="adsbygoogle podcast-ad"
+           style="display:block"
+           data-ad-client="ca-pub-8645329394822741"
+           data-ad-slot="4385310990"
+           data-ad-format="auto">
+      </ins>
+    </div>
 
-  <div class="quote">
-    <p *ngFor="let qt of quote" [innerHTML]="qt"></p>
-    <button [ngClass]="{invisible: !invisible}" *ngIf="(translation.length == 1 && translation[0].length != 0) || translation.length > 1" (click)="toggle_translate()" class="show_translate"> Перевод </button>
-  </div>
+    <p class="name">{{name}}:</p>
 
-  <div class="translation" [ngClass]="{invisible: invisible}" *ngIf="(translation.length == 1 && translation[0].length != 0) || translation.length > 1">
-    <p *ngFor="let trslt of translation" [innerHTML]="trslt"></p>
-    <div><button (click)="toggle_translate()" class="hide_translate"> Скрыть </button></div>
-  </div>
+    <div class="quote">
+      <p *ngFor="let qt of quote" [innerHTML]="qt"></p>
+      <button [ngClass]="{invisible: !invisible}" *ngIf="(translation.length >= 1 && translation[0].length != 0)" (click)="toggle_translate()" class="show_translate"> Перевод </button>
+    </div>
 
-  <div style="background-color: yellow; padding: 5px; color: red; border-radius: 5px; text-align: center; font-weight: bold;" *ngIf="part_end">{{ part_end }}</div>
+    <div class="translation" [ngClass]="{invisible: invisible}" *ngIf="(translation.length >= 1 && translation[0].length != 0)">
+      <p *ngFor="let trslt of translation" [innerHTML]="trslt"></p>
+      <button (click)="toggle_translate()" class="hide_translate"> Скрыть </button>
+    </div>
 
-  <div style="padding: 5px;" *ngIf="ind == 9">
-    <!-- podcast-ad-1 -->
-    <ins class="adsbygoogle"
-         style="display:block"
-         data-ad-client="ca-pub-8645329394822741"
-         data-ad-slot="9794206882"
-         data-ad-format="auto">
-    </ins>
+    <div class="part_end" *ngIf="part_end">{{ part_end }}</div>
   </div>
-  <div style="padding: 5px;" *ngIf="ind == 19">
-    <!-- podcast-ad-3 -->
-    <ins class="adsbygoogle"
-         style="display:block"
-         data-ad-client="ca-pub-8645329394822741"
-         data-ad-slot="5055572440"
-         data-ad-format="auto">
-    </ins>
-  </div>
-  <div style="padding: 5px;" *ngIf="ind == 29">
-    <!-- podcast-ad-4 -->
-    <ins class="adsbygoogle"
-         style="display:block"
-         data-ad-client="ca-pub-8645329394822741"
-         data-ad-slot="9766286727"
-         data-ad-format="auto">
-    </ins>
-  </div>
-  <div style="padding: 5px;" *ngIf="ind == 39">
-    <!-- podcast-ad-5 -->
-    <ins class="adsbygoogle"
-         style="display:block"
-         data-ad-client="ca-pub-8645329394822741"
-         data-ad-slot="4385310990"
-         data-ad-format="auto">
-    </ins>
-  </div>
-`,
+  `,
   styles: [`
     .invisible {
       display: none;
@@ -67,7 +78,7 @@ import { Component, Input, AfterViewInit } from '@angular/core';
     }
 
     .translation p{
-      display: inline-block;
+      display: block;
       padding: 3px;
       margin: 0;
     }
@@ -93,7 +104,6 @@ import { Component, Input, AfterViewInit } from '@angular/core';
       background-color: rgb(15, 190, 124);
       padding: 5px 10px;
       color: white;
-      //font-size: 16px;
       cursor: pointer;
       border-radius: 5px;
       border: none;
@@ -103,10 +113,19 @@ import { Component, Input, AfterViewInit } from '@angular/core';
       background-color: rgb(15, 190, 124);
       padding: 5px 10px;
       color: white;
-      //font-size: 16px;
       cursor: pointer;
       border-radius: 5px;
       border: 1px solid white;
+    }
+
+    .part_end {
+      background-color: yellow;
+      padding: 5px;
+      color: red;
+      border-radius: 5px;
+      text-align: center;
+      font-weight: bold;
+      border: 1px dotted red;
     }
   `]
 })
@@ -119,23 +138,27 @@ export class PhraseComponent implements AfterViewInit {
   @Input() ind: number;
 
   invisible: boolean = true;
-  //bttn_visible: boolean = true;
+
+  onResize(event, ind) {
+
+    //if (ind == 0 || ind == 7 || ind == 14 || ind == 21 || ind == 28) {
+      //(window['adsbygoogle'] = window['adsbygoogle'] || []).push({});
+      //console.log(event.target.innerWidth, ind);
+      this.ngAfterViewInit();
+    //}
+  }
 
   toggle_translate(){
     this.invisible = !this.invisible;
-    //this.bttn_visible = !this.bttn_visible;
   }
 
   ngAfterViewInit() {
-    //setTimeout(()=>{
-      try{
+    try {
+      if (this.ind == 0 || this.ind == 7 || this.ind == 14 || this.ind == 21 || this.ind == 28) {
         (window['adsbygoogle'] = window['adsbygoogle'] || []).push({});
-        (window['adsbygoogle'] = window['adsbygoogle'] || []).push({});
-        (window['adsbygoogle'] = window['adsbygoogle'] || []).push({});
-        (window['adsbygoogle'] = window['adsbygoogle'] || []).push({});
-      }catch(e){
-        console.error("PhraseComponent error");
       }
-    //},500);
+    } catch(e) {
+      console.error("PhraseComponent error");
+    }
   }
 }

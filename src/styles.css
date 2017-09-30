@@ -2,14 +2,9 @@
   box-sizing: border-box;
 }
 
-/*.row::after {
-  content: "";
-  clear: both;
-  display: block;
-}*/
-
 body {
   background-color: #edeef0;
+  //background-color: red;
 }
 
 html {

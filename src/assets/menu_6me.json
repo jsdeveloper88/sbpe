@@ -306,8 +306,23 @@
               "route": "tanning"
             },
             {
-              "title": "Couch Surfing [], 2009-07-23",
+              "title": "Couch Surfing [Коуч Серфинг], 2009-07-23",
               "route": "couch-surfing"
+            },
+            {
+              "title": "Moon landing [Высадка на Луну], 2009-07-30",
+              "route": "moon-landing"
+            }
+          ]
+        },
+
+        {
+          "podcasts_invisible": true,
+          "month": "2009-08",
+          "podcasts": [
+            {
+              "title": "Tribal protest over Indian mine [Протест индийской общины против местных рудников], 2009-08-06",
+              "route": "tribal-protest-over-indian-mine"
             }
           ]
         }

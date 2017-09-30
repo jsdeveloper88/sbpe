@@ -1,16 +1,21 @@
 import { Component, OnInit } from '@angular/core';
 
-//import { HttpService } from './http.service';
-
 import { Router } from '@angular/router';
 
 @Component({
   selector: 'right-menu',
   template: `
-    <div style="background-color: rgb(15, 190, 124); padding: 3px; margin: 1px 0 3px 0; border-radius: 5px;">
+    <div style="" class="right-menu">
       <div id="vk_groups" style=""></div>
     </div>
   `,
-  styles: [``]
+  styles: [`
+    .right-menu {
+      background-color: rgb(15, 190, 124);
+      padding: 3px;
+      margin: 1px 0 3px 0;
+      border-radius: 5px;
+    }
+  `]
 })
 export class RightMenuComponent{}

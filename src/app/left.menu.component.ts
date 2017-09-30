@@ -1,4 +1,4 @@
-import { Component, OnInit, ElementRef, AfterViewInit } from '@angular/core';
+import { Component, OnInit, AfterViewInit } from '@angular/core';
 
 import { HttpService } from './http.service';
 
@@ -26,7 +26,6 @@ import { HttpService } from './http.service';
   `,
   styles: [`
     .left-menu {
-      //width: 100%;
       margin: 1px 0;
     }
     .left-menu .year-6me {
@@ -35,7 +34,6 @@ import { HttpService } from './http.service';
       display: block;
       padding: 12px;
       text-decoration: none;
-      //border: 1px solid black;
       margin: 1px 0;
       cursor: pointer;
       border-radius: 5px;
@@ -74,7 +72,6 @@ export class LeftMenuComponent implements OnInit, AfterViewInit {
 
   toggle_year(obj){
     obj.months_invisible = !obj.months_invisible;
-    //alert('height---' + this.el.nativeElement.offsetHeight);
     if (obj.months_invisible) {
       for (let i = 0; i < obj.months.length; i++) {
         obj.months[i].podcasts_invisible = true;
@@ -82,28 +79,19 @@ export class LeftMenuComponent implements OnInit, AfterViewInit {
     }
   }
 
-  toggle_month(obj){
+  toggle_month(obj) {
     obj.podcasts_invisible = !obj.podcasts_invisible;
   }
 
-  constructor(private httpService: HttpService, private el:ElementRef){}
+  constructor(private httpService: HttpService){}
 
   ngOnInit(){
     this.httpService.getData('assets/menu_6me.json').subscribe(
         data => {
           this.menu_6me = data;
-        //alert('height---' + this.el.nativeElement.offsetHeight);
       }
     );
   }
 
-  ngAfterViewInit(){
-    //setTimeout(()=>{
-      /*try{
-        (window['adsbygoogle'] = window['adsbygoogle'] || []).push({});
-      }catch(e){
-        console.error("LeftMenuComponent error");
-      }*/
-    //},500);
-  }
+  ngAfterViewInit(){}
 }
