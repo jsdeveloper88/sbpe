@@ -1,0 +1,171 @@
+{
+	"data": {
+		"phrases_arr": [
+			{"name": "Kate",
+			"quote": "Hello, this is 6 Minute English. I'm Kate Colin and today I'm joined by Jackie Dalton. Hello again Jackie.",
+			"translation": "Привет, это передача 6 Minute English. Я Kate Colin и сегодня я приглашена Jackie Dalton. Привет снова, Jackie."},
+
+			{"name": "Jackie",
+			"quote": "Hi Kate.",
+			"translation": "Привет,Kate."}, 
+
+			{"name": "Kate",
+			"quote": "Today is the 23rd of April and is St George's Day. Saint George is the patron saint of England and all over the country people are proudly celebrating being English.",
+			"translation": "Сегодня 23-е апреля – день святого Джорджа. Святой Джордж – это главный святой Англии и по всей стране люди гордо празднуют то, что являются англичанами. "},
+
+			{"name": "Jackie",
+			"quote": "Yes, that's right. All kinds of things are happening; here in London, the mayor has organised musical concerts, dancing and theatrical events. Elsewhere in the country there'll be lots of historical activities and re-enactments such as sword fighting and archery.",
+			"translation": "Да, правильно. Все происходит здесь в Лондоне, мэр организовал музыкальные концерты, танцы и театральные события. В других местах страны будет много исторических мероприятий и инсценировок таких как сражение с мечом и стрельба из лука. "},
+
+			{"name": "Kate",
+			"quote": "Sounds like fun. As I said, St George is a patron saint – can you explain what this means?",
+			"translation": "Звучит как веселуха. Как я сказала, Святой Джордж – главный святой – можешь объяснить что это значит? "},
+
+			{"name": "Jackie",
+			"quote": "Well, a saint is a person who has received official honour for having lived in an extremely good or holy way. And a patron saint is believed to have given special help to a particular place or activity or even to a particular person or type of object, for example Saint Anthony is the patron saint of lost things. Now interestingly, St George isn't patron saint of England but also of many other countries and cities including Lithuania, Portugal, Germany, Moscow and Venice.",
+			"translation": "Ну, святой – это личность, которая получила официальную честь за то, что прожила жизнь в экстремально хорошем или святом стиле. Люди верят, что главный святой придавал особую помощь конкретному месту или активности или даже конкретной личности или некому объекту, к примеру Святой Антоний – гланый святой потерянных вещей. Сейчас интересно, что Святой Джордж не является главным святым Англии, но а также и многих других стран и городов, включая Португалию, Германию, Москву или Венецию."}, 
+
+			{"name": "Kate",
+			"quote": [
+				"Well, before we go any further, here's my question for this week. According to the legend, which mythical creature did Saint George kill?",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) a unicorn",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) a dragon",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) a griffin"
+			],
+			"translation": [
+				"Ну до того, как мы двинемся дальше – мой вопрос для этой недели. Согласно легенде, какое мифическое создание убил Святой Джордж?",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) единорог",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) дракон",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) гриффин"
+			]},
+
+			{"name": "Jackie",
+			"quote": "Answers",
+			"translation": "Ответы"},
+
+			{"name": "Kate",
+			"quote": "We'll check your answer in a few minutes. St George's Day is great fun and an ideal opportunity for people to celebrate their nationality and being English. It reminds us that we are proud of our national identity, where we come from and who we are. However it is important to make the distinction that Britain is made up of England, Wales and Scotland and each country has its own patron saint with its own special day. St Andrew is patron saint for Scotland and Saint David is for Wales.",
+			"translation": "Мы проверим твой ответ в конце программы. День Святого Джорджа – это огромное веселье и идеальная возможность для людей отпраздновать свою национальность и то, что они англичане. Это напоминает нам то, что мы гордимся своей национальной идентичностью, откуда мы пришли и кто мы. Хотя важно сделать различие, что Британия состоит из Англии, Уэльса и Шотландии, и у каждой страны есть свой главный святой со своим собственным особым днем. Святой Эндрю – это главный святой в Шотландии, и Святой Давид – в Уэльсе. "}, 
+
+			{"name": "Jackie",
+			"quote": "Yes, and what's interesting is that Britain is an extremely diverse society which means there are many different cultures and nationalities living here who all consider themselves to be all or at least, part British. Let's hear a bit more about this in our first extract from the BBC's Mathew D'Aconna. He uses the expression multiple identities. What does this mean Kate?",
+			"translation": "Да, и что самое интересное – это то, Британия – это экстремально разное общество, что означает много разных культур и национальностей, живущих здесь, которые рассматривают себя британцами или частью Британии. Давайте послушаем немного об этом в нашей следующей выдержке от Мэтью Д`Аконна из ВВС. Он использует выражение множественные национальности. Что это значит, Кейт?"},
+
+			{"name": "Kate",
+			"quote": "multiple identities refers to people from lots of different backgrounds. Can you hear 2 reasons why Britain has such a variety of people living here?",
+			"translation": "Множественные национальности относятся к людям из множества разных бэкграундов. Можешь ли ты расслышать 2 причины почему у Британии такое многообразие людей живущих здесь? "},
+
+			{"name": "Clip 1",
+			"quote": "The United Kingdom has always been a map of multiple identities. How much truer that is today in an era of mass immigration and labour mobility. More and more of us are hybrids.",
+			"translation": "Объединенное Королевство всегда было картой множественных национальностей. Как сильно правдиво это сегодня в эру массовой эмиграции и трудовой мобильности. Все больше и больше из нас являются гибридами. "},
+
+			{"name": "Jackie",
+			"quote": "Mathew D'Aconna said we're living in an era of mass immigration and labour mobility. This means many people have come into Britain to live and work. Labour mobility means that people are moving around a lot to work.",
+			"translation": "Мэтью Д`Аконна сказал, что мы живем в эру массовой эмиграции и трудовой мобильности. Это означает, что много людей приехали в Британии чтобы жить и работать. Трудовая мобильность означает, что люди много ездят чтобы работать. "},
+
+			{"name": "Kate",
+			"quote": "And hybrids is a word we use to describe people, animals or plants which are made up of a mixture of two different things. When people live in these multi-cultural societies, there are methods we use to define our national identity. We're going to hear from a social psychologist Steve Reicher, talking about two forms of identity, both Ethnic and Civil:",
+			"translation": "И гибриды – это слово, которое мы используем, чтобы описать людей, животных или растений, которые состоят из смеси двух разных вещей. Когда люди живут в этих мульти-культурых сообществах, есть способы, которые мы используем, чтобы описать нашу национальную идентичность. Мы послушаем социального психолога Стива Рейчера, рассказывающего о двух формах идентичности, этнической и гражданской:"},
+
+			{"name": "Clip 2",
+			"quote": "An Ethnic definition is one based upon descent – 'why am I Scottish? I'm Scottish because I come of Scottish parents who themselves were born of Scottish parents' so it's backward looking in that it roots our identity in the past. The Civic definition is much more about 'I am here now, I am committed in the future to this country, I devote myself to this country'.",
+			"translation": "Этническое определение – это которое основано на происхождении – «почему я шотландец?» Я шотландец, потому что я рожден от шотландских родителей, которые сами были рождены от шотландских родителей, так что смотря на это обратно это пускает корни нашей идентичности в прошлом. Гражданское происхождение  намного более о том что «сейчас я здесь, в будущем я буду привержен этой стране, я посвящаю себя этой стране»."},
+
+			{"name": "Jackie",
+			"quote": "Steve Reicher said that people often make a distinction between those two different types of national identity. One is Ethnic and is based on looking into our past and where our families are from. The other is Civic and is more about where we live now and where we chose to spend our lives in the foreseeable future.",
+			"translation": "Стив Рейчер сказал, что люди часто делают различие между двумя разными типами национальной идентичности. Одна – этническая и основана на взгляде в наше прошлое и откуда наши семьи. Другая – гражданская и больше о том где сейчас мы живем и о том где мы выбираем прожить наши жизни в обозримом будущем. "},
+
+			{"name": "Kate",
+			"quote": "So we've established we have a wide range of people from all over the world living in the UK. But how do they define themselves and refer to their national identity? Have a listen to some people from the streets of London and see if you can hear the different ways in which they define themselves.",
+			"translation": "Так что мы установили, что у нас есть широкий диапазон людей из всего мира, проживающих в ОК. Но как они определяют себя и ссылаются на свою национальную идентичность? Послушаем нескольких людей на улицах Лондона и посмотрим сможешь ли ты услышать разные способы, которыми они определяют себя."},
+
+			{"name": "Clip 3",
+			"quote": [
+				"- I'm from England so I'm English rather than British",
+				"- I'm an Asian but British",
+				"- I would say I'm Northern Irish",
+				"- I'm a Muslim living in Britain",
+				"- Definitely British, but definitely Irish",
+				"- I suppose I see myself as British but I've got a lot of Jewish in me as well",
+				"- Well I was born over here so you're classed English and British aren't you."
+			],
+			"translation": [
+				"- Я из Англии, так что я англичанин нежели чем британец",
+				"- Я азиат, но британец",
+				"- Я бы сказал, что я северный ирландец",
+				"- Я мусульманин, проживающий в Британии",
+				"- Определенно британец, но определенно ирландец",
+				"- Полагаю что вижу себя британцем но у меня также есть еврейского",
+				"- Ну я родился здесь, так что классифицируюсь англичанином и британцем, не так ли"
+			]},
+
+			{"name": "Jackie",
+			"quote": "Lots of very different answers there and most people seem to be a bit of a mix. Interestingly many people consider themselves to be British and something else….Britain really is a melting pot of cultures. A melting pot: this is an expression we sometimes use to describe a society of people from lots of different backgrounds who all live together.",
+			"translation": "Там много разных ответов и большинство людей кажутся немного смешанными. Интересно, что много людей считают себя британцами и кем-нибудь еще…. Британия – действительно плавильный горшок культур. Плавильный горшок: это выражение, которое мы иногда используем, чтобы описать общество людей с множеством разных бэкграундо, которые все живут вместе."},
+
+			{"name": "Kate",
+			"quote": [
+				"So let's go over some of the words and expressions we've come across today. We had:",
+				"patron saints which are saints who are believed to give special help to a",
+				"particular place, activity, person or type of object",
+				"diverse society – a place where people from many different cultures and nationalities live",
+				"multiple identities – refers to people from lots of different backgrounds",
+				"mass immigration – the movement of many people coming into a country to live and work",
+				"labour mobility – refers to people who move around a lot to work",
+				"hybrids - a word we can use to describe people, animals or plants which are made up of a mixture of two different things",
+				"melting pot – an expression we sometimes use to describe a society with people from lots of different backgrounds"
+			],
+			"translation": [
+				"Давай пройдемся по некоторым словам и выражениям, с которыми мы столкнулись сегодня. У нас были:",
+				"Главные святые – святые, которые как верят люди придает особую помощь конкретному месту, деятельности, личности и определенному объекту",
+				"Разнообразное общество – место, где люди из разных культур и национальностей живут",
+				"Множественные национальности  - относятся к людям из множества разных бэкграундов",
+				"Массовая иммиграция – передвижение многих людей приезжающих в страну, чтобы жить и работать",
+				"Рабочая мобильность – относится к людям, которые много переезжают чтобы работать",
+				"Гибриды – слово, которые мы используем чтобы описать людей, животных или растений, которые состоят из помеси двух разных вещей",
+				"Плавильный горшок – выражение, которое мы иногда используем, чтобы описать общество с людьми из множества разных бэкграундов."
+			]},
+
+			{"name": "Kate",
+			"quote": "And finally to the question I asked you earlier. I asked you which mythical creature is St George most famous for killing?",
+			"translation": "И в итоге к вопросу, который я задала тебе ранее. Я спросила тебя какое мифическое создание известно как убитое Святым Джорджем?"},
+
+			{"name": "Jackie",
+			"quote": "And I said…",
+			"translation": "И я сказала..."},
+
+			{"name": "Kate",
+			"quote": "You were absolutely correct. According to the story, the brave St George killed the dragon and managed to save the princess at the same time. That's all we have time for. Have a good St George's Day and thanks for listening. Bye!",
+			"translation": "Ты была абсолютна права. Согласно истории, храбрый Святой Джордж убил дракона и ему удалось спасти принцессу в то же время. Это все на сегодня. Хорошего вам Дня Святого Джоржда и спасибо за прослушивание. Пока!"}
+		],
+
+		"img_addr": "6me/2009/2009-04/St-Georges-Day.jpg",
+		"audio_src": "6me/2009/2009-04/2009-04-23 - 6 Minute English - St George's Day.mp3",
+		"title": "BBC 6 Minute English - St Georges Day [День Святого Джоржда], 2009-04-23",
+
+		"words_arr": [
+			{"en_word": "the patron saint", "ru_word": "главный святой"},
+			{"en_word": "to celebrate", "ru_word": "праздновать"},
+			{"en_word": "the mayor", "ru_word": "мэр"},
+			{"en_word": "elsewhere ", "ru_word": "в другом месте"},
+			{"en_word": "the enactment", "ru_word": "постановка"},
+			{"en_word": "the sword ", "ru_word": "меч"},
+			{"en_word": "the archery", "ru_word": "стрельба из лука"},
+			{"en_word": "the creature", "ru_word": "создание"},
+			{"en_word": "the unicorn", "ru_word": "единорог"},
+			{"en_word": "the griffin", "ru_word": "грифон"},
+			{"en_word": "the distinction", "ru_word": "распознавание"},
+			{"en_word": "diverse ", "ru_word": "разнообразный"},
+			{"en_word": "the identity", "ru_word": "личность"},
+			{"en_word": "the labour", "ru_word": "труд"},
+			{"en_word": "the mixture", "ru_word": "смесь"},
+			{"en_word": "the descent", "ru_word": "происхождение"},
+			{"en_word": "to be committed", "ru_word": "быть приверженным"},
+			{"en_word": "to devote", "ru_word": "посвящать"},
+			{"en_word": "foreseeable", "ru_word": "обозримый"},
+			{"en_word": "to establish", "ru_word": "устанавливать"},
+			{"en_word": "to melt", "ru_word": "плавить"},
+			{"en_word": "the pot", "ru_word": "горшок"}
+		]
+	}
+}	
