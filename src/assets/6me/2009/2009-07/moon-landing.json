@@ -1,0 +1,197 @@
+{
+  "data": {
+    "phrases_arr":
+		[
+			{"name": "Kate",
+			"quote": "Hello, I’m Kate Colin, this is 6 minute English and today I'm joined by Rebecca Byrne. Now, you can't failed to have noticed that this month (July) marks the 40th anniversary of the first ever moon landing back in 1969.",
+			"translation": "Привет, я Кейт Колин это программа \"6 минут английского\", и сегодня меня пригласили на передачу Ребека Берн. Сейчас я не могу не упомянуть, что в этом месяце(июле) отмечается 40-я годовщина первой высадки на Луну в 1969-м году."},
+
+			{"name": "Rebecca",
+			"quote": [
+        "Hi Kate, yes, it was indeed 40 years ago in July 1969 that Neil Armstrong became the first man to walk on the Moon. The event which is often called the 'lunar landing' has been described as 'the greatest event in all the history of the human race'.",
+        "It certainly was incredible, especially when you think about how limited technology was then compared to now. I mean, most people watched it on black and white televisions!"
+      ],
+			"translation": [
+        "Привет, я Кейт Колин, это было 40 лет назад в июле 1969-го года, когдя Нейл Армстронг стал первым человеком, ступившим на Луну. Это событие, которое часто называют \"лунной высадкой\", было описано как \"самое великое событие за всю историю человечества\".",
+        "Определенно, это было невероятно, особенно, когда ты думаешь как ограничены были тогда технологии по сравнению с сегодняшним днем. Я имею ввиду, что большинство людей видели это на черно-белых телевизерах!"
+      ]},
+
+			{"name": "Kate",
+			"quote": [
+        "Yes, I know. And it's still feels like a huge an achievement even 40 years on. But before we go any further, here's my question for today:",
+        "How many people in total have walked on the moon?",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) 12",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) 8",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) 6"
+      ],
+			"translation": [
+        "Да, я знаю. И все это еще кажется как огромное достижение за эти 40 лет. Но до того, как мы пойдем дальше, мой вопрос на сегодня:",
+        "Сколько людей высаживалось на Луну?",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) 12",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) 8",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) 6"
+      ]},
+
+			{"name": "Rebecca",
+			"quote": "answers",
+			"translation": ""},
+
+			{"name": "Kate",
+			"quote": [
+        "We'll check your answer at the end of the programme. But now we're going to hear some memories of that historic day in July 1969.",
+        "It was one of those significant times in history when everyone remembers where they were and what they were doing.",
+        "We're going to hear from some people to see what they remember...",
+        "In the first extract we'll hear somebody using the expression pivotal point.",
+        "What does this mean?"
+      ],
+			"translation": [
+        "Мы проверим твой ответ в конце программы. А сейчас послушаем несколько воспоминаний того исторического дня в июле 1969-го. ",
+        "Это было одно из самых значительных времен в истории, когды каждый помнит где он был и что делал.",
+        "Мы послушаем несколько людей, чтобы узнать что они помнят...",
+        "В первой выдержке мы послушаем кое-кого, кто использует выражение \"pivotal point\"",
+        "Что оно значит?"
+      ]},
+
+			{"name": "Rebecca",
+			"quote": "Well, pivotal means very important, or at the centre of some very important events.",
+			"translation": "Ну, \"pivotal\" означает очень важный, или в центре очень важных событий."},
+
+			{"name": "Kate",
+			"quote": "Let's listen to the extract. Can you tell me what the speaker's memories are of the moon landing?",
+			"translation": "Давай послушаем выдержку. Сможешь сказать мне какие воспоминания ответчика насчет высадки на Луну?"},
+
+			{"name": "Clip 1",
+			"quote": "I was out walking after dark with my mother. And she pointed up and she said 'There are men on the moon'. To her it was a pivotal point in human history.",
+			"translation": "Я гулял после наступления темноты со своей мамой. Она указала пальцем и сказала \"Там люди на Луне\". Для нее это было центральным событием в истории человечества."},
+
+			{"name": "Rebecca",
+			"quote": [
+        "Well the speaker was out walking with his mother who pointed up to the moon and told him 'There are men on the moon'!",
+        "I can see why that might seem quite improbable to a small boy but the image has obviously stuck in his mind.",
+        "But he remembers that his mother thought it was a 'pivotal point in human history' which means an extremely important event in the history of man."
+      ],
+			"translation": [
+        "Опрошенный гулял со своей мамой после наступления темноты, которая указал пальцем на Луну и сказала ему \"Там люди на Луне\"!",
+        "Я могу понять почему возможно это показалось вполне неправдоподобным маленькому мальчику, но картинка очевидна застряла в его голове.",
+        "Но он помнит, что его мама думала, что это было \"центральным событием в истории человечества\", что означает крайне важное событие в истории человечества. "
+      ]},
+
+			{"name": "Kate",
+			"quote": "Indeed it was. The next speaker says she liked 'science fiction' – can you explain what this means?",
+			"translation": "Так и было на самом деле. Следующий опрошенный говорит, что ей понравился \"научный вымысел\" - можешь объяснить что это значит?",
+      "part_end": "< КОНЕЦ ПЕРЕВОДА 1-Й ЧАСТИ >"},
+
+			{"name": "Rebecca",
+			"quote": "Science fiction describes certain books or films about an imagined future, especially one which involves space travel and other planets etc.",
+			"translation": "Научный вымысел повествует определенные книги или фильмы о воображаемом будущем, особенно те, которые включают в себя космическое путешествие и другие планеты и т.д."},
+
+			{"name": "Kate",
+			"quote": "And astronaut?",
+			"translation": "А астронавт?"},
+
+			{"name": "Rebecca",
+			"quote": "An astronaut is someone who is specially trained to travel in space and fly a spacecraft. Neil Armstrong was an astronaut.",
+			"translation": "Астронавт - это человек, который специально подготовлен, чтобы путешествовать в космосе и летать на космическом корабле. Нейл Армстронг был астронавтом."},
+
+			{"name": "Kate",
+			"quote": "And finally to 'witness' something means what exactly?",
+			"translation": "И наконец \"быть свидетелем чего-то\" что конкретно означает?"},
+
+			{"name": "Rebecca",
+			"quote": "To witness something means to see it happening. The verb is often used when talking about a crime, accident or important event.",
+			"translation": "Быть свидетелем чего-то означает видеть что-то происходящее. Этот глагол часто используется, когда говоря о преступлении, случайном происшествии или важном событии."},
+
+			{"name": "Kate",
+			"quote": "OK – let's listen to the next extract. What is her memory of the night of the moon landings?",
+			"translation": "Хорошо - давай послушаеи следующую выдержку. Какие воспоминания у опрашиваемой о высадке на Луну."},
+
+			{"name": "Clip 2",
+			"quote": [
+        "I really enjoyed reading science fiction, in fact I had a notion that I myself might become an astronaut one day.",
+        "I really wanted to witness the moon landing, the actual moment when man stepped on the moon.",
+        "My father said he's wake me up for this. He stayed up to watch the moon landing and somehow he forgot to wake me."
+      ],
+			"translation": [
+        "На самом деле мне нравилось читать научную фантастику, фактически у меня было намерение самой стать астронавтом однажды.",
+        "Мне действительно хотелось стать свидетелем высадки на Луну, именно тот момент, когда человек ступил ногой на Луну.",
+        "Мой отец сказал, что разбудит меня ради этого. Он остался смотреть высадку на Луну и каким-то образом забыл разбудить меня."
+      ]},
+
+			{"name": "Rebecca",
+			"quote": [
+        "Oh no! What a terrible story. This speaker said she always liked science fiction so she was obviously very interested in space travel and in the moon landings.",
+        "She said she even wanted to be an astronaut one day!",
+        "I should point out here that the live pictures were being watched in the middle of the night in the UK.",
+        "Her father forgot to wake her up so she could watch it – it happened in the middle of the night.",
+        "She missed the whole thing! Poor girl.",
+        "I don’t think she ever became an astronaut either – all her father's fault."
+      ],
+			"translation": [
+        "О нет! Какая ужасная история. Опрашиваемая сказала, что ей всегда нравилась научная фантастика, так что очевидна она была заинтересована в космических путешествиях и высадках на Луну.",
+        "Она сказала, что даже хотела стать астронавтом однажды!",
+        "Мне лучще указать здесь снаружи, что живые виды были обозримы здесь посреди ночи в Объединенном Королевстве.",
+        "Ее отец забыл разбудить ее, чтобы она смогла посмотреть на это - это произошло посреди ночи.",
+        "Она все пропустили! Бедная девочка.",
+        "Я не думаю, что она когда-нибудь была астронавтом - это все ошибка ее отца."],
+        "part_end": "< КОНЕЦ ПЕРЕВОДА 2-Й ЧАСТИ >"},
+
+			{"name": "Kate",
+			"quote": [
+        "But most people (if they were awake) were able to watch it on TV which must have been an amazing experience.",
+        "In fact so many people in the UK did get out of bed to watch it that the electricity had to provide extra power in order to cope with the extra demand.",
+        "The pictures of the first moon walk was viewed in 49 countries all together. Quite something."
+      ],
+			"translation": [
+        "Но большинство людей (если они не спали(бодрствовали)) были способны наблюдать за этим по телевизору, что должно было быть великолепным опытом.",
+        "Фактически так много людей встали встало посреди ночи, чтобы наблюдать за этим, чтоб электричество должно было обеспечить дополнительные мощности, чтобы справиться с дополнительной потребностью в нем.",
+        "Перые кадры первой лунной высадки смотрели в 49 странах вместе."
+      ]},
+
+			{"name": "Rebecca",
+			"quote": "I'm not surprised. If I'd been about I wouldn't have missed it for anything.",
+			"translation": "Я не удивлена. Если бы я была в то время, я бы никогда не пропустила это ни за что."},
+
+			{"name": "Kate",
+			"quote": "No, me neither. Would you go to the moon if you were given the chance?",
+			"translation": "А я бы нет. Ты бы отправилась на Луну, если бы тебе был дан шанс?"},
+
+			{"name": "Rebecca",
+			"quote": "answers",
+			"translation": ""},
+
+			{"name": "Kate",
+			"quote": "It is strange though because we've just been living with the knowledge that this happened but when you stop to think about what a huge achievement it was, especially for its time, it really takes your breath away.",
+			"translation": "Странно, хотя из-за того, что мы живем со знанием того, что это произошло, но когда ты перестаешь думать о том какое огромное достижение это было, особенно для тех времен, это действительно захватывает дух."},
+
+			{"name": "Rebecca",
+			"quote": "answers",
+			"translation": ""},
+
+			{"name": "Kate",
+			"quote": "OK – so to the question I asked you earlier. Since that historic day in July 1969, how many people have walked on the moon?",
+			"translation": "Хорошо - обратно к вопросу, который я задала тебе ранее. С того исторического дня в июле 1969-го, сколько людей высаживались на Луну?"},
+
+			{"name": "Rebecca",
+			"quote": [
+        "The correct answer is 12 and the last time someone was up there was in 1972. Time for another visit I think...",
+        "That's all we've got time for. Until next time. Goodbye!"
+      ],
+			"translation": [
+        "Правильный ответ - 12, последний раз, когда кто-то был там, было в 1972-м году. Время для следующего визита я думаю будет...",
+        "Это все на сегодня. До следующго раза. Пока!"
+      ]}
+		],
+
+    "img_addr": "6me/2009/2009-07/Moon-landing.jpg",
+    "audio_src": "6me/2009/2009-07/2009-07-30 - 6 Minute English - Moon landing.mp3",
+    "title": "BBC 6 Minute English - Moon landing [Высадка на Луну], 2009-07-30",
+
+    "words_arr": [
+      {"en_word": "pivotal", "ru_word": "центральный"},
+      {"en_word": "inprobable", "ru_word": "неправдоподобный"},
+      {"en_word": "the space travel", "ru_word": "космическое путешествие"},
+      {"en_word": "the spacecraft", "ru_word": "космический корабль"},
+      {"en_word": "somehow", "ru_word": "каким-то образом"}
+    ]
+  }
+}
