@@ -1,0 +1,227 @@
+{
+  "data": {
+    "phrases_arr": [
+        {
+            "name": "Callum",
+            "quote": "Hello I’m Callum Robertson and with me today for 6 Minute English is Jackie Dalton – hello Jackie.",
+            "translation": "Привет,  я Callum Robertson и со мной сегодня на передаче «6 Minute English» Jackie Dalton – привет, Jackie."
+        },
+
+        {
+            "name": "Jackie",
+            "quote": "Hello Callum.",
+            "translation": "Привет, Callum. "
+        },
+
+        {
+            "name": "Callum",
+            "quote": "Now Jackie, I’m going to play you something and I wonder if you can guess what is being talked about. This is Ian Macwhirter, who’s a political commentator: ",
+            "translation": "Сейчас, Jackie, я кое-что включу для тебя, и я удивлюсь, если ты сможешь угадать о чем тут говориться. Это Ian Macwhirter, который является политическим комментатором: "
+        },
+
+        {
+            "name": "Ian Macwhirter",
+            "quote": "The thing is that this is a bubble, and all bubbles eventually burst, and when they burst a lot of people get hurt. ",
+            "translation": "Суть в том, что это пузырь, а пузыри в конечном итоге лопаются, и когда они лопаются,  много людей из-за этого страдают. "
+        },
+
+        {
+            "name": "Jackie",
+            "quote": "Well you gave me a clue when you said that he’s a political commentator – so it’s something to do with politics … ",
+            "translation": "Ты дал мне подсказку, когда сказал, что он политический комментатор – так что здесь что-то, связанное с политикой. "
+        },
+
+        {
+            "name": "Callum",
+            "quote": "Well yes and no, really – not exactly politics, but certainly politics are involved. ",
+            "translation": "И да, и нет – но не совсем с политикой, но определенно политика затронута. "
+        },
+
+        {
+            "name": "Jackie",
+            "quote": "Can I listen again? ",
+            "translation": "Можно мне еще раз послушать? "
+        },
+
+        {
+            "name": "Callum",
+            "quote": "Of course. Here’s Ian Macwhirter again",
+            "translation": "Конечно, и здесь опять Ian Macwhirter"
+        },
+
+        {
+            "name": "Ian Macwhirter",
+            "quote": "The thing is that this is a bubble, and all bubbles eventually burst, and when they burst a lot of people get hurt. ",
+            "translation": "Cуть состоит в том, что это пузырь, и все пузыри в конечном итоге лопаются, и когда они лопаются многим людям от этого становится плохо. "
+        },
+
+        {
+            "name": "Jackie",
+            "quote": "Well I guess it’s to do with the economy and the one thing that comes to mind at the moment is the housing market.",
+            "translation": "Я полагаю, что это связано с экономикой, и одна из вещей, которая приходит мне на ум – это рынок недвижимости. "
+        },
+
+        {
+            "name": "Callum",
+            "quote": "Exactly right well done. He was talking about the state of the housing market in Britain. Can you explain what he means when he says ‘it’s a bubble and it’s going to burst’? ",
+            "translation": "Точно. Он говорил о состоянии рынка недвижимости в Британии. Можешь ли ты объяснить, что он имел ввиду, когда говорил, что это пузырь и он взорвется? "
+        },
+
+        {
+            "name": "Jackie",
+            "quote": "The price of property in Britain has been growing very quickly for over a decade now. Prices have risen far far higher than salaries. So this increase in prices happened in a strong economic period, but now things are not so good in the economy and the prediction is that prices will fall again very quickly. ",
+            "translation": "Цена недвижимости росла очень быстро за последние десять лет. Цены поднялись намного выше, чем зарплаты.  Это увеличение в ценах произошло во время сильного экономического периода, но сейчас экономика не так хороша, и предсказывается, что цены упадут тоже очень быстро. "
+        },
+
+        {
+            "name": "Callum",
+            "quote": "Exactly, I’m going to try and demonstrate this now. I have a balloon here, and as I start blowing it gets bigger, and bigger, and bigger but it can’t go on getting bigger for ever, at some point it becomes too big and it bursts. So that’s what’s happened to the housing market in Britain. Prices have got so high, they couldn’t get any higher and the bubble has burst – prices are coming down.",
+            "translation": "Я попробую продемонстрировать это прямо сейчас. У меня здесь есть надувной шарик, и как только я начну его надувать, он будет становиться все больше и больше, но он не может становиться больше постоянно, и в некоторый момент он станет слишком большим и взорвется. И это то, что произошло с рынком недвижимости в Британии. Цены повысились, но они не могли постоянно расти,  и пузырь лопнул, т.е. цены начали падать. "
+        },
+
+        {
+            "name": "Jackie",
+            "quote": "You would think that would be good news because it means that houses would become cheaper, more affordable. ",
+            "translation": "Ты бы мог подумать, что это хорошая новость, потому что это означает, что дома становятся дешевле и более доступными. "
+        },
+
+        {
+            "name": "Callum",
+            "quote": "It’s good if you want to buy, but for those who want to sell it means their house might not be worth as much as they paid for it – this can lead to a lot of financial difficulty – the hurt that Ian Macwhirterreferred to. This situation is known as ‘negative equity’, ‘negative equity’. Effectively this means your property is worth less than you paid for it. Ian Macwhirterhad a warning about this – but who was his warning for, listen and find out. ",
+            "translation": "Это хорошо, если ты хочешь купить, но для тех, кто хочет продать, это означает, что их дом возможно не стоит так много, сколько они за него заплатили – это может привести к финансовым трудностям – боль, на которую ссылался Ian Macwhirter. Эта ситуация известна как «отрицательный капитал». Фактически это означает, что твоя собственность уже стоит меньше, чем  за нее было заплачено. Ian Macwhirter предупреждал об этом – но кого он предупреждал, давайте послушаем и выясним. "
+        },
+
+        {
+            "name": "Ian Macwhirter",
+            "quote": "I think particularly first time buyers really need to be warned that if you buy anywhere now you'll be in negative equity within about a year, eighteen months. ",
+            "translation": "Я думаю, что покупателям которые покупают дом впервые надо быть предупрежденными, что если они покупают сейчас дом в любом месте, то они будут в отрицательном капитале в течение года, полтора."
+        },
+
+        {
+            "name": "Callum",
+            "quote": "So Jackie, who needs to be careful. ",
+            "translation": "Так что, Jackie, кому надо быть осторожным? "
+        },
+
+        {
+            "name": "Jackie",
+            "quote": "Well he talked there about ‘first-time buyers’. ‘First-time buyers’. A first-time buyer is someone who hasn’t owned a property before and so therefore is buying a house for the first time.  ",
+            "translation": "Так, он говорил о перворазовых покупателях. Перворазовый покупатель – это тот, у которого раньше не было недвижимости и который впервые ее покупает. "
+        },
+
+        {
+            "name": "Callum",
+            "quote": "That’s right, lets’ listen to Ian Macwhirter again ",
+            "translation": "Правильно, давай еще раз послушаем Ian Macwhirter"
+        },
+
+        {
+            "name": "Ian Macwhirter",
+            "quote": "I think particularly first time buyers really need to be warned that if you buy anywhere now you'll be in negative equity within about a year, eighteen months.",
+            "translation": "Я думаю, что покупателям в первый раз на самом деле надо быть предупрежденными, что если вы покупаете сейчас где-угодно, вы будете в минусе(отрицательном капитале) около года - полтора."
+        },
+
+        {
+            "name": "Callum",
+            "quote": "So Jackie, talking about this issue, what about you? Do you own a house or do you rent? ",
+            "translation": "Jackie, что насчет тебя относительно этого вопроса. У тебя есть дом или ты снимаешь? "
+        },
+
+        {
+            "name": "Jackie",
+            "quote": "I rent, I would love to be able to own a house but as we know in London it’s very very very expensive and it’s actually hard to buy your first house. ",
+            "translation": "Снимаю, но я бы хотела иметь свой собственный дом, но как мы знаем в Лондоне это очень очень дорого, и на самом деле тяжело купить свой первый дом. "
+        },
+
+        {
+            "name": "Callum",
+            "quote": "It is, it’s very hard and it’s very difficult to get that first ‘rung’ on the ‘property ladder’. Now the ‘property ladder’ is what everybody talks about. What does that mean? ",
+            "translation": "Это очень тяжело. Трудно встать на первую ступень «лестницы недвижимости. Сейчас о «лестнице недвижимости» говорит каждый. Что оно означает? "
+        },
+
+        {
+            "name": "Jackie",
+            "quote": "It’s kind of the idea that once you’ve bought your first house, after that, if you want to move again, you’re going to need extra money to buy a nicer house. So once you’ve bought your first one you can sell that, take the money from it and move up into a bigger or nicer house which costs more money. ",
+            "translation": "Это некая идея, которая заключается в следующем – купив однажды свой первый дом, после вы захотите переехать и вам понадобятся дополнительные деньги, чтобы купить жилье получше. Таким образом, купив однажды свой первый дом, вы можете продать его и получить от этого деньги, и переехать в жилье получше. "
+        },
+
+        {
+            "name": "Callum",
+            "quote": [
+              "Yep, so it’s like a ladder, you keep going up and up and up. But it’s very difficult to get that first step on to the property ladder.",
+              "Now one thing that people are talking a lot about this moment, it’s like a new expression that’s come into the language, and it’s the ‘credit crunch’. Have you heard this expression Jackie?"
+            ],
+            "translation": [
+              "Так что это как лестница – ты продолжаешь подниматься выше и выше, но очень трудно встать на первую ступень.",
+              "И еще одно вещь, о которой люди говорят больше всего – это как новое выражение, которое пришло в наш язык, и это «кредитный треск». Ты когда-нибудь слышала это выражение, Jackie? "
+            ]
+        },
+
+        {
+            "name": "Jackie",
+            "quote": "Yes, it’s been on the news all the time, hasn’t it? ",
+            "translation": "Да, оно было в новостях все время, не так ли? "
+        },
+
+        {
+            "name": "Callum",
+            "quote": "Absolutely, you can’t listen to a programme, you can’t turn over a newspaper without seeing the expression ‘credit crunch’. What does it mean though? ",
+            "translation": "Да, ты не можешь слушать передачу или перелистывать газету, не встретив это выражение – «кредитный треск». Однако, что оно означает? "
+        },
+
+        {
+            "name": "Jackie",
+            "quote": "Well a ‘credit crunch’ is a period when it’s very difficult to get credit and the interest rates are very high because the banks are scared of losing money. So it’s not really a new phenomenon but the term is very new in everyday vocabulary. ",
+            "translation": "Хорошо, «кредитный треск» - это время, когда сложно взять кредит и процент очень высок, потому что банки боятся потерять деньги. Это не новый феномен, но термин очень молод в повседневном лексиконе. "
+        },
+
+        {
+            "name": "Callum",
+            "quote": "I did a search of the BBC website and Jackie, when do you think the first use of this term I came across was? Was it in January 2007, June 2007 or December 2007? ",
+            "translation": "Я прорыскал сайт BBC и когда ты думаешь, Jackie, был первый раз, когда этот термин было использован? В январе 2007-го, июне 2007-го или декабре 2007-го? "
+        },
+
+        {
+            "name": "Jackie",
+            "quote": "I think I can make a good guess at this one. I think it was June 2007 because that’s when this all started up again and it became big in the news. ",
+            "translation": "Я думаю могу угадать. Думаю что в июне 2007-го, потому что тогда это все началось и все новости об этом трубили. "
+        },
+
+        {
+            "name": "Callum",
+            "quote": [
+              "Exactly, well done. The answer is indeed June 2007. Now that won’t be the first time that term was ever used, but it was the first reference to it that I could find on the BBC website! Maybe you can find an earlier one. It did exist as a term known and used by economists but now everyone knows it. It’s like a new expression that’s been born in our lifetime! And as you said it does seem to be in the headlines everyday.",
+              "Well that’s all the time we have time for this programme, but do join us again for another 6 Minute English soon. Goodbye "
+            ],
+            "translation": [
+              "Точно, правильно – в июне 2007-го, но это не было первым разом, когда этот термин было использован – это была первая ссылка на него, которую я смог найти  на сайте ВВС. Возможно можно найти его и раньше. Это был термин, которые знали и использовали экономисты, но никто другой не знал его. Это было как новое выражение, которое было рождено в нашей жизни! И как ты сказала, оно было в заголовках каждый день.",
+              "И это все на сегодня, присоединяйтесь к нам в следующей передаче – пока. "
+            ]
+        },
+
+        {
+            "name": "Jackie",
+            "quote": "Goodbye.",
+            "translation": "Пока. "
+        }
+    ],
+
+    "img_addr": "6me/2008/2008-08/credit-crunch.jpg",
+    "audio_src": "6me/2008/2008-08/2008-08-20 - 6 Minute English - Credit crunch.mp3",
+    "title": "BBC 6 Minute English podcast - Credit crunch [Кредитный треск], 2008-08-20",
+
+    "words_arr": [
+        {"en_word": "eventually", "ru_word": "в конце концов"},
+        {"en_word": "to burst", "ru_word": "лопаться взрываться"},
+        {"en_word": "the housing market", "ru_word": "рынок жилья"},
+        {"en_word": "the balloon", "ru_word": "воздушный шар"},
+        {"en_word": "affordable", "ru_word": "позволительный по средствам"},
+        {"en_word": "effectively", "ru_word": "фактически"},
+        {"en_word": "the ladder", "ru_word": "лестница"},
+        {"en_word": "the credit crunch", "ru_word": "кредитный треск"},
+        {"en_word": "to turn over", "ru_word": "перелистывать"},
+        {"en_word": "the vocabulary.", "ru_word": "словарный запас"},
+        {"en_word": "indeed", "ru_word": "на самом деле"}
+    ]
+  }
+}

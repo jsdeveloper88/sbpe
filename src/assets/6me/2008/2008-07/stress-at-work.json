@@ -1,0 +1,400 @@
+{
+  "data": {
+    "phrases_arr": [
+      {
+        "name": "Doug",
+        "quote": "Hello, I’m Doug Campbell and this is 6 minute English. Today we’re talking about stress. Stress at work. And I’m here with the very relaxed Jackie Dalton. ",
+        "translation": "Привет, я Doug Campbell и это передача «6 Minute English». Сегодня мы поговорим о стрессе - стрессе на работе. И здесь со мной очень расслабленная Jackie Dalton. "
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "Hi Doug, yes our topic today is about difficult jobs – they can make you feel really stressed. ",
+        "translation": "Привет, Doug, да, сегодня наша тема о сложных  работах – они действительно могут заставить тебя чувствовать под стрессом. "
+      },
+
+      {
+        "name": "Doug",
+        "quote": "And Jackie as usual I have a question for you. ",
+        "translation": "И как обычно, Jackie, у меня есть вопрос для тебя. "
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "Okay, well now I am feeling stressed! What’s the question? ",
+        "translation": "Хорошо, сейчас я чувствую себя под стрессом. Какой вопрос? "
+      },
+
+      {
+        "name": "Doug",
+        "quote": [
+          "Okay, here we go. Which of these three jobs is considered the most stressful? Is it",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) a broadcaster",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) a teacher",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) a pilot"
+        ],
+        "translation": [
+          "Хорошо – какая из этих работа считается самой стрессовой?",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) Диктор",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) Учитель",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) Пилот"
+        ]
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "Oh that’s a very tricky one. I won’t say broadcaster because I’m usually not very stressed.Teacher….I think can be extremely stressful because you’ve got lots of people with you all the time who you’ve got to control.Pilot is probably quite scary because you got to…. you are responsible for lots of lives but I’m going to go with teacher because I think day to day it’s quite a stressful job. ",
+        "translation": "Очень хитрый вопрос. Я не скажу что диктор, потому что обычно я не под стрессом. Учитель … Я думаю может быть стрессовой, потому что у тебя все время куча людей, которых ты должен контролировать. Пилот – возможно вполне ужасная, потому что ты должен … ты ответственен за много жизней, но я отвечу что учитель, потому что изо дня в день это вполне стрессовая работа.  "
+      },
+
+      {
+        "name": "Doug",
+        "quote": "Okay, we’ll check your answers in a few minute. But first here’s Val, talking to people on the streets of London. Some workers in London are very stressed out! Here’s Val, talking to her first stressed out worker. What’s her job?",
+        "translation": "Хорошо, мы проверим твой ответ через несколько минут. Но сначала здесь Val, говорящая с людьми на улицах Лондона. Некоторые работники в Лондоне находятся под очень сильным стрессом! Здесь Val, говорящая со своим первым работником, находящейся под стрессом. Какая у нее работа?"
+      },
+
+      {
+        "name": "Val",
+        "quote": "Right, let’s find some stressed out people in London. What stresses you out at work? ",
+        "translation": "Хорошо, давайте найдем несколько людей под стрессом в Лондоне. Что вводит вас под стресс на работе? "
+      },
+
+      {
+        "name": "Woman",
+        "quote": "Everything!!!!!",
+        "translation": "Все!!!!! "
+      },
+
+      {
+        "name": "Val",
+        "quote": "What do you do? ",
+        "translation": "Чем вы занимаетесь? "
+      },
+
+      {
+        "name": "Woman",
+        "quote": "I work as a waitress at a hotel. ",
+        "translation": "Я работаю официанткой в отеле. "
+      },
+      {
+        "name": "Val",
+        "quote": "So that’s a stressful job?",
+        "translation": "Так это стрессовая работа? "
+      },
+
+      {
+        "name": "Woman",
+        "quote": "Well, it can be. ",
+        "translation": "Она может быть такой. "
+      },
+
+      {
+        "name": "Val",
+        "quote": "What’s stressful about it? ",
+        "translation": "Что в ней такого стрессового? "
+      },
+
+      {
+        "name": "Woman",
+        "quote": "Well, just getting everything done on time and getting all the customers fed at the same time and it’s really busy and things like that. ",
+        "translation": "Ну все должно быть сделано вовремя, и все клиенты должны быть сыты в одно и то же время, и это действительно хлопотно и все такое. "
+      },
+
+      {
+        "name": "Doug",
+        "quote": "Well, she’s a waitress. She works in a restaurant in a hotel and she says her job can be stressful sometimes. ",
+        "translation": "Хорошо, она официантка. Она работает в ресторане отеля, и она говорит что иногда ее работа может быть cтрессовой. "
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "Well if it’s a busy restaurant and there’s a lot to do that can be really stressful. And I’m sure some customers can be difficult, you know when they complain about the service or the food. ",
+        "translation": "Хорошо, если это посещаемый ресторан и там нужно много чего делать, то это может быть действительно стрессово. И я уверена, что некоторые клиенты могут быть сложными – ты знаешь, когда они жалуются насчет сервиса или еды. "
+      },
+
+      {
+        "name": "Doug",
+        "quote": "And there’s a lot to do. Getting everything done – that’s stressful. You’re listening to BBC LearningEnglish.com. ",
+        "translation": "И много чего делать. Все должно быть сделано - это действительно стрессово. Вы слушаете BBC LearningEnglish.com"
+      },
+
+      {
+        "name": "Doug",
+        "quote": "Now Jackie, so you don’t think your job is stressful. ",
+        "translation": "Сейчас, Jackie, ты не думаешь что твоя работа стрессовая. "
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "I think it’s sometimes stressful but it’s really not too bad. But there is a lot do and that sometimes stressful but lots of jobs are like that. ",
+        "translation": "Я думаю иногда она стрессовая, но на самом деле она не очень плохая. Но есть много чего делать, и это иногда стрессово, но многие работы как эта. "
+      },
+
+      {
+        "name": "Doug",
+        "quote": "Well let’s hear more from Val, who is asking our question - what stresses you out at work? ",
+        "translation": "Хорошо, давайте еще послушаем Val, которая спрашивает: «Что вводит вас в стресс на работе?» "
+      },
+
+
+      {
+        "name": "Val",
+        "quote": "Excuse me Ma’am I just want to ask you a question – What stresses you out at work? ",
+        "translation": "Извините, мэм, я просто хочу вас спросить:«Что вводит вас в стресс на работе?» "
+      },
+
+      {
+        "name": "Woman",
+        "quote": "What stress do I get at work? Everything – too much work. ",
+        "translation": "Что стрессового у меня на работе? Все – очень много работы. "
+      },
+
+      {
+        "name": "Val",
+        "quote": "There you go Doug – too much work. Make sure you don’t do much of that today. ",
+        "translation": "Сюда мы идем, Doug – слишком много работы. Убедись, что ты не делаешь большинство этого сегодня. "
+      },
+
+      {
+        "name": "Doug",
+        "quote": "Thank you very much. Well, what does that woman find stressful at work – “Everything”, she said. ",
+        "translation": "Спасибо большое . Хорошо, что стрессового та женщина находит в своей работе, - «Все» - она сказала. "
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "Too much work. People often complain about that. ",
+        "translation": "Слишком много работы. Люди часто жалуются насчет этого. "
+      },
+
+      {
+        "name": "Doug",
+        "quote": "….that you have too much work. Stress. That’s a word you hear a lot. And here are different forms of the word. ",
+        "translation": "… так у тебя слишком много работы. Стресс. Это слово ты часто слышишь. И здесь различные формы этого слова. "
+      },
+
+      {
+        "name": "Jackie",
+        "quote": [
+          "So yes you can have stress. Stress at work can be a problem.",
+          "Stressed. To be stressed. Are you stressed Doug?",
+          "Stressed out. That’s a bit more informal. Are you stressed out? I’m feeling stressed out today.",
+          "Stressful. Do you have a stressful job? "
+        ],
+        "translation": [
+          "Да, у вас может быть стресс. Стресс на работе может быть проблемой.",
+          "Под стрессом. Быть под стрессом. Ты под стрессом, Doug?",
+          "Утомившийся. Это немного более неформально. Ты утомился? Я чувствую себя утомленным сегодня.",
+          "Стрессовый. Твоя работа стрессовая? "
+        ]
+      },
+      {
+        "name": "Doug",
+        "quote": "You’re listening to BBC Learning English.com. ",
+        "translation": "Вы слушаете BBC Learning English.com"
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "Now here are some more key words and expressions about stress. The people talking about their jobs were quite stressed. Perhaps they were in a hurry. Perhaps they were late for work. ",
+        "translation": "Сейчас здесь несколько более ключевых слов и выражений о стрессе. Люди, говорившие о своих работах, были вполне под стрессом. Возможно, они спешили. Возможно опаздывали на работу. "
+      },
+
+      {
+        "name": "Doug",
+        "quote": "Well, what’s the opposite of stressed? ",
+        "translation": "Какое слово или выражение является противоположностью выражению «под стрессом»"
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "When you are not worried about anything you are very relaxed. ",
+        "translation": "Когда ты ни о чем не беспокоишься, ты очень расслаблен. "
+      },
+
+      {
+        "name": "Doug",
+        "quote": "When you are making a speech – in front of lots of people that can make you feel really stressed. You can be really nervous. ",
+        "translation": "Когда ты произносишь речь перед большим количеством людей, это может заставить тебя чувствовать реально под стрессом. Ты можешь действительно нервничать. "
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "But you should relax. ",
+        "translation": "Но тебе лучше расслабиться. "
+      },
+
+      {
+        "name": "Doug",
+        "quote": "Which is not very easy. ",
+        "translation": "Что не очень легко. "
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "What else is stressful? ",
+        "translation": "Что еще является стрессовым. "
+      },
+
+      {
+        "name": "Doug",
+        "quote": "When you are studying English – taking an exam – that’s stressful. ",
+        "translation": "Когда учишь английский – готовишься к экзаменаи – это стрессово. "
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "It certainly is! ",
+        "translation": "Определенно! "
+      },
+
+      {
+        "name": "Doug",
+        "quote": "And we have been talking about jobs today – stressful jobs.We heard from two women who thought everything about their work was stressful. Here they are again. ",
+        "translation": "И мы сегодня разговаривали о работе – стрессовой работе. Мы выслушали двух женщин, которые думают, что все в их работе стрессово. Здесь они опять. "
+      },
+
+
+      {
+        "name": "Val",
+        "quote": "Right, let’s find some stressed out people in London. What stresses you out at work? ",
+        "translation": "Хорошо, давайте найдем несколько людей под стрессом в Лондоне. Что вводит вас под стресс на работе? "
+      },
+
+
+      {
+        "name": "Val",
+        "quote": "Right, let’s find some stressed out people in London. What stresses you out at work? ",
+        "translation": "Хорошо, давайте найдем несколько людей под стрессом в Лондоне. Что вводит вас под стресс на работе? "
+      },
+
+      {
+        "name": "Woman",
+        "quote": "Everything!!!!!",
+        "translation": "Все!!!!! "
+      },
+
+      {
+        "name": "Val",
+        "quote": "What do you do? ",
+        "translation": "Чем вы занимаетесь? "
+      },
+
+      {
+        "name": "Woman",
+        "quote": "I work as a waitress at a hotel. ",
+        "translation": "Я работаю официанткой в отеле. "
+      },
+      {
+        "name": "Val",
+        "quote": "So that’s a stressful job?",
+        "translation": "Так это стрессовая работа? "
+      },
+
+      {
+        "name": "Woman",
+        "quote": "Well, it can be. ",
+        "translation": "Она может быть такой. "
+      },
+
+      {
+        "name": "Val",
+        "quote": "What’s stressful about it? ",
+        "translation": "Что в ней такого стрессового? "
+      },
+
+      {
+        "name": "Woman",
+        "quote": "Well, just getting everything done on time and getting all the customers fed at the same time and it’s really busy and things like that. ",
+        "translation": "Ну все должно быть сделано вовремя, и все клиенты должны быть сыты в одно и то же время, и это действительно хлопотно и все такое. "
+      },
+
+      {
+        "name": "Val",
+        "quote": "Excuse me Ma’am I just want to ask you a question – What stresses you out at work? ",
+        "translation": "Извините, мэм, я просто хочу вас спросить:«Что вводит вас в стресс на работе?» "
+      },
+
+      {
+        "name": "Woman",
+        "quote": "What stress do I get at work? Everything – too much work. ",
+        "translation": "Что стрессового у меня на работе? Все – очень много работы. "
+      },
+
+      {
+        "name": "Val",
+        "quote": "Thank you ",
+        "translation": "Спасибо"
+      },
+
+      {
+        "name": "Doug",
+        "quote": [
+          "Okay and finally my question",
+          "Which of these jobs is considered to be the most stressful job?",
+          "Is it ",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspa) a broadcaster",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspb) a teacher",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspc) a pilot",
+          "It was a tricky quiz today. "
+        ],
+        "translation": [
+          "Хорошо и в итоге обратно к моему вопросу<br>Какая из этих работ рассматривается как самая стрессовая?",
+          "Это",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) Диктор",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) Учитель",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) Пилот",
+          "Это был хитрый опрос сегодня"
+        ]
+      },
+
+
+      {
+        "name": "Jackie",
+        "quote": "Yes it was and I guessed teacher, but I imagine they can all be stressful at some time. ",
+        "translation": "Я предположила что учитель, но я представляю что все они могут быть стрессовыми в одно и то же время. "
+      },
+
+      {
+        "name": "Doug",
+        "quote": "Yes but I think most people would say that B, a teacher , is the most stressful job, because if you’re a pilot …yes, even though a pilot and perhaps a broadcaster – those jobs can be stressful, surveys say that a teacher is the most stressful job. Big responsibility – you’re taking care of lots of students. ",
+        "translation": "Да, я думаю, что большинство людей сказали бы В, а учитель – это самая стрессовая работа, потому что если ты пилот  … да, даже если ты пилот или возможно диктор – эти виды работ могут быть стрессовыми, но исследование показывает, что учитель – самая стрессовая. Это большая ответственность – заботиться о большом количестве студентов. "
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "Yes. I can see that. ",
+        "translation": "Да – я могу видеть это. "
+      },
+
+      {
+        "name": "Doug",
+        "quote": "That’s all for now. Goodbye ",
+        "translation": "Это все на сегодня. Пока. "
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "Goodbye. ",
+        "translation": "Пока."
+      }
+    ],
+
+    "title": "BBC 6 Minute English podcast - Stress at work [Стресс на работе], 2008-07-03",
+    "img_addr": "6me/2008/2008-07/stress-at-work.jpg",
+    "audio_src": "6me/2008/2008-07/2008-07-30 - 6 Minute English - Stress at work.mp3",
+
+    "words_arr": [
+      {"en_word": "the topic", "ru_word": "тема "},
+      {"en_word": "the broadcaster", "ru_word": "диктор(ведущий на радио)"},
+      {"en_word": "scary", "ru_word": "жуткий, пугливый"},
+      {"en_word": "to stress out", "ru_word": "утомлять"},
+      {"en_word": "to be stressed", "ru_word": "быть под стрессом "},
+      {"en_word": "stressed out", "ru_word": "утомившийся, утомленный"},
+      {"en_word": "busy", "ru_word": "занятый, хлопотный"},
+      {"en_word": "the quiz", "ru_word": "опрос "},
+      {"en_word": "the survey", "ru_word": "исследование "},
+      {"en_word": "to make sure", "ru_word": "убеждаться, удостовериваться"}
+    ]
+  }
+}

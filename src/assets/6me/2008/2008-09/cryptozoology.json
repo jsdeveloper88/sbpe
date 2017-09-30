@@ -1,0 +1,212 @@
+{
+  "data": {
+    "phrases_arr": [
+      {
+        "name": "Callum",
+        "quote": "Hello, I'm Callum Robertson and with me today for 6 Minute English is Jackie Dalton – hello, Jackie.",
+        "translation": "Привет, я Callum Robertson и со мной сегодня на передаче '6 Minute English' Jackie Dalton - привет, Jackie."
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "Hello Callum.",
+        "translation": "Привет, Callum."
+      },
+
+      {
+        "name": "Callum",
+        "quote": "Now in the programme today we're going to be talking about mysterious and mythical creatures and dipping our toes into the cold water of crytptozoology.",
+        "translation": "И сегодня в программе мы поговорим о таинственных и мистических существах и погрузимся в холодную воду криптозоологии."
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "Cryptozoology? Well that's a new word to me!",
+        "translation": "Криптозоология? Это новое слово для меня!"
+      },
+
+      {
+        "name": "Callum",
+        "quote": "And to me Jackie! Cryptozoology is the study of animals that don't fit into any normal categories – so for example looking for living examples of animals which are thought to be extinct",
+        "translation": "И для меня, Jackie! Криптозоология – это учение о животных, которые не входят в обычные категории – к примеру, поиск все еще живых особей, которые, как все думают, уже вымерли."
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "So basically dinosaurs living in modern times?",
+        "translation": "К примеру, динозавры, которые живы в сегодняшнее время?"
+      },
+
+      {
+        "name": "Callum",
+        "quote": "Yes, yes And also the study of creatures for which there is no solid evidence but which exist in legends and folklore.",
+        "translation": "Да, да, а также учение о животных, которые существуют в легендах и фольклоре, но для них нет доказательств в настоящей жизни."
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "Like the Loch Ness Monster?",
+        "translation": "Как Loch Ness Monster?"
+      },
+
+      {
+        "name": "Callum",
+        "quote": [
+          "Exactly. And we'll talk a little more about the Loch Ness monster later but first, a question for you Jackie. A few weeks ago you asked me a question about an English word which was based on a Latin verb. Well today I have a Greek challenge for you. The prefix ‘crypto' in cryptozoology  originally comes from Greek, but what does it mean? Does crypto mean:",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) unknown,",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) hidden, or",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) mysterious"
+        ],
+        "translation": [
+          "Так точно. Мы поговорим немного о Loch Ness Monster позже, но сначала – вопрос для тебя, Jackie. Несколько недель назад ты задала мне вопрос об английском слове, которое произошло от латинского глагола. Сегодня я бросаю тебе вызов из греческого языка. Приставка «крипто» в слове «криптозоология» изначально пришла из греческого языка, но что оно значит? Оно значит",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) неизестный",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) скрытый",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) таинственный"
+        ]
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "Oh, I don't know. I'm going to take a guess at 'unknown'.",
+        "translation": "О, я не знаю. Я предположу, что неизвестный."
+      },
+
+      {
+        "name": "Callum",
+        "quote": "OK we'll find out at the end of the programme if you are right. Now if I say to you the Abominable Snowman – what does that mean to you?",
+        "translation": "Хорошо, мы выясним права ли ты в конце программы. А сейчас, если я скажу тебе «Abominable Snowman» – о чем это тебе говорит?"
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "Er, to me that means a large scary monster that might come from the mountains or something like that.",
+        "translation": "У-у, для меня этот большой ужасный монстр из гор или еще откуда-нибудь."
+      },
+
+      {
+        "name": "Callum",
+        "quote": "Exactly, now that's one word for a creature that is believed to exist in many parts of the world. In North America it's known as Bigfoot or Sasquatch, we know it as the Abominable Snowman and in Tibet and some other countries it's the Yeti. Now in each case the descriptions of this creature are quite similar. In a recent edition of the BBC series From Our Own Correspondent journalist Alastair Lawson reported on his meeting with a man in (meg Ha lair) northeast India who had spent 10 years looking for their Yeti. Let's have a listen to the description from Alastair.",
+        "translation": "Так точно, так называют создание, которое, как верят, живет во многих частях света. В Северной Америке оно известно как Bigfoot или Sasquatch, в Тибете и некоторых других странах – Yeti. Сейчас в каждом случае описания эти создания вполне схожи. В недавнем издании the BBC series From Our Own Correspondent журналист Alastair Lawson сделал доклад о своей встрече с человеком, который 10 лет искал Yeti. Давай послушаем описание от Alastair."
+      },
+
+      {
+        "name": "Alastair Lawson",
+        "quote": "Let me start with the Yeti. It's reputed to be an ape-like animal which stands and weighs nearly two times more than the average man. An artist's impression of the animal - drawn from descriptions provided by eye witnesses - also shows it to be surprisingly hairy. Its two-tone, thick black and grey coat seems incongruous in a part of India where the humidity is so intense that an afternoon's walk often results in a soaking wet shirt.",
+        "translation": "Позвольте мне начать с Yeti. Полагают, что это обезьяноподобное животное, которое имеет рост и вес приблизительно в 2 раза больше, чем у среднестатистического человека. Впечатление художника о животном, полученное от описаний свидетелей, также показывает его удивительно волосатым. Его двухцветная черно-серая шерсть кажется нелепой в части Индии, где влажность так интенсивна, что прогулка в полдень часто заканчивается промокшей влажной рубашкой."
+      },
+
+
+      {
+        "name": "Callum",
+        "quote": "He describes there an animal, about twice the size of a man which is very hairy. But some of the language he uses suggests that he is not sure that the creature exists. Jackie, Alastair says that the Yeti is ‘reputed to be' an ape-like animal. What does he mean by reputed-to be?",
+        "translation": "Он описывает животное, которое в 2 раза больше в размере, чем человек, и которое очень волосатое. Но согласно его речи, предполагается, что он не уверен, что это создание существует, Jackie. Alastair говорит,  предполагается, что Yeti – обезьяноподобное животное. Что он под этим имеет ввиду?"
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "This means something is believed to be true or said to be true but there isn't actually any proof that it is.",
+        "translation": "Это означает, что много людей думают, что что-то является правдой, но на самом деле нет доказательства этому."
+      },
+
+      {
+        "name": "Callum",
+        "quote": "Yes, and he describes the animal as being ‘surprisingly' hairy. Being hairy is a typical feature of many of these creatures, so why is it surprising?",
+        "translation": "Да, и он описывает это животное как существо удивительно волосатое. Волосатость – это обычная особенность многих животных – так что же в этом удивительного?"
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "Well it's ‘surprisingly' hairy because this particular Yeti is believed to inhabit jungles which are hot and humid – so as he also says the thick coat seems incongruous, incongruous – or to put it another way, out of place – it doesn't seem quite right that a creature living in that particular area would have such a thick coat.",
+        "translation": "Оно удивительно волосатое, потому что люди верят, что Yeti обитает в джунглях, которые теплые и влажные – также он говорит, что толстая шерсть кажется нелепой – или другими словами, для данной местности, т.е. это не кажется вполне правильным, что животное, живущее в таком месте, могло бы иметь такую толстую шерсть."
+      },
+
+      {
+        "name": "Callum",
+        "quote": "So he uses the phrase ‘reputed to be', he describes the Yeti as ‘surprisingly hairy' and comments that this feature seems ‘incongruous'. Let's listen again. So what do you think of all this Jackie – do you think there are wild, unknown ape-like creatures wondering around forests and mountains?",
+        "translation": " Так что он использует фразу «reputed to be», он описывает Yeti как удивительно волосатое и комментирует, что эта особенность кажется нелепой. Давай послушаем еще раз. Что ты думаешь насчет всего этого, Jackie – ты думаешь существуют дикие, неизвестные обезьяноподобные создания, бродящие вокруг лесов и гор?"
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "Well I'd like to think that ‘cos it makes it seem rather exciting, but I don't think in these parts there are many signs of that.",
+        "translation": "Я бы хотела так думать, потому что это кажется более интригующим, но я не думаю, что в этих частях есть много знаков этому."
+      },
+
+      {
+        "name": "Callum",
+        "quote": "No I mean, certainly in Great Britain we don't have a Yeti, but we do have a creature that is ‘studied' by cryptozoologists, and that is, of course, Neisse!",
+        "translation": " Нет, я имею ввиду, что определенно в Великобритании у нас нет Yeti, но у нас есть животное, которое изучается криптозоологией, и это конечно Neisse!"
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "Ah yes, the Loch Ness monster.",
+        "translation": "О, да, Loch Ness monster."
+      },
+
+      {
+        "name": "Callum",
+        "quote": "Now Loch Ness is a very large lake in Scotland and there is reputed to be some kind of large creature living in it. Perhaps a dinosaur-like water creature. There have been some photos and some films which claim to show Nessie, but there's still no clear evidence.",
+        "translation": "Сейчас Loch Ness – это очень большое озеро в Шотландии, и считается, что там есть некий вид большого животного, живущего в нем. Возможно динозавроподобное создание. Было несколько фото и фильмов, которые утверждают, что видели Nessie, но все еще нет точного доказательства."
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "So have you ever seen it Callum?",
+        "translation": "Ты когда-нибудь видел его, Callum?"
+      },
+
+      {
+        "name": "Callum",
+        "quote": "I have been to Loch Ness a few times but the only monster I've seen is my own reflection when looking at the water!",
+        "translation": "Я был на Loch Ness несколько раз, но единственным монстром, которого я видел, было мое отражение, когда я смотрел в воду."
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "Yes, I can see how you might think that. But do you think there is something there? Do you believe in the Loch Ness Monster.",
+        "translation": "Я могу видеть как ты думаешь насчет этого. Но думаешь ли ты, что там есть что-то? Веришь ли ты в Loch Ness Monster?"
+      },
+
+      {
+        "name": "Callum",
+        "quote": "I'd like to say yes, but my head says no. I think it's great for tourism and the souvenir industry but I'm not convinced really by any of the evidence I've seen. Well Jackie, it's the time now to find out if you were right or wrong. What does 'crypto' in the word 'cryptozoology' mean, from the original Greek. And you said it meant:",
+        "translation": "Я бы сказал да, но моя голова говорит нет.  Я думаю, что это замечательно для туризма и сувенирной индустрии, но я не убежден ни одним из доказательств. Хорошо, Jackie, пора выяснить была ли ты права или нет. Что “крипто” в слове “криптозоология” означает из оригинального греческого языка? И ты сказала, что оно означает:"
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "'Unknown'",
+        "translation": "'Неизвестный'"
+      },
+
+      {
+        "name": "Callum",
+        "quote": "And the answer is, it means ‘hidden'. So hard luck a good guess – but better luck next time. That's all from this edition of 6 Minute English – bye for now. Goodbye",
+        "translation": "А на самом деле правильный ответ - 'скрытый'. Хорошо предположение для невезения, но лучше везение в следующий раз. Это все на сегодня – пока."
+      },
+
+
+      {
+        "name": "Jackie",
+        "quote": "Goodbye",
+        "translation": "Пока"
+      }
+    ],
+
+    "img_addr": "6me/2008/2008-09/Cryptozoology.jpg",
+    "audio_src": "6me/2008/2008-09/2008-09-10 - 6 Minute English - Cryptozoology.mp3",
+    "title": "BBC 6 Minute English podcast - Cryptozoology [Криптозоология], 2008-09-10",
+
+    "words_arr": [
+      {"en_word": "mysterious", "ru_word": "таинственный"},
+      {"en_word": "mythical", "ru_word": "мифический"},
+      {"en_word": "the creature", "ru_word": "существо"},
+      {"en_word": "the dipping", "ru_word": "погружение"},
+      {"en_word": "extinct", "ru_word": "вымерший"},
+      {"en_word": "solid", "ru_word": "твердый"},
+      {"en_word": "the challenge", "ru_word": "вызов"},
+      {"en_word": "to repute", "ru_word": "полагать"}
+    ]
+  }
+}

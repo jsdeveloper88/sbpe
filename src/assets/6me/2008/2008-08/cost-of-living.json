@@ -1,0 +1,232 @@
+{
+  "data": {
+    "phrases_arr": [
+      {
+        "name": "Callum",
+        "quote": "Hello I’m Callum Robertson and with me today for 6 Minute English is Jackie Dalton – hello Jackie.",
+        "translation": "Привет, я Callum Robertson, и со мной сегодня на передаче «6 Minute English» Jackie Dalton – привет, Jackie."
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "Hello Callum.",
+        "translation": "Привет, Callum. "
+      },
+
+      {
+        "name": "Callum",
+        "quote": "Today we’re going to be looking at the topic of the cost of living. What do we mean by that expression, the cost of living?",
+        "translation": "Сегодня мы рассматриваем тему о цене жизни. Что мы под этим имеем ввиду, цена жизни? "
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "We use it to talk about our everyday expenditure, so what it costs us to live our day to day lives, the cost of food, accommodation, fuel and so on.",
+        "translation": "Мы используем его, чтобы говорить о ежедневных расходах, во сколько нам обходится чтобы жить повседневной жизнью, о цене еды, жилья, бензина и т. д. "
+      },
+
+      {
+        "name": "Callum",
+        "quote": "Do you have any idea what you spend on these things do you know how much it costs to live Jackie Dalton’s life? Знаешь ли ты сколько ты тратишь на эти веши ?",
+        "translation": "Знаешь ли ты сколько это стоить жить жизнью Jackie Dalton? "
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "I have no idea whatsoever actually! I just shut my eyes and hand over my credit card and hope for the best. How about you Callum?",
+        "translation": "На самом деле понятия не имею. Я просто закрываю глаза и протягиваю свою кредитку и надеюсь на лучшее. Как насчет тебя, Callum? "
+      },
+
+      {
+        "name": "Callum",
+        "quote": "Well yes, I figure out my monthly expenses and when I get paid I put that money into a bank account and that’s only used for those regular bills. Any money I have left over goes towards savings or the occasional luxury.",
+        "translation": "Я вычисляю свои месячные расходы и когда все их оплачиваю, я ложу оставшиеся деньги на банковский счет, и они используются только для регулярных счетов. "
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "Well that sounds very organised, Callum!",
+        "translation": "Это звучит очень продуманно, Callum! "
+      },
+
+      {
+        "name": "Callum",
+        "quote": "I suppose it is really. But if I didn’t budget like that I think I’d end up spending all my money each month. Now you’ll notice I used the verb to budget there – could you tell us a bit more about this word Jackie?",
+        "translation": "Полагаю что да. Но если бы я не составлял бюджет, я думаю, я бы растрачивал все свои деньги каждый месяц. Сейчас ты заметишь, что я использовал глагол to «budget» – можешь ли ты нам немного больше рассказать об этом слове, Jackie? "
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "Yes, ‘to budget’ means to plan your finances in the way you described, so that you know you can afford the necessities. There is also a noun, ‘a budget’, you can talk about your weekly or monthly budget, which is the amount of money you set aside to spend on particular things.",
+        "translation": "Да, «to budget» означает планировать свои финансы тем способом, который ты описал – так что ты знаешь, что ты можешь позволить себе все необходимые вещи. Есть также существительное «a budget», ты можешь говорить о своем еженедельном и месячном бюджете, т.е. том количестве денег, которые ты откладываешь на конкретные вещи. "
+      },
+
+      {
+        "name": "Callum",
+        "quote": [
+          "So, for example, I have a monthly food budget. How about you Jackie? Now we’re talking about this today because there was a recent report which set out how much, in terms of money, was the minimum that someone needed to earn each year to have an acceptable standard of living.",
+          "And that’s my question for you today Jackie. According to this report, which we’ll hear more of in a minute, how much do you think was suggested as being the minimum amount a single man needs for an acceptable standard of life in Great Britain?",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) £11,200 (about US$22,400)",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) £13,400 (about US$26,800)",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) £15,600 (about US$31,200)"
+        ],
+        "translation": [
+          "К примеру, у меня есть ежемесячный бюджет для еды. Как насчет тебя, Jackie? Сегодня мы говорим об этом, потому что был недавно отчет, который показывает какая сумма денег является минимумом, чтобы зарабатывал каждый ежегодно, чтобы придерживаться приемлемого стандарта жизни.",
+          "И мой сегодняшний вопрос для тебя, Jackie. Согласно отчету, который мы услышим через минуту, какое количество денег, как ты думаешь, является минимумом для одного человека для приемлемого стандарта жизни в Британии?",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) £11,200 (примерно US$22,400)",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) £13,400 (примерно US$26,800)",
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) £15,600 (примерно US$31,200)"
+        ]
+      },
+
+
+      {
+        "name": "Jackie",
+        "quote": "Well I think life in the UK has got quite expensive so I’m going to go for the highest figure, £15,600. ",
+        "translation": "Я думаю, жизнь  в Британии стала вполне дорогой – так что я назову самое высокую цифру. "
+      },
+
+      {
+        "name": "Callum",
+        "quote": "OK, we’ll see if you’re right at the end of the programme. This research was carried out by an organisation called the Joseph Roundtree Foundation. Here’s their policy advisor, Donald Hirsch describing the project.",
+        "translation": "Хорошо мы проверим права ли ты в конце программы. Организацией Joseph Roundtree Foundation было проведено исследование. Здесь ее советник по политике Donald Hirsch, описывающий проект. "
+      },
+
+      {
+        "name": "Donald Hirsch",
+        "quote": "This was very detailed research in which a number of groups of ordinary people had long discussions about what really needs to go into a household budget to achieve a minimum acceptable standard of living and they thought long and hard about what things are sort of luxuries, what things we might want and what things people really would need to have and this includes not just basics like food and shelter but also things which allow people to participate in society.",
+        "translation": "Это очень подробное исследование, в котором несколько групп обычных людей, ведут беседу о том, что действительно должно входить в семейный бюджет, чтобы придерживаться минимального приемлемого стандарта жизни, и они думали долго и упорно какие вещи являются роскошью, какие вещи мы возможно хотим и какие бы вещи людям реально понадобились, и это включает не только такие необходимые вещи как еда и кров, а также вещи, которые позволяют людям участвовать в социальной жизни. "
+      },
+
+      {
+        "name": "Callum",
+        "quote": "So they wanted to find out not how much was the absolute minimum you could live on, but how much you needed to be able to afford to live and also be involved in a social life. ",
+        "translation": "Они хотели выяснить какое количество денег является абсолютным минимумом, на который они могли бы жить, и сколько вам надо, чтобы быть способным позволить себе на жизнь и быть вовлеченным в социальную жизнь. "
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "They examined a wide range of possible expenditures in everyday life and decided whether each item or service was essential or a luxury. ",
+        "translation": "Они рассмотрели широкий диапазон возможных расходов в повседневной жизни и думали является ли конкретный предмет или услуга обычной или роскошью. "
+      },
+
+      {
+        "name": "Callum",
+        "quote": "It was done by groups of ordinary people who thought “long and hard” about household budgets. Jackie, to think long and hard about something …",
+        "translation": "Это было сделано группой обычных людей, которые думали долго и упорно о семейном бюджете. Jackie, думать долго и упорно о чем-то …"
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "Yes, this is a good expression and it’s fairly simple to understand, to think long and hard about something means to think very carefully about it. What’s important to remember with this phrase is that it is a fixed expression, so you think long and hard about something. You can’t say ‘to think hard and long’ about something, that sounds funny. ",
+        "translation": "Да, это хорошее выражение и вполне простое, чтобы его понять, думать долго и упорно о чем-то означает думать очень осторожно об этом. Важно помнить, чтобы использовать эту фразу то, что это фиксированное выражение, так что ты думаешь долго и упорно о чем-то. "
+      },
+
+      {
+        "name": "Callum",
+        "quote": "Now we’ve just got time to have a look at some of the items they discussed, these groups, about whether they were essential or not essential for everyday life. How about, what do you think they though about mobile phones?",
+        "translation": "Сейчас у нас есть время, чтобы обсудить некоторые предметы, которые они обсуждали, те группы, являются ли которые основными или нет для повседневной жизни. Что, как ты думаешь, они сказали насчет мобильных телефонов. "
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "I would like to think they’re not essential for everyday life.",
+        "translation": "Мне бы хотелось считать, что они не являются обычными для повседневной жизни. "
+      },
+
+      {
+        "name": "Callum",
+        "quote": "Could you live without yours?",
+        "translation": "Ты бы могла жить без своего? "
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "No!",
+        "translation": "Нет! "
+      },
+
+      {
+        "name": "Callum",
+        "quote": "Yes, it was, mobiles phones were regarded as being something that was essential for everyday life. Television and a DVD player? ",
+        "translation": "Да, мобильные телефоны были рассмотрены как обычные для повседневной жизни. Как насчет телевизора и DVD-плеера? "
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "I would say ‘yes’ if you want to in tune with what’s going on in your culture. They are useful to have. ",
+        "translation": "Я бы сказала да, если ты хочешь знать, что происходит в твоей культуре. Они полезны, чтобы они у вас были. "
+      },
+
+      {
+        "name": "Callum",
+        "quote": "Absolutely, yes, that was a thought, that everybody, you know, needed to have a television and a DVD player these days. Access to the internet?",
+        "translation": "Абсолютно, да – был их ответ, что каждому нужно иметь телевизор и DVD-плеер в наши дни. Доступ в интернет? "
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "Yes, I would say so, that’s as important as having a television.",
+        "translation": "Да – сказала бы я, это так же важно иметь как и телевизор. "
+      },
+
+      {
+        "name": "Callum",
+        "quote": "Well they said no, this survey, they said no at home, because people can still access the internet if they want to an internet café or at a library for free, in many cases. And what about a holiday, having a holiday?",
+        "translation": "Они сказали – нет – нет в случае, если иметь его дома, потому что люди все еще могут бесплатно иметь доступ в интернет из интернет-кафе или библиотеки. И что насчет отпуска? "
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "Oh, they’re essential, but it’s probably a luxury isn’t it.",
+        "translation": "О, он обычен, но это возможно роскошь, не так ли? "
+      },
+
+      {
+        "name": "Callum",
+        "quote": "Well it was regarded as being essential, one week budget holiday in the United Kingdom each year was something that was regarded as being essential. Well that is just about all the time we have for today. Before we go, the answer to the question. How much money is needed to pay for all these essential things and it was £13,400. Now you said £15,600 Jackie, not as much as that, so but unfortunately you go the answer wrong – again! Well never mind about that. Join us again for more 6 Minute English soon. Goodbye. ",
+        "translation": "Он был рассмотрен как обычный. Однонедельный бюджет для отпуска в Британии Хорошо, это все на сегодня. Но до того как мы закончим – ответ на сегодняшний вопрос. Какое количество денег нужно, чтобы купить все эти обычные вещи ? И правильный ответ £13,400. А ты сказала £15,600, Jackie - не так много на самом деле – к сожалению ты ответила неправильно – снова! Не переживай. Слушайте нас снова скоро. Пока. "
+      },
+
+      {
+        "name": "Jackie",
+        "quote": "Goodbye.",
+        "translation": "Пока."
+      }
+    ],
+
+    "img_addr": "6me/2008/2008-08/cost-of-living.jpg",
+    "audio_src": "6me/2008/2008-08/2008-08-13 - 6 Minute English - Cost of living.mp3",
+    "title": "BBC 6 Minute English podcast - Cost of living [Стоимость проживания], 2008-08-13",
+
+    "words_arr": [
+      {"en_word": "the expenditure", "ru_word": "расход"},
+      {"en_word": "the accomodation ", "ru_word": "жилье"},
+      {"en_word": "the fuel ", "ru_word": "топливо "},
+      {"en_word": "to hand over", "ru_word": "протягивать(рукой), передавать"},
+      {"en_word": "to figure out", "ru_word": "выяснять, вычислять"},
+      {"en_word": "the expenses", "ru_word": "расходы"},
+      {"en_word": "the luxury", "ru_word": "роскошь"},
+      {"en_word": "occasional", "ru_word": "случайный"},
+      {"en_word": "the budget", "ru_word": "бюджет"},
+      {"en_word": "to afford", "ru_word": "позволять себе"},
+      {"en_word": "the necessities", "ru_word": "необходимости"},
+      {"en_word": "to set aside", "ru_word": "откладывать"},
+      {"en_word": "to set out", "ru_word": "выставлять, излагать"},
+      {"en_word": "according to ", "ru_word": "в соответствие с "},
+      {"en_word": "expensive ", "ru_word": "дорогой"},
+      {"en_word": "to carry out ", "ru_word": "проводить"},
+      {"en_word": "the foundation ", "ru_word": "фонд "},
+      {"en_word": "ordinary", "ru_word": "обычный"},
+      {"en_word": "the shelter", "ru_word": "дом, пристанище"},
+      {"en_word": "to participate ", "ru_word": "участвовать "},
+      {"en_word": "to examine", "ru_word": "рассматривать"},
+      {"en_word": "essential", "ru_word": "основной, значительный"},
+      {"en_word": "fairly ", "ru_word": "довольно таки"},
+      {"en_word": "the household", "ru_word": "домашнее хоз-во"},
+      {"en_word": "to regard", "ru_word": "рассматривать"},
+      {"en_word": "in tune ", "ru_word": "в тон"},
+      {"en_word": "the holiday", "ru_word": "отпуск, праздник"}
+    ]
+  }
+}
